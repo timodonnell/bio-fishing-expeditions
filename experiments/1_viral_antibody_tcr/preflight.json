@@ -1,0 +1,33 @@
+{
+  "observed_date": "2026-11-12",
+  "scope": "Planning-time local resource and active-PATH inventory; no sequence search",
+  "working_directory": "/home/bizon/git/bio-fishing-expeditions",
+  "branch": "main",
+  "initial_commit": "8f644862cb519020b8b1299341b68d69ab30b1c4",
+  "logical_cpu_count": 64,
+  "memory_total_kib": 528002280,
+  "memory_available_kib": 513550948,
+  "disk_available_gib_rounded": 169.4,
+  "dedicated_resource_allocation": false,
+  "active_path_tools": {
+    "python3": "/home/bizon/anaconda3/bin/python3",
+    "gh": "/usr/bin/gh",
+    "uv": "/home/bizon/.local/bin/uv",
+    "conda": "/home/bizon/anaconda3/bin/conda",
+    "blastp": null,
+    "tblastn": null,
+    "hmmsearch": null,
+    "mmseqs": null,
+    "diamond": null,
+    "igblastn": null,
+    "datasets": null,
+    "checkv": null,
+    "genomad": null
+  },
+  "null_tool_meaning": "Not found on the active PATH; other installed environments were not searched",
+  "sequence_databases_downloaded": false,
+  "sequence_screens_run": false,
+  "metavr_browsing_home_status": 403,
+  "metavr_browsing_api_tutorial_status": 403,
+  "metavr_direct_api_or_bulk_access_tested": false
+}

@@ -1,0 +1,18 @@
+source_id	kind	title	url	use	inspection_date
+S01	primary_paper	Phage antibodies: filamentous phage displaying antibody variable domains	https://www.nature.com/articles/348552a0	Engineered antibody display precedent; abstract inspected; control sequence pending	2026-11-12
+S02	primary_paper	A phage display system for detection of T cell receptor-antigen interactions	https://pubmed.ncbi.nlm.nih.gov/8643108/	Engineered TCR alpha display precedent; carrier sequence provenance pending	2026-11-12
+S03	primary_paper	Generation of Neutralizing Activity against Human Immunodeficiency Virus Type 1 in Serum by Antibody Gene Transfer	https://pmc.ncbi.nlm.nih.gov/articles/PMC136414/	Engineered recombinant AAV antibody gene delivery	2026-11-12
+S04	primary_paper	Ig-Like Domains on Bacteriophages: A Tale of Promiscuity and Deceit	https://doi.org/10.1016/j.jmb.2006.03.043	Generic Ig-like phage domain confounder	2026-11-12
+S05	primary_paper	Functional Analysis of the Highly Antigenic Outer Capsid Protein, Hoc, a Virus Decoration Protein from T4-like Bacteriophages	https://pmc.ncbi.nlm.nih.gov/articles/PMC2909354/	Hoc as a hard-negative family	2026-11-12
+S06	primary_paper	Human immunoglobulins are transported to HCMV viral envelope by viral Fc gamma receptors-dependent and independent mechanisms	https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.1106401/full	Protein association versus gene incorporation	2026-11-12
+S07	official_documentation	Download a virus genome data package	https://www.ncbi.nlm.nih.gov/datasets/docs/v2/how-tos/virus/virus-download/	NCBI genome/protein/CDS/metadata acquisition	2026-11-12
+S08	official_repository	INPHARED README	https://github.com/RyanCook94/inphared/blob/main/README.md	Dedicated phage corpus; observed 14Apr2025 data links	2026-11-12
+S09	primary_paper	Meta-virus resource (MetaVR): expanding the frontiers of viral diversity with 24 million uncultivated virus genomes	https://pubmed.ncbi.nlm.nih.gov/41312645/	Preferred broad viral corpus; DOI 10.1093/nar/gkaf1283	2026-11-12
+S10	primary_paper	IMG/VR v4: an expanded database of uncultivated virus genomes within a framework of extensive functional, taxonomic, and ecological metadata	https://pmc.ncbi.nlm.nih.gov/articles/PMC9825611/	Older broad catalog and fallback; DOI 10.1093/nar/gkac1037	2026-11-12
+S11	primary_paper	Massive expansion of human gut bacteriophage diversity	https://pmc.ncbi.nlm.nih.gov/articles/PMC7895897/	Gut Phage Database and study provenance	2026-11-12
+S12	primary_paper	Metagenomic compendium of 189,680 DNA viruses from the human gut microbiome	https://pmc.ncbi.nlm.nih.gov/articles/PMC8241571/	MGV catalog and original read provenance	2026-11-12
+S13	primary_paper	Marine DNA viral macro- and micro-diversity from pole to pole	https://pmc.ncbi.nlm.nih.gov/articles/PMC6525058/	GOV2 environmental coverage	2026-11-12
+S14	official_documentation	NCBI IgBLAST Documentation	https://ncbi.github.io/igblast/	Receptor/germline annotation and reference acquisition	2026-11-12
+S15	primary_paper	CheckV assesses the quality and completeness of metagenome-assembled viral genomes	https://www.nature.com/articles/s41587-020-00774-7	Proviral boundary and host-contamination checks	2026-11-12
+S16	primary_paper	Identification of mobile genetic elements with geNomad	https://pmc.ncbi.nlm.nih.gov/articles/PMC11324519/	Independent viral-context and proviral-boundary assessment	2026-11-12
+S17	official_documentation	MGnify file server documentation	https://docs.mgnify.org/src/docs/ftp.html	Optional metagenomic rescue source; specific study selection pending	2026-11-12
