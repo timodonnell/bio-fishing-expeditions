@@ -1,7 +1,9 @@
 # Have viruses acquired antibody or TCR genes?
 
-Issue: [#1](https://github.com/timodonnell/bio-fishing-expeditions/issues/1)  
-Plan date: 2026-11-12  
+Issue: [#1](https://github.com/timodonnell/bio-fishing-expeditions/issues/1)
+
+Plan date: 2026-11-12
+
 Status: **plan and literature preflight complete; no sequence database screen has been run.**
 
 The primary question is whether a naturally occurring virus, including a bacteriophage, has acquired sequence derived specifically from an antibody/immunoglobulin or T-cell receptor gene. We will also report engineered examples, distinguish gene fragments from complete chains/receptors, and assess whether a candidate is genuinely part of a viral genome.
@@ -28,4 +30,3 @@ Engineered antibody and TCR phage-display precedents are already documented. Tho
 - [ ] Adjudicate candidates and write the final evidence-based answer.
 
 The next executable milestone is a calibrated pilot using a diverse antibody/TCR reference panel, hard negative controls, and a stratified subset of NCBI viral genomes. The experiment remains open until its sequence searches and candidate adjudication are complete.
-

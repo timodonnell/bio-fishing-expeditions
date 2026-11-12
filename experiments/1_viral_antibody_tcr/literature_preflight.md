@@ -25,4 +25,3 @@ Direct browsing of MetaVR's home page and API tutorial returned HTTP 403. Severa
 ## Current answer
 
 There are documented engineered antibody/TCR display and antibody viral-vector precedents, as well as natural viral Ig-like proteins and protein-only antibody association. **Whether a natural viral genome has acquired sequence specifically derived from an antibody or TCR remains unresolved by this experiment.** The planned sequence search and provenance checks address that narrower question.
-
