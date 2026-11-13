@@ -1,0 +1,2 @@
+query	target	sequence_E	sequence_score	domain_iE	domain_score	bias	ali_from	ali_to	hmm_from	hmm_to	target_length	model_length	hmm_alignment	target_alignment
+IGH_C	IMGVR_UViG_3300055294_003398|Ga0554530_0084896|Ga0554530_0084896_520_1602|scan_record=000052948964	0.006649907180284316	22.539512634277344	0.006649907180284316	22.539512634277344	0.4892691868689954	170	245	18	90	360	97	svtLtClvtgfs....p.edvtvtWesgekssteenfpetqpangtysvvsqltvpasdwnsgktftCkvthesslns	LNTLTCVAKAFRggvqDtDNLTYTWEKFDIASAKWVAVATDK-VSTASGVSTLTVSMDDVLDFQTFRCTVQDTA-DNQ

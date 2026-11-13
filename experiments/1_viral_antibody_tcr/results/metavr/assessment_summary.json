@@ -1,0 +1,36 @@
+{
+  "completed_utc": "2026-11-13T22:00:41.702428+00:00",
+  "assessments": {
+    "host_mouse_Iglc4_locus": 1,
+    "competing_CD300_family": 1,
+    "unresolved_environmental_IgV_like": 9,
+    "competing_MHC_family": 14,
+    "host_human_IGH_locus_supported": 1
+  },
+  "by_tier": {
+    "main": {
+      "host_mouse_Iglc4_locus": 1,
+      "unresolved_environmental_IgV_like": 3,
+      "competing_MHC_family": 10,
+      "host_human_IGH_locus_supported": 1
+    },
+    "rescue": {
+      "competing_CD300_family": 1,
+      "unresolved_environmental_IgV_like": 6,
+      "competing_MHC_family": 4
+    }
+  },
+  "unresolved_environmental_records": 9,
+  "unresolved_exact_distinct_sequences": 7,
+  "unresolved_with_high_viral_confidence": 1,
+  "unresolved_with_viral_hallmark": 1,
+  "candidate_records_with_exact_prior_corpus_matches": 8,
+  "new_supported_natural_antibody_captures": 0,
+  "new_supported_natural_TCR_captures": 0,
+  "candidate_table_sha256": "fda6387746575b4ad89a03cde12ad7a00aa583286e3daa2372ba62527a36affc",
+  "prior_corpus_inputs": {
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/refseq/all_proteins.faa": "2d54c57b4149ded18b8627b22e95925389ceb91642785943a71dbe73e21e4dfc",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/inphared/vConTACT2_proteins.faa": "6a8618c902e12651f83bab24a12c720becb929d04f1e2134f92983792a3566ea"
+  },
+  "scope": "Triage only. Exact overlap is measured for the 26 retained candidates, not across all MetaVR records. Unresolved candidates remain open."
+}

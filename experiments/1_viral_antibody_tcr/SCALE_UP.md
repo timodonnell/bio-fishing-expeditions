@@ -18,7 +18,17 @@ This is an exploratory protein-profile expansion. It cannot detect an uncalled O
 
 Stop on source identity changes, checksum/parser failures, resource limits, or failed positive-control/equivalence checks. Save the last valid checkpoint and diagnose before continuing. Do not silently skip corrupt records. Interrupted downloads or searches must be reported as incomplete.
 
-## Executed so far
+## State when this plan was written
 
 - Rechecked the archive's HTTP headers and retrieved an 8 MiB range; the server returned the exact requested range with the same ETag. BGZF content contains protein FASTA records with source UViG identifiers in their headers.
 - No full MetaVR search has completed at plan creation. Results and actual coverage will be recorded separately.
+
+## Completed execution
+
+The archive acquisition and all 411 search shards completed on 2026-11-13: **369,319,989 proteins**, 82,096,374,322 residues, and 24,429,973 source-genome identifiers. Final-size calibration, artifact validation, candidate-specific comparisons, all 26 candidate assembly mappings, and 27 neighboring proteins around the strongest viral-context lead were checked. See [SCALE_UP_RESULTS.md](SCALE_UP_RESULTS.md) for findings, exact counts, and remaining work. The two optional remote NCBI requests are pending and are not part of the completed evidence.
+
+## Execution amendments
+
+- The archive contains repeated protein identifiers. The first run stopped at this check; the revised scanner assigns every record a stable ordinal and preserves all occurrences. Duplicate names are not treated as independent discoveries. The interrupted attempt is retained separately and contributes no additional coverage.
+- Bulk searches remain capped at 16 threads. Brief candidate-specific alignments may use one additional thread while the bulk scan runs (17 search threads maximum); this lets provenance checks proceed on the 64-CPU host without waiting for the full scan.
+- Two published structural constructs (one camelid VHH and one shark VNAR) supplement the held-out controls. They are retrieval spot checks, not natural viral-carrier positives or a complete family/divergence panel. Training and profiles remain frozen.

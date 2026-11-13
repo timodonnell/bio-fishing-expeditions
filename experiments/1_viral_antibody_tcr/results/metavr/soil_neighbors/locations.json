@@ -1,0 +1,569 @@
+[
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_10268_10822",
+    "length": 184,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_10268_10822",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_10268_10822",
+      "virtual_offset": 955636868362018,
+      "sequence_length": 184,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 10271,
+        "end_inclusive": 10822,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1071_1451",
+    "length": 126,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1071_1451",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1071_1451",
+      "virtual_offset": 955636868362282,
+      "sequence_length": 126,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 1071,
+        "end_inclusive": 1448,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_10837_11280",
+    "length": 147,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_10837_11280",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_10837_11280",
+      "virtual_offset": 955636868362489,
+      "sequence_length": 147,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 10840,
+        "end_inclusive": 11280,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_11297_11590",
+    "length": 97,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_11297_11590",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_11297_11590",
+      "virtual_offset": 955636868362717,
+      "sequence_length": 97,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 11300,
+        "end_inclusive": 11590,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_11724_12971",
+    "length": 415,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_11724_12971",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_11724_12971",
+      "virtual_offset": 955636868362894,
+      "sequence_length": 415,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 11724,
+        "end_inclusive": 12968,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_12989_13516",
+    "length": 175,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_12989_13516",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_12989_13516",
+      "virtual_offset": 955636868363547,
+      "sequence_length": 175,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 12989,
+        "end_inclusive": 13513,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_13768_14124",
+    "length": 118,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_13768_14124",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_13768_14124",
+      "virtual_offset": 955636868363803,
+      "sequence_length": 118,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 13771,
+        "end_inclusive": 14124,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14195_14554",
+    "length": 119,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14195_14554",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14195_14554",
+      "virtual_offset": 955636868364001,
+      "sequence_length": 119,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 14195,
+        "end_inclusive": 14551,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14604_15686",
+    "length": 360,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14604_15686",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14604_15686",
+      "virtual_offset": 955636868364200,
+      "sequence_length": 360,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 14604,
+        "end_inclusive": 15683,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1528_1884",
+    "length": 118,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1528_1884",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1528_1884",
+      "virtual_offset": 955636868364642,
+      "sequence_length": 118,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 1531,
+        "end_inclusive": 1884,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_154_600",
+    "length": 148,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_154_600",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_154_600",
+      "virtual_offset": 955636868364836,
+      "sequence_length": 148,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 157,
+        "end_inclusive": 600,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_15715_16191",
+    "length": 158,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_15715_16191",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_15715_16191",
+      "virtual_offset": 955636868365065,
+      "sequence_length": 158,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 15715,
+        "end_inclusive": 16188,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_16168_16908",
+    "length": 246,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_16168_16908",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_16168_16908",
+      "virtual_offset": 955636868365304,
+      "sequence_length": 246,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 16171,
+        "end_inclusive": 16908,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_17133_17618",
+    "length": 161,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_17133_17618",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_17133_17618",
+      "virtual_offset": 955636868365633,
+      "sequence_length": 161,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 17136,
+        "end_inclusive": 17618,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1874_2209",
+    "length": 111,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1874_2209",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1874_2209",
+      "virtual_offset": 955636868365873,
+      "sequence_length": 111,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 1877,
+        "end_inclusive": 2209,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1_240",
+    "length": 79,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1_240",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1_240",
+      "virtual_offset": 955636868363388,
+      "sequence_length": 79,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 1,
+        "end_inclusive": 237,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_2221_2619",
+    "length": 132,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_2221_2619",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_2221_2619",
+      "virtual_offset": 955636868366062,
+      "sequence_length": 132,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 2224,
+        "end_inclusive": 2619,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_2650_3984",
+    "length": 444,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_2650_3984",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_2650_3984",
+      "virtual_offset": 955636868366273,
+      "sequence_length": 444,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 2653,
+        "end_inclusive": 3984,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_3993_4151",
+    "length": 52,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_3993_4151",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_3993_4151",
+      "virtual_offset": 955636868366801,
+      "sequence_length": 52,
+      "line_bases": 52,
+      "line_width": 53
+    },
+    "locations": [
+      {
+        "start_1based": 3993,
+        "end_inclusive": 4148,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_4264_4896",
+    "length": 210,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_4264_4896",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_4264_4896",
+      "virtual_offset": 955636868366930,
+      "sequence_length": 210,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 4264,
+        "end_inclusive": 4893,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_5214_6548",
+    "length": 444,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_5214_6548",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_5214_6548",
+      "virtual_offset": 955636868367220,
+      "sequence_length": 444,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 5217,
+        "end_inclusive": 6548,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_6570_7346",
+    "length": 258,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_6570_7346",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_6570_7346",
+      "virtual_offset": 955636868367748,
+      "sequence_length": 258,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 6573,
+        "end_inclusive": 7346,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_663_1037",
+    "length": 124,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_663_1037",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_663_1037",
+      "virtual_offset": 955636868368086,
+      "sequence_length": 124,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 663,
+        "end_inclusive": 1034,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_7291_7626",
+    "length": 111,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_7291_7626",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_7291_7626",
+      "virtual_offset": 955636868368289,
+      "sequence_length": 111,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 7294,
+        "end_inclusive": 7626,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_7780_9000",
+    "length": 406,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_7780_9000",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_7780_9000",
+      "virtual_offset": 955636868368478,
+      "sequence_length": 406,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 7780,
+        "end_inclusive": 8997,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_9041_9802",
+    "length": 253,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_9041_9802",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_9041_9802",
+      "virtual_offset": 955636868368967,
+      "sequence_length": 253,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 9041,
+        "end_inclusive": 9799,
+        "strand": 1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  },
+  {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_9863_10249",
+    "length": 128,
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_9863_10249",
+      "header": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_9863_10249",
+      "virtual_offset": 955636868369302,
+      "sequence_length": 128,
+      "line_bases": 60,
+      "line_width": 61
+    },
+    "locations": [
+      {
+        "start_1based": 9866,
+        "end_inclusive": 10249,
+        "strand": -1,
+        "genetic_code": 11,
+        "match": "exact protein; initiator Met rule allowed"
+      }
+    ]
+  }
+]

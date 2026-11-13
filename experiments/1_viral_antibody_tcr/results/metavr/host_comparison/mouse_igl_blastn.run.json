@@ -1,0 +1,71 @@
+{
+  "started_utc": "2026-11-13T21:44:19.551409+00:00",
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/search.py",
+    "blastn",
+    "experiments/1_viral_antibody_tcr/results/metavr/context/IMGVR_UViG_3300051405_000263.fna",
+    "experiments/1_viral_antibody_tcr/data/raw/candidates/GRCm39_chr16_18850000_19050000.fna",
+    "experiments/1_viral_antibody_tcr/results/metavr/host_comparison/mouse_igl_blastn.tsv",
+    "--cpus",
+    "1"
+  ],
+  "git_commit": "534e47f0ed7ccdf143b06d8e1c6fb6ef67cc8626",
+  "script_sha256": "80c54871c418e5d79c701e9407d2118558ed0a36b5bde76abbeb88780c5f8bb8",
+  "inputs": {
+    "experiments/1_viral_antibody_tcr/results/metavr/context/IMGVR_UViG_3300051405_000263.fna": "67ad92718722c9c343a45035d41104d5b57a2c085938b462368f5c88c7b2c0d4",
+    "experiments/1_viral_antibody_tcr/data/raw/candidates/GRCm39_chr16_18850000_19050000.fna": "c419ac7493ea19c545ee746053df180a51a0de993c2feb69214572605eba1325"
+  },
+  "method": "blastn",
+  "threads": 1,
+  "status": "complete",
+  "search_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/blastn",
+    "-query",
+    "experiments/1_viral_antibody_tcr/results/metavr/context/IMGVR_UViG_3300051405_000263.fna",
+    "-db",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/c419ac7493ea19c5_nt",
+    "-evalue",
+    "0.01",
+    "-num_threads",
+    "1",
+    "-max_target_seqs",
+    "1000000",
+    "-outfmt",
+    "6 qseqid sseqid pident length qstart qend sstart send evalue bitscore qlen slen qcovhsp",
+    "-out",
+    "experiments/1_viral_antibody_tcr/results/metavr/host_comparison/mouse_igl_blastn.tsv"
+  ],
+  "index_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/makeblastdb",
+    "-in",
+    "experiments/1_viral_antibody_tcr/data/raw/candidates/GRCm39_chr16_18850000_19050000.fna",
+    "-dbtype",
+    "nucl",
+    "-out",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/c419ac7493ea19c5_nt"
+  ],
+  "version": "blastn: 2.12.0+\n Package: blast 2.12.0, build Jul 13 2021 09:03:00\n",
+  "binary_sha256": "34f38f96fedf9a3528d3a3e83f1accd2732761cab45828f5ef530a068e96bdf3",
+  "columns": [
+    "qseqid",
+    "sseqid",
+    "pident",
+    "length",
+    "qstart",
+    "qend",
+    "sstart",
+    "send",
+    "evalue",
+    "bitscore",
+    "qlen",
+    "slen",
+    "qcovhsp"
+  ],
+  "exit_status": 0,
+  "output_sha256": "65e333fc6e298aa632754e220b1da2d3fb315e32de61fd7a8af31239fe009069",
+  "finished_utc": "2026-11-13T21:44:19.680190+00:00",
+  "seconds": 0.12880105711519718,
+  "process_maxrss_kib": 51056,
+  "children_maxrss_kib": 51860
+}

@@ -796,5 +796,236 @@
     "bytes": 715390,
     "sha256": "ca182faf53ca8cc8c0995b643f0270f8f2ff83cdbd55b25120dd4645544b3061",
     "finished_utc": "2026-11-13T18:25:41.859852+00:00"
+  },
+  "scale_PDB_1MVF_entry": {
+    "id": "scale_PDB_1MVF_entry",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/1MVF",
+    "path": "data/raw/references/1MVF_entry.json",
+    "max_bytes": 1000000,
+    "started_utc": "2026-11-13T21:35:03.340344+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://data.rcsb.org/rest/v1/core/entry/1MVF",
+    "headers": {
+      "Content-Length": null,
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 11394,
+    "sha256": "6d8357ddc0929167988942d46e658969982de85e351c0eba265eb90fb5dee7cf",
+    "finished_utc": "2026-11-13T21:35:03.623315+00:00"
+  },
+  "scale_PDB_1MVF_VHH": {
+    "id": "scale_PDB_1MVF_VHH",
+    "url": "https://data.rcsb.org/rest/v1/core/polymer_entity/1MVF/1",
+    "path": "data/raw/references/1MVF_entity1.json",
+    "max_bytes": 1000000,
+    "started_utc": "2026-11-13T21:35:03.626904+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://data.rcsb.org/rest/v1/core/polymer_entity/1MVF/1",
+    "headers": {
+      "Content-Length": null,
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 15181,
+    "sha256": "ca9f3ab43de81a541e14463ad9e8e6a372f1a8f9f68606e7aa133db2303009ee",
+    "finished_utc": "2026-11-13T21:35:03.913161+00:00"
+  },
+  "scale_PDB_1T6V_entry": {
+    "id": "scale_PDB_1T6V_entry",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/1T6V",
+    "path": "data/raw/references/1T6V_entry.json",
+    "max_bytes": 1000000,
+    "started_utc": "2026-11-13T21:35:03.917493+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://data.rcsb.org/rest/v1/core/entry/1T6V",
+    "headers": {
+      "Content-Length": null,
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 15348,
+    "sha256": "e3fabc3092cef55cba2b47a971181f7135bad01347006faa79e21e1b4076fd78",
+    "finished_utc": "2026-11-13T21:35:04.172228+00:00"
+  },
+  "scale_PDB_1T6V_VNAR": {
+    "id": "scale_PDB_1T6V_VNAR",
+    "url": "https://data.rcsb.org/rest/v1/core/polymer_entity/1T6V/2",
+    "path": "data/raw/references/1T6V_entity2.json",
+    "max_bytes": 1000000,
+    "started_utc": "2026-11-13T21:35:04.176403+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://data.rcsb.org/rest/v1/core/polymer_entity/1T6V/2",
+    "headers": {
+      "Content-Length": null,
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 16146,
+    "sha256": "2ebeb74f3f0bb32cdf32b83b267c8c5fed06d11d4a635150a0f30ac84eafcad9",
+    "finished_utc": "2026-11-13T21:35:04.461933+00:00"
+  },
+  "metavr_IMG_full_metadata": {
+    "id": "metavr_IMG_full_metadata",
+    "url": "https://portal.nersc.gov/cfs/m342/METAVR/IMG_full_metadata.tsv.gz",
+    "path": "data/raw/metavr/IMG_full_metadata.tsv.gz",
+    "max_bytes": 20000000,
+    "started_utc": "2026-11-13T21:40:57.309215+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://portal.nersc.gov/cfs/m342/METAVR/IMG_full_metadata.tsv.gz",
+    "headers": {
+      "Content-Length": "16528505",
+      "Content-Type": "application/x-gzip",
+      "Last-Modified": "Wed, 24 Jun 2026 15:28:17 GMT",
+      "ETag": "\"fc3479-6550186504640\"",
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 16528505,
+    "sha256": "5f8dc47ee37abba3b7973b381f6cae37ec316c3a06ae94827029ae7e147c0bec",
+    "finished_utc": "2026-11-13T21:41:04.155294+00:00"
+  },
+  "mouse_Iglc1_lookup": {
+    "id": "mouse_Iglc1_lookup",
+    "url": "https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc1?content-type=application/json",
+    "path": "data/raw/candidates/Iglc1_ensembl_lookup.json",
+    "max_bytes": 100000,
+    "started_utc": "2026-11-13T21:43:19.114156+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc1?content-type=application/json",
+    "headers": {
+      "Content-Length": "429",
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 429,
+    "sha256": "1dd8171f5fbf77bb4777db560f2ee37cd58d720601cc589000f91d2d499a3503",
+    "finished_utc": "2026-11-13T21:43:27.271056+00:00"
+  },
+  "mouse_Iglc2_lookup": {
+    "id": "mouse_Iglc2_lookup",
+    "url": "https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc2?content-type=application/json",
+    "path": "data/raw/candidates/Iglc2_ensembl_lookup.json",
+    "max_bytes": 100000,
+    "started_utc": "2026-11-13T21:43:27.274029+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc2?content-type=application/json",
+    "headers": {
+      "Content-Length": "445",
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 445,
+    "sha256": "ee1d10010e0626a9fdebd129b43662c023b236b651316bcd504a97c951d262e9",
+    "finished_utc": "2026-11-13T21:43:28.441539+00:00"
+  },
+  "mouse_Iglc3_lookup": {
+    "id": "mouse_Iglc3_lookup",
+    "url": "https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc3?content-type=application/json",
+    "path": "data/raw/candidates/Iglc3_ensembl_lookup.json",
+    "max_bytes": 100000,
+    "started_utc": "2026-11-13T21:43:28.444906+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc3?content-type=application/json",
+    "headers": {
+      "Content-Length": "429",
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 429,
+    "sha256": "3a95ff0fe28010abb6154543c404886b61ad4ef9deffc757fdfad75cd78f3475",
+    "finished_utc": "2026-11-13T21:43:35.323035+00:00"
+  },
+  "mouse_GRCm39_Igl_region": {
+    "id": "mouse_GRCm39_Igl_region",
+    "url": "https://rest.ensembl.org/sequence/region/mus_musculus/16:18850000..19050000:1?coord_system_version=GRCm39&content-type=text/x-fasta",
+    "path": "data/raw/candidates/GRCm39_chr16_18850000_19050000.fna",
+    "max_bytes": 250000,
+    "started_utc": "2026-11-13T21:43:35.326219+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://rest.ensembl.org/sequence/region/mus_musculus/16:18850000..19050000:1?coord_system_version=GRCm39&content-type=text/x-fasta",
+    "headers": {
+      "Content-Length": "203377",
+      "Content-Type": "text/x-fasta; charset=UTF-8",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 203377,
+    "sha256": "c419ac7493ea19c545ee746053df180a51a0de993c2feb69214572605eba1325",
+    "finished_utc": "2026-11-13T21:43:40.706450+00:00"
+  },
+  "mouse_candidate_overlap": {
+    "id": "mouse_candidate_overlap",
+    "url": "https://rest.ensembl.org/overlap/region/mus_musculus/16:19008356-19026816?feature=gene&content-type=application/json",
+    "path": "data/raw/candidates/mouse_candidate_overlap.json",
+    "max_bytes": 100000,
+    "started_utc": "2026-11-13T21:49:09.947065+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://rest.ensembl.org/overlap/region/mus_musculus/16:19008356-19026816?feature=gene&content-type=application/json",
+    "headers": {
+      "Content-Length": "1705",
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 1705,
+    "sha256": "1d349a633129e23c3b3617fb50a178e417a31152adae03e5bf0bbd2a72bf1acb",
+    "finished_utc": "2026-11-13T21:49:10.729758+00:00"
+  },
+  "human_hg38_IGH_region": {
+    "id": "human_hg38_IGH_region",
+    "url": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38&chrom=chr14&start=105500000&end=107000000",
+    "path": "data/raw/candidates/hg38_chr14_105500000_107000000.json",
+    "max_bytes": 1600000,
+    "started_utc": "2026-11-13T21:51:45.170921+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38&chrom=chr14&start=105500000&end=107000000",
+    "headers": {
+      "Content-Length": null,
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": null,
+      "X-UniProt-Release-Date": null
+    },
+    "bytes": 1500160,
+    "sha256": "e15238b95c2044ddb850a1a184754357cb0591a1707ed8c006c9a538bbf2d24c",
+    "finished_utc": "2026-11-13T21:51:51.480980+00:00"
   }
 }

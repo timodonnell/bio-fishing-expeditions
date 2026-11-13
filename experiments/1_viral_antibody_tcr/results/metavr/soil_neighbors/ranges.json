@@ -1,0 +1,59 @@
+{
+  "sources": {
+    "protein_index": {
+      "url": "https://portal.nersc.gov/cfs/m342/METAVR/METAVR.faa.bgz.ffx",
+      "bytes": 4042159286,
+      "etag": "\"f0ee74b6-659fa44e7c540\"",
+      "response_headers": {
+        "Date": "Fri, 13 Nov 2026 21:58:59 GMT",
+        "Content-Length": "4042159286",
+        "Connection": "keep-alive",
+        "Last-Modified": "Wed, 26 Aug 2026 21:54:53 GMT",
+        "ETag": "\"f0ee74b6-659fa44e7c540\"",
+        "Accept-Ranges": "bytes",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15724800; includeSubDomains"
+      }
+    }
+  },
+  "ranges": {
+    "protein_index:0_80.bin": {
+      "offset": 0,
+      "bytes": 80,
+      "sha256": "275d62355a1dd864b447c3ff455a756813ea34f736619b897eb936a8856aa6d6",
+      "path": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/remote_ranges/protein_index/0_80.bin",
+      "retrieved_utc": "2026-11-13T21:59:00.201403+00:00"
+    },
+    "protein_index:4030793504_11365782.bin": {
+      "offset": 4030793504,
+      "bytes": 11365782,
+      "sha256": "4453786d6fa55961812ae97117df6ec9719948cfa20be8645808d9f492fd20c5",
+      "path": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/remote_ranges/protein_index/4030793504_11365782.bin",
+      "retrieved_utc": "2026-11-13T21:59:01.560929+00:00"
+    },
+    "protein_index:3508838683_40986.bin": {
+      "offset": 3508838683,
+      "bytes": 40986,
+      "sha256": "dc9f8fc76fe5447b47e3e01615a24928935e50b71d4671fdde6e9f9cc0ce10bd",
+      "path": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/remote_ranges/protein_index/3508838683_40986.bin",
+      "retrieved_utc": "2026-11-13T21:59:02.221836+00:00"
+    }
+  },
+  "status": "complete",
+  "completed_utc": "2026-11-13T21:59:02.513443+00:00",
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/extract_metavr_neighbors.py",
+    "IMGVR_UViG_3300079393_000044",
+    "experiments/1_viral_antibody_tcr/results/metavr/soil_neighbors"
+  ],
+  "script_sha256": "2aa3f294b9aafee8fc04356d1ca740b905e78fb399846b5ef8502a92791ba1bb",
+  "genome": "IMGVR_UViG_3300079393_000044",
+  "proteins": 27,
+  "protein_index_record_count": 369319989,
+  "archive_sha256": "30ac6f74eceae3490ddd26e169d63efe66c1ae410775890ab029653afad49a8d",
+  "genome_sha256": "9b57a4135ca75a25bbf19c93381c5c5d508c4c81218570709c92e9d467c63704",
+  "protein_fasta_sha256": "ef7bf7be1841d5a105838520372eb14b697fa698072a5e11b0878f22958d9436",
+  "locations_sha256": "c555537184c11af73768554c557fa148a32ec6210aa0986560f27f99c9cca788"
+}

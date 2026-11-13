@@ -1,0 +1,73 @@
+{
+  "shard": 8,
+  "start_virtual_offset": 62249559616130,
+  "fasta_sha256": "102fef8358ca64354c3a653db393c86fc6ee8659665ecc1f824c3d80960a6bac",
+  "duplicate_occurrences": 13,
+  "examples": [
+    {
+      "id": "IMGVR_UViG_3300041475_000001|Ga0451819_041287|Ga0451819_041287_4252_4782",
+      "length": 176,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000002|Ga0451819_059666|Ga0451819_059666_929_1228",
+      "length": 99,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000006|Ga0451819_233128|Ga0451819_233128_3_3311",
+      "length": 1103,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000006|Ga0451819_233128|Ga0451819_233128_3410_4348",
+      "length": 312,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000007|Ga0451819_347012|Ga0451819_347012_640_735",
+      "length": 31,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000008|Ga0451819_426574|Ga0451819_426574_445_1509",
+      "length": 354,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000009|Ga0451819_539243|Ga0451819_539243_2001_2189",
+      "length": 62,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000009|Ga0451819_539243|Ga0451819_539243_717_1322",
+      "length": 201,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000001|Ga0451819_041287|Ga0451819_041287_709_1632",
+      "length": 307,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000001|Ga0451819_041287|Ga0451819_041287_8_565",
+      "length": 185,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000002|Ga0451819_059666|Ga0451819_059666_2630_3133",
+      "length": 167,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000003|Ga0451819_117328|Ga0451819_117328_960_2204",
+      "length": 414,
+      "same_sequence": true
+    },
+    {
+      "id": "IMGVR_UViG_3300041475_000007|Ga0451819_347012|Ga0451819_347012_1486_3192",
+      "length": 568,
+      "same_sequence": true
+    }
+  ]
+}

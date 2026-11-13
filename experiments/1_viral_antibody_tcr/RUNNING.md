@@ -18,7 +18,7 @@ The original environment was populated with `uv pip`, using the same lock. The l
 python "$EXP/scripts/acquire.py" "$EXP/config/acquisition_pinned.json"
 ```
 
-The INPHARED host was slow for single-stream downloads. `acquire_ranges.py` used eight workers, 4 MiB ranges, `If-Match`, exact `Content-Range` checks, and a final checksum. Initial single-stream work was resumed only against the observed ETag. No full MetaVR download was started.
+The INPHARED host was slow for single-stream downloads. `acquire_ranges.py` used eight workers, 4 MiB ranges, `If-Match`, exact `Content-Range` checks, and a final checksum. Initial single-stream work was resumed only against the observed ETag. The full MetaVR download uses the separate resumable procedure below.
 
 ## Preparation and searches
 
@@ -49,7 +49,7 @@ The script SHA in each search manifest is the source used for that search; `scri
 
 `validate_results.py` rehashes completed downloads and all search inputs/outputs, verifies frozen reference copies, and checks the known-positive and five annotation-only CDS validations. The positive-validation script checks the actual FeLV CDS translation. Full search target hashes were checked against completed preparation outputs.
 
-The planned full calibration gate remains incomplete. Alternative genetic codes, BLASTN germline screening, dedicated splice/frameshift rescue, raw-read analysis, and phylogeny are future work. Unresolved candidates and incomplete corpora are recorded in `RESULTS.md`; no script automatically calls a novel natural acquisition.
+The planned full calibration gate remains incomplete. Corpus-wide alternative genetic codes, BLASTN germline screening, dedicated splice/frameshift rescue, raw-read analysis, and phylogeny are future work. MetaVR candidate mapping uses deposited genetic codes, but this is not a whole-corpus alternative-code screen. Unresolved candidates and incomplete corpora are recorded in `RESULTS.md` and `SCALE_UP_RESULTS.md`; no script automatically calls a novel natural acquisition.
 
 ## MetaVR scale-up
 
@@ -57,6 +57,7 @@ The [scale-up plan](SCALE_UP.md) extends the same issue. Install the optional in
 
 ```bash
 EXP=experiments/1_viral_antibody_tcr
+"$EXP/work/venv/bin/pip" install --require-hashes -r "$EXP/requirements-scale.lock"
 "$EXP/work/venv/bin/python" "$EXP/scripts/acquire_large.py" "$EXP/config/metavr_scale.json"
 "$EXP/work/venv/bin/python" "$EXP/scripts/scan_bgzf.py" \
   "$EXP/data/raw/metavr/METAVR.faa.bgz" "$EXP/results/metavr" \
@@ -70,3 +71,45 @@ Shard E-values use reference `Z=1,000,000`; final sequence and independent-domai
 `test_scale_pipeline.py` compares a multi-shard resumed scan against an unsharded scan and the original scanner at `Z=1,000,000,000`, tests a record crossing BGZF blocks, rejects a damaged checkpoint, and checks the natural FeLV positive. `test_large_download.py` injects a download interruption, corrupts a previously completed range, and checks exact recovery and source-change rejection. Their validation reports are under `results/`.
 
 `metavr_context.py <candidate.faa> <output-directory>` retrieves candidate assemblies through the pinned nucleotide `.ffx` index and HTTP byte ranges, without acquiring the full nucleotide archive. It validates index layout, compressed-block checksums, sequence length/alphabet, and agreement with MetaVR metadata. Candidate-to-genome mapping searches for the exact translated protein using the deposited genetic code, allowing the usual initiating-methionine rule. Failure to map is retained as an unresolved provenance problem. This candidate-specific check is not a whole-corpus translated-DNA screen. The small `metavr_retrieval_control` artifact tests the route on an ordinary MetaVR protein, not on an antibody/TCR positive.
+
+The final scan completed at 369,319,989 protein records. Repeated source identifiers are preserved using zero-based `|scan_record=` ordinals. `scripts/archive/scan_bgzf_initial.py` and `results/metavr_attempt1/` preserve the initial interrupted run; it contributes no additional coverage. The completed scanner's exact source SHA is recorded in `results/metavr/scan.json`.
+
+### Scale-up comparisons and review
+
+Small control, sample-metadata, and host-reference inputs are included in `config/acquisition_pinned.json`; the 50 GB archive remains in the separate large-download manifest. After downloading those inputs, run `prepare_scale_controls.py` to regenerate the combined 721-target calibration FASTA. Then:
+
+```bash
+"$EXP/work/venv/bin/python" "$EXP/scripts/prepare_scale_controls.py"
+"$EXP/work/venv/bin/python" "$EXP/scripts/search.py" hmm \
+  "$EXP/references/receptor_profiles.hmm" "$EXP/data/cache/benchmark/scale_targets.faa" \
+  "$EXP/results/metavr/benchmark_hmm.tsv" --cpus 4 --effective-target-count 369319989
+"$EXP/work/venv/bin/python" "$EXP/scripts/search.py" blastp \
+  "$EXP/results/metavr/candidates.faa" "$EXP/data/cache/references/swissprot.faa" \
+  "$EXP/results/metavr/candidate_swissprot.tsv" --cpus 16
+"$EXP/work/venv/bin/python" "$EXP/scripts/metavr_context.py" \
+  "$EXP/results/metavr/candidates.faa" "$EXP/results/metavr/context"
+"$EXP/work/venv/bin/python" "$EXP/scripts/summarize_metavr.py"
+```
+
+Host-reference BLASTN parameters and exact commands are in `results/metavr/host_comparison/*_blastn.run.json`. The mouse reference is directly downloaded FASTA. The human reference FASTA is constructed from the pinned UCSC JSON:
+
+```bash
+"$EXP/work/venv/bin/python" - <<'PY'
+import json
+from pathlib import Path
+p = Path('experiments/1_viral_antibody_tcr')
+raw = json.loads((p/'data/raw/candidates/hg38_chr14_105500000_107000000.json').read_text())
+(p/'data/cache/metavr/human_IGH_region.fna').write_text(
+    '>hg38_chr14_105500001_107000000\n' + raw['dna'] + '\n')
+PY
+```
+
+After those two BLASTN runs complete, `validate_mouse_candidate.py` checks direct whole-contig mouse-reference equality and Iglc4 overlap; `validate_human_candidate.py` checks human-reference coverage and the derived FASTA. Run `assess_metavr.py` afterward to regenerate the assessment table and exact candidate-only overlap with the prior corpora. This ordering is necessary: the assessment reads the completed host-evidence reports.
+
+`extract_metavr_neighbors.py IMGVR_UViG_3300079393_000044 <output-directory>` retrieves the 27 deposited proteins via the protein `.ffx` index and the local archive; use `results/metavr/soil_neighbors` as the output directory to reproduce this report. Compare its `proteins.faa` to the same reviewed database with `search.py blastp`, producing `swissprot.tsv`; then run `summarize_metavr_neighbors.py`. Candidate-to-RefSeq comparison parameters are in `results/metavr/environmental_refseq.run.json`. Every completed search retains its exact invocation and hashes.
+
+Finally run `validate_scale.py`, `validate_metavr_review.py`, and `validate_results.py`. The first rehashes the large archive and checks all shards; the second checks small review artifacts and translations while referring to the preceding bulk-validation report. It does not rehash the archive a second time. `test_scale_pipeline.py` and `test_large_download.py` can be run independently to reproduce the failure/restart checks.
+
+Optional NCBI jobs use `remote_blast.py poll <job-directory>`; directories are `results/metavr/host_comparison` and `results/metavr/soil_nr_comparison`. Respect its one-minute minimum poll interval. They are queued comparisons, not completed evidence. Their RIDs may expire; the submission/query hashes and parameters remain recorded. The original mouse submission used `scripts/archive/remote_blast_initial.py` before the protein-search option was added.
+
+The two exploratory subset comparisons preceded the final 26-query comparison and add no coverage. Their exact inputs are retained as `results/metavr/early_query.faa` and `batch02_query.faa`; restore them to `data/cache/metavr/early_candidates.faa` and `candidate_batch02.faa`, respectively, before replaying the historical commands. The queued protein-query input is retained as `results/metavr/soil_nr_comparison/query.faa`; its original path is `data/cache/metavr/soil_candidate.faa`. These copies match the hashes in the corresponding run/request manifests.

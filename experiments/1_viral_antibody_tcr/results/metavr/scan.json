@@ -1,0 +1,70 @@
+{
+  "started_utc": "2026-11-13T21:33:16.194277+00:00",
+  "status": "complete",
+  "attempts": [
+    {
+      "started_utc": "2026-11-13T21:33:48.933183+00:00",
+      "command": [
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+        "experiments/1_viral_antibody_tcr/scripts/scan_bgzf.py",
+        "experiments/1_viral_antibody_tcr/data/raw/metavr/METAVR.faa.bgz",
+        "experiments/1_viral_antibody_tcr/results/metavr",
+        "--workers",
+        "4",
+        "--cpus",
+        "4",
+        "--shard-mib",
+        "256"
+      ]
+    }
+  ],
+  "identity": {
+    "target_sha256": "30ac6f74eceae3490ddd26e169d63efe66c1ae410775890ab029653afad49a8d",
+    "target_bytes": 49996313962,
+    "profiles_sha256": "e64d4c4729d58529b3cd993d6a2b79d8fac539e16e63ec03221288b9f0339893",
+    "script_sha256": "37c99c9a571b1a07a89b9b57dfb238685c6543b787a16434ff4f3062b7290cce",
+    "pyhmmer": "0.12.3",
+    "biopython": "1.86",
+    "parameters": {
+      "cpus_per_worker": 4,
+      "workers": 4,
+      "shard_bytes": 268435456,
+      "reference_Z": 1000000,
+      "E": 100,
+      "domE": 100,
+      "seed": 42,
+      "retain_reference_independent_domain_E": 0.01,
+      "final_Z_override": null
+    }
+  },
+  "target": "experiments/1_viral_antibody_tcr/data/raw/metavr/METAVR.faa.bgz",
+  "profiles": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/references/receptor_profiles.hmm",
+  "git_commit": "534e47f0ed7ccdf143b06d8e1c6fb6ef67cc8626",
+  "completed_shards": 411,
+  "updated_utc": "2026-11-13T21:53:42.080721+00:00",
+  "searched_records": 369319989,
+  "compressed_position": 49996313962,
+  "finished_utc": "2026-11-13T21:54:01.004109+00:00",
+  "summary": {
+    "protein_records": 369319989,
+    "residues": 82096374322,
+    "uncompressed_fasta_bytes": 110257106776,
+    "distinct_source_genome_identifiers": 24429973,
+    "shards": 411,
+    "headers_without_pipe": 0,
+    "duplicate_identifiers_within_shards": 38048,
+    "effective_target_count": 369319989,
+    "raw_domain_rows": 164,
+    "retained_domain_rows": 32,
+    "retained_candidate_proteins": 26,
+    "main_candidate_proteins": 15,
+    "outputs": {
+      "hits.tsv": "847c9a526cce8668c2d04a2517a91e0e66fb5bf313510c9e7b8efd9f3963d7b6",
+      "candidates.faa": "45fc7b11cbb770b8fad162bd49642202138bb92417dfbeb356eacd3de4747a40"
+    },
+    "genome_count_scope": "Distinct header token before first |; proteins only, not genomes searched by DNA",
+    "overlap_with_prior_corpora": "Not deduplicated across catalogs"
+  },
+  "elapsed_this_attempt_seconds": 1212.0701871477067,
+  "maxrss_kib": 3210156
+}

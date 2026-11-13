@@ -1,0 +1,73 @@
+{
+  "started_utc": "2026-11-13T22:04:53.600114+00:00",
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/search.py",
+    "blastp",
+    "experiments/1_viral_antibody_tcr/results/metavr/environmental_candidates.faa",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_proteins.faa",
+    "experiments/1_viral_antibody_tcr/results/metavr/environmental_refseq.tsv",
+    "--cpus",
+    "16"
+  ],
+  "git_commit": "534e47f0ed7ccdf143b06d8e1c6fb6ef67cc8626",
+  "script_sha256": "80c54871c418e5d79c701e9407d2118558ed0a36b5bde76abbeb88780c5f8bb8",
+  "inputs": {
+    "experiments/1_viral_antibody_tcr/results/metavr/environmental_candidates.faa": "2df6489d6da7b896c148279ecdfe2d7c3e12d8086e45f69df97a7f8c04062f17",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_proteins.faa": "2d54c57b4149ded18b8627b22e95925389ceb91642785943a71dbe73e21e4dfc"
+  },
+  "method": "blastp",
+  "threads": 16,
+  "status": "complete",
+  "search_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/blastp",
+    "-query",
+    "experiments/1_viral_antibody_tcr/results/metavr/environmental_candidates.faa",
+    "-db",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/2d54c57b4149ded1_aa",
+    "-evalue",
+    "0.01",
+    "-num_threads",
+    "16",
+    "-max_target_seqs",
+    "1000000",
+    "-outfmt",
+    "6 qseqid sseqid pident length qstart qend sstart send evalue bitscore qlen slen qcovhsp",
+    "-out",
+    "experiments/1_viral_antibody_tcr/results/metavr/environmental_refseq.tsv",
+    "-seg",
+    "yes"
+  ],
+  "index_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/makeblastdb",
+    "-in",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_proteins.faa",
+    "-dbtype",
+    "prot",
+    "-out",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/2d54c57b4149ded1_aa"
+  ],
+  "version": "blastp: 2.12.0+\n Package: blast 2.12.0, build Jul 13 2021 09:03:00\n",
+  "binary_sha256": "2c7ce144d828a0ecfb7d0ecff95578dc683041d19a7e8c7cf6d5d9af5778deb0",
+  "columns": [
+    "qseqid",
+    "sseqid",
+    "pident",
+    "length",
+    "qstart",
+    "qend",
+    "sstart",
+    "send",
+    "evalue",
+    "bitscore",
+    "qlen",
+    "slen",
+    "qcovhsp"
+  ],
+  "exit_status": 0,
+  "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "finished_utc": "2026-11-13T22:04:54.705041+00:00",
+  "seconds": 1.104953977279365,
+  "process_maxrss_kib": 52980,
+  "children_maxrss_kib": 217952
+}

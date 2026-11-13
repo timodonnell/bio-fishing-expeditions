@@ -1,0 +1,7 @@
+[
+  {"id":"mouse_Iglc1_lookup","url":"https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc1?content-type=application/json","path":"data/raw/candidates/Iglc1_ensembl_lookup.json","max_bytes":100000},
+  {"id":"mouse_Iglc2_lookup","url":"https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc2?content-type=application/json","path":"data/raw/candidates/Iglc2_ensembl_lookup.json","max_bytes":100000},
+  {"id":"mouse_Iglc3_lookup","url":"https://rest.ensembl.org/lookup/symbol/mus_musculus/Iglc3?content-type=application/json","path":"data/raw/candidates/Iglc3_ensembl_lookup.json","max_bytes":100000},
+  {"id":"mouse_GRCm39_Igl_region","url":"https://rest.ensembl.org/sequence/region/mus_musculus/16:18850000..19050000:1?coord_system_version=GRCm39&content-type=text/x-fasta","path":"data/raw/candidates/GRCm39_chr16_18850000_19050000.fna","max_bytes":250000},
+  {"id":"mouse_candidate_overlap","url":"https://rest.ensembl.org/overlap/region/mus_musculus/16:19008356-19026816?feature=gene&content-type=application/json","path":"data/raw/candidates/mouse_candidate_overlap.json","max_bytes":100000}
+]

@@ -1,0 +1,51 @@
+{
+  "completed_utc": "2026-11-13T22:06:06.399242+00:00",
+  "genome": "IMGVR_UViG_3300079393_000044",
+  "proteins": 27,
+  "candidate": {
+    "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14604_15686",
+    "length": 360,
+    "locations": "[{\"start_1based\": 14604, \"end_inclusive\": 15683, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+    "best_match": "sp|P01637|KV5A5_MOUSE",
+    "evalue": "3.18e-08",
+    "bitscore": "55.1",
+    "description": "sp|P01637|KV5A5_MOUSE Ig kappa chain V-V region T1 OS=Mus musculus OX=10090 PE=4 SV=1"
+  },
+  "nearby_viral_matches": [
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14195_14554",
+      "length": 119,
+      "locations": "[{\"start_1based\": 14195, \"end_inclusive\": 14551, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q197A5|VF349_IIV3",
+      "evalue": "3.73e-20",
+      "bitscore": "82.4",
+      "description": "sp|Q197A5|VF349_IIV3 Putative transcription elongation factor S-II-like protein 055R OS=Invertebrate iridescent virus 3 OX=345201 GN=IIV3-055R PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_15715_16191",
+      "length": 158,
+      "locations": "[{\"start_1based\": 15715, \"end_inclusive\": 16188, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q6GZT1|045L_FRG3G",
+      "evalue": "8.72e-09",
+      "bitscore": "54.3",
+      "description": "sp|Q6GZT1|045L_FRG3G Uncharacterized protein 045L OS=Frog virus 3 (isolate Goorha) OX=654924 GN=FV3-045L PE=4 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_17133_17618",
+      "length": 161,
+      "locations": "[{\"start_1based\": 17136, \"end_inclusive\": 17618, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q91FN5|289L_IIV6",
+      "evalue": "2.89e-70",
+      "bitscore": "220",
+      "description": "sp|Q91FN5|289L_IIV6 Putative Bro-N domain-containing protein 289L OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-289L PE=3 SV=1"
+    }
+  ],
+  "input_sha256": {
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/soil_neighbors/locations.json": "c555537184c11af73768554c557fa148a32ec6210aa0986560f27f99c9cca788",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/soil_neighbors/swissprot.tsv": "8de757f9b06935442bebfe539ef9cd7a0c619640813fffc4038817f7880ff9da",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/swissprot.faa": "a9134aede671854f8377f109840ed075dd017d597df0f5ddbe3d259b787afbdf"
+  },
+  "script_sha256": "cb5aa4aba62c3e813a55eb671a0829d31f5900ec3c31dc55301948e7734534d3",
+  "gene_review_sha256": "d80f210a46374bbe323eb567aa021be6481c2da156da34079fa06a7554843e52",
+  "assessment": "Multiple adjacent genes have reviewed iridovirus homologs, supporting viral assembly context. Ig-variable-like similarity does not establish antibody/TCR ancestry. Read linkage and phylogenetic discrimination remain pending."
+}

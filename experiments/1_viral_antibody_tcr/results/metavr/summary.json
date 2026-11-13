@@ -1,0 +1,90 @@
+{
+  "completed_utc": "2026-11-13T21:56:15.191957+00:00",
+  "coverage": {
+    "protein_records": 369319989,
+    "residues": 82096374322,
+    "uncompressed_fasta_bytes": 110257106776,
+    "distinct_source_genome_identifiers": 24429973,
+    "shards": 411,
+    "headers_without_pipe": 0,
+    "duplicate_identifiers_within_shards": 38048,
+    "effective_target_count": 369319989,
+    "raw_domain_rows": 164,
+    "retained_domain_rows": 32,
+    "retained_candidate_proteins": 26,
+    "main_candidate_proteins": 15,
+    "outputs": {
+      "hits.tsv": "847c9a526cce8668c2d04a2517a91e0e66fb5bf313510c9e7b8efd9f3963d7b6",
+      "candidates.faa": "45fc7b11cbb770b8fad162bd49642202138bb92417dfbeb356eacd3de4747a40"
+    },
+    "genome_count_scope": "Distinct header token before first |; proteins only, not genomes searched by DNA",
+    "overlap_with_prior_corpora": "Not deduplicated across catalogs"
+  },
+  "calibration": [
+    {
+      "category": "camelid_VHH_spot_check",
+      "total": 1,
+      "evaluated": 1,
+      "retrieved": 1
+    },
+    {
+      "category": "fragment30",
+      "total": 83,
+      "evaluated": 77,
+      "retrieved": 0
+    },
+    {
+      "category": "fragment60",
+      "total": 83,
+      "evaluated": 79,
+      "retrieved": 74
+    },
+    {
+      "category": "fragment90",
+      "total": 81,
+      "evaluated": 77,
+      "retrieved": 77
+    },
+    {
+      "category": "hard_negative",
+      "total": 231,
+      "evaluated": 231,
+      "retrieved": 8
+    },
+    {
+      "category": "heldout_domain",
+      "total": 83,
+      "evaluated": 79,
+      "retrieved": 79
+    },
+    {
+      "category": "heldout_protein",
+      "total": 74,
+      "evaluated": 72,
+      "retrieved": 72
+    },
+    {
+      "category": "known_natural_positive",
+      "total": 1,
+      "evaluated": 1,
+      "retrieved": 1
+    },
+    {
+      "category": "shark_VNAR_spot_check",
+      "total": 1,
+      "evaluated": 1,
+      "retrieved": 1
+    },
+    {
+      "category": "shuffled",
+      "total": 83,
+      "evaluated": 83,
+      "retrieved": 0
+    }
+  ],
+  "candidates_with_context": 26,
+  "candidates_mapping_exactly_to_genome": 26,
+  "candidate_table_sha256": "f9d24ba3eaa28c67d38d4cd63c20f7bb8bfbd8e9aaa36933e9d3616204b201dd",
+  "source_metadata_sha256": "5f8dc47ee37abba3b7973b381f6cae37ec316c3a06ae94827029ae7e147c0bec",
+  "interpretation": "Similarity screen and candidate-specific assembly checks, not evidence by itself of natural acquisition"
+}

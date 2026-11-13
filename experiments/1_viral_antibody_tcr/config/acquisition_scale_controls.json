@@ -1,0 +1,6 @@
+[
+  {"id":"scale_PDB_1MVF_entry","url":"https://data.rcsb.org/rest/v1/core/entry/1MVF","path":"data/raw/references/1MVF_entry.json","max_bytes":1000000},
+  {"id":"scale_PDB_1MVF_VHH","url":"https://data.rcsb.org/rest/v1/core/polymer_entity/1MVF/1","path":"data/raw/references/1MVF_entity1.json","max_bytes":1000000},
+  {"id":"scale_PDB_1T6V_entry","url":"https://data.rcsb.org/rest/v1/core/entry/1T6V","path":"data/raw/references/1T6V_entry.json","max_bytes":1000000},
+  {"id":"scale_PDB_1T6V_VNAR","url":"https://data.rcsb.org/rest/v1/core/polymer_entity/1T6V/2","path":"data/raw/references/1T6V_entity2.json","max_bytes":1000000}
+]

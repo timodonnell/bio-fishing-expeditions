@@ -1,0 +1,697 @@
+[
+  {
+    "genome": "IMGVR_UViG_2597490024_000002",
+    "index_entry": {
+      "id": "IMGVR_UViG_2597490024_000002|2597490024|2597520945",
+      "header": "IMGVR_UViG_2597490024_000002|2597490024|2597520945",
+      "virtual_offset": 1059686514688,
+      "sequence_length": 175699,
+      "line_bases": 175699,
+      "line_width": 175700
+    },
+    "genome_sha256": "ec6fa97e18cdac373fcb2dc79012d3d573151a7b4181ebffa98d0cefe5c97745",
+    "metadata_sha256": "7da414bab5612f8a25f6de2cf1dd84f5e56bab3988e60d65b8a3d0381b7e0ad9",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_2597490024_000002",
+    "retrieved_utc": "2026-11-13T21:54:41.030082+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_2597490024_000002|2597520945|2598176458|scan_record=000368722630",
+        "length": 345,
+        "locations": [
+          {
+            "start_1based": 120027,
+            "end_inclusive": 121061,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_2597490220_000002",
+    "index_entry": {
+      "id": "IMGVR_UViG_2597490220_000002|2597490220|2597527061",
+      "header": "IMGVR_UViG_2597490220_000002|2597490220|2597527061",
+      "virtual_offset": 1104998957056,
+      "sequence_length": 196691,
+      "line_bases": 196691,
+      "line_width": 196692
+    },
+    "genome_sha256": "4595d2758ff0548f51be9b79361a4a01c5ac2210fac4266a104dd71d644e8a9b",
+    "metadata_sha256": "0b6934ad4d68b8ee82251bef6f35bae36696b8b5d9ca71ce91fed318cf98da9b",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_2597490220_000002",
+    "retrieved_utc": "2026-11-13T21:54:43.114734+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_2597490220_000002|2597527061|2598756797|scan_record=000368725042",
+        "length": 344,
+        "locations": [
+          {
+            "start_1based": 12779,
+            "end_inclusive": 13810,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      },
+      {
+        "id": "IMGVR_UViG_2597490220_000002|2597527061|2598756798|scan_record=000368725043",
+        "length": 161,
+        "locations": [
+          {
+            "start_1based": 13861,
+            "end_inclusive": 14343,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_2602041870_000002",
+    "index_entry": {
+      "id": "IMGVR_UViG_2602041870_000002|2602041870|2602082640",
+      "header": "IMGVR_UViG_2602041870_000002|2602041870|2602082640",
+      "virtual_offset": 1157865209856,
+      "sequence_length": 219474,
+      "line_bases": 219474,
+      "line_width": 219475
+    },
+    "genome_sha256": "80c629f001cbc404bc9c2e0aa0f05af90b3f0833307a7ff25b768c3c9ca36bc0",
+    "metadata_sha256": "ee570a25a30c96734edc4d9f282f3b12739bc00f22ae1255db4165f0817e50ba",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_2602041870_000002",
+    "retrieved_utc": "2026-11-13T21:54:44.992473+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_2602041870_000002|2602082640|2603072884|scan_record=000368760993",
+        "length": 143,
+        "locations": [
+          {
+            "start_1based": 18037,
+            "end_inclusive": 18465,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      },
+      {
+        "id": "IMGVR_UViG_2602041870_000002|2602082640|2603072885|scan_record=000368760994",
+        "length": 300,
+        "locations": [
+          {
+            "start_1based": 19035,
+            "end_inclusive": 19934,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      },
+      {
+        "id": "IMGVR_UViG_2602041870_000002|2602082640|2603072886|scan_record=000368760995",
+        "length": 249,
+        "locations": [
+          {
+            "start_1based": 20114,
+            "end_inclusive": 20860,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      },
+      {
+        "id": "IMGVR_UViG_2602041870_000002|2602082640|2603072887|scan_record=000368760996",
+        "length": 330,
+        "locations": [
+          {
+            "start_1based": 21546,
+            "end_inclusive": 22535,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_2757320865_000002",
+    "index_entry": {
+      "id": "IMGVR_UViG_2757320865_000002|2757320865|2757368761",
+      "header": "IMGVR_UViG_2757320865_000002|2757320865|2757368761",
+      "virtual_offset": 3372398542848,
+      "sequence_length": 200223,
+      "line_bases": 200223,
+      "line_width": 200224
+    },
+    "genome_sha256": "3607b850f0a9e3f1cd92a7ee689f7b6842aa27775253a2d1b3ad5591b131e0cb",
+    "metadata_sha256": "09a230a0a6ec1209a03d5d725c94da0128244ddc4744c93bcdd0493b6453c8f3",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_2757320865_000002",
+    "retrieved_utc": "2026-11-13T21:54:47.973679+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_2757320865_000002|2757368761|2758478501|scan_record=000368874044",
+        "length": 337,
+        "locations": [
+          {
+            "start_1based": 187301,
+            "end_inclusive": 188311,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_2757320870_000002",
+    "index_entry": {
+      "id": "IMGVR_UViG_2757320870_000002|2757320870|2757368774",
+      "header": "IMGVR_UViG_2757320870_000002|2757320870|2757368774",
+      "virtual_offset": 3376543563776,
+      "sequence_length": 204055,
+      "line_bases": 204055,
+      "line_width": 204056
+    },
+    "genome_sha256": "a28e545fd6e1ca77b2d5bd2c02996f944c81eb943e579443eaf1eaa75d35165b",
+    "metadata_sha256": "5d9e3fc845ada35391181eb5f196982959524aa5f7eeea533a843f8f11b308a6",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_2757320870_000002",
+    "retrieved_utc": "2026-11-13T21:54:48.724566+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_2757320870_000002|2757368774|2758483758|scan_record=000368874119",
+        "length": 320,
+        "locations": [
+          {
+            "start_1based": 38298,
+            "end_inclusive": 39257,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      },
+      {
+        "id": "IMGVR_UViG_2757320870_000002|2757368774|2758483917|scan_record=000368874278",
+        "length": 339,
+        "locations": [
+          {
+            "start_1based": 192834,
+            "end_inclusive": 193850,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_2974632003_000002",
+    "index_entry": {
+      "id": "IMGVR_UViG_2974632003_000002|2974632003|2974632003",
+      "header": "IMGVR_UViG_2974632003_000002|2974632003|2974632003",
+      "virtual_offset": 5698276032512,
+      "sequence_length": 166748,
+      "line_bases": 166748,
+      "line_width": 166749
+    },
+    "genome_sha256": "069bd8e2d45dc0777071fb4611725f8a44b158c42601b01d31e9eb94d7b917d4",
+    "metadata_sha256": "822fd055c6937e36cfad1e3cf53bf5a8836b49d1c5c8d9fb66bf59727d1529f9",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_2974632003_000002",
+    "retrieved_utc": "2026-11-13T21:54:51.423112+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_2974632003_000002|2974632003|2974632007|scan_record=000369014940",
+        "length": 152,
+        "locations": [
+          {
+            "start_1based": 6440,
+            "end_inclusive": 6895,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300008865_000012",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300008865_000012|3300008865|Ga0103368_10010310",
+      "header": "IMGVR_UViG_3300008865_000012|3300008865|Ga0103368_10010310",
+      "virtual_offset": 1923547797416314,
+      "sequence_length": 2032,
+      "line_bases": 2032,
+      "line_width": 2033
+    },
+    "genome_sha256": "3b78cd014b075d6e916475cdafe75e9a225d5bfeb5b793a5b7c33616b39f3bce",
+    "metadata_sha256": "fc1b9b9784f319b7988f54e42d502b42ad1fdf4db844566ef92a5e65e024790a",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300008865_000012",
+    "retrieved_utc": "2026-11-13T21:54:51.555068+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300008865_000012|Ga0103368_10010310|Ga0103368_100103101|scan_record=000140524604",
+        "length": 303,
+        "locations": [
+          {
+            "start_1based": 909,
+            "end_inclusive": 1817,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300032031_000646",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300032031_000646|3300032031|Ga0326364_1260449",
+      "header": "IMGVR_UViG_3300032031_000646|3300032031|Ga0326364_1260449",
+      "virtual_offset": 3451479285932425,
+      "sequence_length": 10225,
+      "line_bases": 10225,
+      "line_width": 10226
+    },
+    "genome_sha256": "ad98f3974cb4991fb2629719e78158f9421ceb905faee80d1c339ded95eddbfc",
+    "metadata_sha256": "3cede8685ffd5e04e2639a310d586f9f5164839b20b81bf55889a3db031fa6f2",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300032031_000646",
+    "retrieved_utc": "2026-11-13T21:54:51.582460+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300032031_000646|Ga0326364_1260449|Ga0326364_12604496|scan_record=000247652937",
+        "length": 111,
+        "locations": [
+          {
+            "start_1based": 4134,
+            "end_inclusive": 4466,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300050821_003672",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300050821_003672|3300050821|Ga0505706_00179795",
+      "header": "IMGVR_UViG_3300050821_003672|3300050821|Ga0505706_00179795",
+      "virtual_offset": 4425260628920752,
+      "sequence_length": 10933,
+      "line_bases": 10933,
+      "line_width": 10934
+    },
+    "genome_sha256": "c502481a9f6955c8c0cd40d7eaa33a1a5fed3dc06cbfa5b353bfece7a512c4f1",
+    "metadata_sha256": "952de5cf431f765f02aa6f5aafca6e231c59e65e0326e344f6e2afd7efd723a1",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300050821_003672",
+    "retrieved_utc": "2026-11-13T21:54:54.164562+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300050821_003672|Ga0505706_00179795|Ga0505706_00179795_7828_8910|scan_record=000329831176",
+        "length": 360,
+        "locations": [
+          {
+            "start_1based": 7828,
+            "end_inclusive": 8907,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300051405_000263",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300051405_000263|3300051405|Ga0531673_0025221",
+      "header": "IMGVR_UViG_3300051405_000263|3300051405|Ga0531673_0025221",
+      "virtual_offset": 1048266727443659,
+      "sequence_length": 18461,
+      "line_bases": 18461,
+      "line_width": 18462
+    },
+    "genome_sha256": "67ad92718722c9c343a45035d41104d5b57a2c085938b462368f5c88c7b2c0d4",
+    "metadata_sha256": "771a5a31f41f3f9d6a8ff2a25cd2509a55a5bc3e804ce19b8bbc0eea09fe8682",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300051405_000263",
+    "retrieved_utc": "2026-11-13T21:54:54.217779+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300051405_000263|Ga0531673_0025221|Ga0531673_0025221_12838_13068|scan_record=000040008435",
+        "length": 76,
+        "locations": [
+          {
+            "start_1based": 12838,
+            "end_inclusive": 13065,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300051405_000280",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300051405_000280|3300051405|Ga0531673_0026824",
+      "header": "IMGVR_UViG_3300051405_000280|3300051405|Ga0531673_0026824",
+      "virtual_offset": 1048087762281954,
+      "sequence_length": 17970,
+      "line_bases": 17970,
+      "line_width": 17971
+    },
+    "genome_sha256": "b154b96d489222e50752ab7d9d1ad30f64a39d838749486fa89f64adc5765a21",
+    "metadata_sha256": "4d0adda2a516aaf519b91b213a41548186a04ec11c76812400f426fc0bb82867",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300051405_000280",
+    "retrieved_utc": "2026-11-13T21:54:54.254479+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300051405_000280|Ga0531673_0026824|Ga0531673_0026824_2348_2770|scan_record=000040016895",
+        "length": 140,
+        "locations": [
+          {
+            "start_1based": 2348,
+            "end_inclusive": 2767,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300062565_000126",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300062565_000126|3300062565|Ga0599188_0013826",
+      "header": "IMGVR_UViG_3300062565_000126|3300062565|Ga0599188_0013826",
+      "virtual_offset": 1401305260642934,
+      "sequence_length": 10378,
+      "line_bases": 10378,
+      "line_width": 10379
+    },
+    "genome_sha256": "2d134b24ea92302d1f0cd9994e9fb40dfcae6ba19a2e58ce0624b0ceca36a4e1",
+    "metadata_sha256": "d97c7bf365b55eb4f9f02bddb89d760808fa41e000e0b8d4781cfbf7ea738f39",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300062565_000126",
+    "retrieved_utc": "2026-11-13T21:54:54.287781+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300062565_000126|Ga0599188_0013826|Ga0599188_0013826_7633_8724|scan_record=000071730325",
+        "length": 363,
+        "locations": [
+          {
+            "start_1based": 7633,
+            "end_inclusive": 8721,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300062723_000119",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300062723_000119|3300062723|Ga0599176_0015841",
+      "header": "IMGVR_UViG_3300062723_000119|3300062723|Ga0599176_0015841",
+      "virtual_offset": 1402797107642368,
+      "sequence_length": 8781,
+      "line_bases": 8781,
+      "line_width": 8782
+    },
+    "genome_sha256": "59a2f8dfb4577fa34f4f0246677a98154feb3649eb6d6b21af3e0cb99922a696",
+    "metadata_sha256": "014093c129b8cbecad2a569b1b38c958561adf0948662e0bb1f405e03b67542b",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300062723_000119",
+    "retrieved_utc": "2026-11-13T21:54:54.317313+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300062723_000119|Ga0599176_0015841|Ga0599176_0015841_7895_8779|scan_record=000086523466",
+        "length": 295,
+        "locations": [
+          {
+            "start_1based": 7895,
+            "end_inclusive": 8779,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300062826_000457",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300062826_000457|3300062826|Ga0599187_0050857",
+      "header": "IMGVR_UViG_3300062826_000457|3300062826|Ga0599187_0050857",
+      "virtual_offset": 1407168066824564,
+      "sequence_length": 5232,
+      "line_bases": 5232,
+      "line_width": 5233
+    },
+    "genome_sha256": "04dd88b0e639149d1f2ae16fa28914e3a6ef8e7f4ac0f86b3abb36d5e24aa1b7",
+    "metadata_sha256": "aa98d403e48c7c8db2c7da8bf68e8ba5cbc53f76589e2337a4f6cbe0b440d2a2",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300062826_000457",
+    "retrieved_utc": "2026-11-13T21:54:54.346407+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300062826_000457|Ga0599187_0050857|Ga0599187_0050857_164_1246|scan_record=000088630014",
+        "length": 360,
+        "locations": [
+          {
+            "start_1based": 164,
+            "end_inclusive": 1243,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300063337_000172",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300063337_000172|3300063337|Ga0599143_0012805",
+      "header": "IMGVR_UViG_3300063337_000172|3300063337|Ga0599143_0012805",
+      "virtual_offset": 1428270040779027,
+      "sequence_length": 8619,
+      "line_bases": 8619,
+      "line_width": 8620
+    },
+    "genome_sha256": "edde0c03a3530f76e5edfb9b2362132a13cccf831e9036c6dd99fca2131b9a02",
+    "metadata_sha256": "34ad1f4c18593250653e88ce13f6f05459dd7b7e71f5f21712f27bd6d1053103",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300063337_000172",
+    "retrieved_utc": "2026-11-13T21:54:54.372871+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300063337_000172|Ga0599143_0012805|Ga0599143_0012805_22_1104|scan_record=000071815207",
+        "length": 360,
+        "locations": [
+          {
+            "start_1based": 25,
+            "end_inclusive": 1104,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300064066_000156",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300064066_000156|3300064066|Ga0599151_0017943",
+      "header": "IMGVR_UViG_3300064066_000156|3300064066|Ga0599151_0017943",
+      "virtual_offset": 1439717827880909,
+      "sequence_length": 10123,
+      "line_bases": 10123,
+      "line_width": 10124
+    },
+    "genome_sha256": "374052e753a97f2fd3b3e9d53b9d3cb8a0ae4bd00598282ceeb53026a6ddcf20",
+    "metadata_sha256": "191bbd0638fbb782109ae5910b6d0fd3536b3ef935db48c25c93d09a7bb1a463",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300064066_000156",
+    "retrieved_utc": "2026-11-13T21:54:54.400464+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300064066_000156|Ga0599151_0017943|Ga0599151_0017943_1722_2813|scan_record=000081081421",
+        "length": 363,
+        "locations": [
+          {
+            "start_1based": 1725,
+            "end_inclusive": 2813,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300065081_000186",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300065081_000186|3300065081|Ga0599144_0015095",
+      "header": "IMGVR_UViG_3300065081_000186|3300065081|Ga0599144_0015095",
+      "virtual_offset": 1458434718826496,
+      "sequence_length": 10563,
+      "line_bases": 10563,
+      "line_width": 10564
+    },
+    "genome_sha256": "b6fbb6942bfd754a9a3d6469ad4ebfd780f22d26a9f085ac213d93118ce902a4",
+    "metadata_sha256": "2ccf830dcbc4ba9bc6b82136c9a245179ab025c018bffd6a777985cf1b093107",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300065081_000186",
+    "retrieved_utc": "2026-11-13T21:54:54.429148+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300065081_000186|Ga0599144_0015095|Ga0599144_0015095_7898_8989|scan_record=000081353498",
+        "length": 363,
+        "locations": [
+          {
+            "start_1based": 7898,
+            "end_inclusive": 8986,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300079393_000044",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300079393_000044|3300079393|Ga0643767_0002625",
+      "header": "IMGVR_UViG_3300079393_000044|3300079393|Ga0643767_0002625",
+      "virtual_offset": 1771966345219313,
+      "sequence_length": 17620,
+      "line_bases": 17620,
+      "line_width": 17621
+    },
+    "genome_sha256": "9b57a4135ca75a25bbf19c93381c5c5d508c4c81218570709c92e9d467c63704",
+    "metadata_sha256": "21965859f80193f256139e11da6664e9cfdea5219ac459706b17e6bf79862c44",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300079393_000044",
+    "retrieved_utc": "2026-11-13T21:54:54.458240+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14604_15686|scan_record=000107340180",
+        "length": 360,
+        "locations": [
+          {
+            "start_1based": 14604,
+            "end_inclusive": 15683,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_3300082506_000014",
+    "index_entry": {
+      "id": "IMGVR_UViG_3300082506_000014|3300082506|Ga0672847_0001538",
+      "header": "IMGVR_UViG_3300082506_000014|3300082506|Ga0672847_0001538",
+      "virtual_offset": 1802391881252864,
+      "sequence_length": 15515,
+      "line_bases": 15515,
+      "line_width": 15516
+    },
+    "genome_sha256": "a837cd07e998656228d4fb6c45db931702504d4c0da4e521e0d85caec8bef452",
+    "metadata_sha256": "f71da1aae28bd22853e12701bde44d4967592880ab26616c21475d061ac157d8",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_3300082506_000014",
+    "retrieved_utc": "2026-11-13T21:54:54.491623+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_3300082506_000014|Ga0672847_0001538|Ga0672847_0001538_13022_14104|scan_record=000108745123",
+        "length": 360,
+        "locations": [
+          {
+            "start_1based": 13022,
+            "end_inclusive": 14101,
+            "strand": 1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_638276436_000002",
+    "index_entry": {
+      "id": "IMGVR_UViG_638276436_000002|638276436|638277402",
+      "header": "IMGVR_UViG_638276436_000002|638276436|638277402",
+      "virtual_offset": 8140408750080,
+      "sequence_length": 166259,
+      "line_bases": 166259,
+      "line_width": 166260
+    },
+    "genome_sha256": "24def9c71f8ff0d9c7ee931ae5a13114e307a324dc67126498a5bf32f8ec412c",
+    "metadata_sha256": "adab56b7218d06dcdd40b40894c0a1b32f3f45c68a8cc75a24a48a70426e3509",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_638276436_000002",
+    "retrieved_utc": "2026-11-13T21:54:56.932337+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_638276436_000002|638277402|638312456|scan_record=000368571166",
+        "length": 319,
+        "locations": [
+          {
+            "start_1based": 142584,
+            "end_inclusive": 143540,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "genome": "IMGVR_UViG_650627078_000002",
+    "index_entry": {
+      "id": "IMGVR_UViG_650627078_000002|650627078|650627143",
+      "header": "IMGVR_UViG_650627078_000002|650627078|650627143",
+      "virtual_offset": 8957006970880,
+      "sequence_length": 124335,
+      "line_bases": 124335,
+      "line_width": 124336
+    },
+    "genome_sha256": "8c8afefd9f98f6e4cb43e3701379a49b4757079377ec1f9201a3c0a706f4e3dc",
+    "metadata_sha256": "0f9a45c4477f1ad04c24abea9ee6b51891fe1a8f677fa515c679d320a98e3a22",
+    "metadata_url": "https://meta-virome.org/api/uvigs/IMGVR_UViG_650627078_000002",
+    "retrieved_utc": "2026-11-13T21:54:59.754922+00:00",
+    "proteins": [
+      {
+        "id": "IMGVR_UViG_650627078_000002|650627143|650632481|scan_record=000368634015",
+        "length": 153,
+        "locations": [
+          {
+            "start_1based": 239,
+            "end_inclusive": 697,
+            "strand": -1,
+            "genetic_code": 11,
+            "match": "exact protein; initiator Met rule allowed"
+          }
+        ]
+      }
+    ]
+  }
+]

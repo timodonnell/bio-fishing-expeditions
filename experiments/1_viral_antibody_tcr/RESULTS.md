@@ -1,4 +1,6 @@
-# Results through 2026-11-13
+# Core RefSeq/INPHARED results — 2026-11-13
+
+**Subsequent milestone:** the [completed MetaVR expansion](SCALE_UP_RESULTS.md) searched 369,319,989 protein records and retained nine unresolved environmental IgV-like records after candidate triage. The counts and pending-work statements below describe the earlier core milestone; use the scale-up report for current MetaVR status.
 
 **Yes: natural incorporation of a TCR beta-chain gene into feline leukemia virus is documented.** The original report is [Fulton et al., 1987](https://pubmed.ncbi.nlm.nih.gov/3029597/); a [1992 follow-up](https://pmc.ncbi.nlm.nih.gov/articles/PMC241135/) supports its natural tumor-associated provenance and packaging. We recovered the deposited locus **X05155.1 / CAA28801.1 / UniProt P11364**, verified its translation, and retrieved it using host-only references. See the [evidence packet](known_natural_tcr.md).
 

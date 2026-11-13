@@ -1,0 +1,80 @@
+{
+  "completed_utc": "2026-11-13T21:56:10.823487+00:00",
+  "effective_targets": 369319989,
+  "categories": [
+    {
+      "category": "camelid_VHH_spot_check",
+      "total": 1,
+      "evaluated": 1,
+      "retrieved": 1
+    },
+    {
+      "category": "fragment30",
+      "total": 83,
+      "evaluated": 77,
+      "retrieved": 0
+    },
+    {
+      "category": "fragment60",
+      "total": 83,
+      "evaluated": 79,
+      "retrieved": 74
+    },
+    {
+      "category": "fragment90",
+      "total": 81,
+      "evaluated": 77,
+      "retrieved": 77
+    },
+    {
+      "category": "hard_negative",
+      "total": 231,
+      "evaluated": 231,
+      "retrieved": 8
+    },
+    {
+      "category": "heldout_domain",
+      "total": 83,
+      "evaluated": 79,
+      "retrieved": 79
+    },
+    {
+      "category": "heldout_protein",
+      "total": 74,
+      "evaluated": 72,
+      "retrieved": 72
+    },
+    {
+      "category": "known_natural_positive",
+      "total": 1,
+      "evaluated": 1,
+      "retrieved": 1
+    },
+    {
+      "category": "shark_VNAR_spot_check",
+      "total": 1,
+      "evaluated": 1,
+      "retrieved": 1
+    },
+    {
+      "category": "shuffled",
+      "total": 83,
+      "evaluated": 83,
+      "retrieved": 0
+    }
+  ],
+  "method": "HMM only, direct run at observed full-corpus Z; original near-identity exclusions retained",
+  "additional_control_scope": "One published VHH and one VNAR construct; exact training duplicates excluded; these are spot checks, not complete family/divergence panels",
+  "uncompleted_controls": [
+    "verified engineered carrier genomes",
+    "camelid VHH",
+    "shark IgNAR",
+    "systematic frameshift/splice cases",
+    "divergence series",
+    "family-holdout calibration"
+  ],
+  "inputs": {
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/benchmark_hmm.tsv": "a446bb66c3fdff7c18cec736bd4982d0e61c84b475a432103caa35880633bfe9",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/calibration_targets.tsv": "8593250ec139838733e57a9bd22a45121cdce87ca6662e2aa892dab8009a6e3a"
+  }
+}

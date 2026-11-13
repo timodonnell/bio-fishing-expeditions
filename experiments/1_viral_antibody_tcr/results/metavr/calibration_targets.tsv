@@ -1,0 +1,722 @@
+id	source_id	category	length	family	near_identity_excluded	hmm_retrieved_at_metavr_size
+heldout_protein__P01618	P01618	heldout_protein	108	IGK_V	False	True
+heldout_protein__P01681	P01681	heldout_protein	109	IGK_V	False	True
+heldout_protein__P01682	P01682	heldout_protein	110	IGK_V	False	True
+heldout_protein__P01683	P01683	heldout_protein	115	IGK_V	False	True
+heldout_protein__P01684	P01684	heldout_protein	109	IGK_V	False	True
+heldout_protein__P01685	P01685	heldout_protein	107	IGK_V	False	True
+heldout_protein__P01686	P01686	heldout_protein	108	IGK_V	False	True
+heldout_protein__P01687	P01687	heldout_protein	108	IGK_V	False	True
+heldout_protein__P01688	P01688	heldout_protein	108	IGK_V	False	True
+heldout_protein__P01689	P01689	heldout_protein	108	IGK_V	False	True
+heldout_protein__P01690	P01690	heldout_protein	92	IGK_V	False	True
+heldout_protein__P01691	P01691	heldout_protein	117	IGK_V	False	True
+heldout_protein__P01692	P01692	heldout_protein	94	IGK_V	False	True
+heldout_protein__P01693	P01693	heldout_protein	111	IGK_V	False	True
+heldout_protein__P01694	P01694	heldout_protein	110	IGK_V	False	True
+heldout_protein__P01695	P01695	heldout_protein	109	IGK_V	False	True
+heldout_protein__P01696	P01696	heldout_protein	110	IGK_V	False	True
+heldout_protein__P01697	P01697	heldout_protein	114	IGK_V	False	True
+heldout_protein__P01698	P01698	heldout_protein	104	IGK_V	False	True
+heldout_protein__P01784	P01784	heldout_protein	114	IGH_V	False	True
+heldout_protein__P01785	P01785	heldout_protein	117	IGH_V	False	True
+heldout_protein__P01805	P01805	heldout_protein	142	IGH_V	False	True
+heldout_protein__P01813	P01813	heldout_protein	117	IGH_V	False	True
+heldout_protein__P01826	P01826	heldout_protein	116	IGH_V	False	True
+heldout_protein__P01827	P01827	heldout_protein	114	IGH_V	False	True
+heldout_protein__P01828	P01828	heldout_protein	117	IGH_V	False	True
+heldout_protein__P01829	P01829	heldout_protein	136	IGH_V	False	True
+heldout_protein__P01835	P01835	heldout_protein	106	IGK_C	False	True
+heldout_protein__P01836	P01836	heldout_protein	106	IGK_C	False	True
+heldout_protein__P01838	P01838	heldout_protein	104	IGK_C	False	True
+heldout_protein__P01839	P01839	heldout_protein	106	IGK_C	False	True
+heldout_protein__P01840	P01840	heldout_protein	103	IGK_C	False	True
+heldout_protein__P01841	P01841	heldout_protein	103	IGK_C	False	True
+heldout_protein__P01846	P01846	heldout_protein	105	IGL_C	False	True
+heldout_protein__P01847	P01847	heldout_protein	105	IGL_C	False	True
+heldout_protein__P01855	P01855	heldout_protein	429	IGH_C	False	True
+heldout_protein__P01862	P01862	heldout_protein	329	IGH_C	False	True
+heldout_protein__P01870	P01870	heldout_protein	323	IGH_C	False	True
+heldout_protein__P01874	P01874	heldout_protein	450	IGH_C	False	True
+heldout_protein__P01875	P01875	heldout_protein	446	IGH_C	False	True
+heldout_protein__P01879	P01879	heldout_protein	299	IGH_C	False	True
+heldout_protein__P01883	P01883	heldout_protein	202	IGH_C	False	True
+heldout_protein__P03981	P03981	heldout_protein	117	IGH_V	False	True
+heldout_protein__P03982	P03982	heldout_protein	117	IGH_V	False	True
+heldout_protein__P03983	P03983	heldout_protein	116	IGH_V	False	True
+heldout_protein__P03984	P03984	heldout_protein	104	IGK_C	False	True
+heldout_protein__P03988	P03988	heldout_protein	458	IGH_C	False	True
+heldout_protein__P04210	P04210	heldout_protein	113	IGL_V	False	True
+heldout_protein__P04215	P04215	heldout_protein	89	IGH_V	False	True
+heldout_protein__P04221	P04221	heldout_protein	479	IGH_C	False	True
+heldout_protein__P06322	P06322	heldout_protein	134	TRA_V	False	True
+heldout_protein__P06333	P06333	heldout_protein	177	TRB_C	False	True
+heldout_protein__P06337	P06337	heldout_protein	454	IGH_C	False	True
+heldout_protein__P0DUB3	P0DUB3	heldout_protein	346	IGH_C	False	True
+heldout_protein__P19180	P19180	heldout_protein	117	IGH_V	False	True
+heldout_protein__P19181	P19181	heldout_protein	116	IGH_V	True	True
+heldout_protein__P20758	P20758	heldout_protein	353	IGH_C	True	True
+heldout_protein__P20759	P20759	heldout_protein	326	IGH_C	False	True
+heldout_protein__P20760	P20760	heldout_protein	322	IGH_C	False	True
+heldout_protein__P20761	P20761	heldout_protein	333	IGH_C	False	True
+heldout_protein__P20762	P20762	heldout_protein	329	IGH_C	False	True
+heldout_protein__P20763	P20763	heldout_protein	103	IGL_C	False	True
+heldout_protein__P20766	P20766	heldout_protein	104	IGL_C	False	True
+heldout_protein__P20767	P20767	heldout_protein	104	IGL_C	False	True
+heldout_protein__P20768	P20768	heldout_protein	457	IGH_C	False	True
+heldout_protein__P20956	P20956	heldout_protein	136	IGH_V	False	True
+heldout_protein__P20957	P20957	heldout_protein	135	IGH_V	False	True
+heldout_protein__P23084	P23084	heldout_protein	370	IGH_C	False	True
+heldout_protein__P23085	P23085	heldout_protein	438	IGH_C	False	True
+heldout_protein__P23086	P23086	heldout_protein	393	IGH_C	False	True
+heldout_protein__P23087	P23087	heldout_protein	438	IGH_C	False	True
+heldout_protein__P23088	P23088	heldout_protein	461	IGH_C	False	True
+heldout_protein__P23735	P23735	heldout_protein	380	IGH_C	False	True
+heldout_protein__Q5M871	Q5M871	heldout_protein	426	IGH_chain	False	True
+heldout_domain__P01618_whole	P01618_whole	heldout_domain	108	IGK_V	False	True
+heldout_domain__P01681_whole	P01681_whole	heldout_domain	109	IGK_V	False	True
+heldout_domain__P01682_whole	P01682_whole	heldout_domain	110	IGK_V	False	True
+heldout_domain__P01683_whole	P01683_whole	heldout_domain	115	IGK_V	False	True
+heldout_domain__P01684_whole	P01684_whole	heldout_domain	109	IGK_V	False	True
+heldout_domain__P01685_whole	P01685_whole	heldout_domain	107	IGK_V	False	True
+heldout_domain__P01686_whole	P01686_whole	heldout_domain	108	IGK_V	False	True
+heldout_domain__P01687_whole	P01687_whole	heldout_domain	108	IGK_V	False	True
+heldout_domain__P01688_whole	P01688_whole	heldout_domain	108	IGK_V	False	True
+heldout_domain__P01689_whole	P01689_whole	heldout_domain	108	IGK_V	False	True
+heldout_domain__P01690_whole	P01690_whole	heldout_domain	92	IGK_V	False	True
+heldout_domain__P01691_whole	P01691_whole	heldout_domain	117	IGK_V	False	True
+heldout_domain__P01692_whole	P01692_whole	heldout_domain	94	IGK_V	False	True
+heldout_domain__P01693_whole	P01693_whole	heldout_domain	111	IGK_V	False	True
+heldout_domain__P01694_whole	P01694_whole	heldout_domain	110	IGK_V	False	True
+heldout_domain__P01695_whole	P01695_whole	heldout_domain	109	IGK_V	False	True
+heldout_domain__P01696_whole	P01696_whole	heldout_domain	110	IGK_V	False	True
+heldout_domain__P01697_whole	P01697_whole	heldout_domain	114	IGK_V	False	True
+heldout_domain__P01698_whole	P01698_whole	heldout_domain	104	IGK_V	False	True
+heldout_domain__P01784_1_112	P01784_1_112	heldout_domain	112	IGH_V	False	True
+heldout_domain__P01785_1_116	P01785_1_116	heldout_domain	116	IGH_V	False	True
+heldout_domain__P01805_20_133	P01805_20_133	heldout_domain	114	IGH_V	False	True
+heldout_domain__P01813_whole	P01813_whole	heldout_domain	117	IGH_V	False	True
+heldout_domain__P01826_1_107	P01826_1_107	heldout_domain	107	IGH_V	False	True
+heldout_domain__P01827_1_107	P01827_1_107	heldout_domain	107	IGH_V	False	True
+heldout_domain__P01828_1_106	P01828_1_106	heldout_domain	106	IGH_V	False	True
+heldout_domain__P01829_20_127	P01829_20_127	heldout_domain	108	IGH_V	False	True
+heldout_domain__P01835_5_102	P01835_5_102	heldout_domain	98	IGK_C	False	True
+heldout_domain__P01836_5_102	P01836_5_102	heldout_domain	98	IGK_C	False	True
+heldout_domain__P01838_6_100	P01838_6_100	heldout_domain	95	IGK_C	False	True
+heldout_domain__P01839_6_99	P01839_6_99	heldout_domain	94	IGK_C	False	True
+heldout_domain__P01840_5_95	P01840_5_95	heldout_domain	91	IGK_C	False	True
+heldout_domain__P01841_5_99	P01841_5_99	heldout_domain	95	IGK_C	False	True
+heldout_domain__P01846_2_100	P01846_2_100	heldout_domain	99	IGL_C	False	True
+heldout_domain__P01847_6_100	P01847_6_100	heldout_domain	95	IGL_C	False	True
+heldout_domain__P01855_6_89	P01855_6_89	heldout_domain	84	IGH_C	False	True
+heldout_domain__P01855_103_201	P01855_103_201	heldout_domain	99	IGH_C	False	True
+heldout_domain__P01855_205_305	P01855_205_305	heldout_domain	101	IGH_C	False	True
+heldout_domain__P01855_314_414	P01855_314_414	heldout_domain	101	IGH_C	False	True
+heldout_domain__P01870_6_96	P01870_6_96	heldout_domain	91	IGH_C	False	True
+heldout_domain__P01870_114_213	P01870_114_213	heldout_domain	100	IGH_C	False	True
+heldout_domain__P01870_222_318	P01870_222_318	heldout_domain	97	IGH_C	False	True
+heldout_domain__P01879_71_167	P01879_71_167	heldout_domain	97	IGH_C	False	True
+heldout_domain__P01879_174_276	P01879_174_276	heldout_domain	103	IGH_C	False	True
+heldout_domain__P01883_66_178	P01883_66_178	heldout_domain	113	IGH_C	False	True
+heldout_domain__P03981_whole	P03981_whole	heldout_domain	117	IGH_V	False	True
+heldout_domain__P03982_whole	P03982_whole	heldout_domain	117	IGH_V	False	True
+heldout_domain__P03983_whole	P03983_whole	heldout_domain	116	IGH_V	False	True
+heldout_domain__P03984_5_100	P03984_5_100	heldout_domain	96	IGK_C	False	True
+heldout_domain__P04210_whole	P04210_whole	heldout_domain	113	IGL_V	False	True
+heldout_domain__P04215_whole	P04215_whole	heldout_domain	89	IGH_V	False	True
+heldout_domain__P06322_whole	P06322_whole	heldout_domain	134	TRA_V	False	True
+heldout_domain__P06333_whole	P06333_whole	heldout_domain	177	TRB_C	False	True
+heldout_domain__P0DUB3_6_96	P0DUB3_6_96	heldout_domain	91	IGH_C	False	True
+heldout_domain__P0DUB3_118_212	P0DUB3_118_212	heldout_domain	95	IGH_C	False	True
+heldout_domain__P0DUB3_221_323	P0DUB3_221_323	heldout_domain	103	IGH_C	False	True
+heldout_domain__P19180_whole	P19180_whole	heldout_domain	117	IGH_V	False	True
+heldout_domain__P19181_whole	P19181_whole	heldout_domain	116	IGH_V	True	True
+heldout_domain__P20758_6_98	P20758_6_98	heldout_domain	93	IGH_C	True	True
+heldout_domain__P20758_125_220	P20758_125_220	heldout_domain	96	IGH_C	True	True
+heldout_domain__P20758_228_330	P20758_228_330	heldout_domain	103	IGH_C	True	True
+heldout_domain__P20760_6_98	P20760_6_98	heldout_domain	93	IGH_C	False	True
+heldout_domain__P20760_115_212	P20760_115_212	heldout_domain	98	IGH_C	False	True
+heldout_domain__P20760_221_317	P20760_221_317	heldout_domain	97	IGH_C	False	True
+heldout_domain__P20761_6_96	P20761_6_96	heldout_domain	91	IGH_C	False	True
+heldout_domain__P20761_124_223	P20761_124_223	heldout_domain	100	IGH_C	False	True
+heldout_domain__P20761_232_328	P20761_232_328	heldout_domain	97	IGH_C	False	True
+heldout_domain__P20763_6_99	P20763_6_99	heldout_domain	94	IGL_C	False	True
+heldout_domain__P20766_6_99	P20766_6_99	heldout_domain	94	IGL_C	False	True
+heldout_domain__P20767_6_99	P20767_6_99	heldout_domain	94	IGL_C	False	True
+heldout_domain__P20956_19_128	P20956_19_128	heldout_domain	110	IGH_V	False	True
+heldout_domain__P20957_20_128	P20957_20_128	heldout_domain	109	IGH_V	False	True
+heldout_domain__P23084_40_134	P23084_40_134	heldout_domain	95	IGH_C	False	True
+heldout_domain__P23084_145_237	P23084_145_237	heldout_domain	93	IGH_C	False	True
+heldout_domain__P23084_247_347	P23084_247_347	heldout_domain	101	IGH_C	False	True
+heldout_domain__P23085_5_101	P23085_5_101	heldout_domain	97	IGH_C	False	True
+heldout_domain__P23085_108_202	P23085_108_202	heldout_domain	95	IGH_C	False	True
+heldout_domain__P23085_213_305	P23085_213_305	heldout_domain	93	IGH_C	False	True
+heldout_domain__P23085_315_415	P23085_315_415	heldout_domain	101	IGH_C	False	True
+heldout_domain__P23086_63_157	P23086_63_157	heldout_domain	95	IGH_C	False	True
+heldout_domain__P23086_168_260	P23086_168_260	heldout_domain	93	IGH_C	False	True
+heldout_domain__P23086_270_370	P23086_270_370	heldout_domain	101	IGH_C	False	True
+heldout_domain__Q5M871_24_121	Q5M871_24_121	heldout_domain	98	IGH_V	False	True
+hard_negative__A0A0B4J1G0	A0A0B4J1G0	hard_negative	249		False	False
+hard_negative__A0A0G2KBC9	A0A0G2KBC9	hard_negative	761		False	False
+hard_negative__A0A0H3K686	A0A0H3K686	hard_negative	508		False	False
+hard_negative__A0JPB1	A0JPB1	hard_negative	1161		False	False
+hard_negative__A1L1A6	A1L1A6	hard_negative	192		False	False
+hard_negative__A3RFZ7	A3RFZ7	hard_negative	254		False	False
+hard_negative__A4IFA6	A4IFA6	hard_negative	428		False	False
+hard_negative__A4IIW9	A4IIW9	hard_negative	606		False	False
+hard_negative__A6NDA9	A6NDA9	hard_negative	550		False	False
+hard_negative__A6NI73	A6NI73	hard_negative	299		False	False
+hard_negative__A7TZE6	A7TZE6	hard_negative	364		False	False
+hard_negative__A8B6A2	A8B6A2	hard_negative	271		False	False
+hard_negative__A8E0Y8	A8E0Y8	hard_negative	1033		False	False
+hard_negative__B2RTN2	B2RTN2	hard_negative	239		False	False
+hard_negative__B5TVM2	B5TVM2	hard_negative	661		False	False
+hard_negative__B9A064	B9A064	hard_negative	214		False	True
+hard_negative__C0HJX2	C0HJX2	hard_negative	744		False	False
+hard_negative__C0HJX3	C0HJX3	hard_negative	744		False	False
+hard_negative__D3ZB51	D3ZB51	hard_negative	1328		False	False
+hard_negative__D3ZQX2	D3ZQX2	hard_negative	547		False	False
+hard_negative__E2RP87	E2RP87	hard_negative	249		False	False
+hard_negative__E9PZ19	E9PZ19	hard_negative	1328		False	False
+hard_negative__G1T7E7	G1T7E7	hard_negative	253		False	False
+hard_negative__G1TR84	G1TR84	hard_negative	253		False	False
+hard_negative__H0VDZ8	H0VDZ8	hard_negative	254		False	False
+hard_negative__M0RAS4	M0RAS4	hard_negative	468		False	False
+hard_negative__M3XWH1	M3XWH1	hard_negative	249		False	False
+hard_negative__O14498	O14498	hard_negative	428		False	False
+hard_negative__O75015	O75015	hard_negative	233		False	False
+hard_negative__O75019	O75019	hard_negative	489		False	False
+hard_negative__O75022	O75022	hard_negative	631		False	False
+hard_negative__O75023	O75023	hard_negative	590		False	False
+hard_negative__O75054	O75054	hard_negative	1194		False	False
+hard_negative__O94898	O94898	hard_negative	1065		False	False
+hard_negative__O95976	O95976	hard_negative	241		False	False
+hard_negative__P02976	P02976	hard_negative	516		False	False
+hard_negative__P06654	P06654	hard_negative	448		False	False
+hard_negative__P06734	P06734	hard_negative	321		False	False
+hard_negative__P08101	P08101	hard_negative	330		False	False
+hard_negative__P08508	P08508	hard_negative	261		False	False
+hard_negative__P08637	P08637	hard_negative	254		False	False
+hard_negative__P0A015	P0A015	hard_negative	450		False	False
+hard_negative__P0C1X9	P0C1X9	hard_negative	263		False	False
+hard_negative__P0C5H6	P0C5H6	hard_negative	1179		False	False
+hard_negative__P0C673	P0C673	hard_negative	428		False	False
+hard_negative__P0C6B7	P0C6B7	hard_negative	237		False	False
+hard_negative__P0C6S8	P0C6S8	hard_negative	592		False	False
+hard_negative__P0DTI4	P0DTI4	hard_negative	275		False	False
+hard_negative__P12314	P12314	hard_negative	374		False	False
+hard_negative__P12318	P12318	hard_negative	317		False	False
+hard_negative__P12319	P12319	hard_negative	257		False	False
+hard_negative__P12371	P12371	hard_negative	245		False	False
+hard_negative__P13386	P13386	hard_negative	243		False	False
+hard_negative__P15814	P15814	hard_negative	213		False	True
+hard_negative__P18572	P18572	hard_negative	389		False	False
+hard_negative__P19909	P19909	hard_negative	593		False	False
+hard_negative__P20411	P20411	hard_negative	86		False	False
+hard_negative__P20489	P20489	hard_negative	250		False	False
+hard_negative__P20490	P20490	hard_negative	235		False	False
+hard_negative__P20491	P20491	hard_negative	86		False	False
+hard_negative__P20693	P20693	hard_negative	331		False	False
+hard_negative__P20764	P20764	hard_negative	209		False	True
+hard_negative__P20765	P20765	hard_negative	105		False	True
+hard_negative__P26151	P26151	hard_negative	404		False	False
+hard_negative__P27645	P27645	hard_negative	267		False	False
+hard_negative__P30273	P30273	hard_negative	86		False	False
+hard_negative__P31994	P31994	hard_negative	310		False	False
+hard_negative__P31995	P31995	hard_negative	323		False	False
+hard_negative__P38507	P38507	hard_negative	508		False	False
+hard_negative__P43146	P43146	hard_negative	1447		False	False
+hard_negative__P43626	P43626	hard_negative	348		False	False
+hard_negative__P43627	P43627	hard_negative	348		False	False
+hard_negative__P43628	P43628	hard_negative	341		False	False
+hard_negative__P43629	P43629	hard_negative	444		False	False
+hard_negative__P43630	P43630	hard_negative	455		False	False
+hard_negative__P43631	P43631	hard_negative	304		False	False
+hard_negative__P43632	P43632	hard_negative	304		False	False
+hard_negative__P50470	P50470	hard_negative	376		False	False
+hard_negative__P59901	P59901	hard_negative	499		False	False
+hard_negative__P70193	P70193	hard_negative	1091		False	False
+hard_negative__P79107	P79107	hard_negative	250		False	False
+hard_negative__P83555	P83555	hard_negative	432		False	False
+hard_negative__P83556	P83556	hard_negative	422		False	False
+hard_negative__P97484	P97484	hard_negative	841		False	False
+hard_negative__P99134	P99134	hard_negative	450		False	False
+hard_negative__Q01362	Q01362	hard_negative	244		False	False
+hard_negative__Q05BQ1	Q05BQ1	hard_negative	1179		False	False
+hard_negative__Q07249	Q07249	hard_negative	86		False	False
+hard_negative__Q07409	Q07409	hard_negative	1028		False	False
+hard_negative__Q08708	Q08708	hard_negative	224		False	False
+hard_negative__Q08DK1	Q08DK1	hard_negative	437		False	False
+hard_negative__Q09TM2	Q09TM2	hard_negative	254		False	False
+hard_negative__Q09TM4	Q09TM4	hard_negative	254		False	False
+hard_negative__Q0V9T8	Q0V9T8	hard_negative	499		False	False
+hard_negative__Q14943	Q14943	hard_negative	382		False	False
+hard_negative__Q14952	Q14952	hard_negative	304		False	False
+hard_negative__Q14953	Q14953	hard_negative	304		False	False
+hard_negative__Q14954	Q14954	hard_negative	304		False	False
+hard_negative__Q149C3	Q149C3	hard_negative	593		False	False
+hard_negative__Q1WIM1	Q1WIM1	hard_negative	388		False	False
+hard_negative__Q1WIM2	Q1WIM2	hard_negative	435		False	False
+hard_negative__Q1WIM3	Q1WIM3	hard_negative	396		False	True
+hard_negative__Q28110	Q28110	hard_negative	296		False	False
+hard_negative__Q28942	Q28942	hard_negative	257		False	False
+hard_negative__Q2TB54	Q2TB54	hard_negative	535		False	False
+hard_negative__Q2YFS1	Q2YFS1	hard_negative	225		False	False
+hard_negative__Q2YFS2	Q2YFS2	hard_negative	224		False	False
+hard_negative__Q2YFS3	Q2YFS3	hard_negative	302		False	False
+hard_negative__Q32NM7	Q32NM7	hard_negative	545		False	False
+hard_negative__Q3KNY0	Q3KNY0	hard_negative	2849		False	False
+hard_negative__Q3KPR5	Q3KPR5	hard_negative	497		False	False
+hard_negative__Q3SXY7	Q3SXY7	hard_negative	679		False	False
+hard_negative__Q3TB92	Q3TB92	hard_negative	246		False	False
+hard_negative__Q3URE9	Q3URE9	hard_negative	606		False	False
+hard_negative__Q3V1M1	Q3V1M1	hard_negative	2594		False	False
+hard_negative__Q504C1	Q504C1	hard_negative	561		False	False
+hard_negative__Q50L44	Q50L44	hard_negative	613		False	False
+hard_negative__Q52KR2	Q52KR2	hard_negative	1054		False	False
+hard_negative__Q5DX21	Q5DX21	hard_negative	431		False	False
+hard_negative__Q5NVQ6	Q5NVQ6	hard_negative	428		False	False
+hard_negative__Q5R770	Q5R770	hard_negative	544		False	False
+hard_negative__Q5R8C7	Q5R8C7	hard_negative	546		False	False
+hard_negative__Q5RDJ4	Q5RDJ4	hard_negative	614		False	False
+hard_negative__Q5RKR3	Q5RKR3	hard_negative	745		False	False
+hard_negative__Q5U2P2	Q5U2P2	hard_negative	428		False	False
+hard_negative__Q5U5A3	Q5U5A3	hard_negative	1165		False	False
+hard_negative__Q5VJ70	Q5VJ70	hard_negative	369		False	False
+hard_negative__Q60513	Q60513	hard_negative	341		False	False
+hard_negative__Q61450	Q61450	hard_negative	303		False	False
+hard_negative__Q62682	Q62682	hard_negative	1028		False	False
+hard_negative__Q62845	Q62845	hard_negative	1026		False	False
+hard_negative__Q62875	Q62875	hard_negative	248		False	False
+hard_negative__Q63203	Q63203	hard_negative	285		False	False
+hard_negative__Q64281	Q64281	hard_negative	335		False	False
+hard_negative__Q66HV9	Q66HV9	hard_negative	622		False	False
+hard_negative__Q66KX2	Q66KX2	hard_negative	390		False	False
+hard_negative__Q69Z26	Q69Z26	hard_negative	1026		False	False
+hard_negative__Q6DJ83	Q6DJ83	hard_negative	433		False	False
+hard_negative__Q6GQU6	Q6GQU6	hard_negative	589		False	False
+hard_negative__Q6GTX8	Q6GTX8	hard_negative	287		False	False
+hard_negative__Q6GU68	Q6GU68	hard_negative	428		False	False
+hard_negative__Q6ISS4	Q6ISS4	hard_negative	152		False	False
+hard_negative__Q6P1C6	Q6P1C6	hard_negative	1117		False	False
+hard_negative__Q6PFC5	Q6PFC5	hard_negative	549		False	False
+hard_negative__Q6PI73	Q6PI73	hard_negative	481		False	False
+hard_negative__Q6SJQ0	Q6SJQ0	hard_negative	318		False	False
+hard_negative__Q6SJQ7	Q6SJQ7	hard_negative	337		False	True
+hard_negative__Q6UXK2	Q6UXK2	hard_negative	745		False	False
+hard_negative__Q6UXM1	Q6UXM1	hard_negative	1119		False	False
+hard_negative__Q6UY18	Q6UY18	hard_negative	593		False	False
+hard_negative__Q6WRH9	Q6WRH9	hard_negative	2597		False	False
+hard_negative__Q6WRI0	Q6WRI0	hard_negative	2623		False	False
+hard_negative__Q6XPU4	Q6XPU4	hard_negative	249		False	False
+hard_negative__Q6ZQA6	Q6ZQA6	hard_negative	1194		False	False
+hard_negative__Q71H61	Q71H61	hard_negative	639		False	False
+hard_negative__Q7L985	Q7L985	hard_negative	606		False	False
+hard_negative__Q7TNR6	Q7TNR6	hard_negative	468		False	False
+hard_negative__Q7TQA1	Q7TQA1	hard_negative	1317		False	False
+hard_negative__Q7TSN2	Q7TSN2	hard_negative	228		False	False
+hard_negative__Q7TSN7	Q7TSN7	hard_negative	370		False	False
+hard_negative__Q7Z6M3	Q7Z6M3	hard_negative	343		False	False
+hard_negative__Q7ZXX1	Q7ZXX1	hard_negative	394		False	False
+hard_negative__Q86SU0	Q86SU0	hard_negative	546		False	False
+hard_negative__Q86UB2	Q86UB2	hard_negative	503		False	False
+hard_negative__Q86VF2	Q86VF2	hard_negative	1251		False	False
+hard_negative__Q8BG84	Q8BG84	hard_negative	263		False	False
+hard_negative__Q8BLQ9	Q8BLQ9	hard_negative	435		False	False
+hard_negative__Q8BQC3	Q8BQC3	hard_negative	813		False	False
+hard_negative__Q8CBR1	Q8CBR1	hard_negative	537		False	False
+hard_negative__Q8CBX9	Q8CBX9	hard_negative	502		False	False
+hard_negative__Q8IVU1	Q8IVU1	hard_negative	814		False	False
+hard_negative__Q8IWV2	Q8IWV2	hard_negative	1026		False	False
+hard_negative__Q8IYS5	Q8IYS5	hard_negative	282		False	False
+hard_negative__Q8K099	Q8K099	hard_negative	624		False	False
+hard_negative__Q8MJZ2	Q8MJZ2	hard_negative	481		False	False
+hard_negative__Q8MJZ7	Q8MJZ7	hard_negative	643		False	False
+hard_negative__Q8N109	Q8N109	hard_negative	375		False	False
+hard_negative__Q8N126	Q8N126	hard_negative	398		False	False
+hard_negative__Q8N149	Q8N149	hard_negative	483		False	False
+hard_negative__Q8N3J6	Q8N3J6	hard_negative	435		False	False
+hard_negative__Q8N423	Q8N423	hard_negative	597		False	False
+hard_negative__Q8N6C5	Q8N6C5	hard_negative	1336		False	False
+hard_negative__Q8N6C8	Q8N6C8	hard_negative	439		False	False
+hard_negative__Q8N743	Q8N743	hard_negative	410		False	False
+hard_negative__Q8N9C0	Q8N9C0	hard_negative	903		False	False
+hard_negative__Q8NFZ8	Q8NFZ8	hard_negative	388		False	False
+hard_negative__Q8NHJ6	Q8NHJ6	hard_negative	448		False	False
+hard_negative__Q8NHK3	Q8NHK3	hard_negative	375		False	False
+hard_negative__Q8NHL6	Q8NHL6	hard_negative	650		False	False
+hard_negative__Q8R366	Q8R366	hard_negative	611		False	False
+hard_negative__Q8R464	Q8R464	hard_negative	388		False	False
+hard_negative__Q8R5M8	Q8R5M8	hard_negative	456		False	False
+hard_negative__Q8SPV8	Q8SPV8	hard_negative	316		False	False
+hard_negative__Q8SPW1	Q8SPW1	hard_negative	86		False	False
+hard_negative__Q8SPW2	Q8SPW2	hard_negative	254		False	False
+hard_negative__Q8TDQ1	Q8TDQ1	hard_negative	290		False	False
+hard_negative__Q8TDY8	Q8TDY8	hard_negative	1250		False	False
+hard_negative__Q8VBT3	Q8VBT3	hard_negative	265		False	False
+hard_negative__Q8VCH2	Q8VCH2	hard_negative	221		False	True
+hard_negative__Q8WWV6	Q8WWV6	hard_negative	532		False	False
+hard_negative__Q925N6	Q925N6	hard_negative	1320		False	False
+hard_negative__Q92637	Q92637	hard_negative	280		False	False
+hard_negative__Q92859	Q92859	hard_negative	1461		False	False
+hard_negative__Q93033	Q93033	hard_negative	1021		False	False
+hard_negative__Q965M2	Q965M2	hard_negative	881		False	False
+hard_negative__Q969P0	Q969P0	hard_negative	613		False	False
+hard_negative__Q96FE5	Q96FE5	hard_negative	620		False	False
+hard_negative__Q96ID5	Q96ID5	hard_negative	467		False	False
+hard_negative__Q96JA1	Q96JA1	hard_negative	1093		False	False
+hard_negative__Q96LA5	Q96LA5	hard_negative	508		False	False
+hard_negative__Q99706	Q99706	hard_negative	377		False	False
+hard_negative__Q99N28	Q99N28	hard_negative	396		False	True
+hard_negative__Q9BDR7	Q9BDR7	hard_negative	85		False	False
+hard_negative__Q9BY67	Q9BY67	hard_negative	442		False	False
+hard_negative__Q9D1T0	Q9D1T0	hard_negative	614		False	False
+hard_negative__Q9EQS9	Q9EQS9	hard_negative	1252		False	False
+hard_negative__Q9H7L2	Q9H7L2	hard_negative	352		False	False
+hard_negative__Q9JMH2	Q9JMH2	hard_negative	623		False	False
+hard_negative__Q9N008	Q9N008	hard_negative	614		False	False
+hard_negative__Q9N2I5	Q9N2I5	hard_negative	250		False	False
+hard_negative__Q9NSI5	Q9NSI5	hard_negative	407		False	False
+hard_negative__Q9P232	Q9P232	hard_negative	1028		False	False
+hard_negative__Q9P2J2	Q9P2J2	hard_negative	1179		False	False
+hard_negative__Q9P2V4	Q9P2V4	hard_negative	623		False	False
+hard_negative__Q9UGN4	Q9UGN4	hard_negative	299		False	False
+hard_negative__Q9UKJ0	Q9UKJ0	hard_negative	227		False	False
+hard_negative__Q9UKJ1	Q9UKJ1	hard_negative	303		False	False
+hard_negative__Q9UPX0	Q9UPX0	hard_negative	1349		False	False
+hard_negative__Q9XSZ6	Q9XSZ6	hard_negative	86		False	False
+hard_negative__Q9Z0K5	Q9Z0K5	hard_negative	238		False	False
+hard_negative__W8DXL4	W8DXL4	hard_negative	681		False	False
+fragment30__P01618_whole	P01618_whole	fragment30	30	IGK_V	False	False
+fragment60__P01618_whole	P01618_whole	fragment60	60	IGK_V	False	True
+fragment90__P01618_whole	P01618_whole	fragment90	90	IGK_V	False	True
+shuffled__P01618_whole	P01618_whole	shuffled	108	IGK_V	False	False
+fragment30__P01681_whole	P01681_whole	fragment30	30	IGK_V	False	False
+fragment60__P01681_whole	P01681_whole	fragment60	60	IGK_V	False	True
+fragment90__P01681_whole	P01681_whole	fragment90	90	IGK_V	False	True
+shuffled__P01681_whole	P01681_whole	shuffled	109	IGK_V	False	False
+fragment30__P01682_whole	P01682_whole	fragment30	30	IGK_V	False	False
+fragment60__P01682_whole	P01682_whole	fragment60	60	IGK_V	False	True
+fragment90__P01682_whole	P01682_whole	fragment90	90	IGK_V	False	True
+shuffled__P01682_whole	P01682_whole	shuffled	110	IGK_V	False	False
+fragment30__P01683_whole	P01683_whole	fragment30	30	IGK_V	False	False
+fragment60__P01683_whole	P01683_whole	fragment60	60	IGK_V	False	True
+fragment90__P01683_whole	P01683_whole	fragment90	90	IGK_V	False	True
+shuffled__P01683_whole	P01683_whole	shuffled	115	IGK_V	False	False
+fragment30__P01684_whole	P01684_whole	fragment30	30	IGK_V	False	False
+fragment60__P01684_whole	P01684_whole	fragment60	60	IGK_V	False	True
+fragment90__P01684_whole	P01684_whole	fragment90	90	IGK_V	False	True
+shuffled__P01684_whole	P01684_whole	shuffled	109	IGK_V	False	False
+fragment30__P01685_whole	P01685_whole	fragment30	30	IGK_V	False	False
+fragment60__P01685_whole	P01685_whole	fragment60	60	IGK_V	False	True
+fragment90__P01685_whole	P01685_whole	fragment90	90	IGK_V	False	True
+shuffled__P01685_whole	P01685_whole	shuffled	107	IGK_V	False	False
+fragment30__P01686_whole	P01686_whole	fragment30	30	IGK_V	False	False
+fragment60__P01686_whole	P01686_whole	fragment60	60	IGK_V	False	True
+fragment90__P01686_whole	P01686_whole	fragment90	90	IGK_V	False	True
+shuffled__P01686_whole	P01686_whole	shuffled	108	IGK_V	False	False
+fragment30__P01687_whole	P01687_whole	fragment30	30	IGK_V	False	False
+fragment60__P01687_whole	P01687_whole	fragment60	60	IGK_V	False	True
+fragment90__P01687_whole	P01687_whole	fragment90	90	IGK_V	False	True
+shuffled__P01687_whole	P01687_whole	shuffled	108	IGK_V	False	False
+fragment30__P01688_whole	P01688_whole	fragment30	30	IGK_V	False	False
+fragment60__P01688_whole	P01688_whole	fragment60	60	IGK_V	False	True
+fragment90__P01688_whole	P01688_whole	fragment90	90	IGK_V	False	True
+shuffled__P01688_whole	P01688_whole	shuffled	108	IGK_V	False	False
+fragment30__P01689_whole	P01689_whole	fragment30	30	IGK_V	False	False
+fragment60__P01689_whole	P01689_whole	fragment60	60	IGK_V	False	True
+fragment90__P01689_whole	P01689_whole	fragment90	90	IGK_V	False	True
+shuffled__P01689_whole	P01689_whole	shuffled	108	IGK_V	False	False
+fragment30__P01690_whole	P01690_whole	fragment30	30	IGK_V	False	False
+fragment60__P01690_whole	P01690_whole	fragment60	60	IGK_V	False	True
+fragment90__P01690_whole	P01690_whole	fragment90	90	IGK_V	False	True
+shuffled__P01690_whole	P01690_whole	shuffled	92	IGK_V	False	False
+fragment30__P01691_whole	P01691_whole	fragment30	30	IGK_V	False	False
+fragment60__P01691_whole	P01691_whole	fragment60	60	IGK_V	False	True
+fragment90__P01691_whole	P01691_whole	fragment90	90	IGK_V	False	True
+shuffled__P01691_whole	P01691_whole	shuffled	117	IGK_V	False	False
+fragment30__P01692_whole	P01692_whole	fragment30	30	IGK_V	False	False
+fragment60__P01692_whole	P01692_whole	fragment60	60	IGK_V	False	True
+fragment90__P01692_whole	P01692_whole	fragment90	90	IGK_V	False	True
+shuffled__P01692_whole	P01692_whole	shuffled	94	IGK_V	False	False
+fragment30__P01693_whole	P01693_whole	fragment30	30	IGK_V	False	False
+fragment60__P01693_whole	P01693_whole	fragment60	60	IGK_V	False	True
+fragment90__P01693_whole	P01693_whole	fragment90	90	IGK_V	False	True
+shuffled__P01693_whole	P01693_whole	shuffled	111	IGK_V	False	False
+fragment30__P01694_whole	P01694_whole	fragment30	30	IGK_V	False	False
+fragment60__P01694_whole	P01694_whole	fragment60	60	IGK_V	False	True
+fragment90__P01694_whole	P01694_whole	fragment90	90	IGK_V	False	True
+shuffled__P01694_whole	P01694_whole	shuffled	110	IGK_V	False	False
+fragment30__P01695_whole	P01695_whole	fragment30	30	IGK_V	False	False
+fragment60__P01695_whole	P01695_whole	fragment60	60	IGK_V	False	True
+fragment90__P01695_whole	P01695_whole	fragment90	90	IGK_V	False	True
+shuffled__P01695_whole	P01695_whole	shuffled	109	IGK_V	False	False
+fragment30__P01696_whole	P01696_whole	fragment30	30	IGK_V	False	False
+fragment60__P01696_whole	P01696_whole	fragment60	60	IGK_V	False	True
+fragment90__P01696_whole	P01696_whole	fragment90	90	IGK_V	False	True
+shuffled__P01696_whole	P01696_whole	shuffled	110	IGK_V	False	False
+fragment30__P01697_whole	P01697_whole	fragment30	30	IGK_V	False	False
+fragment60__P01697_whole	P01697_whole	fragment60	60	IGK_V	False	True
+fragment90__P01697_whole	P01697_whole	fragment90	90	IGK_V	False	True
+shuffled__P01697_whole	P01697_whole	shuffled	114	IGK_V	False	False
+fragment30__P01698_whole	P01698_whole	fragment30	30	IGK_V	False	False
+fragment60__P01698_whole	P01698_whole	fragment60	60	IGK_V	False	True
+fragment90__P01698_whole	P01698_whole	fragment90	90	IGK_V	False	True
+shuffled__P01698_whole	P01698_whole	shuffled	104	IGK_V	False	False
+fragment30__P01784_1_112	P01784_1_112	fragment30	30	IGH_V	False	False
+fragment60__P01784_1_112	P01784_1_112	fragment60	60	IGH_V	False	True
+fragment90__P01784_1_112	P01784_1_112	fragment90	90	IGH_V	False	True
+shuffled__P01784_1_112	P01784_1_112	shuffled	112	IGH_V	False	False
+fragment30__P01785_1_116	P01785_1_116	fragment30	30	IGH_V	False	False
+fragment60__P01785_1_116	P01785_1_116	fragment60	60	IGH_V	False	True
+fragment90__P01785_1_116	P01785_1_116	fragment90	90	IGH_V	False	True
+shuffled__P01785_1_116	P01785_1_116	shuffled	116	IGH_V	False	False
+fragment30__P01805_20_133	P01805_20_133	fragment30	30	IGH_V	False	False
+fragment60__P01805_20_133	P01805_20_133	fragment60	60	IGH_V	False	True
+fragment90__P01805_20_133	P01805_20_133	fragment90	90	IGH_V	False	True
+shuffled__P01805_20_133	P01805_20_133	shuffled	114	IGH_V	False	False
+fragment30__P01813_whole	P01813_whole	fragment30	30	IGH_V	False	False
+fragment60__P01813_whole	P01813_whole	fragment60	60	IGH_V	False	True
+fragment90__P01813_whole	P01813_whole	fragment90	90	IGH_V	False	True
+shuffled__P01813_whole	P01813_whole	shuffled	117	IGH_V	False	False
+fragment30__P01826_1_107	P01826_1_107	fragment30	30	IGH_V	False	False
+fragment60__P01826_1_107	P01826_1_107	fragment60	60	IGH_V	False	True
+fragment90__P01826_1_107	P01826_1_107	fragment90	90	IGH_V	False	True
+shuffled__P01826_1_107	P01826_1_107	shuffled	107	IGH_V	False	False
+fragment30__P01827_1_107	P01827_1_107	fragment30	30	IGH_V	False	False
+fragment60__P01827_1_107	P01827_1_107	fragment60	60	IGH_V	False	True
+fragment90__P01827_1_107	P01827_1_107	fragment90	90	IGH_V	False	True
+shuffled__P01827_1_107	P01827_1_107	shuffled	107	IGH_V	False	False
+fragment30__P01828_1_106	P01828_1_106	fragment30	30	IGH_V	False	False
+fragment60__P01828_1_106	P01828_1_106	fragment60	60	IGH_V	False	True
+fragment90__P01828_1_106	P01828_1_106	fragment90	90	IGH_V	False	True
+shuffled__P01828_1_106	P01828_1_106	shuffled	106	IGH_V	False	False
+fragment30__P01829_20_127	P01829_20_127	fragment30	30	IGH_V	False	False
+fragment60__P01829_20_127	P01829_20_127	fragment60	60	IGH_V	False	True
+fragment90__P01829_20_127	P01829_20_127	fragment90	90	IGH_V	False	True
+shuffled__P01829_20_127	P01829_20_127	shuffled	108	IGH_V	False	False
+fragment30__P01835_5_102	P01835_5_102	fragment30	30	IGK_C	False	False
+fragment60__P01835_5_102	P01835_5_102	fragment60	60	IGK_C	False	True
+fragment90__P01835_5_102	P01835_5_102	fragment90	90	IGK_C	False	True
+shuffled__P01835_5_102	P01835_5_102	shuffled	98	IGK_C	False	False
+fragment30__P01836_5_102	P01836_5_102	fragment30	30	IGK_C	False	False
+fragment60__P01836_5_102	P01836_5_102	fragment60	60	IGK_C	False	True
+fragment90__P01836_5_102	P01836_5_102	fragment90	90	IGK_C	False	True
+shuffled__P01836_5_102	P01836_5_102	shuffled	98	IGK_C	False	False
+fragment30__P01838_6_100	P01838_6_100	fragment30	30	IGK_C	False	False
+fragment60__P01838_6_100	P01838_6_100	fragment60	60	IGK_C	False	True
+fragment90__P01838_6_100	P01838_6_100	fragment90	90	IGK_C	False	True
+shuffled__P01838_6_100	P01838_6_100	shuffled	95	IGK_C	False	False
+fragment30__P01839_6_99	P01839_6_99	fragment30	30	IGK_C	False	False
+fragment60__P01839_6_99	P01839_6_99	fragment60	60	IGK_C	False	True
+fragment90__P01839_6_99	P01839_6_99	fragment90	90	IGK_C	False	True
+shuffled__P01839_6_99	P01839_6_99	shuffled	94	IGK_C	False	False
+fragment30__P01840_5_95	P01840_5_95	fragment30	30	IGK_C	False	False
+fragment60__P01840_5_95	P01840_5_95	fragment60	60	IGK_C	False	True
+fragment90__P01840_5_95	P01840_5_95	fragment90	90	IGK_C	False	True
+shuffled__P01840_5_95	P01840_5_95	shuffled	91	IGK_C	False	False
+fragment30__P01841_5_99	P01841_5_99	fragment30	30	IGK_C	False	False
+fragment60__P01841_5_99	P01841_5_99	fragment60	60	IGK_C	False	True
+fragment90__P01841_5_99	P01841_5_99	fragment90	90	IGK_C	False	True
+shuffled__P01841_5_99	P01841_5_99	shuffled	95	IGK_C	False	False
+fragment30__P01846_2_100	P01846_2_100	fragment30	30	IGL_C	False	False
+fragment60__P01846_2_100	P01846_2_100	fragment60	60	IGL_C	False	True
+fragment90__P01846_2_100	P01846_2_100	fragment90	90	IGL_C	False	True
+shuffled__P01846_2_100	P01846_2_100	shuffled	99	IGL_C	False	False
+fragment30__P01847_6_100	P01847_6_100	fragment30	30	IGL_C	False	False
+fragment60__P01847_6_100	P01847_6_100	fragment60	60	IGL_C	False	True
+fragment90__P01847_6_100	P01847_6_100	fragment90	90	IGL_C	False	True
+shuffled__P01847_6_100	P01847_6_100	shuffled	95	IGL_C	False	False
+fragment30__P01855_6_89	P01855_6_89	fragment30	30	IGH_C	False	False
+fragment60__P01855_6_89	P01855_6_89	fragment60	60	IGH_C	False	True
+shuffled__P01855_6_89	P01855_6_89	shuffled	84	IGH_C	False	False
+fragment30__P01855_103_201	P01855_103_201	fragment30	30	IGH_C	False	False
+fragment60__P01855_103_201	P01855_103_201	fragment60	60	IGH_C	False	True
+fragment90__P01855_103_201	P01855_103_201	fragment90	90	IGH_C	False	True
+shuffled__P01855_103_201	P01855_103_201	shuffled	99	IGH_C	False	False
+fragment30__P01855_205_305	P01855_205_305	fragment30	30	IGH_C	False	False
+fragment60__P01855_205_305	P01855_205_305	fragment60	60	IGH_C	False	True
+fragment90__P01855_205_305	P01855_205_305	fragment90	90	IGH_C	False	True
+shuffled__P01855_205_305	P01855_205_305	shuffled	101	IGH_C	False	False
+fragment30__P01855_314_414	P01855_314_414	fragment30	30	IGH_C	False	False
+fragment60__P01855_314_414	P01855_314_414	fragment60	60	IGH_C	False	True
+fragment90__P01855_314_414	P01855_314_414	fragment90	90	IGH_C	False	True
+shuffled__P01855_314_414	P01855_314_414	shuffled	101	IGH_C	False	False
+fragment30__P01870_6_96	P01870_6_96	fragment30	30	IGH_C	False	False
+fragment60__P01870_6_96	P01870_6_96	fragment60	60	IGH_C	False	True
+fragment90__P01870_6_96	P01870_6_96	fragment90	90	IGH_C	False	True
+shuffled__P01870_6_96	P01870_6_96	shuffled	91	IGH_C	False	False
+fragment30__P01870_114_213	P01870_114_213	fragment30	30	IGH_C	False	False
+fragment60__P01870_114_213	P01870_114_213	fragment60	60	IGH_C	False	True
+fragment90__P01870_114_213	P01870_114_213	fragment90	90	IGH_C	False	True
+shuffled__P01870_114_213	P01870_114_213	shuffled	100	IGH_C	False	False
+fragment30__P01870_222_318	P01870_222_318	fragment30	30	IGH_C	False	False
+fragment60__P01870_222_318	P01870_222_318	fragment60	60	IGH_C	False	True
+fragment90__P01870_222_318	P01870_222_318	fragment90	90	IGH_C	False	True
+shuffled__P01870_222_318	P01870_222_318	shuffled	97	IGH_C	False	False
+fragment30__P01879_71_167	P01879_71_167	fragment30	30	IGH_C	False	False
+fragment60__P01879_71_167	P01879_71_167	fragment60	60	IGH_C	False	True
+fragment90__P01879_71_167	P01879_71_167	fragment90	90	IGH_C	False	True
+shuffled__P01879_71_167	P01879_71_167	shuffled	97	IGH_C	False	False
+fragment30__P01879_174_276	P01879_174_276	fragment30	30	IGH_C	False	False
+fragment60__P01879_174_276	P01879_174_276	fragment60	60	IGH_C	False	True
+fragment90__P01879_174_276	P01879_174_276	fragment90	90	IGH_C	False	True
+shuffled__P01879_174_276	P01879_174_276	shuffled	103	IGH_C	False	False
+fragment30__P01883_66_178	P01883_66_178	fragment30	30	IGH_C	False	False
+fragment60__P01883_66_178	P01883_66_178	fragment60	60	IGH_C	False	True
+fragment90__P01883_66_178	P01883_66_178	fragment90	90	IGH_C	False	True
+shuffled__P01883_66_178	P01883_66_178	shuffled	113	IGH_C	False	False
+fragment30__P03981_whole	P03981_whole	fragment30	30	IGH_V	False	False
+fragment60__P03981_whole	P03981_whole	fragment60	60	IGH_V	False	True
+fragment90__P03981_whole	P03981_whole	fragment90	90	IGH_V	False	True
+shuffled__P03981_whole	P03981_whole	shuffled	117	IGH_V	False	False
+fragment30__P03982_whole	P03982_whole	fragment30	30	IGH_V	False	False
+fragment60__P03982_whole	P03982_whole	fragment60	60	IGH_V	False	True
+fragment90__P03982_whole	P03982_whole	fragment90	90	IGH_V	False	True
+shuffled__P03982_whole	P03982_whole	shuffled	117	IGH_V	False	False
+fragment30__P03983_whole	P03983_whole	fragment30	30	IGH_V	False	False
+fragment60__P03983_whole	P03983_whole	fragment60	60	IGH_V	False	True
+fragment90__P03983_whole	P03983_whole	fragment90	90	IGH_V	False	True
+shuffled__P03983_whole	P03983_whole	shuffled	116	IGH_V	False	False
+fragment30__P03984_5_100	P03984_5_100	fragment30	30	IGK_C	False	False
+fragment60__P03984_5_100	P03984_5_100	fragment60	60	IGK_C	False	True
+fragment90__P03984_5_100	P03984_5_100	fragment90	90	IGK_C	False	True
+shuffled__P03984_5_100	P03984_5_100	shuffled	96	IGK_C	False	False
+fragment30__P04210_whole	P04210_whole	fragment30	30	IGL_V	False	False
+fragment60__P04210_whole	P04210_whole	fragment60	60	IGL_V	False	True
+fragment90__P04210_whole	P04210_whole	fragment90	90	IGL_V	False	True
+shuffled__P04210_whole	P04210_whole	shuffled	113	IGL_V	False	False
+fragment30__P04215_whole	P04215_whole	fragment30	30	IGH_V	False	False
+fragment60__P04215_whole	P04215_whole	fragment60	60	IGH_V	False	True
+shuffled__P04215_whole	P04215_whole	shuffled	89	IGH_V	False	False
+fragment30__P06322_whole	P06322_whole	fragment30	30	TRA_V	False	False
+fragment60__P06322_whole	P06322_whole	fragment60	60	TRA_V	False	True
+fragment90__P06322_whole	P06322_whole	fragment90	90	TRA_V	False	True
+shuffled__P06322_whole	P06322_whole	shuffled	134	TRA_V	False	False
+fragment30__P06333_whole	P06333_whole	fragment30	30	TRB_C	True	False
+fragment60__P06333_whole	P06333_whole	fragment60	60	TRB_C	False	True
+fragment90__P06333_whole	P06333_whole	fragment90	90	TRB_C	False	True
+shuffled__P06333_whole	P06333_whole	shuffled	177	TRB_C	False	False
+fragment30__P0DUB3_6_96	P0DUB3_6_96	fragment30	30	IGH_C	False	False
+fragment60__P0DUB3_6_96	P0DUB3_6_96	fragment60	60	IGH_C	False	False
+fragment90__P0DUB3_6_96	P0DUB3_6_96	fragment90	90	IGH_C	False	True
+shuffled__P0DUB3_6_96	P0DUB3_6_96	shuffled	91	IGH_C	False	False
+fragment30__P0DUB3_118_212	P0DUB3_118_212	fragment30	30	IGH_C	False	False
+fragment60__P0DUB3_118_212	P0DUB3_118_212	fragment60	60	IGH_C	False	True
+fragment90__P0DUB3_118_212	P0DUB3_118_212	fragment90	90	IGH_C	False	True
+shuffled__P0DUB3_118_212	P0DUB3_118_212	shuffled	95	IGH_C	False	False
+fragment30__P0DUB3_221_323	P0DUB3_221_323	fragment30	30	IGH_C	False	False
+fragment60__P0DUB3_221_323	P0DUB3_221_323	fragment60	60	IGH_C	False	True
+fragment90__P0DUB3_221_323	P0DUB3_221_323	fragment90	90	IGH_C	False	True
+shuffled__P0DUB3_221_323	P0DUB3_221_323	shuffled	103	IGH_C	False	False
+fragment30__P19180_whole	P19180_whole	fragment30	30	IGH_V	False	False
+fragment60__P19180_whole	P19180_whole	fragment60	60	IGH_V	False	True
+fragment90__P19180_whole	P19180_whole	fragment90	90	IGH_V	False	True
+shuffled__P19180_whole	P19180_whole	shuffled	117	IGH_V	False	False
+fragment30__P19181_whole	P19181_whole	fragment30	30	IGH_V	True	False
+fragment60__P19181_whole	P19181_whole	fragment60	60	IGH_V	True	True
+fragment90__P19181_whole	P19181_whole	fragment90	90	IGH_V	True	True
+shuffled__P19181_whole	P19181_whole	shuffled	116	IGH_V	True	False
+fragment30__P20758_6_98	P20758_6_98	fragment30	30	IGH_C	True	False
+fragment60__P20758_6_98	P20758_6_98	fragment60	60	IGH_C	True	True
+fragment90__P20758_6_98	P20758_6_98	fragment90	90	IGH_C	True	True
+shuffled__P20758_6_98	P20758_6_98	shuffled	93	IGH_C	True	False
+fragment30__P20758_125_220	P20758_125_220	fragment30	30	IGH_C	True	False
+fragment60__P20758_125_220	P20758_125_220	fragment60	60	IGH_C	True	True
+fragment90__P20758_125_220	P20758_125_220	fragment90	90	IGH_C	True	True
+shuffled__P20758_125_220	P20758_125_220	shuffled	96	IGH_C	True	False
+fragment30__P20758_228_330	P20758_228_330	fragment30	30	IGH_C	True	False
+fragment60__P20758_228_330	P20758_228_330	fragment60	60	IGH_C	True	True
+fragment90__P20758_228_330	P20758_228_330	fragment90	90	IGH_C	True	True
+shuffled__P20758_228_330	P20758_228_330	shuffled	103	IGH_C	True	False
+fragment30__P20760_6_98	P20760_6_98	fragment30	30	IGH_C	True	False
+fragment60__P20760_6_98	P20760_6_98	fragment60	60	IGH_C	False	True
+fragment90__P20760_6_98	P20760_6_98	fragment90	90	IGH_C	False	True
+shuffled__P20760_6_98	P20760_6_98	shuffled	93	IGH_C	False	False
+fragment30__P20760_115_212	P20760_115_212	fragment30	30	IGH_C	False	False
+fragment60__P20760_115_212	P20760_115_212	fragment60	60	IGH_C	False	True
+fragment90__P20760_115_212	P20760_115_212	fragment90	90	IGH_C	False	True
+shuffled__P20760_115_212	P20760_115_212	shuffled	98	IGH_C	False	False
+fragment30__P20760_221_317	P20760_221_317	fragment30	30	IGH_C	False	False
+fragment60__P20760_221_317	P20760_221_317	fragment60	60	IGH_C	False	True
+fragment90__P20760_221_317	P20760_221_317	fragment90	90	IGH_C	False	True
+shuffled__P20760_221_317	P20760_221_317	shuffled	97	IGH_C	False	False
+fragment30__P20761_6_96	P20761_6_96	fragment30	30	IGH_C	False	False
+fragment60__P20761_6_96	P20761_6_96	fragment60	60	IGH_C	False	True
+fragment90__P20761_6_96	P20761_6_96	fragment90	90	IGH_C	False	True
+shuffled__P20761_6_96	P20761_6_96	shuffled	91	IGH_C	False	False
+fragment30__P20761_124_223	P20761_124_223	fragment30	30	IGH_C	False	False
+fragment60__P20761_124_223	P20761_124_223	fragment60	60	IGH_C	False	True
+fragment90__P20761_124_223	P20761_124_223	fragment90	90	IGH_C	False	True
+shuffled__P20761_124_223	P20761_124_223	shuffled	100	IGH_C	False	False
+fragment30__P20761_232_328	P20761_232_328	fragment30	30	IGH_C	False	False
+fragment60__P20761_232_328	P20761_232_328	fragment60	60	IGH_C	False	True
+fragment90__P20761_232_328	P20761_232_328	fragment90	90	IGH_C	False	True
+shuffled__P20761_232_328	P20761_232_328	shuffled	97	IGH_C	False	False
+fragment30__P20763_6_99	P20763_6_99	fragment30	30	IGL_C	False	False
+fragment60__P20763_6_99	P20763_6_99	fragment60	60	IGL_C	False	True
+fragment90__P20763_6_99	P20763_6_99	fragment90	90	IGL_C	False	True
+shuffled__P20763_6_99	P20763_6_99	shuffled	94	IGL_C	False	False
+fragment30__P20766_6_99	P20766_6_99	fragment30	30	IGL_C	False	False
+fragment60__P20766_6_99	P20766_6_99	fragment60	60	IGL_C	False	True
+fragment90__P20766_6_99	P20766_6_99	fragment90	90	IGL_C	False	True
+shuffled__P20766_6_99	P20766_6_99	shuffled	94	IGL_C	False	False
+fragment30__P20767_6_99	P20767_6_99	fragment30	30	IGL_C	False	False
+fragment60__P20767_6_99	P20767_6_99	fragment60	60	IGL_C	False	True
+fragment90__P20767_6_99	P20767_6_99	fragment90	90	IGL_C	False	True
+shuffled__P20767_6_99	P20767_6_99	shuffled	94	IGL_C	False	False
+fragment30__P20956_19_128	P20956_19_128	fragment30	30	IGH_V	False	False
+fragment60__P20956_19_128	P20956_19_128	fragment60	60	IGH_V	False	True
+fragment90__P20956_19_128	P20956_19_128	fragment90	90	IGH_V	False	True
+shuffled__P20956_19_128	P20956_19_128	shuffled	110	IGH_V	False	False
+fragment30__P20957_20_128	P20957_20_128	fragment30	30	IGH_V	False	False
+fragment60__P20957_20_128	P20957_20_128	fragment60	60	IGH_V	False	True
+fragment90__P20957_20_128	P20957_20_128	fragment90	90	IGH_V	False	True
+shuffled__P20957_20_128	P20957_20_128	shuffled	109	IGH_V	False	False
+fragment30__P23084_40_134	P23084_40_134	fragment30	30	IGH_C	False	False
+fragment60__P23084_40_134	P23084_40_134	fragment60	60	IGH_C	False	True
+fragment90__P23084_40_134	P23084_40_134	fragment90	90	IGH_C	False	True
+shuffled__P23084_40_134	P23084_40_134	shuffled	95	IGH_C	False	False
+fragment30__P23084_145_237	P23084_145_237	fragment30	30	IGH_C	False	False
+fragment60__P23084_145_237	P23084_145_237	fragment60	60	IGH_C	False	False
+fragment90__P23084_145_237	P23084_145_237	fragment90	90	IGH_C	False	True
+shuffled__P23084_145_237	P23084_145_237	shuffled	93	IGH_C	False	False
+fragment30__P23084_247_347	P23084_247_347	fragment30	30	IGH_C	False	False
+fragment60__P23084_247_347	P23084_247_347	fragment60	60	IGH_C	False	True
+fragment90__P23084_247_347	P23084_247_347	fragment90	90	IGH_C	False	True
+shuffled__P23084_247_347	P23084_247_347	shuffled	101	IGH_C	False	False
+fragment30__P23085_5_101	P23085_5_101	fragment30	30	IGH_C	False	False
+fragment60__P23085_5_101	P23085_5_101	fragment60	60	IGH_C	False	False
+fragment90__P23085_5_101	P23085_5_101	fragment90	90	IGH_C	False	True
+shuffled__P23085_5_101	P23085_5_101	shuffled	97	IGH_C	False	False
+fragment30__P23085_108_202	P23085_108_202	fragment30	30	IGH_C	False	False
+fragment60__P23085_108_202	P23085_108_202	fragment60	60	IGH_C	False	True
+fragment90__P23085_108_202	P23085_108_202	fragment90	90	IGH_C	False	True
+shuffled__P23085_108_202	P23085_108_202	shuffled	95	IGH_C	False	False
+fragment30__P23085_213_305	P23085_213_305	fragment30	30	IGH_C	False	False
+fragment60__P23085_213_305	P23085_213_305	fragment60	60	IGH_C	False	False
+fragment90__P23085_213_305	P23085_213_305	fragment90	90	IGH_C	False	True
+shuffled__P23085_213_305	P23085_213_305	shuffled	93	IGH_C	False	False
+fragment30__P23085_315_415	P23085_315_415	fragment30	30	IGH_C	False	False
+fragment60__P23085_315_415	P23085_315_415	fragment60	60	IGH_C	False	True
+fragment90__P23085_315_415	P23085_315_415	fragment90	90	IGH_C	False	True
+shuffled__P23085_315_415	P23085_315_415	shuffled	101	IGH_C	False	False
+fragment30__P23086_63_157	P23086_63_157	fragment30	30	IGH_C	False	False
+fragment60__P23086_63_157	P23086_63_157	fragment60	60	IGH_C	False	True
+fragment90__P23086_63_157	P23086_63_157	fragment90	90	IGH_C	False	True
+shuffled__P23086_63_157	P23086_63_157	shuffled	95	IGH_C	False	False
+fragment30__P23086_168_260	P23086_168_260	fragment30	30	IGH_C	False	False
+fragment60__P23086_168_260	P23086_168_260	fragment60	60	IGH_C	False	False
+fragment90__P23086_168_260	P23086_168_260	fragment90	90	IGH_C	False	True
+shuffled__P23086_168_260	P23086_168_260	shuffled	93	IGH_C	False	False
+fragment30__P23086_270_370	P23086_270_370	fragment30	30	IGH_C	False	False
+fragment60__P23086_270_370	P23086_270_370	fragment60	60	IGH_C	False	True
+fragment90__P23086_270_370	P23086_270_370	fragment90	90	IGH_C	False	True
+shuffled__P23086_270_370	P23086_270_370	shuffled	101	IGH_C	False	False
+fragment30__Q5M871_24_121	Q5M871_24_121	fragment30	30	IGH_V	False	False
+fragment60__Q5M871_24_121	Q5M871_24_121	fragment60	60	IGH_V	False	True
+fragment90__Q5M871_24_121	Q5M871_24_121	fragment90	90	IGH_V	False	True
+shuffled__Q5M871_24_121	Q5M871_24_121	shuffled	98	IGH_V	False	False
+known_natural__P11364	P11364	known_natural_positive	321		False	True
+camelid_VHH_spot_check__1MVF_entity1	1MVF_entity1	camelid_VHH_spot_check	135	camelid_VHH_spot_check	False	True
+shark_VNAR_spot_check__1T6V_entity2	1T6V_entity2	shark_VNAR_spot_check	113	shark_VNAR_spot_check	False	True

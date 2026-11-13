@@ -1,0 +1,55 @@
+{
+  "status": "host_locus_supported",
+  "verified_utc": "2026-11-13T21:55:48.169056+00:00",
+  "genome": "IMGVR_UViG_3300032031_000646",
+  "query_length": 10225,
+  "query_coverage_percent": 100.0,
+  "minimum_selected_alignment_identity_percent": 99.413,
+  "reference_assembly": "hg38 (GRCh38)",
+  "chromosome": "chr14",
+  "reference_window_start_0based": 105500000,
+  "reference_window_end_exclusive": 107000000,
+  "selected_alignments": [
+    {
+      "qseqid": "IMGVR_UViG_3300032031_000646|3300032031|Ga0326364_1260449",
+      "sseqid": "hg38_chr14_105500001_107000000",
+      "pident": "99.507",
+      "length": "6090",
+      "qstart": "1",
+      "qend": "6090",
+      "sstart": "1246132",
+      "send": "1252220",
+      "evalue": "0.0",
+      "bitscore": "11079",
+      "qlen": "10225",
+      "slen": "1500000",
+      "qcovhsp": "60",
+      "chromosome_start_1based": 106746132,
+      "chromosome_end_inclusive": 106752220
+    },
+    {
+      "qseqid": "IMGVR_UViG_3300032031_000646|3300032031|Ga0326364_1260449",
+      "sseqid": "hg38_chr14_105500001_107000000",
+      "pident": "99.413",
+      "length": "4258",
+      "qstart": "5968",
+      "qend": "10225",
+      "sstart": "1206423",
+      "send": "1210678",
+      "evalue": "0.0",
+      "bitscore": "7723",
+      "qlen": "10225",
+      "slen": "1500000",
+      "qcovhsp": "42",
+      "chromosome_start_1based": 106706423,
+      "chromosome_end_inclusive": 106710678
+    }
+  ],
+  "input_sha256": {
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/context/IMGVR_UViG_3300032031_000646.fna": "ad98f3974cb4991fb2629719e78158f9421ceb905faee80d1c339ded95eddbfc",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/raw/candidates/hg38_chr14_105500000_107000000.json": "e15238b95c2044ddb850a1a184754357cb0591a1707ed8c006c9a538bbf2d24c",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/human_IGH_region.fna": "7d528956167ca9efdc75fde6c6632fc8f1e7137a6208bca72951ff1db6a15ecd",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/host_comparison/human_igh_blastn.tsv": "c8f89fa9d89e3c03742f4bd9670bf907c6c1bf8dfed98bb2bf372ae39d278c9c"
+  },
+  "assessment": "All assembly bases are covered by >=99% identity alignments to the human IGH reference region. The best alignments involve duplicated blocks, so this is not a single exact contiguous-reference match. Host-locus sequence/assembly is strongly supported; no independent viral flanks or natural capture established."
+}

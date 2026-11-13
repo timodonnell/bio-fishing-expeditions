@@ -1,5 +1,8 @@
 # Preserve exact bytes of scientific outputs whose SHA-256 hashes are recorded.
 # TSV empty final fields and HMM alignment padding are intentional whitespace.
 experiments/*/results/*.tsv -text whitespace=-blank-at-eol
+experiments/*/results/**/*.tsv -text whitespace=-blank-at-eol
+# Retain public service response bytes, including their original whitespace.
+experiments/*/results/**/*.html -text whitespace=-blank-at-eol,-blank-at-eof
 experiments/*/manifests/*.tsv -text whitespace=-blank-at-eol
 experiments/*/references/*.hmm -text whitespace=-blank-at-eol

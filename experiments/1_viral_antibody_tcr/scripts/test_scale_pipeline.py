@@ -16,9 +16,12 @@ from scan_bgzf import read_shard
 
 def rows(path):
     result = {}
+    counts = {}
     for row in csv.DictReader(path.open(), delimiter='\t'):
+        row['target'] = row['target'].split('|scan_record=')[0]
         key = tuple(row[k] for k in ['query', 'target', 'ali_from', 'ali_to', 'hmm_from', 'hmm_to'])
-        result[key] = row
+        counts[key] = counts.get(key,0) + 1
+        result[(key,counts[key])] = row
     return result
 
 
@@ -36,6 +39,9 @@ def main():
     control = (ROOT/'data/cache/benchmark/targets.faa').read_bytes()
     # A record crossing multiple BGZF blocks catches boundary handling errors.
     data = control + sample + b'>boundary_long_control\n' + b'A'*90000 + b'\n'
+    from Bio import SeqIO
+    positive = str(next(SeqIO.parse(ROOT/'data/cache/benchmark/known_positive.faa','fasta')).seq)
+    data += (f'>duplicate_header\n{positive}\n'*2).encode()
     target = work/'targets.bgz'
     with bgzf.BgzfWriter(str(target), 'wb') as handle:
         handle.write(data)
@@ -77,11 +83,15 @@ def main():
         assert summaries[0][key]==summaries[1][key], key
     positive = [r for r in whole.values() if r['target']=='known_natural__P11364' and r['tier']=='main']
     assert positive, 'Known natural TCR positive not recovered'
+    duplicates = [r for r in csv.DictReader((work/'whole/hits.tsv').open(),delimiter='\t')
+                  if r['target'].startswith('duplicate_header|scan_record=')]
+    assert len({r['target'] for r in duplicates})==2
     report = {'status':'passed','completed_utc':utc(),'commands':commands,
               'checks':['multiple BGZF blocks within a record','complete shard-boundary coverage',
                         'restart preserves completed shard','corrupt checkpoint rejected',
                         'sharded/unsharded hit and score equivalence',
                         'global E-values match independent original scanner at Z=1 billion',
+                        'duplicate identifiers preserve both matching record occurrences',
                         'known natural FeLV TCR recovered at Z=1 billion'],
               'target_sha256':sha256(target),'script_sha256':sha256(script),
               'test_script_sha256':sha256(Path(__file__)), 'protein_records':summaries[0]['protein_records'],

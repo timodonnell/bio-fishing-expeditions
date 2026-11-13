@@ -1,0 +1,110 @@
+{
+  "prepared_utc": "2026-11-13T21:35:04.691753+00:00",
+  "controls": [
+    {
+      "id": "camelid_VHH_spot_check__1MVF_entity1",
+      "category": "camelid_VHH_spot_check",
+      "pdb": "1MVF",
+      "entity": 1,
+      "length": 135,
+      "source_taxon": 9838,
+      "description": "immunoglobulin heavy chain variable region",
+      "author_chains": [
+        "A",
+        "B"
+      ],
+      "citation": {
+        "country": "US",
+        "id": "primary",
+        "journal_abbrev": "J.Biol.Chem.",
+        "journal_id_ASTM": "JBCHA3",
+        "journal_id_CSD": "0071",
+        "journal_id_ISSN": "0021-9258",
+        "journal_volume": "278",
+        "page_first": "28252",
+        "page_last": "28257",
+        "pdbx_database_id_DOI": "10.1074/jbc.M302336200",
+        "pdbx_database_id_PubMed": 12743116,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        "rcsb_authors": [
+          "Loris, R.",
+          "Marianovsky, I.",
+          "Lah, J.",
+          "Laeremans, T.",
+          "Engelberg-Kulka, H.",
+          "Glaser, G.",
+          "Muyldermans, S.",
+          "Wyns, L."
+        ],
+        "rcsb_journal_abbrev": "J Biol Chem",
+        "title": "Crystal structure of the intrinsically flexible addiction antidote MazE.",
+        "year": 2003
+      },
+      "source_url": "https://data.rcsb.org/rest/v1/core/polymer_entity/1MVF/1",
+      "entity_sha256": "ca9f3ab43de81a541e14463ad9e8e6a372f1a8f9f68606e7aa133db2303009ee",
+      "entry_sha256": "6d8357ddc0929167988942d46e658969982de85e351c0eba265eb90fb5dee7cf",
+      "exact_sequence_in_training": false,
+      "scope": "Published recombinant structural construct, full deposited polymer including tags; retrieval spot check, not a natural viral capture or broad family panel"
+    },
+    {
+      "id": "shark_VNAR_spot_check__1T6V_entity2",
+      "category": "shark_VNAR_spot_check",
+      "pdb": "1T6V",
+      "entity": 2,
+      "length": 113,
+      "source_taxon": 7801,
+      "description": "novel antigen receptor",
+      "author_chains": [
+        "N",
+        "O"
+      ],
+      "citation": {
+        "country": "US",
+        "id": "primary",
+        "journal_abbrev": "Science",
+        "journal_id_ASTM": "SCIEAS",
+        "journal_id_CSD": "0038",
+        "journal_id_ISSN": "0036-8075",
+        "journal_volume": "305",
+        "page_first": "1770",
+        "page_last": "1773",
+        "pdbx_database_id_DOI": "10.1126/science.1101148",
+        "pdbx_database_id_PubMed": 15319492,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        "rcsb_authors": [
+          "Stanfield, R.L.",
+          "Dooley, H.",
+          "Flajnik, M.F.",
+          "Wilson, I.A."
+        ],
+        "rcsb_journal_abbrev": "Science",
+        "title": "Crystal structure of a shark single-domain antibody V region in complex with lysozyme.",
+        "year": 2004
+      },
+      "source_url": "https://data.rcsb.org/rest/v1/core/polymer_entity/1T6V/2",
+      "entity_sha256": "2ebeb74f3f0bb32cdf32b83b267c8c5fed06d11d4a635150a0f30ac84eafcad9",
+      "entry_sha256": "e3fabc3092cef55cba2b47a971181f7135bad01347006faa79e21e1b4076fd78",
+      "exact_sequence_in_training": false,
+      "scope": "Published recombinant structural construct, full deposited polymer including tags; retrieval spot check, not a natural viral capture or broad family panel"
+    }
+  ],
+  "output_sha256": "25001f016d89513df1dc9d1643791baad3cab5e756c5e0df21c04405bad8e3cc",
+  "combined_benchmark_sha256": "a1b96f6f71896cf09588a82c787f3e6627961b2f6fb9b9db7cebd7da3accd61e",
+  "original_benchmark_sha256": "ed725b2bae9319635fa94176f5a6e016ed30bf4e8a929fb911dffdc41a49d778",
+  "training_unchanged": true,
+  "profiles_unchanged": true
+}

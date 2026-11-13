@@ -1,0 +1,48 @@
+{
+  "started_utc": "2026-11-13T21:29:41.638449+00:00",
+  "status": "interrupted",
+  "attempts": [
+    {
+      "started_utc": "2026-11-13T21:30:15.731814+00:00",
+      "command": [
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+        "experiments/1_viral_antibody_tcr/scripts/scan_bgzf.py",
+        "experiments/1_viral_antibody_tcr/data/raw/metavr/METAVR.faa.bgz",
+        "experiments/1_viral_antibody_tcr/results/metavr",
+        "--workers",
+        "4",
+        "--cpus",
+        "4",
+        "--shard-mib",
+        "256"
+      ]
+    }
+  ],
+  "identity": {
+    "target_sha256": "30ac6f74eceae3490ddd26e169d63efe66c1ae410775890ab029653afad49a8d",
+    "target_bytes": 49996313962,
+    "profiles_sha256": "e64d4c4729d58529b3cd993d6a2b79d8fac539e16e63ec03221288b9f0339893",
+    "script_sha256": "82bb02102910a49a416fe9527940aec40111e619b0b7cb77f30216544ad00e59",
+    "pyhmmer": "0.12.3",
+    "biopython": "1.86",
+    "parameters": {
+      "cpus_per_worker": 4,
+      "workers": 4,
+      "shard_bytes": 268435456,
+      "reference_Z": 1000000,
+      "E": 100,
+      "domE": 100,
+      "seed": 42,
+      "retain_reference_independent_domain_E": 0.01,
+      "final_Z_override": null
+    }
+  },
+  "target": "experiments/1_viral_antibody_tcr/data/raw/metavr/METAVR.faa.bgz",
+  "profiles": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/references/receptor_profiles.hmm",
+  "git_commit": "534e47f0ed7ccdf143b06d8e1c6fb6ef67cc8626",
+  "completed_shards": 8,
+  "updated_utc": "2026-11-13T21:30:51.627684+00:00",
+  "searched_records": 7439698,
+  "compressed_position": 949852899,
+  "error": "ValueError('Duplicate protein identifiers within shard')"
+}

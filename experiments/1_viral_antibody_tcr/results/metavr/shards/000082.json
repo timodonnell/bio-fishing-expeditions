@@ -1,0 +1,23 @@
+{
+  "shard": 82,
+  "completed_utc": "2026-11-13T21:37:53.306022+00:00",
+  "records": 798004,
+  "first_record_ordinal": 72612192,
+  "duplicate_ids_within_shard": 0,
+  "residues": 202366024,
+  "uncompressed_bytes": 268435390,
+  "fasta_sha256": "344fe15bbf8a960b0e1cd2a72110b0303d3d6a2cb2732188474b915e6e816b04",
+  "start_virtual_offset": 666905118594349,
+  "end_virtual_offset": 675443009282397,
+  "source_genome_ids_in_shard": 272405,
+  "headers_without_pipe": 0,
+  "domain_rows": 0,
+  "candidate_proteins": 0,
+  "worker_seconds": 9.474702030420303,
+  "worker_maxrss_kib": 1729784,
+  "outputs": {
+    "experiments/1_viral_antibody_tcr/results/metavr/shards/000082.tsv": "8d8f10edcee47a06e046ec1e05174a6ec6f7d31d87760a0219305f2ad5674866",
+    "experiments/1_viral_antibody_tcr/results/metavr/shards/000082.faa": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/coverage/metavr-f9ba27bdaf07/000082.txt.gz": "d753e78fd68cb278050ba0fb1eaaf8e744b162099a59f59cde1eb14d1bb512b1"
+  }
+}

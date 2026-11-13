@@ -1,0 +1,28 @@
+{
+  "request_parameters": {
+    "CMD": "Put",
+    "PROGRAM": "blastn",
+    "MEGABLAST": "on",
+    "DATABASE": "core_nt",
+    "EXPECT": "1e-20",
+    "HITLIST_SIZE": "20",
+    "FILTER": "mL",
+    "WORD_SIZE": "28",
+    "tool": "bio-fishing-expeditions"
+  },
+  "query_file": "experiments/1_viral_antibody_tcr/results/metavr/context/IMGVR_UViG_3300051405_000263.fna",
+  "query_sha256": "67ad92718722c9c343a45035d41104d5b57a2c085938b462368f5c88c7b2c0d4",
+  "response_sha256": "b12074cb574768dc2e52e370aaa75fbff815e7a09db7dd7e29e921ab7f93b671",
+  "RID": "FF0V9BZ1016",
+  "RTOE": "30",
+  "status": "waiting",
+  "submitted_utc": "2026-11-13T21:38:49.883377+00:00",
+  "last_polled_utc": "2026-11-13T22:09:44.175970+00:00",
+  "poll_command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/remote_blast.py",
+    "poll",
+    "experiments/1_viral_antibody_tcr/results/metavr/host_comparison"
+  ],
+  "poll_script_sha256": "544b035a51c5abefda538e9ef717315f9d13ce99e5847906db28240390104d3d"
+}

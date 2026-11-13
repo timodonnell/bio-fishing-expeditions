@@ -82,20 +82,24 @@ def write_tsv(path, rows, fields=FIELDS):
         writer.writerows(rows)
 
 
-def process_shard(data, number, shard_start, shard_end, output, coverage, profiles, cpus):
+def process_shard(data, number, shard_start, shard_end, first_record, output, coverage, profiles, cpus):
     started = time.monotonic()
     with pyhmmer.plan7.HMMFile(str(profiles)) as handle:
         hmms = list(handle)
     raw_hash = hashlib.sha256(data).hexdigest()
     ids = re.findall(rb'^>(\S+)', data, re.MULTILINE)
-    if len(ids) != len(set(ids)):
-        raise ValueError('Duplicate protein identifiers within shard')
+    duplicate_ids = len(ids)-len(set(ids))
     genomes = {name.split(b'|', 1)[0] for name in ids}
     with pyhmmer.easel.SequenceFile(io.BytesIO(data), digital=True,
             alphabet=pyhmmer.easel.Alphabet.amino()) as handle:
         block = handle.read_block()
     if len(block) != len(ids):
         raise ValueError('FASTA header/parser count mismatch')
+    # Archive identifiers are not unique. Preserve every occurrence, including
+    # identical repeats, and give it an ordinal independent of shard boundaries.
+    for ordinal, sequence in enumerate(block, first_record):
+        original = sequence.name.decode() if isinstance(sequence.name, bytes) else sequence.name
+        sequence.name = (original + f'|scan_record={ordinal:012d}').encode()
     rows = search_block(hmms, block, cpus)
     keep = {row['target'] for row in rows}
     prefix = output/'shards'/f'{number:06d}'
@@ -109,6 +113,7 @@ def process_shard(data, number, shard_start, shard_end, output, coverage, profil
     with gzip.open(genome_path, 'wb') as handle:
         handle.write(b'\n'.join(sorted(genomes))+b'\n')
     return {'shard': number, 'completed_utc': utc(), 'records': len(block),
+            'first_record_ordinal': first_record, 'duplicate_ids_within_shard': duplicate_ids,
             'residues': sum(len(s) for s in block), 'uncompressed_bytes': len(data),
             'fasta_sha256': raw_hash, 'start_virtual_offset': shard_start,
             'end_virtual_offset': shard_end, 'source_genome_ids_in_shard': len(genomes),
@@ -163,6 +168,7 @@ def finalize(output, coverage, checkpoints, effective_count=None):
             'uncompressed_fasta_bytes': sum(row['uncompressed_bytes'] for row in checkpoints),
             'distinct_source_genome_identifiers': len(genomes), 'shards': len(checkpoints),
             'headers_without_pipe': sum(row['headers_without_pipe'] for row in checkpoints),
+            'duplicate_identifiers_within_shards': sum(row['duplicate_ids_within_shard'] for row in checkpoints),
             'effective_target_count': z, 'raw_domain_rows': sum(row['domain_rows'] for row in checkpoints),
             'retained_domain_rows': len(rows), 'retained_candidate_proteins': len(candidates),
             'main_candidate_proteins': len({r['target'] for r in rows if r['tier']=='main'}),
@@ -227,6 +233,7 @@ def main():
                  mp_context=multiprocessing.get_context('spawn')) as pool:
             if checkpoints:
                 reader.seek(checkpoints[-1]['end_virtual_offset'])
+            next_record = sum(c['records'] for c in checkpoints)
             pending = []
             finished_reading = False
             while pending or not finished_reading:
@@ -243,7 +250,8 @@ def main():
                     if shutil.disk_usage(ROOT).free < args.minimum_free_gib*2**30:
                         raise RuntimeError('Free-space reserve reached')
                     pending.append(pool.submit(process_shard, data, number, shard_start,
-                        reader.tell(), args.output, coverage, args.profiles, args.cpus))
+                        reader.tell(), next_record, args.output, coverage, args.profiles, args.cpus))
+                    next_record += data.count(b'\n>') + 1
                     del data
                 if not pending:
                     break
