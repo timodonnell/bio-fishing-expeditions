@@ -1,0 +1,11 @@
+{
+  "url": "https://portal.nersc.gov/cfs/m342/METAVR/METAVR.faa.bgz",
+  "bytes": 49996313962,
+  "etag": "\"ba403356a-659fa4fc0dec0\"",
+  "last_modified": "Wed, 26 Aug 2026 21:57:55 GMT",
+  "destination": "data/raw/metavr/METAVR.faa.bgz",
+  "range_bytes": 33554432,
+  "workers": 8,
+  "minimum_free_bytes": 53687091200,
+  "maximum_archive_bytes": 80530636800
+}

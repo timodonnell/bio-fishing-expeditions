@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "genome": "IMGVR_UViG_2739367845_000008",
+  "genome_bp": 14339,
+  "protein_aa": 837,
+  "exact_translation_location": {
+    "start_1based": 1,
+    "end_inclusive": 2511,
+    "strand": 1,
+    "genetic_code": 11,
+    "match": "exact protein; initiator Met rule allowed"
+  },
+  "retrieved_range_bytes": 2853144,
+  "script_sha256": "b92ccbe4dfdcd08c6c0528c6ee0962c0864b93137ed3a113b61913b6fdecdcff",
+  "checks": [
+    "FFX directory counts and block integrity",
+    "metadata and sequence length agree",
+    "ordinary MetaVR protein maps exactly to recovered genome"
+  ],
+  "scope": "Retrieval validation, not a receptor positive or proof of viral origin"
+}

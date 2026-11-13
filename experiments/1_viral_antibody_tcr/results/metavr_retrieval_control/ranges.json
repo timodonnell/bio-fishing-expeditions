@@ -1,0 +1,87 @@
+{
+  "sources": {
+    "index": {
+      "url": "https://portal.nersc.gov/cfs/m342/METAVR/METAVR.fna.bgz.ffx",
+      "bytes": 378283829,
+      "etag": "\"168c2735-659fa441225c0\"",
+      "response_headers": {
+        "Date": "Fri, 13 Nov 2026 21:25:41 GMT",
+        "Content-Length": "378283829",
+        "Connection": "keep-alive",
+        "Last-Modified": "Wed, 26 Aug 2026 21:54:39 GMT",
+        "ETag": "\"168c2735-659fa441225c0\"",
+        "Accept-Ranges": "bytes",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15724800; includeSubDomains"
+      }
+    },
+    "fasta": {
+      "url": "https://portal.nersc.gov/cfs/m342/METAVR/METAVR.fna.bgz",
+      "bytes": 71552362108,
+      "etag": "\"10a8da667c-659fa54a41740\"",
+      "response_headers": {
+        "Date": "Fri, 13 Nov 2026 21:25:44 GMT",
+        "Content-Length": "71552362108",
+        "Connection": "keep-alive",
+        "Last-Modified": "Wed, 26 Aug 2026 21:59:17 GMT",
+        "ETag": "\"10a8da667c-659fa54a41740\"",
+        "Accept-Ranges": "bytes",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15724800; includeSubDomains"
+      }
+    }
+  },
+  "ranges": {
+    "index:0_80.bin": {
+      "offset": 0,
+      "bytes": 80,
+      "sha256": "7a5569950227713bc48e1900d22c10de9895a8eb31b8b6d35397bc0eb3dc8587",
+      "path": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/remote_ranges/index/0_80.bin",
+      "retrieved_utc": "2026-11-13T21:25:42.596680+00:00"
+    },
+    "index:377602949_680880.bin": {
+      "offset": 377602949,
+      "bytes": 680880,
+      "sha256": "c6db1c1270a5c0387af8461461b2acd885c39de65614e8d2851ad55181d2f1d1",
+      "path": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/remote_ranges/index/377602949_680880.bin",
+      "retrieved_utc": "2026-11-13T21:25:44.370386+00:00"
+    },
+    "fasta:0_1048576.bin": {
+      "offset": 0,
+      "bytes": 1048576,
+      "sha256": "7164074dd8010279daf00ec31bedbce609e41df7637f2bd3e8b48f673bde609d",
+      "path": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/remote_ranges/fasta/0_1048576.bin",
+      "retrieved_utc": "2026-11-13T21:25:45.679033+00:00"
+    },
+    "index:4693743_75032.bin": {
+      "offset": 4693743,
+      "bytes": 75032,
+      "sha256": "8321e64a093f8f52823a15d595bf7c9acc4a74bb54a8d64a33c47a15d009fe92",
+      "path": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/remote_ranges/index/4693743_75032.bin",
+      "retrieved_utc": "2026-11-13T21:25:46.493518+00:00"
+    },
+    "fasta:27631026176_1048576.bin": {
+      "offset": 27631026176,
+      "bytes": 1048576,
+      "sha256": "fc1a8aa6e1db4bc7ce89f56627d63418e183b7315712baafd4ee8bf11c125b6d",
+      "path": "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/metavr/remote_ranges/fasta/27631026176_1048576.bin",
+      "retrieved_utc": "2026-11-13T21:25:47.474853+00:00"
+    }
+  },
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/metavr_context.py",
+    "experiments/1_viral_antibody_tcr/references/metavr_retrieval_control.faa",
+    "experiments/1_viral_antibody_tcr/results/metavr_retrieval_control"
+  ],
+  "script_sha256": "b92ccbe4dfdcd08c6c0528c6ee0962c0864b93137ed3a113b61913b6fdecdcff",
+  "proteins_sha256": "cd7f5f4dd6c96ec522732ba336996de3496baab21137c5705be8f752f4818d49",
+  "zstandard": "0.25.0",
+  "status": "complete",
+  "completed_utc": "2026-11-13T21:25:48.400534+00:00",
+  "genomes": 1,
+  "bytes_in_retained_ranges": 2853144,
+  "loci_sha256": "937bc6e41211fc08c05c864990bbe76431910e5347144825e2d840d9f05ae7de"
+}

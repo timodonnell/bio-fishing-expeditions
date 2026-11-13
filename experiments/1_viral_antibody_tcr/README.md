@@ -11,6 +11,7 @@ We searched **3,207,211 protein records** and translated **48,286 genome records
 - [Results and limitations](RESULTS.md)
 - [Natural FeLV TCR evidence packet](known_natural_tcr.md)
 - [Original research plan](PLAN.md)
+- [MetaVR scale-up plan](SCALE_UP.md) — full protein archive acquisition and checkpointed profile search in progress
 - [Reproduction instructions](RUNNING.md)
 - [Data-source inventory](data_sources.tsv)
 - [Download manifest](manifests/downloads.json), [run outputs](results/), and [integrity validation](results/validation.json)

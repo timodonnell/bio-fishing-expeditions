@@ -1,0 +1,91 @@
+{
+  "status": "passed",
+  "completed_utc": "2026-11-13T21:26:23.837581+00:00",
+  "commands": [
+    [
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/scripts/scan_bgzf.py",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/targets.bgz",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/whole",
+      "--cpus",
+      "2",
+      "--workers",
+      "2",
+      "--effective-target-count",
+      "1000000000",
+      "--shard-mib",
+      "64"
+    ],
+    [
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/scripts/scan_bgzf.py",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/targets.bgz",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/sharded",
+      "--cpus",
+      "2",
+      "--workers",
+      "2",
+      "--effective-target-count",
+      "1000000000",
+      "--shard-mib",
+      "1",
+      "--stop-after-shards",
+      "1"
+    ],
+    [
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/scripts/scan_bgzf.py",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/targets.bgz",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/sharded",
+      "--cpus",
+      "2",
+      "--workers",
+      "2",
+      "--effective-target-count",
+      "1000000000",
+      "--shard-mib",
+      "1"
+    ],
+    [
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/scripts/scan_bgzf.py",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/targets.bgz",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/sharded",
+      "--cpus",
+      "2",
+      "--workers",
+      "2",
+      "--effective-target-count",
+      "1000000000",
+      "--shard-mib",
+      "1"
+    ],
+    [
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/scripts/search.py",
+      "hmm",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/references/receptor_profiles.hmm",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/targets.faa",
+      "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/scale_pipeline_test_hjbedban/independent.tsv",
+      "--cpus",
+      "4",
+      "--effective-target-count",
+      "1000000000"
+    ]
+  ],
+  "checks": [
+    "multiple BGZF blocks within a record",
+    "complete shard-boundary coverage",
+    "restart preserves completed shard",
+    "corrupt checkpoint rejected",
+    "sharded/unsharded hit and score equivalence",
+    "global E-values match independent original scanner at Z=1 billion",
+    "known natural FeLV TCR recovered at Z=1 billion"
+  ],
+  "target_sha256": "febee3b2bded7f5a340d4aab57d72b706dd97ea0b16024c5e82d418f6b8c9aaf",
+  "script_sha256": "82bb02102910a49a416fe9527940aec40111e619b0b7cb77f30216544ad00e59",
+  "test_script_sha256": "a6e622011f37c51d4cf6eadaa88cb25ad4ee839ece7a2f9563f665bafc219cf9",
+  "protein_records": 16606,
+  "shards_tested": 5,
+  "domain_hits_compared": 1172
+}

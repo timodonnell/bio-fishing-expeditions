@@ -3,3 +3,5 @@ data/cache/
 work/
 manifests/*.lock
 manifests/*.tmp
+results/**/*.lock
+results/**/*.tmp

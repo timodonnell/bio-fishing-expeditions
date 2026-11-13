@@ -50,3 +50,23 @@ The script SHA in each search manifest is the source used for that search; `scri
 `validate_results.py` rehashes completed downloads and all search inputs/outputs, verifies frozen reference copies, and checks the known-positive and five annotation-only CDS validations. The positive-validation script checks the actual FeLV CDS translation. Full search target hashes were checked against completed preparation outputs.
 
 The planned full calibration gate remains incomplete. Alternative genetic codes, BLASTN germline screening, dedicated splice/frameshift rescue, raw-read analysis, and phylogeny are future work. Unresolved candidates and incomplete corpora are recorded in `RESULTS.md`; no script automatically calls a novel natural acquisition.
+
+## MetaVR scale-up
+
+The [scale-up plan](SCALE_UP.md) extends the same issue. Install the optional index-reader dependency with the additional `requirements-scale.lock`. The original core environment lock remains unchanged.
+
+```bash
+EXP=experiments/1_viral_antibody_tcr
+"$EXP/work/venv/bin/python" "$EXP/scripts/acquire_large.py" "$EXP/config/metavr_scale.json"
+"$EXP/work/venv/bin/python" "$EXP/scripts/scan_bgzf.py" \
+  "$EXP/data/raw/metavr/METAVR.faa.bgz" "$EXP/results/metavr" \
+  --workers 4 --cpus 4 --shard-mib 256
+```
+
+Run acquisition to completion before scanning. Repeating either command validates its existing inputs/checkpoints and resumes incomplete work. The downloader writes HTTP ranges into one partial file and checks every completed range on restart; its manifest is `manifests/metavr_download.json`. It reserves 50 GiB of free disk. Search checkpoints contain contiguous BGZF virtual offsets, uncompressed shard hashes, counts, and output hashes. Four workers each use four search threads. The input archive is hashed before a search or restart. Candidate sequences and alignments are small retained outputs; bulk archive and genome-ID coverage files stay ignored.
+
+Shard E-values use reference `Z=1,000,000`; final sequence and independent-domain E-values are multiplied by the actual total protein count divided by that reference. Main candidates require independent-domain E <= 0.001 and >=50 aligned residues; rescue candidates extend to E <= 0.01. These are per-profile thresholds, not an FDR estimate across the 14 models. The relationship between `Z` and E-values follows the [PyHMMER significance documentation](https://pyhmmer.readthedocs.io/en/v0.12.1/guide/significance.html). Only a `complete` scan manifest establishes full protein coverage.
+
+`test_scale_pipeline.py` compares a multi-shard resumed scan against an unsharded scan and the original scanner at `Z=1,000,000,000`, tests a record crossing BGZF blocks, rejects a damaged checkpoint, and checks the natural FeLV positive. `test_large_download.py` injects a download interruption, corrupts a previously completed range, and checks exact recovery and source-change rejection. Their validation reports are under `results/`.
+
+`metavr_context.py <candidate.faa> <output-directory>` retrieves candidate assemblies through the pinned nucleotide `.ffx` index and HTTP byte ranges, without acquiring the full nucleotide archive. It validates index layout, compressed-block checksums, sequence length/alphabet, and agreement with MetaVR metadata. Candidate-to-genome mapping searches for the exact translated protein using the deposited genetic code, allowing the usual initiating-methionine rule. Failure to map is retained as an unresolved provenance problem. This candidate-specific check is not a whole-corpus translated-DNA screen. The small `metavr_retrieval_control` artifact tests the route on an ordinary MetaVR protein, not on an antibody/TCR positive.

@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "completed_utc": "2026-11-13T21:16:43.982734+00:00",
+  "checks": [
+    "interrupted range retrieval",
+    "corrupt completed range redownloaded",
+    "resumed bytes identical to source",
+    "completed download reuse verified",
+    "changed source ETag rejected"
+  ],
+  "script_sha256": "a857f4afe7f931d0718c6c1072f16dd7369835476e6ae640c3deb842e4f99ce0",
+  "test_script_sha256": "691bb63ca7ef51f89303ca5c40a73101aa7ec40786ce7f10135dceaf8f1cf2c1",
+  "method": "Mock HTTP responses, real file writes and checksums; no external test server"
+}
