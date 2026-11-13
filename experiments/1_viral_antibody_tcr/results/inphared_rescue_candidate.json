@@ -1,0 +1,21 @@
+{
+  "protein": "GU071097_00087",
+  "genome": "GU071097",
+  "organism": "Synechococcus phage S-SSM5",
+  "protein_aa": 1386,
+  "locations": [
+    {
+      "start_1based": 76111,
+      "end_inclusive": 80268,
+      "strand": 1,
+      "match": "exact protein except initiating residue allowed alternative start"
+    }
+  ],
+  "discovery_E": 0.005,
+  "aligned_aa": 50,
+  "main_queue": false,
+  "profile_hits_E_le_0_01": 0,
+  "reviewed_protein_hits_E_le_0_01": 0,
+  "assessment": "Unresolved weak rescue match, not supported antibody/TCR ancestry",
+  "coordinate_source": "Pinned INPHARED genome FASTA; accession lacks version in source release"
+}

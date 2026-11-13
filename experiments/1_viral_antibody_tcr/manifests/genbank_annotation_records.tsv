@@ -1,0 +1,961 @@
+accession	length	organism	description	dbxrefs
+5SWS_C	9	unidentified influenza virus	Chain C, influenza NP366 epitope	
+5SWZ_C	9	unidentified influenza virus	Chain C, influenza NP366 epitope	
+5SWZ_H	9	unidentified influenza virus	Chain H, influenza NP366 epitope	
+5SWZ_M	9	unidentified influenza virus	Chain M, influenza NP366 epitope	
+5SWZ_R	9	unidentified influenza virus	Chain R, influenza NP366 epitope	
+5TE6_G	353	Human immunodeficiency virus 1	Chain G, clade A/E 93TH057 HIV-1 gp120 core	
+5TE7_G	350	Human immunodeficiency virus 1	Chain G, HIV-1 gp120 core	
+5TE4_G	360	Human immunodeficiency virus 1	Chain G, HIV-1 clade G strain X2088 gp120	
+1FYT_C	13	H3N2 subtype	Chain C, HEMAGGLUTININ HA1 PEPTIDE CHAIN	
+P0DOF3.1	450	Rabies virus ERA	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+5JZI_C	10	Orthohepacivirus hominis	Chain C, KLV peptide	
+5JZI_H	10	Orthohepacivirus hominis	Chain H, KLV peptide	
+5XOS_C	9	Human immunodeficiency virus 1	Chain C, An HIV reverse transcriptase epitope	
+5XOT_C	9	Human immunodeficiency virus 1	Chain C, An HIV reverse transcriptase epitope	
+5XOV_C	10	Human immunodeficiency virus 1	Chain C, HIV-1 Nef138-10 peptide	
+5XOV_F	10	Human immunodeficiency virus 1	Chain F, HIV-1 Nef138-10 peptide	
+ABM66808.1	448	Bovine coronavirus	nucleocapsid protein [Bovine coronavirus]	
+ABM66809.1	448	Bovine coronavirus	nucleocapsid protein [Bovine coronavirus]	
+ABM66810.1	1363	Bovine coronavirus	spike protein [Bovine coronavirus]	
+Q0GBX9.1	450	Rabies virus China/DRV	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q0GBY4.1	450	Rabies virus China/MRV	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+5N6B_C	9	Yellow fever virus	Chain C, NS5	
+5N6B_F	9	Yellow fever virus	Chain F, NS5	
+5TIL_C	9	Mammarenavirus choriomeningitidis	Chain C, Pre-glycoprotein polyprotein GP complex	
+5TIL_F	9	Mammarenavirus choriomeningitidis	Chain F, Pre-glycoprotein polyprotein GP complex	
+5TJE_I	9	Mammarenavirus choriomeningitidis	Chain I, Peptide gp33-41 from LCMV	
+5TJE_J	9	Mammarenavirus choriomeningitidis	Chain J, Peptide gp33-41 from LCMV	
+P06025.1	450	Rabies virus strain Pasteur vaccin	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+P16285.1	450	Rabies virus SAD B19	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+P03407.3	210	HIV-1 M:B_ARV2/SF2	RecName: Full=Protein Nef; AltName: Full=3'ORF; AltName: Full=Negative factor; Short=F-protein; Contains: RecName: Full=C-terminal core protein	
+P20868.3	255	Human immunodeficiency virus type 2 (ISOLATE ST)	RecName: Full=Protein Nef; AltName: Full=3'ORF; AltName: Full=Negative factor; Short=F-protein	
+AAK18189.1	542	Multiple sclerosis associated retrovirus element	recombinant envelope protein [Multiple sclerosis associated retrovirus element]	
+P11364.1	321	Feline leukemia virus	RecName: Full=Viral T-cell receptor beta chain-like T17T-22; Flags: Precursor	
+P25049.1	214	Herpesvirus saimiri (strain 484-77)	RecName: Full=Tyrosine-protein kinase-interacting protein; Short=Tip	
+P22575.1	256	Herpesvirus saimiri (strain 488)	RecName: Full=Tyrosine-protein kinase-interacting protein; Short=Tip	
+P03205.1	223	Human herpesvirus 4 strain B95-8	RecName: Full=Glycoprotein 42; Short=gp42; Contains: RecName: Full=Soluble gp42	
+6BJ2_C	9	Human immunodeficiency virus 1	Chain C, HIV Pol B35 peptide	
+6BJ3_C	9	Human immunodeficiency virus 1	Chain C, HIV Pol B35 peptide	
+1IM3_D	95	Human betaherpesvirus 5	Chain D, cytomegalovirus protein US2	
+1IM3_H	95	Human betaherpesvirus 5	Chain H, cytomegalovirus protein US2	
+1IM3_L	95	Human betaherpesvirus 5	Chain L, cytomegalovirus protein US2	
+1IM3_P	95	Human betaherpesvirus 5	Chain P, cytomegalovirus protein US2	
+P15197.2	450	Rabies virus AVO1	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+P0C570.1	450	Lyssavirus mokola	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+A3RM19.1	450	Rabies virus India	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+5YXN_I	10	Orthohepacivirus hominis	Chain I, NS3 peptide	
+5YXU_I	10	Orthohepacivirus hominis	Chain I, LYS-LEU-VAL-ALA-LEU-GLY-ILE-ASN-ALA-VAL	
+5YXU_J	10	Orthohepacivirus hominis	Chain J, LYS-LEU-VAL-ALA-LEU-GLY-ILE-ASN-ALA-VAL	
+6ID4_T	9	Human immunodeficiency virus 1	Chain T, peptide	
+6ID4_U	9	Human immunodeficiency virus 1	Chain U, peptide	
+6MT3_B	9	unidentified influenza virus	Chain B, NP338 peptide	
+6MT4_C	9	unidentified influenza virus	Chain C, NP338-L7S peptide	
+6MT5_C	9	unidentified influenza virus	Chain C, NP338-V6L peptide	
+6MT6_B	9	unidentified influenza virus	Chain B, NP388 peptide	
+6MTL_C	9	unidentified influenza virus	Chain C, NP338 peptide	
+6MTM_C	9	unidentified influenza virus	Chain C, NP338 influenza peptide	
+1AVV_A	151	Human immunodeficiency virus 1	Chain A, NEGATIVE FACTOR	
+6GG0_1	362	Betapolyomavirus hominis	Chain 1, Capsid protein VP1	
+6GG0_2	362	Betapolyomavirus hominis	Chain 2, Capsid protein VP1	
+6GG0_3	362	Betapolyomavirus hominis	Chain 3, Capsid protein VP1	
+6GG0_4	362	Betapolyomavirus hominis	Chain 4, Capsid protein VP1	
+6GG0_5	362	Betapolyomavirus hominis	Chain 5, Capsid protein VP1	
+6GG0_6	362	Betapolyomavirus hominis	Chain 6, Capsid protein VP1	
+2V2W_C	9	Human immunodeficiency virus	Chain C, HIV P17	
+2V2W_F	9	Human immunodeficiency virus	Chain F, HIV P17	
+2V2X_C	9	Human immunodeficiency virus	Chain C, HIV P17	
+2V2X_F	9	Human immunodeficiency virus	Chain F, HIV P17	
+CAA65759.1	317	Mouse mammary tumor virus	T cell receptor V beta 4-specific superantigen [Mouse mammary tumor virus]	
+2VAB_P	9	Respirovirus muris	Chain P, SENDAI VIRUS NUCLEOPROTEIN	
+2VAA_P	8	Vesicular stomatitis virus	Chain P, VESICULAR STOMATITIS VIRUS NUCLEOPROTEIN	
+2VLJ_C	9	unidentified influenza virus	Chain C, Flu Matrix Peptide	
+2VLK_C	9	unidentified influenza virus	Chain C, FLU MATRIX PEPTIDE	
+2VLL_C	9	unidentified influenza virus	Chain C, FLU MATRIX PEPTIDE	
+2VLL_F	9	unidentified influenza virus	Chain F, FLU MATRIX PEPTIDE	
+2VLR_C	9	unidentified influenza virus	Chain C, FLU MATRIX PEPTIDE	
+2VLR_H	9	unidentified influenza virus	Chain H, FLU MATRIX PEPTIDE	
+6IEX_C	10	Severe acute respiratory syndrome-related coronavirus	Chain C, GLY-GLU-THR-ALA-LEU-ALA-LEU-LEU-LEU-LEU	
+6J1V_C	9	Human immunodeficiency virus 1	Chain C, RT313	
+6J1W_C	9	Human immunodeficiency virus 1	Chain C, ALA-ILE-PHE-GLN-SER-SER-MET-THR-LYS	
+6J2A_C	9	Influenza A virus	Chain C, NP44	
+6NCA_Y	9	human gammaherpesvirus 4	Chain Y, Replication and transcription activator	
+6NCA_8	9	human gammaherpesvirus 4	Chain 8, Replication and transcription activator	
+6NCA_4	9	human gammaherpesvirus 4	Chain 4, Replication and transcription activator	
+6NCA_3	9	human gammaherpesvirus 4	Chain 3, Replication and transcription activator	
+6NCA_W	9	human gammaherpesvirus 4	Chain W, Replication and transcription activator	
+6NCA_6	9	human gammaherpesvirus 4	Chain 6, Replication and transcription activator	
+6NCA_5	9	human gammaherpesvirus 4	Chain 5, Replication and transcription activator	
+6NCA_X	9	human gammaherpesvirus 4	Chain X, Replication and transcription activator	
+6NCA_2	9	human gammaherpesvirus 4	Chain 2, Replication and transcription activator	
+6NCA_U	9	human gammaherpesvirus 4	Chain U, Replication and transcription activator	
+6NCA_Z	9	human gammaherpesvirus 4	Chain Z, Replication and transcription activator	
+6NCA_V	9	human gammaherpesvirus 4	Chain V, Replication and transcription activator	
+6NCA_7	9	human gammaherpesvirus 4	Chain 7, Replication and transcription activator	
+6NCA_1	9	human gammaherpesvirus 4	Chain 1, Replication and transcription activator	
+6JHT_D	213	Human hepatitis A virus Hu/Australia/HM175/1976	Chain D, FAB Light Chain	
+Q08314.2	450	Rabies virus Ontario fox	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+P0DTC2.1	1273	Severe acute respiratory syndrome coronavirus 2	RecName: Full=Spike glycoprotein; Short=S glycoprotein; AltName: Full=E2; AltName: Full=Peplomer protein; Contains: RecName: Full=Spike protein S1; Contains: RecName: Full=Spike protein S2; Contains: RecName: Full=Spike protein S2'; Flags: Precursor	
+6VU2_L	213	Human immunodeficiency virus	Chain L, M1214 N1 Fab light chain	
+6KYZ_A	184	rhinovirus B14	Chain A, Genome polyprotein	
+6KYZ_D	184	rhinovirus B14	Chain D, Genome polyprotein	
+6KZ0_A	184	rhinovirus B14	Chain A, Genome polyprotein	
+6KZ0_D	184	rhinovirus B14	Chain D, Genome polyprotein	
+6KZ0_G	184	rhinovirus B14	Chain G, Genome polyprotein	
+6KZ0_J	184	rhinovirus B14	Chain J, Genome polyprotein	
+6SS7_C	9	Yellow fever virus	Chain C, LEU-LEU-TRP-ALA-GLY-PRO-MET-ALA-VAL	
+6SS7_F	9	Yellow fever virus	Chain F, LEU-LEU-TRP-ALA-GLY-PRO-MET-ALA-VAL	
+6SS8_C	9	Yellow fever virus	Chain C, LEU-LEU-TRP-ASN-GLY-PRO-ILE-ALA-VAL	
+6SS8_F	9	Yellow fever virus	Chain F, LEU-LEU-TRP-ASN-GLY-PRO-ILE-ALA-VAL	
+6SS9_C	9	Yellow fever virus	Chain C, LEU-LEU-TRP-ASN-GLY-PRO-MET-HIS-VAL	
+6SS9_F	9	Yellow fever virus	Chain F, LEU-LEU-TRP-ASN-GLY-PRO-MET-HIS-VAL	
+6SSA_C	9	Yellow fever virus	Chain C, LEU-LEU-TRP-ASN-GLY-PRO-MET-GLN-VAL	
+6SSA_F	9	Yellow fever virus	Chain F, LEU-LEU-TRP-ASN-GLY-PRO-MET-GLN-VAL	
+6SSA_I	9	Yellow fever virus	Chain I, LEU-LEU-TRP-ASN-GLY-PRO-MET-GLN-VAL	
+6SSA_L	9	Yellow fever virus	Chain L, LEU-LEU-TRP-ASN-GLY-PRO-MET-GLN-VAL	
+6V6W_E	216	Human immunodeficiency virus 1	Chain E, 35O22 Fab Light chain	
+6V6W_J	215	Human immunodeficiency virus 1	Chain J, B11 Fab light chain	
+6V6W_B	216	Human immunodeficiency virus 1	Chain B, 35O22 Fab Light chain	
+6V6W_H	215	Human immunodeficiency virus 1	Chain H, B11 Fab light chain	
+6NCA_u	9	human gammaherpesvirus 4	Chain u, Replication and transcription activator	
+6NCA_z	9	human gammaherpesvirus 4	Chain z, Replication and transcription activator	
+6NCA_y	9	human gammaherpesvirus 4	Chain y, Replication and transcription activator	
+6NCA_w	9	human gammaherpesvirus 4	Chain w, Replication and transcription activator	
+6NCA_x	9	human gammaherpesvirus 4	Chain x, Replication and transcription activator	
+6NCA_v	9	human gammaherpesvirus 4	Chain v, Replication and transcription activator	
+6YU8_A	310	Sudan virus - Boniface, Sudan,1976	Chain A, Methyltransferase domain of the L protein	
+1J8H_C	13	Alphainfluenzavirus	Chain C, HEMAGGLUTININ HA1 PEPTIDE CHAIN	
+7NXE_C	12	Human herpesvirus 8 strain GK18	Chain C, Protein K15	
+7NXE_D	12	Human herpesvirus 8 strain GK18	Chain D, Protein K15	
+DAJ54870.1	46	Caudoviricetes sp.	MAG TPA_asm: immunoglobulin heavy chain variable region addiction, camel antibody, addiction.65A [Caudoviricetes sp.]	BioProject:PRJEB1786, PRJNA573942;BioSample:SAMEA1906583;Sequence Read Archive:ERR260176, ERR260176
+7DC6_E	9	Canine coronavirus	Chain E, CCV-NGY9 peptide from Spike protein	
+7DC6_F	9	Canine coronavirus	Chain F, CCV-NGY9 peptide from Spike protein	
+7E5Y_R	223	Severe acute respiratory syndrome coronavirus 2	Chain R, Spike protein S1	
+7E5Y_A	223	Severe acute respiratory syndrome coronavirus 2	Chain A, Spike protein S1	
+DAU56969.1	54	Caudoviricetes sp.	MAG TPA_asm: hypothetical protein [Caudoviricetes sp.]	BioProject:PRJNA354235, PRJNA573942;BioSample:SAMN06164737;Sequence Read Archive:SRR5155992, SRR6028557
+DAW92981.1	87	Caudoviricetes sp.	MAG TPA_asm: immunoglobulin heavy chain variable region addiction, camel antibody, addiction.65A [Caudoviricetes sp.]	BioProject:PRJEB1786, PRJNA573942;BioSample:SAMEA1906441;Sequence Read Archive:ERR260170, ERR260170
+7JWI_C	9	Influenza A virus	Chain C, Nucleoprotein	
+7JWJ_C	9	Influenza A virus	Chain C, Nucleoprotein	
+7N6D_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+7N6D_G	9	Severe acute respiratory syndrome coronavirus 2	Chain G, Spike protein S1	
+7N6D_K	9	Severe acute respiratory syndrome coronavirus 2	Chain K, Spike protein S1	
+7N6D_O	9	Severe acute respiratory syndrome coronavirus 2	Chain O, Spike protein S1	
+7N6E_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+7N6E_F	9	Severe acute respiratory syndrome coronavirus 2	Chain F, Spike protein S1	
+7E39_A	194	Severe acute respiratory syndrome coronavirus 2	Chain A, Spike protein S1	
+7E3B_A	194	Severe acute respiratory syndrome coronavirus 2	Chain A, Spike protein S1	
+7E3C_A	194	Severe acute respiratory syndrome coronavirus 2	Chain A, Spike protein S1	
+7RTD_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+7RTR_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+7EM9_C	9	uncultured virus	Chain C, SER-LEU-ASP-GLU-TYR-SER-SER-ASP-VAL	
+7EMA_C	9	uncultured virus	Chain C, TYR-SER-SER-ASP-VAL-THR-THR-LEU-VAL	
+7EMB_C	9	uncultured virus	Chain C, ALA-ALA-ALA-ILE-GLU-GLU-GLU-ASP-ILE	
+7EMC_C	9	uncultured virus	Chain C, ALA-THR-GLU-ILE-ARG-GLU-LEU-LEU-VAL	
+7EMC_F	9	uncultured virus	Chain F, ALA-THR-GLU-ILE-ARG-GLU-LEU-LEU-VAL	
+7EMC_I	9	uncultured virus	Chain I, ALA-THR-GLU-ILE-ARG-GLU-LEU-LEU-VAL	
+7EMD_C	9	uncultured virus	Chain C, TYR-GLY-ASP-PHE-PHE-HIS-ASP-MET-VAL	
+0808303A	234	Murid betaherpesvirus 1	Ig lambda1	
+7EPX_A	1283	Severe acute respiratory syndrome coronavirus 2	Chain A, Spike glycoprotein	
+7EPX_B	1283	Severe acute respiratory syndrome coronavirus 2	Chain B, Spike glycoprotein	
+7EPX_C	1283	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike glycoprotein	
+1012284A	270	Murid betaherpesvirus 1	T cell receptor alpha	
+7F5G_A	213	Severe acute respiratory syndrome coronavirus 2	Chain A, Spike glycoprotein	
+7F5G_C	213	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike glycoprotein	
+1109237A	123	Murid betaherpesvirus 1	T cell receptor VDJbeta 1.9.2	
+1109237B	134	Murid betaherpesvirus 1	T cell receptor VDJbeta AR1	
+1109237C	132	Murid betaherpesvirus 1	T cell receptor VDJbeta BW5147	
+1109237D	115	Murid betaherpesvirus 1	T cell receptor VDJbeta TB12	
+1109237E	144	Murid betaherpesvirus 1	T cell receptor VDJbeta TB2	
+1109237F	113	Murid betaherpesvirus 1	T cell receptor VDJbeta TB21	
+1109237G	102	Murid betaherpesvirus 1	T cell receptor VDJbeta TB23	
+1109237H	132	Murid betaherpesvirus 1	T cell receptor VDJbeta TB3	
+1204265A	130	Murid betaherpesvirus 1	T cell receptor ValphaI	
+1204265B	127	Murid betaherpesvirus 1	T cell receptor ValphaII	
+1204265C	135	Murid betaherpesvirus 1	T cell receptor VbetaI	
+1204265D	134	Murid betaherpesvirus 1	T cell receptor VbetaII	
+1304304A	321	Feline leukemia virus	T cell receptor beta	
+7V61_K	214	Severe acute respiratory syndrome coronavirus 2	Chain K, 3E8	
+7V61_M	214	Severe acute respiratory syndrome coronavirus 2	Chain M, 3E8	
+7F5H_A	213	Severe acute respiratory syndrome coronavirus 2	Chain A, SARS-CoV-2 Spike Receptor-Binding Domain (RBD)	
+7F5H_B	213	Severe acute respiratory syndrome coronavirus 2	Chain B, SARS-CoV-2 Spike Receptor-Binding Domain (RBD)	
+7R7V_C	9	HIV-1 06TG.HT008	Chain C, GLN-ALA-SER-GLN-GLU-VAL-LYS-ASN-TRP	
+7R7W_C	9	HIV-1 06TG.HT008	Chain C, GLN-ALA-THR-GLN-GLU-VAL-LYS-ASN-TRP	
+7R7X_E	9	HIV-1 06TG.HT008	Chain E, GLN-ALA-SER-GLN-GLU-VAL-LYS-ASN-TRP	
+7R7X_F	9	HIV-1 06TG.HT008	Chain F, GLN-ALA-SER-GLN-GLU-VAL-LYS-ASN-TRP	
+7R7Y_C	9	HIV-1 06TG.HT008	Chain C, GLN-ALA-THR-GLN-GLU-VAL-LYS-ASN-TRP	
+7R80_E	9	HIV-1 06TG.HT008	Chain E, GLN-ALA-SER-GLN-GLU-VAL-LYS-ASN-TRP	
+7N4K_C	10	Influenza A virus	Chain C, Peptide from Polymerase acidic protein	
+7N5C_C	10	Influenza A virus	Chain C, peptide from Polymerase acidic protein	
+7N5P_C	10	Influenza A virus	Chain C, peptide from Polymerase acidic protein	
+7N5Q_C	10	Influenza A virus	Chain C, peptide from Polymerase acidic protein	
+7N5Q_H	10	Influenza A virus	Chain H, peptide from Polymerase acidic protein	
+7Y7M_G	214	Coxsackievirus A16	Chain G, The light chain of fab 8C4	
+7YMS_E	214	Coxsackievirus A16	Chain E, The light chain of fab 9B5	
+7YRF_E	214	Coxsackievirus A16	Chain E, Light chain of chain	
+7YRH_E	214	Coxsackievirus A16	Chain E, The light chain of the antibody 9B5	
+7YV7_E	214	Coxsackievirus A16	Chain E, The light chain of antibody 9B5	
+7S83_C	205	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+7X8Z_L	248	Severe acute respiratory syndrome coronavirus 2	Chain L, Ab188 light chain	
+8ERX_C	9	Human immunodeficiency virus 1	Chain C, HIV-1 RT	
+8ESH_C	9	Human betaherpesvirus 5	Chain C, CMV peptide	
+8GOM_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S2	
+8GON_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S2	
+1H15_C	14	human gammaherpesvirus 4	Chain C, DNA POLYMERASE	
+1H15_F	14	human gammaherpesvirus 4	Chain F, DNA POLYMERASE	
+8A94_A	1288	Severe acute respiratory syndrome coronavirus	Chain A, SARS-CoV2 Spike in 2-up conformation in complex with Fab47	
+8A94_B	1288	Severe acute respiratory syndrome coronavirus	Chain B, SARS-CoV2 Spike in 2-up conformation in complex with Fab47	
+8A94_C	1288	Severe acute respiratory syndrome coronavirus	Chain C, SARS-CoV2 Spike in 2-up conformation in complex with Fab47	
+8A96_C	205	Severe acute respiratory syndrome coronavirus	Chain C, Spike protein S1	
+8A99_A	1288	Severe acute respiratory syndrome coronavirus 2	Chain A, SARS-CoV2 spike 1-up conformation in complex with Fab47	
+8A99_B	1288	Severe acute respiratory syndrome coronavirus 2	Chain B, SARS-CoV2 spike 1-up conformation in complex with Fab47	
+8A99_C	1288	Severe acute respiratory syndrome coronavirus 2	Chain C, SARS-CoV2 spike 1-up conformation in complex with Fab47	
+1QA4_A	57	Human immunodeficiency virus 1	Chain A, Protein Nef	
+8DNT_D	9	Severe acute respiratory syndrome coronavirus 2	Chain D, Nucleoprotein	
+8DNT_J	9	Severe acute respiratory syndrome coronavirus 2	Chain J, Nucleoprotein	
+8DNT_Q	9	Severe acute respiratory syndrome coronavirus 2	Chain Q, Nucleoprotein	
+8DNT_X	9	Severe acute respiratory syndrome coronavirus 2	Chain X, Nucleoprotein	
+7YG3_B	9	Human immunodeficiency virus	Chain B, ARG-GLN-ASP-ILE-LEU-ASP-LEU-TRP-ILE	
+1AO7_C	9	Human T-cell leukemia virus type I	Chain C, TAX PEPTIDE	
+8A95_A	1288	Severe acute respiratory syndrome coronavirus	Chain A, SARS-CoV2 Trimeric Spike in 1-up conformation in complex with three Fab47	
+8A95_B	1288	Severe acute respiratory syndrome coronavirus	Chain B, SARS-CoV2 Trimeric Spike in 1-up conformation in complex with three Fab47	
+8A95_C	1288	Severe acute respiratory syndrome coronavirus	Chain C, SARS-CoV2 Trimeric Spike in 1-up conformation in complex with three Fab47	
+DBA58143.1	460	Pithovirus sp. LC8	TPA_asm: t cell receptor beta variable 6-5,M1-specific chain [Pithovirus sp. LC8]	
+8YE4_E	9	Severe acute respiratory syndrome coronavirus 2	Chain E, Spike protein S1	
+8YE4_F	9	Severe acute respiratory syndrome coronavirus 2	Chain F, Spike protein S1	
+8ZV9_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+8ZV9_F	9	Severe acute respiratory syndrome coronavirus 2	Chain F, Spike protein S1	
+8ZV9_I	9	Severe acute respiratory syndrome coronavirus 2	Chain I, Spike protein S1	
+8ZER_B	235	Severe acute respiratory syndrome coronavirus 2	Chain B, Spike protein S1	
+8ZER_C	235	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+8ZER_E	235	Severe acute respiratory syndrome coronavirus 2	Chain E, Spike protein S1	
+8ZER_G	235	Severe acute respiratory syndrome coronavirus 2	Chain G, Spike protein S1	
+8ZER_I	235	Severe acute respiratory syndrome coronavirus 2	Chain I, Spike protein S1	
+8ZES_C	221	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+8ZES_A	221	Severe acute respiratory syndrome coronavirus 2	Chain A, Spike protein S1	
+8ZES_G	221	Severe acute respiratory syndrome coronavirus 2	Chain G, Spike protein S1	
+8ZES_I	221	Severe acute respiratory syndrome coronavirus 2	Chain I, Spike protein S1	
+8ZES_D	221	Severe acute respiratory syndrome coronavirus 2	Chain D, Spike protein S1	
+8RLT_C	9	Hepatitis B virus	Chain C, Large envelope protein	
+8RLT_H	9	Hepatitis B virus	Chain H, Large envelope protein	
+8RLU_C	9	Hepatitis B virus	Chain C, Large envelope protein	
+8RLU_H	9	Hepatitis B virus	Chain H, Large envelope protein	
+8RLV_C	9	Hepatitis B virus	Chain C, Large envelope protein	
+8RLV_H	9	Hepatitis B virus	Chain H, Large envelope protein	
+3IXA_C	9	Human T-cell lymphotrophic virus type 1 (Caribbean isolate)	Chain C, Tax peptide	
+3IXA_F	9	Human T-cell lymphotrophic virus type 1 (Caribbean isolate)	Chain F, Tax peptide	
+8RRN_L	217	Severe acute respiratory syndrome coronavirus 2	Chain L, pT1616 Fab light chain	
+8RRN_D	217	Severe acute respiratory syndrome coronavirus 2	Chain D, pT1616 Fab light chain	
+8VSE_C	343	Human adenovirus 19a	Chain C, 45.5kDa protein	
+9BDF_A	514	Influenza A virus	Chain A, Hemagglutinin	
+9BDF_G	514	Influenza A virus	Chain G, Hemagglutinin	
+9BDF_H	514	Influenza A virus	Chain H, Hemagglutinin	
+9BDG_A	514	Influenza A virus	Chain A, Hemagglutinin	
+9BDG_B	514	Influenza A virus	Chain B, Hemagglutinin	
+9BDG_C	514	Influenza A virus	Chain C, Hemagglutinin	
+9BT8_L	215	Bacteriophage sp.	Chain L, Antibody fragment Fab30, light chain	
+3IK5_A	143	Simian immunodeficiency virus - cpz	Chain A, Protein Nef	
+3IK5_C	143	Simian immunodeficiency virus - cpz	Chain C, Protein Nef	
+3IOZ_A	143	Simian immunodeficiency virus - cpz	Chain A, Protein Nef	
+9BF9_G	13	Severe acute respiratory syndrome coronavirus 2	Chain G, Membrane protein	
+8RJ5_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+8RJ5_H	9	Severe acute respiratory syndrome coronavirus 2	Chain H, Spike protein S1	
+8YZR_E	9	Severe acute respiratory syndrome coronavirus 2	Chain E, Spike protein S1	
+8YZW_F	9	Severe acute respiratory syndrome coronavirus 2	Chain F, Spike protein S2'	
+8YZW_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S2'	
+8YZZ_E	9	Severe acute respiratory syndrome coronavirus 2	Chain E, Spike protein S1	
+8Z05_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S2'	
+8Z06_E	9	Severe acute respiratory syndrome coronavirus 2	Chain E, Spike protein S2'	
+8Z07_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S2'	
+8Z08_F	9	Severe acute respiratory syndrome coronavirus 2	Chain F, ASN-TYR-ASN-TYR-GLN-TYR-ARG-LEU-PHE	
+9KT3_K	215	Tequatrovirus T4	Chain K, CYFN1006-2 light chain	
+9KT3_J	215	Tequatrovirus T4	Chain J, CYFN1006-2 light chain	
+9KT3_L	215	Tequatrovirus T4	Chain L, CYFN1006-2 light chain	
+XOK31829.1	114	Chlorovirus insulalacus	T cell receptor beta [Chlorovirus insulalacus]	BioProject:PRJNA1154233;BioSample:SAMN42953909;Sequence Read Archive:SRR31017175
+2X7L_M	115	Human immunodeficiency virus type 1 BH10	Chain M, PROTEIN REV	
+2X7L_N	115	Human immunodeficiency virus type 1 BH10	Chain N, PROTEIN REV	
+2X7L_O	115	Human immunodeficiency virus type 1 BH10	Chain O, PROTEIN REV	
+2X7L_P	115	Human immunodeficiency virus type 1 BH10	Chain P, PROTEIN REV	
+2X7L_Q	115	Human immunodeficiency virus type 1 BH10	Chain Q, PROTEIN REV	
+2X7L_R	115	Human immunodeficiency virus type 1 BH10	Chain R, PROTEIN REV	
+9IKY_q	9	Kirsten murine sarcoma virus	Chain q, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_C	9	Kirsten murine sarcoma virus	Chain C, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_H	9	Kirsten murine sarcoma virus	Chain H, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_M	9	Kirsten murine sarcoma virus	Chain M, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_R	9	Kirsten murine sarcoma virus	Chain R, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_W	9	Kirsten murine sarcoma virus	Chain W, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_b	9	Kirsten murine sarcoma virus	Chain b, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_g	9	Kirsten murine sarcoma virus	Chain g, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_l	9	Kirsten murine sarcoma virus	Chain l, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+9IKY_v	9	Kirsten murine sarcoma virus	Chain v, VAL-VAL-GLY-ALA-VAL-GLY-VAL-GLY-LYS	
+3I6L_F	9	Severe acute respiratory syndrome-related coronavirus	Chain F, Nucleoprotein peptide	
+9DY8_C	9	Influenza B virus (B/Wisconsin/22/2017)	Chain C, RNA-directed RNA polymerase catalytic subunit	
+XYW61038.1	65	Chlorovirus sp.	T cell receptor gamma variable 5,T cell receptor gamma constant 1 [Chlorovirus sp.]	
+9K2R_C	11	Human immunodeficiency virus type 1 (Z2/CDC-Z34 ISOLATE)	Chain C, peptide from p51 RT	
+9K2R_F	11	Human immunodeficiency virus type 1 (Z2/CDC-Z34 ISOLATE)	Chain F, peptide from p51 RT	
+9K2R_I	11	Human immunodeficiency virus type 1 (Z2/CDC-Z34 ISOLATE)	Chain I, peptide from p51 RT	
+YBP00958.1	569	Ranid herpesvirus 5	ORF121 [Ranid herpesvirus 5]	
+1AVZ_A	151	Human immunodeficiency virus 1	Chain A, NEGATIVE FACTOR	
+1AVZ_B	151	Human immunodeficiency virus 1	Chain B, NEGATIVE FACTOR	
+9PIX_P	10	Hepatitis B virus	Chain P, c18V peptide	
+9PKC_P	10	Hepatitis B virus	Chain P, c18V peptide	
+9PKF_P	10	Hepatitis B virus	Chain P, c18I peptide	
+9N5Y_A	554	Influenza A virus (A/California/01/2009(H1N1))	Chain A, Hemagglutinin	
+9N5Y_C	554	Influenza A virus (A/California/01/2009(H1N1))	Chain C, Hemagglutinin	
+9N5Y_E	554	Influenza A virus (A/California/01/2009(H1N1))	Chain E, Hemagglutinin	
+9N5Y_B	554	Influenza A virus (A/California/01/2009(H1N1))	Chain B, Hemagglutinin	
+9N5Y_D	554	Influenza A virus (A/California/01/2009(H1N1))	Chain D, Hemagglutinin	
+9N5Y_F	554	Influenza A virus (A/California/01/2009(H1N1))	Chain F, Hemagglutinin	
+9N5Z_C	326	Influenza A virus (A/California/01/2009(H1N1))	Chain C, Hemagglutinin	
+9N5Z_D	326	Influenza A virus (A/California/01/2009(H1N1))	Chain D, Hemagglutinin	
+9N5Z_E	326	Influenza A virus (A/California/01/2009(H1N1))	Chain E, Hemagglutinin	
+9N5Z_F	171	Influenza A virus (A/California/01/2009(H1N1))	Chain F, Hemagglutinin	
+9N5Z_G	171	Influenza A virus (A/California/01/2009(H1N1))	Chain G, Hemagglutinin	
+9N5Z_H	171	Influenza A virus (A/California/01/2009(H1N1))	Chain H, Hemagglutinin	
+9NH7_A	321	Influenza A virus (A/Iowa/1943(H1N1))	Chain A, Hemagglutinin HA1 chain	
+9NH7_B	321	Influenza A virus (A/Iowa/1943(H1N1))	Chain B, Hemagglutinin HA1 chain	
+9NH7_C	321	Influenza A virus (A/Iowa/1943(H1N1))	Chain C, Hemagglutinin HA1 chain	
+9NH7_G	232	Influenza A virus (A/Iowa/1943(H1N1))	Chain G, Hemagglutinin HA2 chain	
+9NH7_H	232	Influenza A virus (A/Iowa/1943(H1N1))	Chain H, Hemagglutinin HA2 chain	
+9NH7_I	232	Influenza A virus (A/Iowa/1943(H1N1))	Chain I, Hemagglutinin HA2 chain	
+2XN9_F	13	Influenza A virus	Chain F, HEMAGGLUTININ	
+3O4L_C	9	human gammaherpesvirus 4	Chain C, BSLF2/BMLF1 protein	
+YCY89327.1	641	human gammaherpesvirus 4	Sequence 81 from patent US 12479916 B2	
+1A14_N	388	Influenza A virus	Chain N, NEURAMINIDASE	
+9PIT_B	512	Human immunodeficiency virus 1	Chain B, Envelope glycoprotein gp160	
+9PIT_A	162	Human immunodeficiency virus 1	Chain A, Envelope glycoprotein gp41 - BG505 MD39	
+9PIT_E	512	Human immunodeficiency virus 1	Chain E, Envelope glycoprotein gp160	
+9PIT_C	162	Human immunodeficiency virus 1	Chain C, Envelope glycoprotein gp41 - BG505 MD39	
+9PIT_F	512	Human immunodeficiency virus 1	Chain F, Envelope glycoprotein gp160	
+9PIT_D	162	Human immunodeficiency virus 1	Chain D, Envelope glycoprotein gp41 - BG505 MD39	
+9PIV_B	512	Human immunodeficiency virus 1	Chain B, Envelope glycoprotein gp160	
+9PIV_A	162	Human immunodeficiency virus 1	Chain A, Envelope glycoprotein gp41 - BG505 MD39	
+9PIV_E	512	Human immunodeficiency virus 1	Chain E, Envelope glycoprotein gp160	
+9PIV_C	162	Human immunodeficiency virus 1	Chain C, Envelope glycoprotein gp41 - BG505 MD39	
+9PIV_F	512	Human immunodeficiency virus 1	Chain F, Envelope glycoprotein gp160	
+9PIV_D	162	Human immunodeficiency virus 1	Chain D, Envelope glycoprotein gp41 - BG505 MD39	
+9U5P_A	180	rhinovirus B14	Chain A, Protease 3C	
+9U5P_O	180	rhinovirus B14	Chain O, Protease 3C	
+9U5Q_A	180	rhinovirus B14	Chain A, Protease 3C	
+9U5R_O	180	rhinovirus B14	Chain O, Protease 3C	
+9WB3_A	180	rhinovirus B14	Chain A, Protease 3C	
+9WB4_A	180	rhinovirus B14	Chain A, Protease 3C	
+3RBB_A	166	HIV-1 M:B_ARV2/SF2	Chain A, Protein Nef	
+3RBB_C	166	HIV-1 M:B_ARV2/SF2	Chain C, Protein Nef	
+9URM_A	180	rhinovirus B14	Chain A, Protease 3C	
+9VMD_O	180	rhinovirus B14	Chain O, Protease 3C	
+28IL_C	9	Severe acute respiratory syndrome coronavirus 2	Chain C, Spike protein S1	
+28IL_H	9	Severe acute respiratory syndrome coronavirus 2	Chain H, Spike protein S1	
+43RZ_P	9	Alphapolyomavirus muris	Chain P, Minor capsid protein VP2	
+43SK_P	9	Alphapolyomavirus muris	Chain P, Minor capsid protein VP2	
+43RH_P	9	Alphapolyomavirus muris	Chain P, Minor capsid protein VP2	
+43SR_P	9	Alphapolyomavirus muris	Chain P, Minor capsid protein VP2	
+43SY_P	9	Alphapolyomavirus muris	Chain P, Minor capsid protein VP2	
+43TE_P	9	Alphapolyomavirus muris	Chain P, Minor capsid protein VP2	
+9YIR_P	9	Human papillomavirus 16	Chain P, Regulatory protein E2	
+9Z51_P	9	Human papillomavirus 16	Chain P, Protein E7	
+9Z51_I	9	Human papillomavirus 16	Chain I, Protein E7	
+9Z51_N	9	Human papillomavirus 16	Chain N, Protein E7	
+9Z51_U	9	Human papillomavirus 16	Chain U, Protein E7	
+27EV_C	9	Influenza A virus	Chain C, BHA(543-551) peptide	
+3PWV_C	9	Rinderpest morbillivirus	Chain C, 9-mer peptide from Hemagglutinin	
+3PWV_F	9	Rinderpest morbillivirus	Chain F, 9-mer peptide from Hemagglutinin	
+AEQ32109.1	451	macacine betaherpesvirus 8	protein UL20 [macacine betaherpesvirus 8]	
+YP_004933765.1	451	Cynomolgus macaque cytomegalovirus strain Ottawa	protein UL20 [Cynomolgus macaque cytomegalovirus strain Ottawa]	BioProject:PRJNA485481
+1BD2_C	9	Human T-cell leukemia virus type I	Chain C, TAX PEPTIDE	
+1NMC_N	388	Influenza A virus	Chain N, NEURAMINIDASE	
+1NMC_A	388	Influenza A virus	Chain A, NEURAMINIDASE	
+3REW_C	9	Human herpesvirus 4 strain B95-8	Chain C, Latent membrane protein 2	
+3REW_F	9	Human herpesvirus 4 strain B95-8	Chain F, Latent membrane protein 2	
+AEZ68639.1	352	dengue virus type 2	non-structural protein 1, partial [dengue virus type 2]	
+3RL1_C	9	Human immunodeficiency virus 1	Chain C, RT313 peptide	
+3RL2_C	10	Human immunodeficiency virus 1	Chain C, Nef73 peptide from Protein Nef	
+3QUK_C	9	Lymphocytic choriomeningitis virus (strain WE)	Chain C, Pre-glycoprotein polyprotein GP complex	
+3QUK_F	9	Lymphocytic choriomeningitis virus (strain WE)	Chain F, Pre-glycoprotein polyprotein GP complex	
+3QUL_C	9	Lymphocytic choriomeningitis virus (strain WE)	Chain C, Pre-glycoprotein polyprotein GP complex	
+3QUL_F	9	Lymphocytic choriomeningitis virus (strain WE)	Chain F, Pre-glycoprotein polyprotein GP complex	
+3QUL_I	9	Lymphocytic choriomeningitis virus (strain WE)	Chain I, Pre-glycoprotein polyprotein GP complex	
+3QUL_L	9	Lymphocytic choriomeningitis virus (strain WE)	Chain L, Pre-glycoprotein polyprotein GP complex	
+AFM80295.1	758	Foot-and-mouth disease virus SAT 2	P1 polyprotein, partial [Foot-and-mouth disease virus SAT 2]	
+AFM80296.1	740	Foot-and-mouth disease virus SAT 2	P1 polyprotein, partial [Foot-and-mouth disease virus SAT 2]	
+AFM80297.1	740	Foot-and-mouth disease virus SAT 2	P1 polyprotein, partial [Foot-and-mouth disease virus SAT 2]	
+AFM80298.1	740	Foot-and-mouth disease virus SAT 2	P1 polyprotein, partial [Foot-and-mouth disease virus SAT 2]	
+AFM80299.1	740	Foot-and-mouth disease virus SAT 2	P1 polyprotein, partial [Foot-and-mouth disease virus SAT 2]	
+AFM80300.1	740	Foot-and-mouth disease virus SAT 2	P1 polyprotein, partial [Foot-and-mouth disease virus SAT 2]	
+AFM80301.1	740	Foot-and-mouth disease virus SAT 2	P1 polyprotein, partial [Foot-and-mouth disease virus SAT 2]	
+AFM80302.1	740	Foot-and-mouth disease virus SAT 2	P1 polyprotein, partial [Foot-and-mouth disease virus SAT 2]	
+4HKX_E	220	Influenza A virus (A/Solomon Islands/3/2006(H1N1))	Chain E, Hemagglutinin HA1	
+2YPK_C	11	Human immunodeficiency virus	Chain C, KF11 P24 GAG PEPTIDE	
+2YPL_C	11	Human immunodeficiency virus	Chain C, KF11 P24 GAG PEPTIDE	
+4D8D_B	151	Human immunodeficiency virus type 1 (BRU ISOLATE)	Chain B, Protein Nef	
+4D8D_D	151	Human immunodeficiency virus type 1 (BRU ISOLATE)	Chain D, Protein Nef	
+2MHA_E	8	Vesicular stomatitis virus	Chain E, VIRAL OCTAPEPTIDE ARG-GLY-TYR-VAL-TYR-GLN-GLY-LEU	
+2MHA_F	8	Vesicular stomatitis virus	Chain F, VIRAL OCTAPEPTIDE ARG-GLY-TYR-VAL-TYR-GLN-GLY-LEU	
+AAB29186.1	320	Mouse mammary tumor virus	vSAG23, partial [Mouse mammary tumor virus]	
+AAB29187.1	317	Mouse mammary tumor virus	vSAG(M12), partial [Mouse mammary tumor virus]	
+4G8G_C	10	Human immunodeficiency virus 1	Chain C, P24	
+4G8I_C	10	Human immunodeficiency virus 1	Chain C, Gag protein	
+4G9D_C	10	Human immunodeficiency virus 1	Chain C, P24	
+4G9F_C	10	Human immunodeficiency virus 1	Chain C, Gag protein	
+4JRX_C	13	human gammaherpesvirus 4	Chain C, Trans-activator protein BZLF1	
+4JRY_C	13	human gammaherpesvirus 4	Chain C, Trans-activator protein BZLF1	
+1QA5_A	58	Human immunodeficiency virus 1	Chain A, PROTEIN (MYRISTOYLATED HIV-1 NEF ANCHOR DOMAIN (MYRISTATE-GLY2 TO TRP57))	
+P12482.4	263	Simian immunodeficiency virus (F236/SMH4 ISOLATE) (SOOTY MANGABEY)	RecName: Full=Protein Nef; AltName: Full=3'ORF; AltName: Full=Negative factor; Short=F-protein	
+1RJY_P	8	Herpes simplex virus unknown type	Chain P, Glycoprotein B	
+1RJY_Q	8	Herpes simplex virus unknown type	Chain Q, Glycoprotein B	
+1QLF_C	9	Respirovirus muris	Chain C, SYNTHETIC GLYCOPEPTIDE	
+CAA28801.1	321	Feline leukemia virus	TCR beta (VDJC) [Feline leukemia virus]	
+4PR5_C	11	human gammaherpesvirus 4	Chain C, Epstein-Barr nuclear antigen 1	
+4PRA_C	11	Human herpesvirus 4 strain B95-8	Chain C, Epstein-Barr nuclear antigen 1	
+4PRB_C	11	Epstein-barr virus strain ag876	Chain C, Epstein-Barr nuclear antigen 1	
+4PRD_C	11	human gammaherpesvirus 4	Chain C, Epstein-Barr nuclear antigen 1	
+4PRE_C	11	Human herpesvirus 4 strain B95-8	Chain C, Epstein-Barr nuclear antigen 1	
+4PRI_C	11	Human herpesvirus 4 strain B95-8	Chain C, Epstein-Barr nuclear antigen 1	
+4PRN_C	11	Epstein-barr virus strain ag876	Chain C, Epstein-Barr nuclear antigen 1	
+4PRP_C	11	Human herpesvirus 4 strain B95-8	Chain C, Epstein-Barr nuclear antigen 1	
+4PRH_C	11	human gammaherpesvirus 4	Chain C, Epstein-Barr nuclear antigen 1	
+4C56_F	13	Influenza A virus	Chain F, HEMAGGLUTININ	
+4C56_L	13	Influenza A virus	Chain L, HEMAGGLUTININ	
+1QO3_P	10	Human immunodeficiency virus	Chain P, HIV ENVELOPE GLYCOPROTEIN 120 PEPTIDE	
+4MJ5_C	11	Influenza A virus (A/swine/Minnesota/A01327763/2012(H3N2))	Chain C, Nucleocapsid protein	
+4MJ6_C	11	Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1))	Chain C, Nucleoprotein	
+Q09110.1	450	Rabies virus Ontario skunk	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+O55611.1	450	Rabies virus Nishigahara RCEH	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+P88825.1	265	Saimiriine herpesvirus 2 (strain 484)	RecName: Full=Tyrosine protein kinase-interacting protein; Short=Tip; AltName: Full=TipC484	
+Q66T65.1	450	Rabies virus silver-haired bat-associated SHBRV	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q8B6J9.1	450	Rabies virus HEP-FLURY	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q8JTH3.1	450	Australian bat lyssavirus human/AUS/1998	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q8JXF6.1	450	Rabies virus CVS-11	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q9QSP4.1	450	Australian bat lyssavirus bat/AUS/1996	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q69559.1	87	Human herpesvirus 6 (strain Uganda-1102)	RecName: Full=U24 protein	
+Q5VKP2.1	450	Lyssavirus caucasicus	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q5VKP6.1	451	Lyssavirus irkut	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q6X1D4.1	451	Lyssavirus khujand	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+Q6X1D8.1	451	Lyssavirus aravan	RecName: Full=Nucleoprotein; Short=NP; AltName: Full=Nucleocapsid protein; Short=Protein N	
+2AV1_C	9	Human T-cell lymphotrophic virus type 1 (Caribbean isolate)	Chain C, Trans-activating transcriptional regulatory peptide	
+2AV1_F	9	Human T-cell lymphotrophic virus type 1 (Caribbean isolate)	Chain F, Trans-activating transcriptional regulatory peptide	
+2AV7_C	9	Human T-cell lymphotrophic virus type 1 (Caribbean isolate)	Chain C, Trans-activating transcriptional regulatory peptide	
+2AV7_F	9	Human T-cell lymphotrophic virus type 1 (Caribbean isolate)	Chain F, Trans-activating transcriptional regulatory peptide	
+ABC39851.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39852.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39853.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39854.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39855.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39856.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39857.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39858.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39859.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39860.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39861.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39862.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39863.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39864.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39865.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39866.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39867.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39868.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39869.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39870.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39871.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39872.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39873.1	105	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39874.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39875.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39876.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39877.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39878.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39879.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39880.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39881.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39882.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39883.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39884.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39885.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39886.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39887.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39888.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39889.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39890.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39891.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39892.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39893.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39894.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39895.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39896.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39897.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39898.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39899.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39900.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39901.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39902.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39903.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39904.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39905.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39906.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39907.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39908.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39909.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39910.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39911.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39912.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39913.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39914.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39915.1	119	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39916.1	119	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39917.1	119	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39918.1	119	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39919.1	119	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39920.1	119	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39921.1	113	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39922.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39923.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39924.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39925.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39926.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39927.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39928.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39929.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39930.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39931.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39932.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39933.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39934.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39935.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39936.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39937.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39938.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39939.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39940.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39941.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39942.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39943.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39944.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39945.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39946.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39947.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39948.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39949.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39950.1	117	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39951.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39952.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39953.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39954.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39955.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39956.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39957.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39958.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39959.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39960.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39961.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39962.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39963.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39964.1	105	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39965.1	110	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39966.1	106	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39967.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39968.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39969.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39970.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39971.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39972.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39973.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39974.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39975.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39976.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39977.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39978.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39979.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39980.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39981.1	109	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39982.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39983.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39984.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39985.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39986.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39987.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39988.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39989.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39990.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39991.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39992.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39993.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39994.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39995.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39996.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39997.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39998.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC39999.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40000.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40001.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40002.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40003.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40004.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40005.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40006.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40007.1	124	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40008.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40009.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40010.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40011.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40012.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40013.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40014.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40015.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40016.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40017.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40018.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40019.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40020.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40021.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40022.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40023.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40024.1	117	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40025.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40026.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40027.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40028.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40029.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40030.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40031.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40032.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40033.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40034.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40035.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40036.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40037.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40038.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40039.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40040.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40041.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40042.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40043.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40044.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40045.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40046.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40047.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40048.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40049.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40050.1	126	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40051.1	126	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40052.1	126	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40053.1	126	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40054.1	126	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40055.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40056.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40057.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40058.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40059.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40060.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40061.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40062.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40063.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40064.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40065.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40066.1	129	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40067.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40068.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40069.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40070.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40071.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40072.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40073.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40074.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40075.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40076.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40077.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40078.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40079.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40080.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40081.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40082.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40083.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40084.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40085.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40086.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40087.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40088.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40089.1	124	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40090.1	124	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40091.1	124	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40092.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40093.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40094.1	124	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40095.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40096.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40097.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40098.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40099.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40100.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40101.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40102.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40103.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40104.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40105.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40106.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40107.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40108.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40109.1	124	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40110.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40111.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40112.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40113.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40114.1	117	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40115.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40116.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40117.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40118.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40119.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40120.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40121.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40122.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40123.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40124.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40125.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40126.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40127.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40128.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40129.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40130.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40131.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40132.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40133.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40134.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40135.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40136.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40137.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40138.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40139.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40140.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40141.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40142.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40143.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40144.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40145.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40146.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40147.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40148.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40149.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40150.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40151.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40152.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40153.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40154.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40155.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40156.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40157.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40158.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40159.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40160.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40161.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40162.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40163.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40164.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40165.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40166.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40167.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40168.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40169.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40170.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40171.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40172.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40173.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40174.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40175.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40176.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40177.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40178.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40179.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40180.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40181.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40182.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40183.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40184.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40185.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40186.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40187.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40188.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40189.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40190.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40191.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40192.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40193.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40194.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40195.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40196.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40197.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40198.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40199.1	120	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40200.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40201.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40202.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40203.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40204.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40205.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40206.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40207.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40208.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40209.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40210.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40211.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40212.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40213.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40214.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40215.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40216.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40217.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40218.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40219.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40220.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40221.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40222.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40223.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40224.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40225.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40226.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40227.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40228.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40229.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40230.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40231.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40232.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40233.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40234.1	132	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40235.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40236.1	132	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40237.1	132	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40238.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40239.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40240.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40241.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40242.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40243.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40244.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40245.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40246.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40247.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40248.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40249.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40250.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40251.1	104	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40252.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40253.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40254.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40255.1	123	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40256.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40257.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40258.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40259.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40260.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40261.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40262.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40263.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40264.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40265.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40266.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40267.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40268.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40269.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40270.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40271.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40272.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40273.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40274.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40275.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40276.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40277.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40278.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40279.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40280.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40281.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40282.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40283.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40284.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40285.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40286.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40287.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40288.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40289.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40290.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40291.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40292.1	121	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40293.1	122	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40294.1	83	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40295.1	72	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40296.1	112	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40297.1	117	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40298.1	118	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40299.1	119	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40300.1	119	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40301.1	144	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40302.1	145	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40303.1	147	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40304.1	145	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40305.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40306.1	147	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40307.1	146	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40308.1	145	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40309.1	146	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40310.1	146	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40311.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40312.1	151	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40313.1	151	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40314.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40315.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40316.1	145	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40317.1	142	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40318.1	145	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40319.1	144	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40320.1	144	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40321.1	144	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40322.1	143	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40323.1	145	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40324.1	145	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40325.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40326.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40327.1	70	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40328.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40329.1	154	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40330.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40331.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40332.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40333.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40334.1	160	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40335.1	159	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40336.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40337.1	158	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40338.1	159	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40339.1	159	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40340.1	159	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40341.1	159	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40342.1	159	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40343.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40344.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40345.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40346.1	128	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40347.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40348.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40349.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40350.1	125	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40351.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40352.1	140	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40353.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40354.1	148	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40355.1	155	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40356.1	153	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40357.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40358.1	144	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40359.1	146	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40360.1	146	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40361.1	146	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40362.1	146	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40363.1	146	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40364.1	147	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40365.1	151	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40366.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40367.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40368.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40369.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40370.1	152	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40371.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+ABC40372.1	156	Human immunodeficiency virus 1	gag protein, partial [Human immunodeficiency virus 1]	
+2C7U_C	9	Human immunodeficiency virus 1	Chain C, GAG PROTEIN	
+2C7U_F	9	Human immunodeficiency virus 1	Chain F, GAG PROTEIN	

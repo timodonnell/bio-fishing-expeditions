@@ -1,0 +1,27 @@
+{
+  "completed_utc": "2026-11-13T18:27:51.022120+00:00",
+  "refseq_protein_candidates": 59,
+  "refseq_protein_assessments": {
+    "other_protein_family_supported": 16,
+    "competing_MHC_family_supported": 20,
+    "other_Ig_like_or_viral_surface_protein_supported": 15,
+    "other_Ig_like_annotation_not_receptor_specific": 4,
+    "unresolved_weak_or_nonspecific_match": 4
+  },
+  "refseq_translated_intervals": 51,
+  "refseq_translated_main_intervals": 25,
+  "refseq_translated_assessments": {
+    "competing_MHC_family_supported": 43,
+    "unresolved_weak_or_nonspecific_match": 1,
+    "other_Ig_like_or_viral_surface_protein_supported": 3,
+    "other_protein_family_supported": 4
+  },
+  "genbank_annotation_candidates": 42,
+  "genbank_annotation_assessments": {
+    "known_natural_FeLV_TCR_single_event": 3,
+    "structure_component_no_viral_genomic_evidence": 20,
+    "annotation_only_unresolved": 5,
+    "legacy_protein_record_unresolved_taxonomic_provenance": 14
+  },
+  "caution": "Assessments are triage, not exhaustive evolutionary proof. Unresolved entries remain open. Multiple accession representations of FeLV are one biological precedent."
+}

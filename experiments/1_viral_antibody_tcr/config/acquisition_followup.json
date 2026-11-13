@@ -1,0 +1,17 @@
+[
+  {
+    "id": "felv_1992_pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/241135/pdf/jvirol00038-0282.pdf",
+    "path": "data/raw/candidates/felv_1992.pdf"
+  },
+  {
+    "id": "metavr_downloads",
+    "url": "https://www.meta-virome.org/Downloads",
+    "path": "data/raw/metavr/downloads.html"
+  },
+  {
+    "id": "metavr_api",
+    "url": "https://meta-virome.org/api/",
+    "path": "data/raw/metavr/api.html"
+  }
+]

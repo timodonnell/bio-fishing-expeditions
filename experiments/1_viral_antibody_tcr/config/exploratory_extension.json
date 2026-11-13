@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-13",
+  "scope": "RefSeq and INPHARED extension of exploratory pilot",
+  "training": "human/mouse only; P11364 withheld",
+  "thresholds": {
+    "main_E": 0.001,
+    "main_aligned_aa": 50,
+    "retained_rescue_E": 0.01
+  },
+  "hmm_profiles": 14,
+  "calibration_scope": "Retrieval only; engineered/IgNAR/VHH/frameshift controls unfinished. No claim of complete broad-search sensitivity.",
+  "multiple_corpora": "Raw E-values retain corpus-specific sizes. Candidate summaries also scale HMM E-values by total disjoint corpus record counts / source count; sequence E-values are retrieval statistics, not pooled significance tests. Duplicate records are searched but not counted as independent observations.",
+  "translation": "BLAST standard genetic code, both strands; alternative codes and splice/frameshift rescue not implemented."
+}

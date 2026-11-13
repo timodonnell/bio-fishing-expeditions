@@ -1,0 +1,7129 @@
+[
+  {
+    "id": "NC_001731.1_97760_97972_1",
+    "genome": "NC_001731.1",
+    "organism": "Molluscum contagiosum virus subtype 1",
+    "start_1based": 97760,
+    "end_inclusive": 97972,
+    "strand": 1,
+    "best_E": 0.002,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01881",
+        "sseqid": "NC_001731.1",
+        "pident": "30.263",
+        "length": "76",
+        "qstart": "153",
+        "qend": "228",
+        "sstart": "97760",
+        "send": "97972",
+        "evalue": "0.003",
+        "bitscore": "42.4",
+        "qlen": "257",
+        "slen": "190289",
+        "qcovhsp": "30"
+      },
+      {
+        "qseqid": "P01882",
+        "sseqid": "NC_001731.1",
+        "pident": "31.169",
+        "length": "77",
+        "qstart": "153",
+        "qend": "228",
+        "sstart": "97760",
+        "send": "97972",
+        "evalue": "0.002",
+        "bitscore": "43.5",
+        "qlen": "290",
+        "slen": "190289",
+        "qcovhsp": "26"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[96985:98173](+)",
+        "qualifiers": {
+          "gene": [
+            "MC080R"
+          ],
+          "locus_tag": [
+            "MOCVgp080"
+          ],
+          "db_xref": [
+            "GeneID:1487099"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[96985:98173](+)",
+        "qualifiers": {
+          "gene": [
+            "MC080R"
+          ],
+          "locus_tag": [
+            "MOCVgp080"
+          ],
+          "note": [
+            "putative membrane protein; an unusual feature is the presence of 3 predicted N-terminal signal peptides; contains a predicted C-terminal transmembrane helix; similar to MHC I heavy chains, for example rat MHC I, PIR Accession Number S25536; Description: MHC I heavy chain homolog"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MC080R"
+          ],
+          "protein_id": [
+            "NP_044031.1"
+          ],
+          "db_xref": [
+            "GeneID:1487099"
+          ],
+          "translation": [
+            "MTGTLILLLACVLNAMAQLLARVCMAAATLARMLALSVAFLLALARTRTGLRAILVALLLRALLRALLAHAHAHTLSYVAAVVYTPGNAQPLLLAEGSINDLVFMRYHRQSGSVLPSPEWAPSVYFHDELWMLNARVDALRSLSVPGARLGNGTLGARSLQLAVGCEKVAGDASFWDLVYDGTEQICMHADATECEPGLPVHARLAKERWTRLGAHSHALEQRCLQWLERHLGARTNRPVVSVPLLSVVAYADGSGTRLRCTASGFSPRDVRLLWTRDGIPGPDYDFVEPRPSGDGSFQQWAELVVAAGLETHYVCVASHDSWKSSWRARWEEGKRRVATSARVAPLATIAEMLVALELMLILRERRLTLGALATMLACSMPNLLPQALRERAGF"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[97741:97945](+)",
+        "qualifiers": {
+          "gene": [
+            "MC080R"
+          ],
+          "locus_tag": [
+            "MOCVgp080"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[97750:97768](+)",
+        "qualifiers": {
+          "gene": [
+            "MC080R"
+          ],
+          "locus_tag": [
+            "MOCVgp080"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[97798:97813](+)",
+        "qualifiers": {
+          "gene": [
+            "MC080R"
+          ],
+          "locus_tag": [
+            "MOCVgp080"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[97888:97903](+)",
+        "qualifiers": {
+          "gene": [
+            "MC080R"
+          ],
+          "locus_tag": [
+            "MOCVgp080"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[97921:97939](+)",
+        "qualifiers": {
+          "gene": [
+            "MC080R"
+          ],
+          "locus_tag": [
+            "MOCVgp080"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015049.1_260_577_-1",
+    "genome": "NC_015049.1",
+    "organism": "Cricetid gammaherpesvirus 2",
+    "start_1based": 260,
+    "end_inclusive": 577,
+    "strand": -1,
+    "best_E": 0.000367,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01882",
+        "sseqid": "NC_015049.1",
+        "pident": "29.730",
+        "length": "111",
+        "qstart": "141",
+        "qend": "247",
+        "sstart": "577",
+        "send": "260",
+        "evalue": "3.67e-04",
+        "bitscore": "45.8",
+        "qlen": "290",
+        "slen": "124335",
+        "qcovhsp": "37"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[235:697](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "db_xref": [
+            "GeneID:10192270"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[235:697](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "similar to MHC class I antigen"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_004207833.1"
+          ],
+          "db_xref": [
+            "GeneID:10192270"
+          ],
+          "translation": [
+            "MKPCRKQVTKRTRIPPCSFNGPQTPKILIFYQSLVSPQVHVTRQATPDRQVTLKCWATGFYPADITITWHMGAEQLTDGVGQVETRPAGDGTFQKWAAIEVPAHKEHKYTCHVKHEASNMAITVTGGTSSPSIGGPNMTLLLAMIMFALKIGS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[325:595](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Class I major histocompatibility complex (MHC) alpha chain, alpha3 immunoglobulin domain; member of the C1-set of Ig superfamily (IgSF) domains; Region: IgC1_MHC_I_alpha3; cd07698"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[568:592](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand A [structural motif]; Region: Ig strand A"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[517:547](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[535:538](-), [529:532](-), [445:451](-), [433:442](-), [415:418](-), [409:412](-)}",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "heterodimer interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[508:517](-), [424:427](-), [349:352](-)}",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "MHC binding domain interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[487:505](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[469:481](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[433:460](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[394:427](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[352:376](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015049.1_323_577_-1",
+    "genome": "NC_015049.1",
+    "organism": "Cricetid gammaherpesvirus 2",
+    "start_1based": 323,
+    "end_inclusive": 577,
+    "strand": -1,
+    "best_E": 0.000495,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01881",
+        "sseqid": "NC_015049.1",
+        "pident": "28.889",
+        "length": "90",
+        "qstart": "141",
+        "qend": "229",
+        "sstart": "577",
+        "send": "323",
+        "evalue": "4.95e-04",
+        "bitscore": "45.1",
+        "qlen": "257",
+        "slen": "124335",
+        "qcovhsp": "35"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[235:697](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "db_xref": [
+            "GeneID:10192270"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[235:697](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "similar to MHC class I antigen"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_004207833.1"
+          ],
+          "db_xref": [
+            "GeneID:10192270"
+          ],
+          "translation": [
+            "MKPCRKQVTKRTRIPPCSFNGPQTPKILIFYQSLVSPQVHVTRQATPDRQVTLKCWATGFYPADITITWHMGAEQLTDGVGQVETRPAGDGTFQKWAAIEVPAHKEHKYTCHVKHEASNMAITVTGGTSSPSIGGPNMTLLLAMIMFALKIGS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[325:595](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Class I major histocompatibility complex (MHC) alpha chain, alpha3 immunoglobulin domain; member of the C1-set of Ig superfamily (IgSF) domains; Region: IgC1_MHC_I_alpha3; cd07698"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[568:592](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand A [structural motif]; Region: Ig strand A"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[517:547](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[535:538](-), [529:532](-), [445:451](-), [433:442](-), [415:418](-), [409:412](-)}",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "heterodimer interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[508:517](-), [424:427](-), [349:352](-)}",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "MHC binding domain interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[487:505](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[469:481](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[433:460](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[394:427](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[352:376](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015049.1_326_553_-1",
+    "genome": "NC_015049.1",
+    "organism": "Cricetid gammaherpesvirus 2",
+    "start_1based": 326,
+    "end_inclusive": 553,
+    "strand": -1,
+    "best_E": 0.007,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P0DOY3",
+        "sseqid": "NC_015049.1",
+        "pident": "32.927",
+        "length": "82",
+        "qstart": "22",
+        "qend": "100",
+        "sstart": "553",
+        "send": "326",
+        "evalue": "0.007",
+        "bitscore": "38.1",
+        "qlen": "106",
+        "slen": "124335",
+        "qcovhsp": "75"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[235:697](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "db_xref": [
+            "GeneID:10192270"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[235:697](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "similar to MHC class I antigen"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_004207833.1"
+          ],
+          "db_xref": [
+            "GeneID:10192270"
+          ],
+          "translation": [
+            "MKPCRKQVTKRTRIPPCSFNGPQTPKILIFYQSLVSPQVHVTRQATPDRQVTLKCWATGFYPADITITWHMGAEQLTDGVGQVETRPAGDGTFQKWAAIEVPAHKEHKYTCHVKHEASNMAITVTGGTSSPSIGGPNMTLLLAMIMFALKIGS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[325:595](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Class I major histocompatibility complex (MHC) alpha chain, alpha3 immunoglobulin domain; member of the C1-set of Ig superfamily (IgSF) domains; Region: IgC1_MHC_I_alpha3; cd07698"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[517:547](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[535:538](-), [529:532](-), [445:451](-), [433:442](-), [415:418](-), [409:412](-)}",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "heterodimer interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[508:517](-), [424:427](-), [349:352](-)}",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "MHC binding domain interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[487:505](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[469:481](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[433:460](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[394:427](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[352:376](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015049.1_347_589_-1",
+    "genome": "NC_015049.1",
+    "organism": "Cricetid gammaherpesvirus 2",
+    "start_1based": 347,
+    "end_inclusive": 589,
+    "strand": -1,
+    "best_E": 0.006,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01859",
+        "sseqid": "NC_015049.1",
+        "pident": "28.736",
+        "length": "87",
+        "qstart": "225",
+        "qend": "310",
+        "sstart": "589",
+        "send": "347",
+        "evalue": "0.006",
+        "bitscore": "42.7",
+        "qlen": "395",
+        "slen": "124335",
+        "qcovhsp": "22"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[235:697](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "db_xref": [
+            "GeneID:10192270"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[235:697](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "similar to MHC class I antigen"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_004207833.1"
+          ],
+          "db_xref": [
+            "GeneID:10192270"
+          ],
+          "translation": [
+            "MKPCRKQVTKRTRIPPCSFNGPQTPKILIFYQSLVSPQVHVTRQATPDRQVTLKCWATGFYPADITITWHMGAEQLTDGVGQVETRPAGDGTFQKWAAIEVPAHKEHKYTCHVKHEASNMAITVTGGTSSPSIGGPNMTLLLAMIMFALKIGS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[325:595](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Class I major histocompatibility complex (MHC) alpha chain, alpha3 immunoglobulin domain; member of the C1-set of Ig superfamily (IgSF) domains; Region: IgC1_MHC_I_alpha3; cd07698"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[568:592](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand A [structural motif]; Region: Ig strand A"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[517:547](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[535:538](-), [529:532](-), [445:451](-), [433:442](-), [415:418](-), [409:412](-)}",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "heterodimer interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[508:517](-), [424:427](-), [349:352](-)}",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "MHC binding domain interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[487:505](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[469:481](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[433:460](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[394:427](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[352:376](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "RHVP.R1"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015960.1_157786_158217_1",
+    "genome": "NC_015960.1",
+    "organism": "Yokapox virus",
+    "start_1based": 157786,
+    "end_inclusive": 158217,
+    "strand": 1,
+    "best_E": 0.003,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01867",
+        "sseqid": "NC_015960.1",
+        "pident": "24.675",
+        "length": "154",
+        "qstart": "222",
+        "qend": "369",
+        "sstart": "157786",
+        "send": "158217",
+        "evalue": "0.003",
+        "bitscore": "43.9",
+        "qlen": "404",
+        "slen": "175699",
+        "qcovhsp": "37"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "similar to host MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_004821526.1"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ],
+          "translation": [
+            "MRIIALLIIITHTYTATNHHLSYHCVAEIWPSDIYNISIKVDIDNLNIINFNNNKNITHLVENEYIDDILYYETIPKIYKFYKRNTYDNEENQYKNKLYTDVVNDIKQKLKLLMSIYNDSTYTTPHVYKSFYECTVNSNGDLIIGNDTFTYDDIPYGNLSVNESYFWFMFNNELTIVKIQNSTNNLYRCVNYLNSFVKKESYIFEPKSPSVELIYSETNNDHILYCLSSGFFPYDINIQWRNNGKNITSDKVILQNDTSFIGSSIIHVPFTDGGNYTCTIHHQSLKEDIVVYRVIDKKYNVIIAESTDMLLYIIYLSIFVGIAFVILIISYISYKRYRVYKYLKS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157893:158097](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157932:157947](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158013:158028](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158046:158064](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015960.1_157804_158082_1",
+    "genome": "NC_015960.1",
+    "organism": "Yokapox virus",
+    "start_1based": 157804,
+    "end_inclusive": 158082,
+    "strand": 1,
+    "best_E": 0.006,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01876",
+        "sseqid": "NC_015960.1",
+        "pident": "27.885",
+        "length": "104",
+        "qstart": "224",
+        "qend": "321",
+        "sstart": "157804",
+        "send": "158082",
+        "evalue": "0.006",
+        "bitscore": "43.1",
+        "qlen": "398",
+        "slen": "175699",
+        "qcovhsp": "25"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "similar to host MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_004821526.1"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ],
+          "translation": [
+            "MRIIALLIIITHTYTATNHHLSYHCVAEIWPSDIYNISIKVDIDNLNIINFNNNKNITHLVENEYIDDILYYETIPKIYKFYKRNTYDNEENQYKNKLYTDVVNDIKQKLKLLMSIYNDSTYTTPHVYKSFYECTVNSNGDLIIGNDTFTYDDIPYGNLSVNESYFWFMFNNELTIVKIQNSTNNLYRCVNYLNSFVKKESYIFEPKSPSVELIYSETNNDHILYCLSSGFFPYDINIQWRNNGKNITSDKVILQNDTSFIGSSIIHVPFTDGGNYTCTIHHQSLKEDIVVYRVIDKKYNVIIAESTDMLLYIIYLSIFVGIAFVILIISYISYKRYRVYKYLKS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157893:158097](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157932:157947](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158013:158028](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158046:158064](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015960.1_157804_158217_1",
+    "genome": "NC_015960.1",
+    "organism": "Yokapox virus",
+    "start_1based": 157804,
+    "end_inclusive": 158217,
+    "strand": 1,
+    "best_E": 0.009,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01865",
+        "sseqid": "NC_015960.1",
+        "pident": "24.490",
+        "length": "147",
+        "qstart": "223",
+        "qend": "363",
+        "sstart": "157804",
+        "send": "158217",
+        "evalue": "0.009",
+        "bitscore": "42.4",
+        "qlen": "398",
+        "slen": "175699",
+        "qcovhsp": "35"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "similar to host MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_004821526.1"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ],
+          "translation": [
+            "MRIIALLIIITHTYTATNHHLSYHCVAEIWPSDIYNISIKVDIDNLNIINFNNNKNITHLVENEYIDDILYYETIPKIYKFYKRNTYDNEENQYKNKLYTDVVNDIKQKLKLLMSIYNDSTYTTPHVYKSFYECTVNSNGDLIIGNDTFTYDDIPYGNLSVNESYFWFMFNNELTIVKIQNSTNNLYRCVNYLNSFVKKESYIFEPKSPSVELIYSETNNDHILYCLSSGFFPYDINIQWRNNGKNITSDKVILQNDTSFIGSSIIHVPFTDGGNYTCTIHHQSLKEDIVVYRVIDKKYNVIIAESTDMLLYIIYLSIFVGIAFVILIISYISYKRYRVYKYLKS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157893:158097](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157932:157947](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158013:158028](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158046:158064](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015960.1_157816_158115_1",
+    "genome": "NC_015960.1",
+    "organism": "Yokapox virus",
+    "start_1based": 157816,
+    "end_inclusive": 158115,
+    "strand": 1,
+    "best_E": 0.002,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01871",
+        "sseqid": "NC_015960.1",
+        "pident": "26.364",
+        "length": "110",
+        "qstart": "328",
+        "qend": "431",
+        "sstart": "157816",
+        "send": "158115",
+        "evalue": "0.002",
+        "bitscore": "45.1",
+        "qlen": "474",
+        "slen": "175699",
+        "qcovhsp": "22"
+      },
+      {
+        "qseqid": "P0DOX6",
+        "sseqid": "NC_015960.1",
+        "pident": "26.364",
+        "length": "110",
+        "qstart": "451",
+        "qend": "554",
+        "sstart": "157816",
+        "send": "158115",
+        "evalue": "0.002",
+        "bitscore": "45.4",
+        "qlen": "576",
+        "slen": "175699",
+        "qcovhsp": "18"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "similar to host MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_004821526.1"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ],
+          "translation": [
+            "MRIIALLIIITHTYTATNHHLSYHCVAEIWPSDIYNISIKVDIDNLNIINFNNNKNITHLVENEYIDDILYYETIPKIYKFYKRNTYDNEENQYKNKLYTDVVNDIKQKLKLLMSIYNDSTYTTPHVYKSFYECTVNSNGDLIIGNDTFTYDDIPYGNLSVNESYFWFMFNNELTIVKIQNSTNNLYRCVNYLNSFVKKESYIFEPKSPSVELIYSETNNDHILYCLSSGFFPYDINIQWRNNGKNITSDKVILQNDTSFIGSSIIHVPFTDGGNYTCTIHHQSLKEDIVVYRVIDKKYNVIIAESTDMLLYIIYLSIFVGIAFVILIISYISYKRYRVYKYLKS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157893:158097](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157932:157947](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158013:158028](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158046:158064](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_015960.1_157837_158079_1",
+    "genome": "NC_015960.1",
+    "organism": "Yokapox virus",
+    "start_1based": 157837,
+    "end_inclusive": 158079,
+    "strand": 1,
+    "best_E": 0.000785,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01857",
+        "sseqid": "NC_015960.1",
+        "pident": "29.670",
+        "length": "91",
+        "qstart": "225",
+        "qend": "315",
+        "sstart": "157837",
+        "send": "158079",
+        "evalue": "0.002",
+        "bitscore": "44.7",
+        "qlen": "399",
+        "slen": "175699",
+        "qcovhsp": "23"
+      },
+      {
+        "qseqid": "P01859",
+        "sseqid": "NC_015960.1",
+        "pident": "29.670",
+        "length": "91",
+        "qstart": "221",
+        "qend": "311",
+        "sstart": "157837",
+        "send": "158079",
+        "evalue": "0.001",
+        "bitscore": "45.4",
+        "qlen": "395",
+        "slen": "175699",
+        "qcovhsp": "23"
+      },
+      {
+        "qseqid": "P01861",
+        "sseqid": "NC_015960.1",
+        "pident": "31.868",
+        "length": "91",
+        "qstart": "222",
+        "qend": "312",
+        "sstart": "157837",
+        "send": "158079",
+        "evalue": "7.85e-04",
+        "bitscore": "45.8",
+        "qlen": "396",
+        "slen": "175699",
+        "qcovhsp": "23"
+      },
+      {
+        "qseqid": "P0DOX5",
+        "sseqid": "NC_015960.1",
+        "pident": "29.670",
+        "length": "91",
+        "qstart": "344",
+        "qend": "434",
+        "sstart": "157837",
+        "send": "158079",
+        "evalue": "0.002",
+        "bitscore": "44.7",
+        "qlen": "449",
+        "slen": "175699",
+        "qcovhsp": "20"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[157224:158262](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "similar to host MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_004821526.1"
+          ],
+          "db_xref": [
+            "GeneID:11107308"
+          ],
+          "translation": [
+            "MRIIALLIIITHTYTATNHHLSYHCVAEIWPSDIYNISIKVDIDNLNIINFNNNKNITHLVENEYIDDILYYETIPKIYKFYKRNTYDNEENQYKNKLYTDVVNDIKQKLKLLMSIYNDSTYTTPHVYKSFYECTVNSNGDLIIGNDTFTYDDIPYGNLSVNESYFWFMFNNELTIVKIQNSTNNLYRCVNYLNSFVKKESYIFEPKSPSVELIYSETNNDHILYCLSSGFFPYDINIQWRNNGKNITSDKVILQNDTSFIGSSIIHVPFTDGGNYTCTIHHQSLKEDIVVYRVIDKKYNVIIAESTDMLLYIIYLSIFVGIAFVILIISYISYKRYRVYKYLKS"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157893:158097](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[157932:157947](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158013:158028](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[158046:158064](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "YKV173"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_016447.1_17803_18030_-1",
+    "genome": "NC_016447.1",
+    "organism": "Aotine betaherpesvirus 1",
+    "start_1based": 17803,
+    "end_inclusive": 18030,
+    "strand": -1,
+    "best_E": 0.004,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P0CF74",
+        "sseqid": "NC_016447.1",
+        "pident": "33.735",
+        "length": "83",
+        "qstart": "15",
+        "qend": "94",
+        "sstart": "18030",
+        "send": "17803",
+        "evalue": "0.004",
+        "bitscore": "38.5",
+        "qlen": "106",
+        "slen": "219474",
+        "qcovhsp": "75"
+      }
+    ],
+    "overlapping_features": []
+  },
+  {
+    "id": "NC_016447.1_18834_19079_-1",
+    "genome": "NC_016447.1",
+    "organism": "Aotine betaherpesvirus 1",
+    "start_1based": 18834,
+    "end_inclusive": 19079,
+    "strand": -1,
+    "best_E": 0.002,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01876",
+        "sseqid": "NC_016447.1",
+        "pident": "35.484",
+        "length": "93",
+        "qstart": "228",
+        "qend": "320",
+        "sstart": "19079",
+        "send": "18834",
+        "evalue": "0.004",
+        "bitscore": "43.5",
+        "qlen": "398",
+        "slen": "219474",
+        "qcovhsp": "23"
+      },
+      {
+        "qseqid": "P01877",
+        "sseqid": "NC_016447.1",
+        "pident": "35.484",
+        "length": "93",
+        "qstart": "215",
+        "qend": "307",
+        "sstart": "19079",
+        "send": "18834",
+        "evalue": "0.002",
+        "bitscore": "44.3",
+        "qlen": "391",
+        "slen": "219474",
+        "qcovhsp": "24"
+      },
+      {
+        "qseqid": "P0DOX2",
+        "sseqid": "NC_016447.1",
+        "pident": "35.484",
+        "length": "93",
+        "qstart": "330",
+        "qend": "422",
+        "sstart": "19079",
+        "send": "18834",
+        "evalue": "0.002",
+        "bitscore": "45.1",
+        "qlen": "455",
+        "slen": "219474",
+        "qcovhsp": "20"
+      }
+    ],
+    "overlapping_features": []
+  },
+  {
+    "id": "NC_016447.1_20920_21141_-1",
+    "genome": "NC_016447.1",
+    "organism": "Aotine betaherpesvirus 1",
+    "start_1based": 20920,
+    "end_inclusive": 21141,
+    "strand": -1,
+    "best_E": 0.000383,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "A0M8Q6",
+        "sseqid": "NC_016447.1",
+        "pident": "30.769",
+        "length": "78",
+        "qstart": "24",
+        "qend": "100",
+        "sstart": "21141",
+        "send": "20920",
+        "evalue": "0.008",
+        "bitscore": "37.7",
+        "qlen": "106",
+        "slen": "219474",
+        "qcovhsp": "73"
+      },
+      {
+        "qseqid": "P01843",
+        "sseqid": "NC_016447.1",
+        "pident": "33.750",
+        "length": "80",
+        "qstart": "23",
+        "qend": "99",
+        "sstart": "21141",
+        "send": "20920",
+        "evalue": "6.77e-04",
+        "bitscore": "40.8",
+        "qlen": "105",
+        "slen": "219474",
+        "qcovhsp": "73"
+      },
+      {
+        "qseqid": "P0CF74",
+        "sseqid": "NC_016447.1",
+        "pident": "30.769",
+        "length": "78",
+        "qstart": "24",
+        "qend": "100",
+        "sstart": "21141",
+        "send": "20920",
+        "evalue": "0.003",
+        "bitscore": "39.3",
+        "qlen": "106",
+        "slen": "219474",
+        "qcovhsp": "73"
+      },
+      {
+        "qseqid": "P0CG04",
+        "sseqid": "NC_016447.1",
+        "pident": "32.051",
+        "length": "78",
+        "qstart": "24",
+        "qend": "100",
+        "sstart": "21141",
+        "send": "20920",
+        "evalue": "3.83e-04",
+        "bitscore": "41.6",
+        "qlen": "106",
+        "slen": "219474",
+        "qcovhsp": "73"
+      },
+      {
+        "qseqid": "P0DOX8",
+        "sseqid": "NC_016447.1",
+        "pident": "32.051",
+        "length": "78",
+        "qstart": "134",
+        "qend": "210",
+        "sstart": "21141",
+        "send": "20920",
+        "evalue": "0.002",
+        "bitscore": "42.4",
+        "qlen": "216",
+        "slen": "219474",
+        "qcovhsp": "36"
+      },
+      {
+        "qseqid": "P0DOY2",
+        "sseqid": "NC_016447.1",
+        "pident": "32.051",
+        "length": "78",
+        "qstart": "24",
+        "qend": "100",
+        "sstart": "21141",
+        "send": "20920",
+        "evalue": "4.22e-04",
+        "bitscore": "41.6",
+        "qlen": "106",
+        "slen": "219474",
+        "qcovhsp": "73"
+      },
+      {
+        "qseqid": "P0DOY3",
+        "sseqid": "NC_016447.1",
+        "pident": "32.051",
+        "length": "78",
+        "qstart": "24",
+        "qend": "100",
+        "sstart": "21141",
+        "send": "20920",
+        "evalue": "4.30e-04",
+        "bitscore": "41.6",
+        "qlen": "106",
+        "slen": "219474",
+        "qcovhsp": "73"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[20742:21789](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "db_xref": [
+            "GeneID:11464092"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[20742:21789](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "type 1 membrane protein; MHC family"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "membrane protein A18"
+          ],
+          "protein_id": [
+            "YP_004940044.1"
+          ],
+          "db_xref": [
+            "GeneID:11464092"
+          ],
+          "translation": [
+            "MLSRLLLVSACVWGGGGGGAEISHSLTYCFYAVSEYGKQARLRVLGYVDDTPFVKFDSKATIPRVESITPWLELDNSQYFEKNTEKCKHLERNFGVHLKMAMGYYNQTDTKPHTLQLLLECNIGLDERFLSGHFQYAYDAKDHISLNDNLDTWVAANVAAQITKRKFEASNLQQKLKKYLEGECIEWLRRYLTNGNLSTYFVSPKVSITKHETHQNVTLKCWAWDFYPAKITLEWKNDNVNVTDLTEFVETRPLGNGTFEKWMAIVVQLGEEWKYSCHVHHHGVTFNYTLPQRFQTSIAKGPVAGGVGIVIIVSVLAVGGFTMWKFKNKRLKTNRRYDEVFVTDAEFE"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[20916:21186](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "Class I major histocompatibility complex (MHC) alpha chain, alpha3 immunoglobulin domain; member of the C1-set of Ig superfamily (IgSF) domains; Region: IgC1_MHC_I_alpha3; cd07698"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[21111:21141](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[21129:21132](-), [21123:21126](-), [21039:21045](-), [21027:21036](-), [21009:21012](-), [21003:21006](-)}",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "heterodimer interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[21102:21111](-), [21018:21021](-), [20943:20946](-)}",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "MHC binding domain interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[21081:21099](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[21063:21075](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[21027:21054](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[20988:21021](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[20946:20970](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[20916:20928](-)",
+        "qualifiers": {
+          "gene": [
+            "A18"
+          ],
+          "locus_tag": [
+            "AoHV-1_gp021"
+          ],
+          "note": [
+            "Ig strand G [structural motif]; Region: Ig strand G"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_016448.1_15280_15510_-1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "start_1based": 15280,
+    "end_inclusive": 15510,
+    "strand": -1,
+    "best_E": 0.00058,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01843",
+        "sseqid": "NC_016448.1",
+        "pident": "29.268",
+        "length": "82",
+        "qstart": "20",
+        "qend": "99",
+        "sstart": "15510",
+        "send": "15280",
+        "evalue": "5.80e-04",
+        "bitscore": "41.2",
+        "qlen": "105",
+        "slen": "196691",
+        "qcovhsp": "76"
+      },
+      {
+        "qseqid": "P0CG04",
+        "sseqid": "NC_016448.1",
+        "pident": "30.488",
+        "length": "82",
+        "qstart": "21",
+        "qend": "100",
+        "sstart": "15510",
+        "send": "15280",
+        "evalue": "0.008",
+        "bitscore": "37.7",
+        "qlen": "106",
+        "slen": "196691",
+        "qcovhsp": "75"
+      }
+    ],
+    "overlapping_features": []
+  },
+  {
+    "id": "NC_016448.1_15301_15549_-1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "start_1based": 15301,
+    "end_inclusive": 15549,
+    "strand": -1,
+    "best_E": 0.000569,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01863",
+        "sseqid": "NC_016448.1",
+        "pident": "32.609",
+        "length": "92",
+        "qstart": "226",
+        "qend": "314",
+        "sstart": "15549",
+        "send": "15301",
+        "evalue": "5.69e-04",
+        "bitscore": "45.8",
+        "qlen": "330",
+        "slen": "196691",
+        "qcovhsp": "27"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "misc_feature",
+        "location": "[15545:16136](-)",
+        "qualifiers": {
+          "note": [
+            "similar to S10; truncated by frameshift (C:G tract); MHC family"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_016448.1_15301_15552_-1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "start_1based": 15301,
+    "end_inclusive": 15552,
+    "strand": -1,
+    "best_E": 0.000529,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01865",
+        "sseqid": "NC_016448.1",
+        "pident": "31.868",
+        "length": "91",
+        "qstart": "224",
+        "qend": "313",
+        "sstart": "15552",
+        "send": "15301",
+        "evalue": "5.29e-04",
+        "bitscore": "46.2",
+        "qlen": "398",
+        "slen": "196691",
+        "qcovhsp": "23"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "misc_feature",
+        "location": "[15545:16136](-)",
+        "qualifiers": {
+          "note": [
+            "similar to S10; truncated by frameshift (C:G tract); MHC family"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_016448.1_17027_17272_-1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "start_1based": 17027,
+    "end_inclusive": 17272,
+    "strand": -1,
+    "best_E": 0.005,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P0CG04",
+        "sseqid": "NC_016448.1",
+        "pident": "22.353",
+        "length": "85",
+        "qstart": "15",
+        "qend": "99",
+        "sstart": "17272",
+        "send": "17027",
+        "evalue": "0.005",
+        "bitscore": "38.5",
+        "qlen": "106",
+        "slen": "196691",
+        "qcovhsp": "80"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[16843:17878](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "db_xref": [
+            "GeneID:11464249"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[16843:17878](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "type 1 membrane protein; MHC family"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "membrane protein S11"
+          ],
+          "protein_id": [
+            "YP_004940190.1"
+          ],
+          "db_xref": [
+            "GeneID:11464249"
+          ],
+          "translation": [
+            "MWIFIVIYFRVLCNFSLSYSLRYFSVSIERDNQEPLYLEAGYVDDIEIVRFDSSDADPKMRPKVSWIQESSSFWDTETEGCVGDRTIFKSNLKVLLRYYNQSGKHIIQRMCGCQGSSNGTLIHGYDQYAYDGKDYIMLTDDLQDWQVTDMYSKLTKDKWDGQNRAQVVRAYLEIDCPEWVQKYVINGTRAGAFQIKAPQVFLTEHHLSDHEVNLKCWALNFYPADIYMMWMKDGEDQAQDIETIETRPSGDGTYQKWVAIVVSPQERQRYQCEVQHVGQKTSVTSKLQSSADSGYGGSLTGIFVVTVALGVGISVVIWRKKLGSKIIMYRRNVGVRMESVSETA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17044:17290](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Class I major histocompatibility complex (MHC) alpha chain, alpha3 immunoglobulin domain; member of the C1-set of Ig superfamily (IgSF) domains; Region: IgC1_MHC_I_alpha3; cd07698"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17266:17290](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand A [structural motif]; Region: Ig strand A"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17215:17245](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[17233:17236](-), [17227:17230](-), [17143:17149](-), [17131:17140](-), [17113:17116](-), [17107:17110](-)}",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "heterodimer interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[17206:17215](-), [17122:17125](-), [17047:17050](-)}",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "MHC binding domain interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17185:17203](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17167:17179](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17131:17158](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17092:17125](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17050:17074](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_016448.1_17027_17290_-1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "start_1based": 17027,
+    "end_inclusive": 17290,
+    "strand": -1,
+    "best_E": 0.004,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P0CF74",
+        "sseqid": "NC_016448.1",
+        "pident": "24.468",
+        "length": "94",
+        "qstart": "6",
+        "qend": "99",
+        "sstart": "17290",
+        "send": "17027",
+        "evalue": "0.004",
+        "bitscore": "38.9",
+        "qlen": "106",
+        "slen": "196691",
+        "qcovhsp": "89"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[16843:17878](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "db_xref": [
+            "GeneID:11464249"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[16843:17878](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "type 1 membrane protein; MHC family"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "membrane protein S11"
+          ],
+          "protein_id": [
+            "YP_004940190.1"
+          ],
+          "db_xref": [
+            "GeneID:11464249"
+          ],
+          "translation": [
+            "MWIFIVIYFRVLCNFSLSYSLRYFSVSIERDNQEPLYLEAGYVDDIEIVRFDSSDADPKMRPKVSWIQESSSFWDTETEGCVGDRTIFKSNLKVLLRYYNQSGKHIIQRMCGCQGSSNGTLIHGYDQYAYDGKDYIMLTDDLQDWQVTDMYSKLTKDKWDGQNRAQVVRAYLEIDCPEWVQKYVINGTRAGAFQIKAPQVFLTEHHLSDHEVNLKCWALNFYPADIYMMWMKDGEDQAQDIETIETRPSGDGTYQKWVAIVVSPQERQRYQCEVQHVGQKTSVTSKLQSSADSGYGGSLTGIFVVTVALGVGISVVIWRKKLGSKIIMYRRNVGVRMESVSETA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17044:17290](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Class I major histocompatibility complex (MHC) alpha chain, alpha3 immunoglobulin domain; member of the C1-set of Ig superfamily (IgSF) domains; Region: IgC1_MHC_I_alpha3; cd07698"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17266:17290](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand A [structural motif]; Region: Ig strand A"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17215:17245](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[17233:17236](-), [17227:17230](-), [17143:17149](-), [17131:17140](-), [17113:17116](-), [17107:17110](-)}",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "heterodimer interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "order{[17206:17215](-), [17122:17125](-), [17047:17050](-)}",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "MHC binding domain interface [polypeptide binding]; other site"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17185:17203](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17167:17179](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17131:17158](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17092:17125](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[17050:17074](-)",
+        "qualifiers": {
+          "gene": [
+            "S11"
+          ],
+          "locus_tag": [
+            "SaHV-3_gp014"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409495"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_016924.1_170780_171211_1",
+    "genome": "NC_016924.1",
+    "organism": "Cotia virus SPAn232",
+    "start_1based": 170780,
+    "end_inclusive": 171211,
+    "strand": 1,
+    "best_E": 9.32e-05,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01863",
+        "sseqid": "NC_016924.1",
+        "pident": "28.571",
+        "length": "161",
+        "qstart": "159",
+        "qend": "313",
+        "sstart": "170780",
+        "send": "171211",
+        "evalue": "9.32e-05",
+        "bitscore": "48.1",
+        "qlen": "330",
+        "slen": "185139",
+        "qcovhsp": "47"
+      },
+      {
+        "qseqid": "P01864",
+        "sseqid": "NC_016924.1",
+        "pident": "27.778",
+        "length": "162",
+        "qstart": "164",
+        "qend": "318",
+        "sstart": "170780",
+        "send": "171211",
+        "evalue": "0.001",
+        "bitscore": "44.7",
+        "qlen": "335",
+        "slen": "185139",
+        "qcovhsp": "46"
+      },
+      {
+        "qseqid": "P01865",
+        "sseqid": "NC_016924.1",
+        "pident": "28.571",
+        "length": "161",
+        "qstart": "158",
+        "qend": "312",
+        "sstart": "170780",
+        "send": "171211",
+        "evalue": "2.84e-04",
+        "bitscore": "47.4",
+        "qlen": "398",
+        "slen": "185139",
+        "qcovhsp": "39"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[170428:171274](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "COTV170"
+          ],
+          "db_xref": [
+            "GeneID:11748041"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[170428:171274](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "COTV170"
+          ],
+          "note": [
+            "similar to Leopardus pardalis FLA-I/SQPV-I2L"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I antigen"
+          ],
+          "protein_id": [
+            "YP_005296358.1"
+          ],
+          "db_xref": [
+            "GeneID:11748041"
+          ],
+          "translation": [
+            "MNITQIFIPAYFSVYNILEFYYTGIIHNNNVRFIYSAYLNHEEFIRYDSSSDNPRPELLTPWAKKLKFSQLVDEYNKIKEMERNFKMNLHILSKGDKPSSYNKLQLISDCVKYPTKNSWSNTYAYNEKTYSHISSYGGNTWIDEVESNLIKMDDYKNYDCFVDLNRYINKKIPRKLSKPRVCVEAVKYGNDEESLLALNCYASGFFPKDIYVTWMDDKNSDHHQDCLMVFGPNGDGTYSIRMEKIVSVGEENNFSCEVYHDPHGYLIANMSDPNYNCKNVF"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[170956:171211](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "COTV170"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[171013:171028](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "COTV170"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[171058:171073](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "COTV170"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[171151:171166](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "COTV170"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[171184:171202](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "COTV170"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_022563.1_5886_6077_-1",
+    "genome": "NC_022563.1",
+    "organism": "Squirrelpox virus",
+    "start_1based": 5886,
+    "end_inclusive": 6077,
+    "strand": -1,
+    "best_E": 0.004,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P0CF74",
+        "sseqid": "NC_022563.1",
+        "pident": "37.143",
+        "length": "70",
+        "qstart": "26",
+        "qend": "93",
+        "sstart": "6077",
+        "send": "5886",
+        "evalue": "0.004",
+        "bitscore": "38.9",
+        "qlen": "106",
+        "slen": "148803",
+        "qcovhsp": "64"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[5702:6737](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "SQPV_0040"
+          ],
+          "db_xref": [
+            "GeneID:18158390"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[5702:6737](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "SQPV_0040"
+          ],
+          "inference": [
+            "ab initio prediction:GENEMARK:v2.4"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "major histocompatibility complex, class I, E (human)"
+          ],
+          "protein_id": [
+            "YP_008658429.1"
+          ],
+          "db_xref": [
+            "GeneID:18158390"
+          ],
+          "translation": [
+            "MLALLILLVLSGLRAALAAGGCRASSLVYHHVGLTTEATGDHPRYLVVGYVDDTEIVRFDSNSTDPRVVASVPWNVTNETKYWTDQNKNARETQKIFRLNMRTMSRYYNHTGGSHVLQWSYGCSVTVNCTRGGAHEAFAYDGEDYMTLNEDLRTWTAVSSHASLTMKSASFATDTEFQRSYLTTDCVEWLGKHLAAGGEHLRVVPPRTNLTYREVGGAVELRCWAREFYPSAVSITWLHDSGEPVNQTSVEVRPDGAGTFQKWAAVVVTAGTETEYACRVTHNGESWTLRRPGGFSVLGTVLLVVAVLIALILAAYPVYVVTRNHLAEHRRVTTLEYENLFVVA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5867:6128](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "SQPV_0040"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6068:6083](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "SQPV_0040"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6023:6038](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "SQPV_0040"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5933:5948](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "SQPV_0040"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5897:5915](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "SQPV_0040"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_023893.1_7466_7648_1",
+    "genome": "NC_023893.1",
+    "organism": "Sclerotinia sclerotiorum betaendornavirus 1",
+    "start_1based": 7466,
+    "end_inclusive": 7648,
+    "strand": 1,
+    "best_E": 0.008,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01822",
+        "sseqid": "NC_023893.1",
+        "pident": "36.066",
+        "length": "61",
+        "qstart": "76",
+        "qend": "136",
+        "sstart": "7466",
+        "send": "7648",
+        "evalue": "0.008",
+        "bitscore": "38.9",
+        "qlen": "137",
+        "slen": "10513",
+        "qcovhsp": "45"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[25:10405](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "DK24_gp1"
+          ],
+          "db_xref": [
+            "GeneID:18983192"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[25:10405](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "DK24_gp1"
+          ],
+          "note": [
+            "contains methyltransferase (MTR), cysteine-rich region (CRR), DEAD-like helicase (DEXDc), viral RNA helicase (Hel), Phytoreo_S7 and RNA-dependent RNA polymerase (RdRp)"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "polyprotein"
+          ],
+          "protein_id": [
+            "YP_009022070.1"
+          ],
+          "db_xref": [
+            "GeneID:18983192"
+          ],
+          "translation": [
+            "MSQTITNTTITTTTITDAQINTHKRAFGSLSKDYPNKNHQRGLTWFDVVDPPKQQKHWPKLTPNPRWKKLSTSKNAVGKAELGGETQVMASYNCWQCIFGYDLGIDTAISLEMIKMTIMCQPEDAAHIQIQASYANGMLHIANPPGLPTGEMTPELFNAQRKFVEHPIDGCIKLIDLVDLYDEGTMVGFTPRTITEKLANDIGVDVNSVDTQQLKKAISDSVNSRGTKAVTKFTDQAIILPTSCPEEIVNDLNNEFGNATFIRGNKEHHPHIYHNASRKAVTNLLCGWHGRDALIYDIGGNPASHLNAGRFTVHSVYSKNQAADNARHIKWSKQCVAWARRNMNNENNHSVVNGVANSILKPNSALWCSDGINKCVHSSKHGSFGISIDTLFHLPVNDLFDFYIRNKVFHSVHAITLPTNYSYARNGALKYNEGHWYKKNDDWTIEFNGESLAYSQSVALTDTYLTVPLHNIGEMVVYCKVSGYKGAHLIIEHYLIDRAQLDQLYLKHVMWFNTNMDELFVMVPRINMDQSTTVMGRIPYTMEQVVINVRFYERLLNRLMQSYTWDSVLSYAAGLIGRVYATSSGLHMKWNLTNSQVRDHCLIAYWTTNRINESIKPLLAQAEHASRDPDFLTSLWNSLKNWLKDFGSQFDPTGNNTVQKFIADNKGDTLRLIQMFNSTVRSVESLNVATQMVHSRSVVDWVASSTGVSYRRLDVDIDTWRLNQDMSGNKMTVYDHIEFKDAKPAGVNIGCSITKTCTHDHKPFHLHLSDLSRRMGNCACCGVVSNLNITKLCTICSDILPCHGKNLRCTHIHEQLNDECCLLTKCTCKKDKNCSCCGLPSVGTYCKVCQFLPDKATNKQPTNSVNNNSTTVAPIIMKPTTERKDAPVRFTFEKPQVSNTQNEFKKNESATHPLATNNDSLFVTLKEQLVDDVVTFDDKTTIKSDDAEIRSVATESIVSVEASVDAIQLNDNNIEPLLPEEEVAGTEQISTLMRAVVSVDDVNPGHADTVLTRLPPRYQGGVAVRVVGYTDVPGDGTCGAHALSVALGLNVDEVKHWLTVATGHDDWHNSEELAACALAYGRNLICVDIGDTTIYRGGDQDYAGSIIHGTVVGCGAHWLAGNCNILSYSSLFTNKLISDYTNLLRAAHLTLNGSDQTALAYSHSDLDVDSIIDMNGSIIISREGISVQHEGGNSKCQISDKSDDIKMIIGPTGSGKTTTAFQHIEGKVLLITPLRSAVNNSFDYLKNKVKVVARAQGAWIPDNINIKDITKSDLVIMTMETLYSGIFIGQDKKNIYHQLVSARAIICDEVHEISPHYARLLTVLPKNKTYICSATMPGIKLDYNCKFDVTTNFVQGDIVDYWFNEVKTSRTMPLNTCYIVGTKNECKFADMPNDIKAINSSTINEVTINEVNRCIATNIVTTSITMPQIANIIDLGVRITSDVIVKPYLTDVEKDIRFFNYSKRLYSWAEMTQARGRVGRVSDGQFYGPCPDKTTRQSNIEAMLNSCYTRAPCYSGLLHEWQMITQKNYDEAVNHFTKLGNTFDSKPKWWDEFQSWQESVAELLQCKNANLQPVFVDEYIHKEDILALIPNYIGTNPISTSMKHNKNRVGALRYSCAVDWDNVLPKHLYETTDNIDFESLVISVPDSSQFLNIETDSNEEIASKLRLLAIASILNAIKGLMARGQIYINTNKWSDQHGQYILYDSLEDAQALSGINLSEYDIIGLVDIKKSSMRITHYQQSNKWVGYVIVPTYKTHHYMGQLTDIGLIRDRQAPLVDTLRNSTLYVGPPGSGKTTMMVNENKSSYTTTISSGQLKNHGTWLPPSLIPHSQENINIDEIGLLDVSVILSLASRSNKLTGTGDISQVVHIANETNAYYTGFDSGIDLFSKYANKIYLDKTHRFGPLTCNLVAKLGFDINPTNIDKIEEIKGYVCATNDNKSYSKVLIASEPDAIICATNHLARMFRKITQIPVYNIAKCQGIDTPNTLVVLQGGQIDVLANNQLYVALTRHSQRLSIIVDPPHAALLTQLCIETENMISYADALGGSSNITQPIFNYIIESNMNRLLNDAQVMNYLTTICALQSGKISPNTMIVIMDQMNSHYNNCPFKFVRLREIKDIKQLECVVSLYGIQCIVYNISITDERELLCCLLTQVTTNKHIKEYLRSLPNRFAATGKKLCYNLYLWLSKFMKDNASVLSTYLYANDTIDIGGGVDLCHVLWLAINGVRSAFMTLIHLLDDVGNKLSKYTDGSYAAEQFKELLIDTWKKSNPLSFGDLKISSSVISLFKIFRDHFGSGIKTLWDFIQYVVKNMREWWENQFNNDKPIYYELEGTSMSLIVTDSPCIDIMRNSLDGDYSLIDGSPTISNTQYITTLDNLIDNSTIGWEKKDVPSPTCEDCPDDIQEVLDEIEVLFDYEAETNEKYDSLIDNEHHESTHECSEPEVESSPCEQKNEKENIKQNQCLCIETCNDWQLADTIVTSLDLNTYKPNLMGRMVIEKISDGIKINLKLPGVGKFNAVTKKCCGDNTHLIYVTVNGEQLTLKISKIASGYELYCMPDVVDVNFSQLEQAIKMLSKLGGGKLNNGMTLLVDSLKITRKFIKKLVRLTHYKLKYLMGTINLRHLTSNRSNLEVYRTICHRLPTSYGNSKFSTRECIGGTVLSTIELIPNNAANRSEIFIAIYNVNGDTQILIFTNDNNYSNYITRRLMTPVEHGNFAGDRSAISALLRLGIDIKSILTQDNDLTIDDIKKWLLANPLTSMFDVTDQRTYNNAKEHSIVEKHLFTDIHNILDKPLDVKYAFCIPSGHGKTTTVNRIRRSNQEFTVLDVDEVQEQATILHLGFEDKMLNYKEKLEKYIANSTKPPDAVFIHSPICAPAGYKVIIILNDGADVPLDRIWSDKNVCHLESMNNIIHTQNYDDVYNVTINYLNKKLTGDITLEDGTTIVDNIDSILGDSFMRNHPGYDDIYRLPTGKQDILNMNTGNIGLGEQRFFKTGPHPEVMRPTVNKMPSALPNAIMTRLMGRVKYRTVDLTIKDYHKLMTKFFIKGYESKLASYTDDPINLNYEDILNWLVAKGNKIQLLDNMLRSVKDDEFATDPANINVHYKVENLMKEQVNDILDQVGRVIVWNNQNINMYACPVINEAKARFKSLLKPNVIYTDGMTVADMNKSIGQYKSKWLLEMDLSKQDRQTDAQILIYEWKLMGMLGVPDVLIEFMTSFIPTFRINGTSHETAKLPAIHFSGGAMTSMGNEIRNLLLLSDCIGNNYVAIYTLGDDSLVLMNTKPDLELYKRICASRHNVENTAVASTNCALFLQMIVARNEDGTYYLSHNFARLKEKLVYSTYPNTSSDWKMKYASYLMMIGYSAQTKRAMEYSGFVSFPSLGTTMSQRVSANALYNEINDLQVFNIINDIINAKEQISEEIIIQLPVIMTGSKLKSGMSKVGKYVDNHNTMHELLIQYMEEHTET"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_024450.1_109372_109791_1",
+    "genome": "NC_024450.1",
+    "organism": "Falconid herpesvirus 1",
+    "start_1based": 109372,
+    "end_inclusive": 109791,
+    "strand": 1,
+    "best_E": 0.006,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P0DOX8",
+        "sseqid": "NC_024450.1",
+        "pident": "26.846",
+        "length": "149",
+        "qstart": "21",
+        "qend": "162",
+        "sstart": "109372",
+        "send": "109791",
+        "evalue": "0.006",
+        "bitscore": "41.2",
+        "qlen": "216",
+        "slen": "204054",
+        "qcovhsp": "66"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "misc_feature",
+        "location": "[6998:143375](+)",
+        "qualifiers": {
+          "note": [
+            "UL"
+          ]
+        }
+      },
+      {
+        "type": "gene",
+        "location": "[108390:110397](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "HQ28_gp059"
+          ],
+          "old_locus_tag": [
+            "FaHV1S18_059"
+          ],
+          "db_xref": [
+            "GeneID:19738347"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[108390:110397](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "HQ28_gp059"
+          ],
+          "old_locus_tag": [
+            "FaHV1S18_059"
+          ],
+          "note": [
+            "cell attachment; UL44"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "envelope glycoprotein C"
+          ],
+          "protein_id": [
+            "YP_009046543.1"
+          ],
+          "db_xref": [
+            "GeneID:19738347"
+          ],
+          "translation": [
+            "MGGAGRAPSDDVAGPSQRALLLAVLLLSPCAWHVAGQSGDFWSDAPSGDRSTETYLQETGSAGYEDVFSATQPQVHDPETTTAVTGDATQWETGAYTPTTDDGRTDRSTTVDPTAQEASGSECNDADSSEERPFETDDFIPVDVRQDPRPGGTAEPPSSPDPTGSWLGASRAPAYDIFSILGRRKRMANGDGSGSGTTPSEEYSVVTAHPSQPAVAAQVAPSSPTGAPSTTASAGPSSTGGSAXSAAAPTTAGTTASGHAASGSAGGKNDSAARPGVDLVCSRYELYTTLNRTMRFNCTVVPVGDGADDIKWRIRAFFRSSDMVAESAATGDYVDYGSMWYPSFSHPGRVTRVFASFKEEDGLWTSYPDGDKYNLMIQNYTFILTVRNVGAHDDGYFNVGLFDHDFNVLVQINVTVRVVKRPSVVDVTALPVILGHNFTAVCAVREFYPPGTVNVTWKNNGQAVDAGSVSSDVHIDENDVATIISTLTVDGKGADHAPMLSCYANWRVGNAESHTSASVNSRVYRPPILSMWFEDSNAICKAICVPDDIWIAWFIDADPQPQELIYTNRSGVCMSVPGYVNIYSVVPLADKMKASKYTCSLNGYPFDSDLFEISEYFDGSVMGRGRPVITTIVTVFAAGIVLCVLIMILAFCFYSAGSKDLDLYAIKT"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[108948:110367](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "HQ28_gp059"
+          ],
+          "old_locus_tag": [
+            "FaHV1S18_059"
+          ],
+          "note": [
+            "envelope glycoprotein C; Provisional; Region: PHA03271"
+          ],
+          "db_xref": [
+            "CDD:223030"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_024696.1_134045_134365_1",
+    "genome": "NC_024696.1",
+    "organism": "Elephant endotheliotropic herpesvirus 5",
+    "start_1based": 134045,
+    "end_inclusive": 134365,
+    "strand": 1,
+    "best_E": 0.000235,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P06327",
+        "sseqid": "NC_024696.1",
+        "pident": "21.622",
+        "length": "111",
+        "qstart": "6",
+        "qend": "116",
+        "sstart": "134045",
+        "send": "134365",
+        "evalue": "2.35e-04",
+        "bitscore": "42.7",
+        "qlen": "117",
+        "slen": "180800",
+        "qcovhsp": "95"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "misc_feature",
+        "location": "[2464:178336](+)",
+        "qualifiers": {
+          "note": [
+            "U"
+          ]
+        }
+      },
+      {
+        "type": "gene",
+        "location": "[133931:135044](+)",
+        "qualifiers": {
+          "gene": [
+            "EE22A"
+          ],
+          "locus_tag": [
+            "JS59_gp079"
+          ],
+          "db_xref": [
+            "GeneID:20098533"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "join{[133931:133989](+), [134072:134426](+), [134502:134817](+), [134895:135044](+)}",
+        "qualifiers": {
+          "gene": [
+            "EE22A"
+          ],
+          "locus_tag": [
+            "JS59_gp079"
+          ],
+          "note": [
+            "type 1 membrane protein; contains 2 immunoglobulin domains; OX-2 family"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "membrane protein EE22A"
+          ],
+          "protein_id": [
+            "YP_009052043.1"
+          ],
+          "db_xref": [
+            "GeneID:20098533"
+          ],
+          "translation": [
+            "MDLKLSCLLFIPTIIFFYSGGNAYIEITSQSPQLGSETTLTCSLKNDSDYPIAVRWQKENASREDRDLGMIFPGNTNAKLYDRYEGKINISQTNSMRETTLTFFNTTVEDEGCFLCVFYCSGQSPYVLLNKTCVTVSAAPTVFISTKDDGNQTNVTCTATGLPAPLVQWLGHGPGVENSTQNTTNKNGTVSVSSTLYFKKSSDIGSKPYYCVVELFGNITNSITWNTPITPTPPVDAVPRDGDSRDARSRSLISGVSIATVVLIVLILLVIYYHTKKPDQHELDETQPPGE"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[134095:134368](+)",
+        "qualifiers": {
+          "gene": [
+            "EE22A"
+          ],
+          "locus_tag": [
+            "JS59_gp079"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[134125:134140](+)",
+        "qualifiers": {
+          "gene": [
+            "EE22A"
+          ],
+          "locus_tag": [
+            "JS59_gp079"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409433"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[134170:134185](+)",
+        "qualifiers": {
+          "gene": [
+            "EE22A"
+          ],
+          "locus_tag": [
+            "JS59_gp079"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409433"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[134308:134323](+)",
+        "qualifiers": {
+          "gene": [
+            "EE22A"
+          ],
+          "locus_tag": [
+            "JS59_gp079"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409433"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[134350:134368](+)",
+        "qualifiers": {
+          "gene": [
+            "EE22A"
+          ],
+          "locus_tag": [
+            "JS59_gp079"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409433"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_034266.1_109517_109936_1",
+    "genome": "NC_034266.1",
+    "organism": "Columbid alphaherpesvirus 1",
+    "start_1based": 109517,
+    "end_inclusive": 109936,
+    "strand": 1,
+    "best_E": 0.001,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P0DOX8",
+        "sseqid": "NC_034266.1",
+        "pident": "27.517",
+        "length": "149",
+        "qstart": "21",
+        "qend": "162",
+        "sstart": "109517",
+        "send": "109936",
+        "evalue": "0.001",
+        "bitscore": "43.1",
+        "qlen": "216",
+        "slen": "204237",
+        "qcovhsp": "66"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "misc_feature",
+        "location": "[6998:143548](+)",
+        "qualifiers": {
+          "note": [
+            "UL"
+          ]
+        }
+      },
+      {
+        "type": "gene",
+        "location": "[108535:110542](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "B7477_gp059"
+          ],
+          "old_locus_tag": [
+            "CoHVHLJ_059"
+          ],
+          "db_xref": [
+            "GeneID:32014207"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[108535:110542](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "B7477_gp059"
+          ],
+          "old_locus_tag": [
+            "CoHVHLJ_059"
+          ],
+          "note": [
+            "cell attachment; UL44"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "envelope glycoprotein C"
+          ],
+          "protein_id": [
+            "YP_009352953.1"
+          ],
+          "db_xref": [
+            "GeneID:32014207"
+          ],
+          "translation": [
+            "MGGAGRAPSDDVAGPSQRALLLAVLLLSPCAWHVAGQSGDFWSDAPSGDRSTETYLQETGSAGYEDVFSATQPQVHDPETTTAVTGDATQWETGAYTPTTDDGRTDRSTTVDPTAQEASGSECNEADSSEERPFETDDFIPVDVRQDPRPGGTAEPPSSPDPTGSWLGASRAPAYDIFSILGRRKRMANGDGSGSGTTPSEEYSVVTAHPSQPAVAAQVAPSSPTGAPSTTASTGPSSTGGSASSAAAPTTAGTTASGHAAGGSAGGKNDSAARPGVDLVCSRYELYTTLNRTMRFNCTVVPVGDGADDIKWRIRAFFRSSDMVAESAATGDYVDYGSMWYPSFSHPGRVTRVFASFKEEDGLWTSYPDGDKYNLMIQNYTFILTVRNVGAHDDGYFNVGLFDHDFNVLVQINVTVRVVKRPSVVDVTALPVILGHNFTAVCAVREFYPPGTVNVAWKNNGQAVDAGSVSSDVHVDENGVATIISTLTVDGKGADHAPMLSCYANWRVGNAESHTSASINSRVYRPPILSMWFEDSNAICKAICVPDDIWIAWFIDADPQPQGLVYTNRSGVCMSVPGYVNIYSVVPLADKMKASKYTCSLNGYPFDSDLFEISEYFDGSVMGRGRPVITTIVTVFAAGIVLCVLIMILAFCFYSAGSKDLDLYAIKT"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[109093:110512](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "B7477_gp059"
+          ],
+          "old_locus_tag": [
+            "CoHVHLJ_059"
+          ],
+          "note": [
+            "envelope glycoprotein C; Provisional; Region: PHA03271"
+          ],
+          "db_xref": [
+            "CDD:223030"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_034502.1_7511_7831_1",
+    "genome": "NC_034502.1",
+    "organism": "Farallon virus",
+    "start_1based": 7511,
+    "end_inclusive": 7831,
+    "strand": 1,
+    "best_E": 0.000839,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "A0A0B4J238",
+        "sseqid": "NC_034502.1",
+        "pident": "28.972",
+        "length": "107",
+        "qstart": "9",
+        "qend": "105",
+        "sstart": "7511",
+        "send": "7831",
+        "evalue": "8.39e-04",
+        "bitscore": "40.4",
+        "qlen": "106",
+        "slen": "12132",
+        "qcovhsp": "92"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[55:12001](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CAU96_sLgp1"
+          ],
+          "db_xref": [
+            "GeneID:69042383"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[55:12001](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CAU96_sLgp1"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "RNA-dependent RNA polymerase"
+          ],
+          "protein_id": [
+            "YP_010229102.1"
+          ],
+          "db_xref": [
+            "GeneID:69042383"
+          ],
+          "translation": [
+            "MEDINWQLFGPNLYTSMVKIAIPDFFERIRVKGDGNCFFRAFAYLFFDTEEMWDTVKGTALGYARQHWSECHGAKGVYNYRAENEIKSEKALYSSVLRGNATENVTRRGLDLYLEDATKEGYWGGTDEAEMLASALNVTIVIWNVNTDMKVLDVQKFGTDSVPRAFNIVRCGAHFDALKLINQHGTEAATVSTKQLELSPVAVMEALIGDDGEASLQPEAYIPEGGAGNISKKSTSSSEEVSSADEEDVKPGEQLQDETKTRKELFKEMKEKKKQQDQMRKAMELSAHVPAKVGRVLHKIFNCNVEVSLTSKVLYLLPEGSDDPNRVTLSKIRHIMLDKEGQMFEQFKNCTVVITSGLMEFVNTPELLRQCLPDTGISQYYDIIHPAFVYDILTVSVSILFSSFLYGSDFKTKRKFILNTVRDRFVKPSKVPKLMKEKNNKIIYEHPDKVVSDVCLSLYKEMAVIISKSMKEMPATGLLALRNVYLQSMDFNDYMQVLDDLRVVSYDLDFFNQDELQDIKKLIDCIAEIRKEEEVKPGSLASDWSCIYLSTTQDALFRDSKGKVLKSLRSNGLERRLIQHFFRKKLMFKFISLQGKAYSGGTLNNVLAYCNNLYLTKDQLGFDTEDTEHLSAEMVRIRSLLDDQRVEPIAIICDKLERRFRDLFENLPNVCAEECKSLFEDIRNAENHSSAWKAALRLKGVAYEGFMAKAYNWNYLTEDLKPTLSMIIQTLYPEKFLQFLERTQLCPEQRDLTPDFVMTQNLVIKKDKIDATVETEQLSLDYLMSGTASVIPVSKKTFPLPSEPILEVNRLESVIENFQKMQESKKRDSGLLVESTTVENDTHDKFTYSELLILEVGYQTDIEGKVISDMQKWKNILNLLNFLGIKASVISCADCSDVPSDNWWLPERYVKILKGTISYLFAKLQQNSPSDVSDIVVGAISTQKIRSIIRSGTVVKTPVTIKDLRETWNKNKDKITDRPTGLKLPERIVSAMQLSLIDGVVQEKTSTDEIVKTVEENMEKIAQEVEQTKFKHTLNKDEETSFELLHAWIVEDLKSARCNACVTKILEDCKMLNSLSASFEMISKELILTGHPACCHAIDVDIGTYSLFQRRTGFFDAVNHSETVLDEYDEKQTQLDRLVKLTLPGKTEKERKIKRTVEQLIRVCMELSNIQCIKTPSFQLIIVKKNLKKNIKSAETSKDRRRGLLVEQLERIKKTLSPNRMKSYSDHCKSVIQSVLDSPFEQKGCRSELQPQWCDQILMDLKAKTEDGEIIEALKKTIESKKTLIKNNDKVIVPDWDQISSYLDVKADDLLSSGKLIFDLDCVLFKETLLETISRYFQTPYWECPVILSNLISFLLRFKWYQKLVLYGKICETFLQCCTEFRRSGIKLAKIRHTTCNLAIKLPSNKKENMKCIVYSSNMEALSGVFLLNRRVAVLGASYYYIIVVLFCQCLQHYRCMNGLEDTKKLEEAVRQANAKHLDCVHEQMKLIHQGRIKDASNSLINLCKQNGNFLSRSTRSHFITVFSGLSVTYSALLGDALLTNSQPLNKQIQMLRFGVLNGLSRMSMTFELGKKFSSSCRRMEFYIARTYQMLSVFTCNRFPGSNIQNWTKDDLCPNITMPSVSIYGHFINSDRQLVFDIYNVHIYNKEMDNFDEGTIKVLEETAERHMTWELDLMHAVEKMGEDPKKDRSARLLLCIANVKPSSSSGTTIEDETLSQTSVSSAQSSMSSKKRIKTYFGAMSMKKKPFSFSEDFIVERDSSADFIQTISDKWTFGVYKAKPESVLRDIIEIVRKNPSHTMGSFELLQAFTEFARPKYPVESIIKAKRNPKNYITVSEVTETTSIVSEPRTHASIKDGLRIITGQENKKLVKMLRGKLQSLGLSLVNDKSKGSDLSELLSSVEGLSEDQKKKIVLGITEPSKLTFYTWREIIKMDVECALVTSDGNYIYCWLKSLGGQVKRALKKYIKNLRYDNERFTPKFSLETEILIGLTGIRECYKLIENLKSLTKNEIPPNPDIDNNKLIEVWVKFCELPKCSSEILSESQQWIDAVSTELDILMLKYNELIKLKNDYPSLSFSREEVELRSLETKFVKNNNNALMKLMNCVFYICLCCPWCVHYKSLENFLSKHMDETGGYDFGNETVTKVMEITLEKVWLSLIVSDNCPSLETIKRIVKYTSAMFTGNGRPISCSLNQAEGSINVMDHGQMVDRLRTFLTRAQLFTKELDFIWTCHMITNSNFEVTKRLTGRSTGERLPRSVRSKVVYEMIKVVGESGHAILQQLAFSTILNTNHEFFAVLAPKAQLGGHRDLLVQETGTKLVHATSEMFSRTLLATTNDDGLTNPHLKETILSSALNHINVSRKLHGKFIEEESSLVQFYKVFCISGDNTKWGPIHCCAFFSGMMQQLLKDHPDWSSFYKLVFLKNLYRQVEIPTGSIKKILNAFRYNNSNKKLEELNEYQLRELLYNTIDSWNENPIIKFLVVTYLIQGKIAMRMYNHMGQGIHHATSSILTSIMGDVITHFIQVYASNNFKGLTCSVEHAGSSDDYAKIITLSGLVTKEVFDSYESVFWIKMCRLKNIIAGISRAVQMKDSAKTLCGDAFIEFYSEFMLSHRITPAVIKFIFTGLINSSVTSPQSMSQACQVSSQQAMYNSVPLLTNFAFSLLRQQMFMNHTEYFQRTYGLITMGTLSSFGRLYLPKYSNLTCSSIAIEDSEVISQNLSMIKDNTVMFPGTKAYEEDIPVGEVDSGPASVESSGAGSPSSRLSSLTLGSDTSLKFSQDKALTAVETAYLNSIKPSLSRMRCKAEVEIFQRIFKHNLPSCFEKLKKSSLVNSCEYLREVMDEPWLMIQRIRSIVVLLIAGYYRAFNSDGTEHPVKANLNRDENTVIEDPMIQLIPEKLRRELERLGLAKMTVEELIPTHMLEDDFASLVSKRLVMMNCATENYSSEVSRLKQTLSSRNVIHGLAGGIKELSIPIYTIFLKSYFFKDNVFFKHYDRWNTKHSLNYRDSTGKELKDKIVIKYTTWLDKILNCDVSIDYTHSSAIKSLFDSSLKGVQVIHLCNNTCELSIIYDEVESLQKEFEALALQFSDVNRHKLKILESQRQEAAVEASKAVIVKTTLFSATDAVRIINSPAIVIGYMINESTLSDIKPTKIDMGNLIRDRFRITMFYKTLTDLVSEIVKESELIKRKDGIVELEKVDLYANALTMLCRLVQRSKPRVSSFYIIKGASHGNEPTVSELISYGIQEGLLYILPDCPVETSTYSVRYWKVLQCISAIASLPLSDGEKTSLLSSFLNWKPTVNDLDAKCTMLKYDKAVLEEFNERTLLNVLSSELQSIRNDKERESISDLIEFISSPRQLMQDKPYLGVTSTFRRWGEGQKNGKFTYSSSSGEASGIFINGQLYLTLSKESTALLHEVERKVLEWLCQLRTDVTAAEQHMPFLNLLASSRTCSKRAVDGVSYSVYYLKEDPKFLQLKRFTGKGEFKIVKIKSQILSVRKEVVKEVRAEPHIVWRPSALSIVYDEETEGPSYHHKIKEIYELVKDATGNTTGKLSSIFYKDTRLTLSKINLQDQLYLSSLSLLHCFFCHTLTSSVMEASSKSEILSRYFEQGRSSIIRSANSIQNRLLEVKSQDGGSLNSEEGEICTRLQQNLNKGDYSIDCWAEIQRMLDENGFHRISVSLSPEPSQFRYKWIVSPEFGLSRNADMSDLRDLCMLLSSGIVPKAVVSYMTDDKLFSNLLMIAERIKIELNKNRIDQKSFSALCCSILYTMQNNKKERKTLLMKIGSIYSLISLKEIDSNKGQIRFIHEEDTIQLQVQVIGLNQLESKSIEAKLSSAKAKETKIKVGRNRLISEISSLFEPFNNIKEIMKFSDGFEMHSDDGKIIFTLFFTRLVCERTDLYKLLTFMNVNIPQSTIDLVVDLIMLLFGAEFKKYTTAQTSSKDQDQQRIELNEEITLNDLLAEDDNDHDAANNATEEEEDYNIDDIEFEL"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6268:8188](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CAU96_sLgp1"
+          ],
+          "note": [
+            "Bunyavirus RNA dependent RNA polymerase; Region: Bunya_RdRp; pfam04196"
+          ],
+          "db_xref": [
+            "CDD:282102"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035468.1_193422_193685_1",
+    "genome": "NC_035468.1",
+    "organism": "Murmansk poxvirus",
+    "start_1based": 193422,
+    "end_inclusive": 193685,
+    "strand": 1,
+    "best_E": 0.000403,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01868",
+        "sseqid": "NC_035468.1",
+        "pident": "30.851",
+        "length": "94",
+        "qstart": "220",
+        "qend": "309",
+        "sstart": "193422",
+        "send": "193685",
+        "evalue": "4.03e-04",
+        "bitscore": "46.2",
+        "qlen": "324",
+        "slen": "204055",
+        "qcovhsp": "28"
+      },
+      {
+        "qseqid": "P01869",
+        "sseqid": "NC_035468.1",
+        "pident": "30.851",
+        "length": "94",
+        "qstart": "220",
+        "qend": "309",
+        "sstart": "193422",
+        "send": "193685",
+        "evalue": "4.39e-04",
+        "bitscore": "46.6",
+        "qlen": "393",
+        "slen": "204055",
+        "qcovhsp": "23"
+      },
+      {
+        "qseqid": "P0DOX5",
+        "sseqid": "NC_035468.1",
+        "pident": "28.723",
+        "length": "94",
+        "qstart": "345",
+        "qend": "434",
+        "sstart": "193422",
+        "send": "193685",
+        "evalue": "0.002",
+        "bitscore": "45.1",
+        "qlen": "449",
+        "slen": "204055",
+        "qcovhsp": "20"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "similar to MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_009408378.1"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ],
+          "translation": [
+            "MRIIILLTILQTVYSYHHTLLYKCVAELRPTDRYNISINVYIDNLNIISFNGSNITYLVHNDYVDDILYHDVIHKINKFYKRDIYNYEYDNDAEKDNIKLHDNVIKDIKYKLQTLIDINNSSKDVRHVYKSFYGCTVNDNGTFISGNDRFTYDDKPYGYENYSYFWISYNNKLSIVELSNETNNFGACINYLNSFIEKESNLFTIKIPNTTLLYSELNNTRILECLSTGFFPSDINIQWRVNGKNITGNKVITSNGTSFVGSSIIHVPYTDGGNYTCTVHHESLKDDIIVYKILEADNKIITEVTISTLSYVIYAATAAIIISILCIIAYILCKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193478:193703](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Immunoglobulin Constant-1 (C1)-set domain; Region: IgC1; cd00098"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193493:193517](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193532:193553](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193562:193568](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193607:193634](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193652:193676](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035468.1_193425_193685_1",
+    "genome": "NC_035468.1",
+    "organism": "Murmansk poxvirus",
+    "start_1based": 193425,
+    "end_inclusive": 193685,
+    "strand": 1,
+    "best_E": 0.00074,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01859",
+        "sseqid": "NC_035468.1",
+        "pident": "26.882",
+        "length": "93",
+        "qstart": "223",
+        "qend": "311",
+        "sstart": "193425",
+        "send": "193685",
+        "evalue": "0.001",
+        "bitscore": "45.1",
+        "qlen": "395",
+        "slen": "204055",
+        "qcovhsp": "23"
+      },
+      {
+        "qseqid": "P01861",
+        "sseqid": "NC_035468.1",
+        "pident": "27.957",
+        "length": "93",
+        "qstart": "224",
+        "qend": "312",
+        "sstart": "193425",
+        "send": "193685",
+        "evalue": "7.40e-04",
+        "bitscore": "45.8",
+        "qlen": "396",
+        "slen": "204055",
+        "qcovhsp": "22"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "similar to MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_009408378.1"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ],
+          "translation": [
+            "MRIIILLTILQTVYSYHHTLLYKCVAELRPTDRYNISINVYIDNLNIISFNGSNITYLVHNDYVDDILYHDVIHKINKFYKRDIYNYEYDNDAEKDNIKLHDNVIKDIKYKLQTLIDINNSSKDVRHVYKSFYGCTVNDNGTFISGNDRFTYDDKPYGYENYSYFWISYNNKLSIVELSNETNNFGACINYLNSFIEKESNLFTIKIPNTTLLYSELNNTRILECLSTGFFPSDINIQWRVNGKNITGNKVITSNGTSFVGSSIIHVPYTDGGNYTCTVHHESLKDDIIVYKILEADNKIITEVTISTLSYVIYAATAAIIISILCIIAYILCKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193478:193703](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Immunoglobulin Constant-1 (C1)-set domain; Region: IgC1; cd00098"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193493:193517](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193532:193553](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193562:193568](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193607:193634](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193652:193676](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035468.1_193479_193685_1",
+    "genome": "NC_035468.1",
+    "organism": "Murmansk poxvirus",
+    "start_1based": 193479,
+    "end_inclusive": 193685,
+    "strand": 1,
+    "best_E": 0.001,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01857",
+        "sseqid": "NC_035468.1",
+        "pident": "34.211",
+        "length": "76",
+        "qstart": "240",
+        "qend": "315",
+        "sstart": "193479",
+        "send": "193685",
+        "evalue": "0.001",
+        "bitscore": "45.1",
+        "qlen": "399",
+        "slen": "204055",
+        "qcovhsp": "19"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "similar to MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_009408378.1"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ],
+          "translation": [
+            "MRIIILLTILQTVYSYHHTLLYKCVAELRPTDRYNISINVYIDNLNIISFNGSNITYLVHNDYVDDILYHDVIHKINKFYKRDIYNYEYDNDAEKDNIKLHDNVIKDIKYKLQTLIDINNSSKDVRHVYKSFYGCTVNDNGTFISGNDRFTYDDKPYGYENYSYFWISYNNKLSIVELSNETNNFGACINYLNSFIEKESNLFTIKIPNTTLLYSELNNTRILECLSTGFFPSDINIQWRVNGKNITGNKVITSNGTSFVGSSIIHVPYTDGGNYTCTVHHESLKDDIIVYKILEADNKIITEVTISTLSYVIYAATAAIIISILCIIAYILCKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193478:193703](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Immunoglobulin Constant-1 (C1)-set domain; Region: IgC1; cd00098"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193493:193517](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193532:193553](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193562:193568](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193607:193634](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193652:193676](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035468.1_193482_193688_1",
+    "genome": "NC_035468.1",
+    "organism": "Murmansk poxvirus",
+    "start_1based": 193482,
+    "end_inclusive": 193688,
+    "strand": 1,
+    "best_E": 0.001,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01872",
+        "sseqid": "NC_035468.1",
+        "pident": "32.911",
+        "length": "79",
+        "qstart": "344",
+        "qend": "422",
+        "sstart": "193482",
+        "send": "193688",
+        "evalue": "0.001",
+        "bitscore": "45.8",
+        "qlen": "454",
+        "slen": "204055",
+        "qcovhsp": "17"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "similar to MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_009408378.1"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ],
+          "translation": [
+            "MRIIILLTILQTVYSYHHTLLYKCVAELRPTDRYNISINVYIDNLNIISFNGSNITYLVHNDYVDDILYHDVIHKINKFYKRDIYNYEYDNDAEKDNIKLHDNVIKDIKYKLQTLIDINNSSKDVRHVYKSFYGCTVNDNGTFISGNDRFTYDDKPYGYENYSYFWISYNNKLSIVELSNETNNFGACINYLNSFIEKESNLFTIKIPNTTLLYSELNNTRILECLSTGFFPSDINIQWRVNGKNITGNKVITSNGTSFVGSSIIHVPYTDGGNYTCTVHHESLKDDIIVYKILEADNKIITEVTISTLSYVIYAATAAIIISILCIIAYILCKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193478:193703](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Immunoglobulin Constant-1 (C1)-set domain; Region: IgC1; cd00098"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193493:193517](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193532:193553](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193562:193568](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193607:193634](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193652:193676](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035468.1_193482_193697_1",
+    "genome": "NC_035468.1",
+    "organism": "Murmansk poxvirus",
+    "start_1based": 193482,
+    "end_inclusive": 193697,
+    "strand": 1,
+    "best_E": 0.000412,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01871",
+        "sseqid": "NC_035468.1",
+        "pident": "30.488",
+        "length": "82",
+        "qstart": "343",
+        "qend": "424",
+        "sstart": "193482",
+        "send": "193697",
+        "evalue": "4.12e-04",
+        "bitscore": "47.0",
+        "qlen": "474",
+        "slen": "204055",
+        "qcovhsp": "17"
+      },
+      {
+        "qseqid": "P0DOX6",
+        "sseqid": "NC_035468.1",
+        "pident": "30.488",
+        "length": "82",
+        "qstart": "466",
+        "qend": "547",
+        "sstart": "193482",
+        "send": "193697",
+        "evalue": "4.70e-04",
+        "bitscore": "47.4",
+        "qlen": "576",
+        "slen": "204055",
+        "qcovhsp": "14"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "similar to MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_009408378.1"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ],
+          "translation": [
+            "MRIIILLTILQTVYSYHHTLLYKCVAELRPTDRYNISINVYIDNLNIISFNGSNITYLVHNDYVDDILYHDVIHKINKFYKRDIYNYEYDNDAEKDNIKLHDNVIKDIKYKLQTLIDINNSSKDVRHVYKSFYGCTVNDNGTFISGNDRFTYDDKPYGYENYSYFWISYNNKLSIVELSNETNNFGACINYLNSFIEKESNLFTIKIPNTTLLYSELNNTRILECLSTGFFPSDINIQWRVNGKNITGNKVITSNGTSFVGSSIIHVPYTDGGNYTCTVHHESLKDDIIVYKILEADNKIITEVTISTLSYVIYAATAAIIISILCIIAYILCKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193478:193703](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Immunoglobulin Constant-1 (C1)-set domain; Region: IgC1; cd00098"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193493:193517](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193532:193553](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193562:193568](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193607:193634](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193652:193676](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035468.1_193494_193688_1",
+    "genome": "NC_035468.1",
+    "organism": "Murmansk poxvirus",
+    "start_1based": 193494,
+    "end_inclusive": 193688,
+    "strand": 1,
+    "best_E": 0.004,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P06336",
+        "sseqid": "NC_035468.1",
+        "pident": "33.333",
+        "length": "75",
+        "qstart": "326",
+        "qend": "400",
+        "sstart": "193494",
+        "send": "193688",
+        "evalue": "0.004",
+        "bitscore": "43.9",
+        "qlen": "421",
+        "slen": "204055",
+        "qcovhsp": "18"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[192833:193853](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "similar to MHC class I proteins"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "hypothetical protein"
+          ],
+          "protein_id": [
+            "YP_009408378.1"
+          ],
+          "db_xref": [
+            "GeneID:33868122"
+          ],
+          "translation": [
+            "MRIIILLTILQTVYSYHHTLLYKCVAELRPTDRYNISINVYIDNLNIISFNGSNITYLVHNDYVDDILYHDVIHKINKFYKRDIYNYEYDNDAEKDNIKLHDNVIKDIKYKLQTLIDINNSSKDVRHVYKSFYGCTVNDNGTFISGNDRFTYDDKPYGYENYSYFWISYNNKLSIVELSNETNNFGACINYLNSFIEKESNLFTIKIPNTTLLYSELNNTRILECLSTGFFPSDINIQWRVNGKNITGNKVITSNGTSFVGSSIIHVPYTDGGNYTCTVHHESLKDDIIVYKILEADNKIITEVTISTLSYVIYAATAAIIISILCIIAYILCKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193478:193703](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Immunoglobulin Constant-1 (C1)-set domain; Region: IgC1; cd00098"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193493:193517](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193532:193553](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193562:193568](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193607:193634](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[193652:193676](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM52_gp196"
+          ],
+          "old_locus_tag": [
+            "Murmansk-196"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035469.1_187940_188146_1",
+    "genome": "NC_035469.1",
+    "organism": "NY_014 poxvirus",
+    "start_1based": 187940,
+    "end_inclusive": 188146,
+    "strand": 1,
+    "best_E": 0.002,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01872",
+        "sseqid": "NC_035469.1",
+        "pident": "31.646",
+        "length": "79",
+        "qstart": "344",
+        "qend": "422",
+        "sstart": "187940",
+        "send": "188146",
+        "evalue": "0.002",
+        "bitscore": "45.1",
+        "qlen": "454",
+        "slen": "200223",
+        "qcovhsp": "17"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[187300:188314](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "db_xref": [
+            "GeneID:33868319"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[187300:188314](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_009408574.1"
+          ],
+          "db_xref": [
+            "GeneID:33868319"
+          ],
+          "translation": [
+            "MRIIVLLTILQTVYSYHTLSYKCVAELRPTDTYNISINVHIDNIHIISFNGTNITYLVNNDYVDDILYHDVIHRINKFYKRNIYNYEYSDDVKDNIRLHNNVIKDIKYKLQTLIDINNSSKDIPHVYKSFYECTVNDNGTFISGTDSFTYDDKPYGYVNYSYFWIVYNDKLSIVELRNVTNLEACINYLNNFIEKESNLFTFKIPNTRLLYSEVNDTRILECLSTGFFPSDINIQWIVNGKNITGTKVITSNRTSFIGSSIIHVPPTDGGNYTCVVHHQSLKDDIIVYKIIEANNKIITTEVTISTLSYAIYAATAAIIISILCIIVYILYKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187942:188173](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187951:187966](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187996:188011](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188077:188092](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188110:188128](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035469.1_187940_188155_1",
+    "genome": "NC_035469.1",
+    "organism": "NY_014 poxvirus",
+    "start_1based": 187940,
+    "end_inclusive": 188155,
+    "strand": 1,
+    "best_E": 0.00075,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01871",
+        "sseqid": "NC_035469.1",
+        "pident": "29.268",
+        "length": "82",
+        "qstart": "343",
+        "qend": "424",
+        "sstart": "187940",
+        "send": "188155",
+        "evalue": "7.50e-04",
+        "bitscore": "46.2",
+        "qlen": "474",
+        "slen": "200223",
+        "qcovhsp": "17"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[187300:188314](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "db_xref": [
+            "GeneID:33868319"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[187300:188314](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_009408574.1"
+          ],
+          "db_xref": [
+            "GeneID:33868319"
+          ],
+          "translation": [
+            "MRIIVLLTILQTVYSYHTLSYKCVAELRPTDTYNISINVHIDNIHIISFNGTNITYLVNNDYVDDILYHDVIHRINKFYKRNIYNYEYSDDVKDNIRLHNNVIKDIKYKLQTLIDINNSSKDIPHVYKSFYECTVNDNGTFISGTDSFTYDDKPYGYVNYSYFWIVYNDKLSIVELRNVTNLEACINYLNNFIEKESNLFTFKIPNTRLLYSEVNDTRILECLSTGFFPSDINIQWIVNGKNITGTKVITSNRTSFIGSSIIHVPPTDGGNYTCVVHHQSLKDDIIVYKIIEANNKIITTEVTISTLSYAIYAATAAIIISILCIIVYILYKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187942:188173](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187951:187966](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187996:188011](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188077:188092](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188110:188128](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035469.1_187940_188188_1",
+    "genome": "NC_035469.1",
+    "organism": "NY_014 poxvirus",
+    "start_1based": 187940,
+    "end_inclusive": 188188,
+    "strand": 1,
+    "best_E": 0.000543,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P0DOX6",
+        "sseqid": "NC_035469.1",
+        "pident": "26.882",
+        "length": "93",
+        "qstart": "466",
+        "qend": "558",
+        "sstart": "187940",
+        "send": "188188",
+        "evalue": "5.43e-04",
+        "bitscore": "47.0",
+        "qlen": "576",
+        "slen": "200223",
+        "qcovhsp": "16"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[187300:188314](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "db_xref": [
+            "GeneID:33868319"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[187300:188314](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_009408574.1"
+          ],
+          "db_xref": [
+            "GeneID:33868319"
+          ],
+          "translation": [
+            "MRIIVLLTILQTVYSYHTLSYKCVAELRPTDTYNISINVHIDNIHIISFNGTNITYLVNNDYVDDILYHDVIHRINKFYKRNIYNYEYSDDVKDNIRLHNNVIKDIKYKLQTLIDINNSSKDIPHVYKSFYECTVNDNGTFISGTDSFTYDDKPYGYVNYSYFWIVYNDKLSIVELRNVTNLEACINYLNNFIEKESNLFTFKIPNTRLLYSEVNDTRILECLSTGFFPSDINIQWIVNGKNITGTKVITSNRTSFIGSSIIHVPPTDGGNYTCVVHHQSLKDDIIVYKIIEANNKIITTEVTISTLSYAIYAATAAIIISILCIIVYILYKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187942:188173](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187951:187966](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187996:188011](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188077:188092](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188110:188128](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188158:188173](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand G [structural motif]; Region: Ig strand G"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_035469.1_187946_188182_1",
+    "genome": "NC_035469.1",
+    "organism": "NY_014 poxvirus",
+    "start_1based": 187946,
+    "end_inclusive": 188182,
+    "strand": 1,
+    "best_E": 0.006,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P06336",
+        "sseqid": "NC_035469.1",
+        "pident": "32.584",
+        "length": "89",
+        "qstart": "324",
+        "qend": "412",
+        "sstart": "187946",
+        "send": "188182",
+        "evalue": "0.006",
+        "bitscore": "43.1",
+        "qlen": "421",
+        "slen": "200223",
+        "qcovhsp": "21"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[187300:188314](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "db_xref": [
+            "GeneID:33868319"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[187300:188314](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC class I protein"
+          ],
+          "protein_id": [
+            "YP_009408574.1"
+          ],
+          "db_xref": [
+            "GeneID:33868319"
+          ],
+          "translation": [
+            "MRIIVLLTILQTVYSYHTLSYKCVAELRPTDTYNISINVHIDNIHIISFNGTNITYLVNNDYVDDILYHDVIHRINKFYKRNIYNYEYSDDVKDNIRLHNNVIKDIKYKLQTLIDINNSSKDIPHVYKSFYECTVNDNGTFISGTDSFTYDDKPYGYVNYSYFWIVYNDKLSIVELRNVTNLEACINYLNNFIEKESNLFTFKIPNTRLLYSEVNDTRILECLSTGFFPSDINIQWIVNGKNITGTKVITSNRTSFIGSSIIHVPPTDGGNYTCVVHHQSLKDDIIVYKIIEANNKIITTEVTISTLSYAIYAATAAIIISILCIIVYILYKHYHDA"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187942:188173](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187951:187966](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[187996:188011](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188077:188092](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188110:188128](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[188158:188173](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "CKM51_gp186"
+          ],
+          "old_locus_tag": [
+            "NY_014-186"
+          ],
+          "note": [
+            "Ig strand G [structural motif]; Region: Ig strand G"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040519.1_7568_7888_1",
+    "genome": "NC_040519.1",
+    "organism": "Zirqa virus",
+    "start_1based": 7568,
+    "end_inclusive": 7888,
+    "strand": 1,
+    "best_E": 0.000113,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "A0A0B4J238",
+        "sseqid": "NC_040519.1",
+        "pident": "29.907",
+        "length": "107",
+        "qstart": "9",
+        "qend": "105",
+        "sstart": "7568",
+        "send": "7888",
+        "evalue": "1.13e-04",
+        "bitscore": "43.1",
+        "qlen": "106",
+        "slen": "12184",
+        "qcovhsp": "92"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[94:12055](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "F2Q22_sLgp1"
+          ],
+          "db_xref": [
+            "GeneID:41704198"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[94:12055](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "F2Q22_sLgp1"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "RNA-dependent RNA polymerase"
+          ],
+          "protein_id": [
+            "YP_009551664.1"
+          ],
+          "db_xref": [
+            "GeneID:41704198"
+          ],
+          "translation": [
+            "MDDIQWQEILPGLFTTEARFPLLDFFNRIPVKADGNCFFRAFSVLFFDQEDQWRTVKNTAVSFAKKSWSECTGAKQQYVNKAEKEKAQHKLTYRDVTLGDTGLDMLSRRGREVYIEEAQKEGYWGGTNEAEMISKSLGVTIIIWEVNSDMKVVSVQKFGKDKVSGSFNIMKLDAHFDGLSLQQVLEDRQPARDGISEQMEPTTALSVILSAEDKGAEMTPDFFLDQQTDEELSDTSDDDYQSTKAEAPESTSNDTMSRRELLKEQDKERKRLRVMQKAMELSAHVPARVGRTLYKIFNCAIEVSLTSKVLYLLPEGTDDPNRVTLSKIRHSMLNREGELQDQFKHCTVVVTSGLMEFVNVPELLRLCLPDTGISQYYDIVHPAFVYDILTVALSILFSSFLYGSDFKTKRKFILNTVRDRFVTPSKVPKLLKNHSNKLLYDSPDRVISQVCLALYKDMSMQISKAMKEMPATGLLALRNLYLQTVDFNDYMSILNDLRVVSYDLDFFNQDELQDIKRLMDCIAEIRKEKEVKPGSLGSKWSAMYLNVGEDEVFKDKKGKKCSYLKSEPLERKLIEHFFKKKFMFKFISMQGKAYSGGSLNTVLAYCNNLYLTKDQLGFSLEDTEHLSAEMVRIRSLLDDQKVEPIAIICDKLEPRFKELFNNLPSVCADECKSLFDDIRNAENHSTAWKAALRLKGVAYEGFMARAYNWNYLTEDLKPTLSMIIQTLYPEKFIQFLERTQLCPEQRDLTPDFVMTQNLIIRKDKIEAVVETEQLSIDLLNDGSSTVTPVSKKTFPLPSEPILEVNRLESVIEKFKKMQEDKSRNTGLLVETTKTSFSEDDKFSYSELLILEVGYQTDVEGKVISDMQKWKNILNLLDFLNIKASIISCADCSDIPSDNWWLPERYVKLLKSSISYLFAKLQQNSPSDVTDIVVGAISTQKIRSIIKAGTTVKTPITIKDLRETWNKNKDKIIERPTGAKLPDKTVLALKLSLVDGVVQEKTSTDDVVKIIEENMERIAQEIEQTKFKHSLNQTEETSLDLVISWIVEDLKSARCQKCVKDILEDVKRISSKEAAVELLSRELILENHPECCHSLNVSIGTYSLFQKRTGFSNIVQHRETVLDEYSEQQTQLDKLVKLTLPGKTEKERKVKRTVEQLIRLSMTLSGIQCLKSSNFQLIIVKSRYNKRLGHKRNAAEEELEIVQKTEKGKHMLEQLERIKKVLNPARLKTYSDYCKSVIQSVLDNPAGQQGSKSELLPEWCDQILMDLKAKTEDGEIVDALKESIESKRVLVINNDKVVVPSWDQVVQYLDVKASDLILKKTNIFGLDCVLFKEAVLESISRYFQTPYWECPVILSTLISFLLRFPWYQKIVLYGKICETFLQCCTEFRRSGIKLARVRHTNCNMAIKLPSNKKENMKCIIYDSEMEPLTEIFLLNRRVAVLGASYYYIVVVLFCQCLQHYRCLNGLENSEEMAQKVRNANAKHLDSVSKQLKNVHLGRLSEASNDLLKLCKENGSFISKSTKSHFITVFSGLSITYSTLLGDALLTNSQPLNKQIQMLRFGVLNGLSRMSMTKELGKKFSSSCRRMEHYIARLHQLLTVYTCNRFPEENINAWLKDDLCPNVRMPSVSVYGHFINSDRQLVFDIYNVHIYNKEMDNFDEGTIKVLEETAERHMTWEIDLMQAIDKANEDSKKDRNLRLLLCIGNVKPSSDGSTTVEDESLSQTSVSSVKSSTSSKKRIKSYFGAISMKKKPFSFSEDFIVERDPKSDYSQSISDKWTYGVYKAKPESVLRDVIEVVRKNPNHTMGSFELLQAFTEFARPKFPVESIIKAKRNPKNYITVSEVTETTSIVSEPRTHASIKDSIRIITGQENKKLVKMLRGKLQSLGLSLNSVRSKGHDLSMLLSSVEGLTEDQKKKIVLGITEPAKLTFYNWREIIKMDVEQTLVSSDGNYIYCWLKSLGSQVKRSLKKYIKNLRYDNEGYTPKLSTKATDLIGQDGINECYKLIENLKALTKNDIPKHSDIDRDKLIQVWSAFCKLPKCFDEVISPTVDALNDVKASIDTLMSKFNNLIELKKEYPTLSFSREEVELRCLETNFIKKYGKQLMVLMNAVFYICLSCPWCVHYKSLENFLSKHMDETGGYDFGSETVAKVMDITLEKVWLLLVESRGHEMAIDHIKRVVKYTSAMFTGNGRPISCSLNQTEGTINVLDHGQMVDRLRTFLTRAQLYTKELDFIWTCHMITNSNFEVTKRLTGRSTGERLPRSVRSKVVYEMIKVVGESGHAILQQLAFSTILNVNHEFFSVLAPKAQLGGHRDLLVQETGTKLIHAASEMFSRTLLATTNDDGLTSPHLKETILGSALNHISLSRKLHGNTVEDGSNLIQFYKVFCISGDNTKWGPIHCCAFFSGMMQQLLKDHPDWSSFYKLVFLKNLYRQVEIPAGSIKKILNAFRYNNSHKKIEEMNEHQLRELLYTTIDDWNENPIIKFLVLTYIVQGKISMRMYNHMGQGIHHATSSILTSIMGDVISHFIQVYTNKNFKGLTCHVEHAGSSDDYAKVIVLSGLVSKELFEEYMINFWPKMCRLKNIIAGISRAVQMKDSAKTLCGDAFIEFYSEFMLSHRITPAVIKFIFTGLINSSVTSPQSMSQACQVSSQQAMYNSVPLLTNFAFSLLRQQMFMNHTEYFQRTYGLITMGTLSAFGRLFLPKYSNLTCSSIAIEDSEVIAQNLAMLQDNSILFPGTKAYEEDVSIPEIESGPASIESSGAGSPSSKLSAKTLSSDTSLKFSQDKALTAVEAAYLNTIKPNTSRVKARTEMELYQGIFGHELPVSFEKLKKSSLVNSCQYLRDVIDEPWLMVQRIRSIMIALIAGYYRAFNSDGTEHPVKANLNRDENTVIEDPMIQLIPEKLRRELERLGLAKMTVEELIPTHMLEDDFASLVSKRLVMMNCATENYASEVSRLKQTLSSRNVIHGLAGGIKELSIPIYTIFLKSYFFKDNVFFKHNDRWNTRHSSNYRDSTGKELKDKIVVKFTTWIEKMLNCDISIDFTKSGATMSLFDNSLRGVRVIHLCNNTCELSLVSDQIECLKKEFEALALQFSDVNRHKLKILESQRQESAVEASKAVIVKTTLFSATDAVRISNSPAVVIGYMINEATLSDIKPTKVDMGNLNRDRFRITMFYKAITDLISEVVKESELIKKKDNIVELEKVDIYTNALTMLCRLVQRAKPRVSSFYIIKGASHGNEPTVNELISYGIQEGLLYVLPECPIETSTYSVRYWKVLQCVSAISSLPLSDSEKTSLLSSFLNWKPTLNDIDIECSMYKHDKAVLEEFNERTLLNVLSSELQSIRNDRERESIGDLIEFISSPRQLMQDKPYLGITSTFKKWGEGQKNGKFTYSSSSGESSGIFINGQLYLTLSKDSTALLHEVERKVLEWLNQLRTDVTAAEQHLPFLNMLVSSKTCSKRTVDGTSYAVYYLKEDPKFLQLKRFVGKGEYKVVKVKSQILSVKKEVVKEVRAEPHIVWRNSAISIVYDEETENPSYHHRVKEIYELIKQATKCTSERLSSIFYKDTRLTLAKISLQDQLYLSSLSLLHCFFCHTLTSSVMEATSKSEILTRYLQQGRSSVIRSASSIKNKLIEIRTVEDNTVRSEEDEICARLQLGLNKGDYSIDCWAEVQRMLDENGFHRINVSLQSEPSQYRYKWIVEPEFGVSKAVDVIDLKDLCYLLSSGIVPKAIVPYITDDVLFSDLIGISERIKIEINKNRIDQKTFSLICCSIMYTMQNNPTNRQALIMKLSSIFQLIALKEFHTQKGRIKFFTDSEAVQMQLKLVGVTVNESRSLENKYDDENKVKDIKTRLARSRLMSEIGSLFKPFPNIKELVKFTDGFEMEGDDGQVISTLFFTRLKCHETDIYKILSFMNANIQNSTIDLLTDLIMLLYGRAYKSHRMQAKEGEGLKSKKSNKTTSSEITVADLLADDSKEPPQEEEDAEYDINEVEFEL"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6352:8242](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "F2Q22_sLgp1"
+          ],
+          "note": [
+            "Bunyavirus RNA dependent RNA polymerase; Region: Bunya_RdRp; pfam04196"
+          ],
+          "db_xref": [
+            "CDD:282102"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_821_1189_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 821,
+    "end_inclusive": 1189,
+    "strand": -1,
+    "best_E": 0.003,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P0DOX6",
+        "sseqid": "NC_040615.1",
+        "pident": "30.000",
+        "length": "130",
+        "qstart": "458",
+        "qend": "575",
+        "sstart": "1189",
+        "send": "821",
+        "evalue": "0.003",
+        "bitscore": "44.7",
+        "qlen": "576",
+        "slen": "166748",
+        "qcovhsp": "20"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class-I"
+          ],
+          "protein_id": [
+            "YP_009552464.1"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ],
+          "translation": [
+            "MGYAGEGTGARPPARGPQSGRRDLLALRTGHMHTMRWMFGCDVDANGEVERREDKFFLDGDEYLELSMDSETWLASCAEGRQLARKLMSANALEKHVHALGNLCPRWISWYRKRGSRATWRTGESSDCPRGGERQTSAGARGKESAGAGDGEGGDRANAERALTRPFASLSSVFRPRPSPSPPSVAPSPAANVFSAGERARHAGETDVPRRGLLPVSNLNPVEKLRCTCVRESGGGAAADGEWDFSDEQHPRRVRGPRADVRVRRNAREHVGREGAQAHGGGDSQARAQG"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_854_1189_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 854,
+    "end_inclusive": 1189,
+    "strand": -1,
+    "best_E": 0.01,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01871",
+        "sseqid": "NC_040615.1",
+        "pident": "30.894",
+        "length": "123",
+        "qstart": "335",
+        "qend": "451",
+        "sstart": "1189",
+        "send": "854",
+        "evalue": "0.010",
+        "bitscore": "42.7",
+        "qlen": "474",
+        "slen": "166748",
+        "qcovhsp": "25"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class-I"
+          ],
+          "protein_id": [
+            "YP_009552464.1"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ],
+          "translation": [
+            "MGYAGEGTGARPPARGPQSGRRDLLALRTGHMHTMRWMFGCDVDANGEVERREDKFFLDGDEYLELSMDSETWLASCAEGRQLARKLMSANALEKHVHALGNLCPRWISWYRKRGSRATWRTGESSDCPRGGERQTSAGARGKESAGAGDGEGGDRANAERALTRPFASLSSVFRPRPSPSPPSVAPSPAANVFSAGERARHAGETDVPRRGLLPVSNLNPVEKLRCTCVRESGGGAAADGEWDFSDEQHPRRVRGPRADVRVRRNAREHVGREGAQAHGGGDSQARAQG"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_905_1189_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 905,
+    "end_inclusive": 1189,
+    "strand": -1,
+    "best_E": 0.001,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01844",
+        "sseqid": "NC_040615.1",
+        "pident": "24.752",
+        "length": "101",
+        "qstart": "2",
+        "qend": "102",
+        "sstart": "1189",
+        "send": "905",
+        "evalue": "0.002",
+        "bitscore": "39.7",
+        "qlen": "104",
+        "slen": "166748",
+        "qcovhsp": "97"
+      },
+      {
+        "qseqid": "P01845",
+        "sseqid": "NC_040615.1",
+        "pident": "23.762",
+        "length": "101",
+        "qstart": "2",
+        "qend": "102",
+        "sstart": "1189",
+        "send": "905",
+        "evalue": "0.003",
+        "bitscore": "38.9",
+        "qlen": "104",
+        "slen": "166748",
+        "qcovhsp": "97"
+      },
+      {
+        "qseqid": "P0CG04",
+        "sseqid": "NC_040615.1",
+        "pident": "27.184",
+        "length": "103",
+        "qstart": "3",
+        "qend": "104",
+        "sstart": "1189",
+        "send": "905",
+        "evalue": "0.001",
+        "bitscore": "40.0",
+        "qlen": "106",
+        "slen": "166748",
+        "qcovhsp": "96"
+      },
+      {
+        "qseqid": "P0DOX8",
+        "sseqid": "NC_040615.1",
+        "pident": "27.885",
+        "length": "104",
+        "qstart": "113",
+        "qend": "214",
+        "sstart": "1189",
+        "send": "905",
+        "evalue": "0.004",
+        "bitscore": "41.6",
+        "qlen": "216",
+        "slen": "166748",
+        "qcovhsp": "47"
+      },
+      {
+        "qseqid": "P0DOY2",
+        "sseqid": "NC_040615.1",
+        "pident": "26.214",
+        "length": "103",
+        "qstart": "3",
+        "qend": "104",
+        "sstart": "1189",
+        "send": "905",
+        "evalue": "0.003",
+        "bitscore": "39.3",
+        "qlen": "106",
+        "slen": "166748",
+        "qcovhsp": "96"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class-I"
+          ],
+          "protein_id": [
+            "YP_009552464.1"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ],
+          "translation": [
+            "MGYAGEGTGARPPARGPQSGRRDLLALRTGHMHTMRWMFGCDVDANGEVERREDKFFLDGDEYLELSMDSETWLASCAEGRQLARKLMSANALEKHVHALGNLCPRWISWYRKRGSRATWRTGESSDCPRGGERQTSAGARGKESAGAGDGEGGDRANAERALTRPFASLSSVFRPRPSPSPPSVAPSPAANVFSAGERARHAGETDVPRRGLLPVSNLNPVEKLRCTCVRESGGGAAADGEWDFSDEQHPRRVRGPRADVRVRRNAREHVGREGAQAHGGGDSQARAQG"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_917_1189_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 917,
+    "end_inclusive": 1189,
+    "strand": -1,
+    "best_E": 0.008,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01843",
+        "sseqid": "NC_040615.1",
+        "pident": "25.510",
+        "length": "98",
+        "qstart": "2",
+        "qend": "99",
+        "sstart": "1189",
+        "send": "917",
+        "evalue": "0.008",
+        "bitscore": "37.7",
+        "qlen": "105",
+        "slen": "166748",
+        "qcovhsp": "93"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class-I"
+          ],
+          "protein_id": [
+            "YP_009552464.1"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ],
+          "translation": [
+            "MGYAGEGTGARPPARGPQSGRRDLLALRTGHMHTMRWMFGCDVDANGEVERREDKFFLDGDEYLELSMDSETWLASCAEGRQLARKLMSANALEKHVHALGNLCPRWISWYRKRGSRATWRTGESSDCPRGGERQTSAGARGKESAGAGDGEGGDRANAERALTRPFASLSSVFRPRPSPSPPSVAPSPAANVFSAGERARHAGETDVPRRGLLPVSNLNPVEKLRCTCVRESGGGAAADGEWDFSDEQHPRRVRGPRADVRVRRNAREHVGREGAQAHGGGDSQARAQG"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_929_1186_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 929,
+    "end_inclusive": 1186,
+    "strand": -1,
+    "best_E": 0.003,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01861",
+        "sseqid": "NC_040615.1",
+        "pident": "28.723",
+        "length": "94",
+        "qstart": "223",
+        "qend": "314",
+        "sstart": "1186",
+        "send": "929",
+        "evalue": "0.005",
+        "bitscore": "43.1",
+        "qlen": "396",
+        "slen": "166748",
+        "qcovhsp": "23"
+      },
+      {
+        "qseqid": "P01868",
+        "sseqid": "NC_040615.1",
+        "pident": "26.087",
+        "length": "92",
+        "qstart": "220",
+        "qend": "311",
+        "sstart": "1186",
+        "send": "929",
+        "evalue": "0.003",
+        "bitscore": "43.5",
+        "qlen": "324",
+        "slen": "166748",
+        "qcovhsp": "28"
+      },
+      {
+        "qseqid": "P01869",
+        "sseqid": "NC_040615.1",
+        "pident": "26.087",
+        "length": "92",
+        "qstart": "220",
+        "qend": "311",
+        "sstart": "1186",
+        "send": "929",
+        "evalue": "0.003",
+        "bitscore": "43.9",
+        "qlen": "393",
+        "slen": "166748",
+        "qcovhsp": "23"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class-I"
+          ],
+          "protein_id": [
+            "YP_009552464.1"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ],
+          "translation": [
+            "MGYAGEGTGARPPARGPQSGRRDLLALRTGHMHTMRWMFGCDVDANGEVERREDKFFLDGDEYLELSMDSETWLASCAEGRQLARKLMSANALEKHVHALGNLCPRWISWYRKRGSRATWRTGESSDCPRGGERQTSAGARGKESAGAGDGEGGDRANAERALTRPFASLSSVFRPRPSPSPPSVAPSPAANVFSAGERARHAGETDVPRRGLLPVSNLNPVEKLRCTCVRESGGGAAADGEWDFSDEQHPRRVRGPRADVRVRRNAREHVGREGAQAHGGGDSQARAQG"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_929_1189_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 929,
+    "end_inclusive": 1189,
+    "strand": -1,
+    "best_E": 0.001,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01859",
+        "sseqid": "NC_040615.1",
+        "pident": "32.979",
+        "length": "94",
+        "qstart": "231",
+        "qend": "313",
+        "sstart": "1189",
+        "send": "929",
+        "evalue": "0.001",
+        "bitscore": "45.4",
+        "qlen": "395",
+        "slen": "166748",
+        "qcovhsp": "21"
+      },
+      {
+        "qseqid": "P01860",
+        "sseqid": "NC_040615.1",
+        "pident": "31.522",
+        "length": "92",
+        "qstart": "282",
+        "qend": "364",
+        "sstart": "1189",
+        "send": "929",
+        "evalue": "0.002",
+        "bitscore": "44.7",
+        "qlen": "446",
+        "slen": "166748",
+        "qcovhsp": "19"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class-I"
+          ],
+          "protein_id": [
+            "YP_009552464.1"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ],
+          "translation": [
+            "MGYAGEGTGARPPARGPQSGRRDLLALRTGHMHTMRWMFGCDVDANGEVERREDKFFLDGDEYLELSMDSETWLASCAEGRQLARKLMSANALEKHVHALGNLCPRWISWYRKRGSRATWRTGESSDCPRGGERQTSAGARGKESAGAGDGEGGDRANAERALTRPFASLSSVFRPRPSPSPPSVAPSPAANVFSAGERARHAGETDVPRRGLLPVSNLNPVEKLRCTCVRESGGGAAADGEWDFSDEQHPRRVRGPRADVRVRRNAREHVGREGAQAHGGGDSQARAQG"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_944_1189_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 944,
+    "end_inclusive": 1189,
+    "strand": -1,
+    "best_E": 0.005,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "A0M8Q6",
+        "sseqid": "NC_040615.1",
+        "pident": "28.571",
+        "length": "91",
+        "qstart": "3",
+        "qend": "91",
+        "sstart": "1189",
+        "send": "944",
+        "evalue": "0.008",
+        "bitscore": "37.7",
+        "qlen": "106",
+        "slen": "166748",
+        "qcovhsp": "84"
+      },
+      {
+        "qseqid": "P0CF74",
+        "sseqid": "NC_040615.1",
+        "pident": "27.778",
+        "length": "90",
+        "qstart": "3",
+        "qend": "91",
+        "sstart": "1189",
+        "send": "944",
+        "evalue": "0.005",
+        "bitscore": "38.5",
+        "qlen": "106",
+        "slen": "166748",
+        "qcovhsp": "84"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[872:1745](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp01"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class-I"
+          ],
+          "protein_id": [
+            "YP_009552464.1"
+          ],
+          "db_xref": [
+            "GeneID:41701013"
+          ],
+          "translation": [
+            "MGYAGEGTGARPPARGPQSGRRDLLALRTGHMHTMRWMFGCDVDANGEVERREDKFFLDGDEYLELSMDSETWLASCAEGRQLARKLMSANALEKHVHALGNLCPRWISWYRKRGSRATWRTGESSDCPRGGERQTSAGARGKESAGAGDGEGGDRANAERALTRPFASLSSVFRPRPSPSPPSVAPSPAANVFSAGERARHAGETDVPRRGLLPVSNLNPVEKLRCTCVRESGGGAAADGEWDFSDEQHPRRVRGPRADVRVRRNAREHVGREGAQAHGGGDSQARAQG"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_3411_3722_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 3411,
+    "end_inclusive": 3722,
+    "strand": -1,
+    "best_E": 0.006,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P03987",
+        "sseqid": "NC_040615.1",
+        "pident": "30.702",
+        "length": "114",
+        "qstart": "221",
+        "qend": "330",
+        "sstart": "3722",
+        "send": "3411",
+        "evalue": "0.006",
+        "bitscore": "43.1",
+        "qlen": "398",
+        "slen": "166748",
+        "qcovhsp": "28"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[3691:4018](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp02"
+          ],
+          "db_xref": [
+            "GeneID:41700939"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[3691:4018](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp02"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class I"
+          ],
+          "protein_id": [
+            "YP_009552465.1"
+          ],
+          "db_xref": [
+            "GeneID:41700939"
+          ],
+          "translation": [
+            "MIGGFSVYGANHRDVVVLNEKMTSWVPVCPNATRFAHLLESTRARENHRDFITYYCANILARYIAYGNDVINRIGRLLSPRSFPGGDSGCMSYLIFALPPPPAQKNQP"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_3459_3728_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 3459,
+    "end_inclusive": 3728,
+    "strand": -1,
+    "best_E": 0.001,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01863",
+        "sseqid": "NC_040615.1",
+        "pident": "30.526",
+        "length": "95",
+        "qstart": "222",
+        "qend": "314",
+        "sstart": "3728",
+        "send": "3459",
+        "evalue": "0.004",
+        "bitscore": "43.1",
+        "qlen": "330",
+        "slen": "166748",
+        "qcovhsp": "28"
+      },
+      {
+        "qseqid": "P01865",
+        "sseqid": "NC_040615.1",
+        "pident": "30.526",
+        "length": "95",
+        "qstart": "221",
+        "qend": "313",
+        "sstart": "3728",
+        "send": "3459",
+        "evalue": "0.007",
+        "bitscore": "42.7",
+        "qlen": "398",
+        "slen": "166748",
+        "qcovhsp": "23"
+      },
+      {
+        "qseqid": "P01867",
+        "sseqid": "NC_040615.1",
+        "pident": "34.286",
+        "length": "105",
+        "qstart": "217",
+        "qend": "319",
+        "sstart": "3728",
+        "send": "3459",
+        "evalue": "0.001",
+        "bitscore": "45.4",
+        "qlen": "404",
+        "slen": "166748",
+        "qcovhsp": "25"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[3691:4018](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp02"
+          ],
+          "db_xref": [
+            "GeneID:41700939"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[3691:4018](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp02"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class I"
+          ],
+          "protein_id": [
+            "YP_009552465.1"
+          ],
+          "db_xref": [
+            "GeneID:41700939"
+          ],
+          "translation": [
+            "MIGGFSVYGANHRDVVVLNEKMTSWVPVCPNATRFAHLLESTRARENHRDFITYYCANILARYIAYGNDVINRIGRLLSPRSFPGGDSGCMSYLIFALPPPPAQKNQP"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_5753_6076_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 5753,
+    "end_inclusive": 6076,
+    "strand": -1,
+    "best_E": 0.000121,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "P01868",
+        "sseqid": "NC_040615.1",
+        "pident": "25.000",
+        "length": "112",
+        "qstart": "205",
+        "qend": "316",
+        "sstart": "6076",
+        "send": "5753",
+        "evalue": "1.21e-04",
+        "bitscore": "47.8",
+        "qlen": "324",
+        "slen": "166748",
+        "qcovhsp": "35"
+      },
+      {
+        "qseqid": "P01869",
+        "sseqid": "NC_040615.1",
+        "pident": "25.000",
+        "length": "112",
+        "qstart": "205",
+        "qend": "316",
+        "sstart": "6076",
+        "send": "5753",
+        "evalue": "1.53e-04",
+        "bitscore": "48.1",
+        "qlen": "393",
+        "slen": "166748",
+        "qcovhsp": "28"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[5476:6247](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "db_xref": [
+            "GeneID:41700941"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[5476:6247](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class I"
+          ],
+          "protein_id": [
+            "YP_009552467.1"
+          ],
+          "db_xref": [
+            "GeneID:41700941"
+          ],
+          "translation": [
+            "MWLTRVVCLVLYPKGAELTDLLSRRPSAQAKGPPKESMSATMRACLLVCAVALSQCWFPRPTVEGLADKDAHPRSPTPPHVFVESARIAGDSALLTCRALNFYPIKINFRWEIDGAPVPTWYPGALVFEDGTYQGWSTIKVPKDSATRFTCVVTHSSLNGSLTVRWQPGATGASARFIVALVCTLLGISVLLGILALVYHRQLARRDVLQKLADLKEPEPPRPQQQLSGSQPRWPCLLWKNWRRRTDRSPTPLDKC"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5749:6016](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5956:5971](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5911:5926](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5824:5839](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5788:5806](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[<5566:>5764](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "hypothetical protein; Provisional; Region: PRK08126"
+          ],
+          "db_xref": [
+            "CDD:236157"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5749:5761](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand G [structural motif]; Region: Ig strand G"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_5753_6151_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 5753,
+    "end_inclusive": 6151,
+    "strand": -1,
+    "best_E": 0.008,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01859",
+        "sseqid": "NC_040615.1",
+        "pident": "22.148",
+        "length": "149",
+        "qstart": "170",
+        "qend": "318",
+        "sstart": "6151",
+        "send": "5753",
+        "evalue": "0.008",
+        "bitscore": "42.7",
+        "qlen": "395",
+        "slen": "166748",
+        "qcovhsp": "38"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[5476:6247](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "db_xref": [
+            "GeneID:41700941"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[5476:6247](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class I"
+          ],
+          "protein_id": [
+            "YP_009552467.1"
+          ],
+          "db_xref": [
+            "GeneID:41700941"
+          ],
+          "translation": [
+            "MWLTRVVCLVLYPKGAELTDLLSRRPSAQAKGPPKESMSATMRACLLVCAVALSQCWFPRPTVEGLADKDAHPRSPTPPHVFVESARIAGDSALLTCRALNFYPIKINFRWEIDGAPVPTWYPGALVFEDGTYQGWSTIKVPKDSATRFTCVVTHSSLNGSLTVRWQPGATGASARFIVALVCTLLGISVLLGILALVYHRQLARRDVLQKLADLKEPEPPRPQQQLSGSQPRWPCLLWKNWRRRTDRSPTPLDKC"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5749:6016](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Immunoglobulin domain; Region: Ig; cl11960"
+          ],
+          "db_xref": [
+            "CDD:472250"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5956:5971](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5911:5926](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5824:5839](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5788:5806](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[<5566:>5764](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "hypothetical protein; Provisional; Region: PRK08126"
+          ],
+          "db_xref": [
+            "CDD:236157"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[5749:5761](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp04"
+          ],
+          "note": [
+            "Ig strand G [structural motif]; Region: Ig strand G"
+          ],
+          "db_xref": [
+            "CDD:409353"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_6644_6871_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 6644,
+    "end_inclusive": 6871,
+    "strand": -1,
+    "best_E": 0.003,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01871",
+        "sseqid": "NC_040615.1",
+        "pident": "35.294",
+        "length": "85",
+        "qstart": "345",
+        "qend": "427",
+        "sstart": "6871",
+        "send": "6644",
+        "evalue": "0.003",
+        "bitscore": "44.3",
+        "qlen": "474",
+        "slen": "166748",
+        "qcovhsp": "18"
+      },
+      {
+        "qseqid": "P0DOX6",
+        "sseqid": "NC_040615.1",
+        "pident": "35.294",
+        "length": "85",
+        "qstart": "468",
+        "qend": "550",
+        "sstart": "6871",
+        "send": "6644",
+        "evalue": "0.007",
+        "bitscore": "43.5",
+        "qlen": "576",
+        "slen": "166748",
+        "qcovhsp": "14"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[6436:6895](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "db_xref": [
+            "GeneID:41700942"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[6436:6895](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class II"
+          ],
+          "protein_id": [
+            "YP_009552468.1"
+          ],
+          "db_xref": [
+            "GeneID:41700942"
+          ],
+          "translation": [
+            "MKLAYVKADSAVLTCWVTGFYPSHVRVTWMKDKTEAALRPQERLQLLGDGNYQLRSELIVPEEHADKYTCRVSHISFPDAVEVRWKRGRDWNRIWTICGSIGLAVDVLAVLVFVLDARRQRLRDARARQQRQPIQLPPLPPRDEWRRGPGVV"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6640:6871](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Immunoglobulin Constant-1 (C1)-set domain; Region: IgC1; cd00098"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6841:6865](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6805:6826](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6790:6796](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6760:6772](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6715:6742](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6673:6694](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6640:6652](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand G [structural motif]; Region: Ig strand G"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_040615.1_6644_6952_-1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "start_1based": 6644,
+    "end_inclusive": 6952,
+    "strand": -1,
+    "best_E": 0.01,
+    "main_queue": false,
+    "alignments": [
+      {
+        "qseqid": "P01872",
+        "sseqid": "NC_040615.1",
+        "pident": "29.204",
+        "length": "113",
+        "qstart": "325",
+        "qend": "428",
+        "sstart": "6952",
+        "send": "6644",
+        "evalue": "0.010",
+        "bitscore": "42.7",
+        "qlen": "454",
+        "slen": "166748",
+        "qcovhsp": "23"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[6436:6895](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "db_xref": [
+            "GeneID:41700942"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[6436:6895](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "MHC Class II"
+          ],
+          "protein_id": [
+            "YP_009552468.1"
+          ],
+          "db_xref": [
+            "GeneID:41700942"
+          ],
+          "translation": [
+            "MKLAYVKADSAVLTCWVTGFYPSHVRVTWMKDKTEAALRPQERLQLLGDGNYQLRSELIVPEEHADKYTCRVSHISFPDAVEVRWKRGRDWNRIWTICGSIGLAVDVLAVLVFVLDARRQRLRDARARQQRQPIQLPPLPPRDEWRRGPGVV"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6640:6871](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Immunoglobulin Constant-1 (C1)-set domain; Region: IgC1; cd00098"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6841:6865](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand B [structural motif]; Region: Ig strand B"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6805:6826](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand C [structural motif]; Region: Ig strand C"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6790:6796](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand C' [structural motif]; Region: Ig strand C'"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6760:6772](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand D [structural motif]; Region: Ig strand D"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6715:6742](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand E [structural motif]; Region: Ig strand E"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6673:6694](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand F [structural motif]; Region: Ig strand F"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6640:6652](-)",
+        "qualifiers": {
+          "locus_tag": [
+            "EXJ68_gp05"
+          ],
+          "note": [
+            "Ig strand G [structural motif]; Region: Ig strand G"
+          ],
+          "db_xref": [
+            "CDD:409354"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_078159.1_7477_7797_1",
+    "genome": "NC_078159.1",
+    "organism": "Punta Salinas virus",
+    "start_1based": 7477,
+    "end_inclusive": 7797,
+    "strand": 1,
+    "best_E": 0.001,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "A0A0B4J238",
+        "sseqid": "NC_078159.1",
+        "pident": "28.972",
+        "length": "107",
+        "qstart": "9",
+        "qend": "105",
+        "sstart": "7477",
+        "send": "7797",
+        "evalue": "0.001",
+        "bitscore": "40.4",
+        "qlen": "106",
+        "slen": "11961",
+        "qcovhsp": "92"
+      }
+    ],
+    "overlapping_features": [
+      {
+        "type": "gene",
+        "location": "[0:11961](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "QK622_sLgp1"
+          ],
+          "db_xref": [
+            "GeneID:80549906"
+          ]
+        }
+      },
+      {
+        "type": "CDS",
+        "location": "[0:11961](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "QK622_sLgp1"
+          ],
+          "codon_start": [
+            "1"
+          ],
+          "product": [
+            "RNA-dependent RNA polymerase"
+          ],
+          "protein_id": [
+            "YP_010839829.1"
+          ],
+          "db_xref": [
+            "GeneID:80549906"
+          ],
+          "translation": [
+            "MEDINWQHIGPNLYTALVKFAIPEFFERIRVKGDGNCFFRSFAYLFFDSEEMWPAVKNTALGYARQHWAECYGARGLYENRAIEEQKTMRASYSAVVKGNVQERSTERGKELYLEEASKDGYWGGTDEAEMLAKALNLTIIIWNVNSDLKVLDVQKFGPHTVERAFNIVKTGAHFDALRLLGNIPVPGPSTATQLTSINPMMVIEAVSAQDDSAEAMSPEVYITDKKDEPEGSEDSDVTHASESSSDETEESAASGVDFTSEVGANKTREELFKEMKEQKKRQDQMRKALELSAHVPAKVGRVLHKIFNCNVEVSLTSKVLFLLPEGSDDPNRVTLSKIRHIMLDKEGQMFSQFKNCTVVITSGLMEFVNIPELLRQCLPDTGVSQFYDIIHPAFVYDILTVSVAILFSSFLYGSDFKTKRKFILNTVRDRFVKPTKVPKLMREQNNKLIYDHPDRVVSDVCSSLYKEMALQISKCMKEMPATGLLALRNVYLQSMDFGDYLQVLNDLRVVSYDLDFFNQDELQDIKRLIDCIAEIRKAPEVLPGTLAADWSFMYLGTDADQLFRDRKGKKLKSLRPDSLERRLIQHFFRKKLMFKFISLQGKAYSGGTLSNVLAYCNNLYLTKDQLGFSPEDTEHLSAEMVRIRSLLDDQKVEPIAIICDKLDRRFKELFENLPAVCADECRSLFEDIRNAENHSSAWKAALRLKGVAYEGFMAKAYNWNYLTEDLKPTLSMIIQTLYPEKFLQFLERTQLCPEQRDLTPDFVMTQNLIIKKDKIDAIVETEQLSLDYLVSGAATVIPVSKKTFPLPTEPILEVNRLESVIENFQKMQETKKRDTGLLVESTNVVTEEHNRFTYSELLILEVGYQTDVEGKVISDMQKWKNILNLLNFLEIKASVISCADCSDVPSDNWWLPERYVKLLKGTISFLFAKLQQNSPSDVSDIVVGAISTQKIRSIIRSGTTVKTPVTIKDLRETWNKNKEKITERPTGTVLPERIVSAMQLSLVDGVIQEKTSTDDIVKVVEENMEKIAQELEQTKFKHTLNKEEETSFELIYSWLVEDLKSARCEDCVKKILNDCKLLNSLSASTELISKELVLSEHPSCCHPVCVDVGTYSLFQKRTGFFDAVGHSETVLDEYDDKQTQLDKLVKLTLPGKTEKERKIKRTVELLIRVCMELSGIQCLKTPSFQLIIVKRNLKRSQKTGDITKEKRKQHLLEQLERIKKTLSPSRLKSYSEHCISVIESVLESPHEQKGCRSELQSRWCDQILIDLKAKTEDGEIIEALKGSIESRKTLVRNNDKVMVPDWDQVSSYLDVKADDLLNTGKMVFELDCVLFKETVLETISRYFQTPYWECPIILSNLITFLLRFKWYQKLVLYGKTCETFLQCCTEFRRSGLKLAKIRHTNCNLAIKLPSNKKENMKCIIYSSNMEALSGVFQLNRRVAVLGASYYYIIVVLFCQCLQHYRCMNGLENIKKVEESVRQANAKHLDALQEQLKLVHQGRIKEASDRLLDLCKSNGNFLSKSTRAHFITVFSGLSITYSTLLGDALLTNSQPLNKQIQMLRFGILNGISRMSMTSELGKKFSSSCRRMEHYIARVYQLLVVFTCNRYPHTNINNWIKDDLCPNVQMPSVSIYGHYINSDRQLVFDIYNVHIYNKEMDNFDEGTIKVLEETAERHMTWELDLMKAVEKLNEDPKKDRLARLLLCVGNVKPSGSQETTMEDETLSQTSVSSLQSSMSSKKRIKTYFGAMSMKKKPFSFSEDFIVERDSSSDYTQSISDKWTFGVYKAKPDSVLRDIVEIIRKNPNHTMGSFELLQAFTEFARPKYPIESIIKAKRNPKNYITVSEVTETTSIVSEPKTHASLKDNLRIITGQENKKLVKMLRGKLQSLGLSLVNDKSKGSDLSGLLSSVDGLSEDQKKKIILGITEPSKLTFYTWKEIVKMDVENALVTSDGNYIYCWLKSLGGQVKRSLRKYIKNLRYDNERFTPKFSEDTEALIGKDGITECLKLIENLKSLTKNEIPINSDIDNNKLIDVWVKFCKLPKCYEEILNESAEWIKVVAPDLDFLMGKYNELLKLKKEYPTLSFSREEVELRSLETKFVKDNNNLLMKLMNCVFFICLCCPWCVHYKSLENFLSKHMDESGGYDFGNETVSKVMDITLEKVWYEVLQCQNKVQVEVIKRVVKYTSAMFTGNGRPISCSLNQTEGTINVMDHGQMVDRLRTFLTRAQLYTKELDFIWTCHMITNSNFEVTKRLTGRSTGERLPRSVRSKVVYEMIKVVGESGHAILQQLAFSTILNTNHEFFAVLAPKAQLGGHRDLLVQETGTKLVHAASEMFSRTLLATTNDDGLTSPHLKETILGSALNHISIARKVHGRVIEEDSNLYQFYKVFCISGDNTKWGPIHCCAFFSGMMQQLLKDHPDWSSFYKLVFLKNLYRQVEIPTGSIKKILNAFRYNNSDKKIEEMNEYQLRELLYSTIDSWNENPIIKFLVVTYLIRGKIAMRMYNHMGQGIHHATSSILTSIMGDVISHYIQVYMNSNFKGLTCSVEHAGSSDDYAKIITLSGMVSKELFDSYESVYWTRMCRLKNIISGISRAVQMKDSAKTLCGDAFIEFYSEFMLSHRITPAVIKFIFTGLINSSVTSPQSMSQACQVSSQQAMYNSVPLLTNFAFSLLRQQMFMNHTEYFQRTYGLITMGTLSSFGRLYLPKYSNLTCSSIAIEDSEVISQNLTMLKENAILFPGTKPYEEDVTVTEVESGPASVESSGGGSPSSKLSSMTLGSDTSLKFSHDKALTAVELAYLNSIKPSLSRLRCRAEMETFQKIFKLELPVCFEKLKKSSLVNSCEYLREVIDEPWLMVQRIRSIVVLLIAGFYRAFNSDGTEHPVKANLNRDENTIIEDPMIQLIPEKLRRELEKLGLAKMTVEELIPTHMLEDDFASLVSKRLVMMNCATENYASEVSRLKQTLNSRNVIHGLAGGIKELSIPIYTIFLKSYFFKDNVFFKHYDRWNTKHSLNYRDSTGKELKDKIVIKFTTWLDKILNCDISIDYSHSNAVKSLFDNSLKGIQVIHLCNNTCELSILYEEVECLQKEFEALALQFSDVNRHKLKILESQRQESAVEASKAVIVKTTLFSATDAVRIINSPAIVIGYMVNESTLSDIKPTKIDMGNLIRDRFRITMFYKTLTDLVGEIIKESELIKRKDGIVDLEKVDLYANALTMLCRLVQRSKPKVSSFYIIKGASHSNEPTVTELISYGIQEGLLYILPDCPIETSTYSVRYWKVLQCVSAIANLPLSDSEKTSLLSSFLNWKPTINDIDSKCTMLKHDKAVLEEFDERTLLNVLSSELQSIRNDKERESISDLIEYISSPRQLMQDKPYLGVTSTFKKWGEGQKNGKFTYSSNSGEASGIFINGQLYLTLSKDSTALLHEVERKVLEWLCQLRTDVTAAEQHMPFLSLLASSRTCSKRAIDGISYIVYYLKEDPKFLQLKKFIGKGEYKIVKVKSQILSVRKEVVKEVRAEPHIVWRPNALSIVYDEETENPSYHHKIREIYELIKDATGNSSGKLSSIFYKDTRLTLSKISLQDQLYLSSLSLLHCFFCHTLTSSIMEASSKSEILSRYFEQGRSSIIRSANSIQNRLLEIKSSDGSLVKSEESDICSKLQQSLNKGDFSIDCWAEVQRMLDENGFHRINVTLSPEPSQFRYKWLVTPEFGLSKNSDVTDLRDLCMLLSSGIVPKVVISYMTDDVLFTNLLLIAERLKIDLNKNRVDQKAFCAVCCSIIYTLQSNPKDRKTLLMRISSIFQLISIKEIESSKGAIRFMADSDTIQIQVTIVGLSQLEYKSIDNKVHPAEKAKEVKIKIGRNRLISEVSSLFEPFSNIKEIMKFADGLEMSTEDGKITFILFFTRLASEKTDIYKLLTFLNIEVPQTTVDLLTDLIMLLYGGSFKKYSTTQPSTVKATSKSTKKEEITLSDLLAEDSPPSDNKEDSDLEDYNIDDIEFEL"
+          ]
+        }
+      },
+      {
+        "type": "misc_feature",
+        "location": "[6234:8154](+)",
+        "qualifiers": {
+          "locus_tag": [
+            "QK622_sLgp1"
+          ],
+          "note": [
+            "Bunyavirus RNA dependent RNA polymerase; Region: Bunya_RdRp; pfam04196"
+          ],
+          "db_xref": [
+            "CDD:282102"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "NC_078256.1_7567_7887_1",
+    "genome": "NC_078256.1",
+    "organism": "Zirqa virus",
+    "start_1based": 7567,
+    "end_inclusive": 7887,
+    "strand": 1,
+    "best_E": 0.000113,
+    "main_queue": true,
+    "alignments": [
+      {
+        "qseqid": "A0A0B4J238",
+        "sseqid": "NC_078256.1",
+        "pident": "29.907",
+        "length": "107",
+        "qstart": "9",
+        "qend": "105",
+        "sstart": "7567",
+        "send": "7887",
+        "evalue": "1.13e-04",
+        "bitscore": "43.1",
+        "qlen": "106",
+        "slen": "12178",
+        "qcovhsp": "92"
+      }
+    ],
+    "overlapping_features": []
+  }
+]

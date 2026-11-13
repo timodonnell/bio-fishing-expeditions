@@ -1,5 +1,7 @@
 # Literature preflight — 2026-11-12
 
+**Historical planning snapshot.** The 2026-11-13 follow-up established a published natural FeLV TCR-beta capture; see [the evidence packet](known_natural_tcr.md). The original preflight below is retained to distinguish initial knowledge from later findings.
+
 This is a targeted discovery pass to design the experiment. It is not the completed systematic review or a sequence-database search. No natural-acquisition candidate has been validated.
 
 ## What the initial sources establish

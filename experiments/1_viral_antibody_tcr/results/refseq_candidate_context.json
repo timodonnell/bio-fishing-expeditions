@@ -1,0 +1,2734 @@
+[
+  {
+    "protein": "YP_009664791.1",
+    "genome": "NC_043103.1",
+    "organism": "Bat astrovirus Tm/Guangxi/LD38/2007",
+    "taxonomy": [
+      "Viruses",
+      "Riboviria",
+      "Orthornavirae",
+      "Pisuviricota",
+      "Stelpaviricetes",
+      "Stellavirales",
+      "Astroviridae",
+      "Mamastrovirus",
+      "Mamastrovirus guangxiense"
+    ],
+    "genome_description": "Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds",
+    "start_1based": 1569,
+    "end_inclusive": 4106,
+    "strand": 1,
+    "location": "[1568:4106](+)",
+    "qualifiers": {
+      "gene": [
+        "ORF2"
+      ],
+      "locus_tag": [
+        "FK849_gp2"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "capsid protein precursor"
+      ],
+      "protein_id": [
+        "YP_009664791.1"
+      ],
+      "db_xref": [
+        "GeneID:40524893"
+      ],
+      "translation": [
+        "MADVPRPQRVRRNRRRGNNGQSAAPTADDTPSGMAPTFQRNNRRRRNRRNWRRRVRRVARVPFIGPLMPGEERRLVPAFPRRLLTRRIKAELRREGLEGPKVAVQQRITSTFGLIGPNTSGNVEMELNFFTHPSLAKEANDGTAFGPLQALAAQYALWKIKFLTLRFTPMVGASAVSGTVVRASLNLSQSPGGSNWSGLGTRIHMDMHPGAVSTFHLRGDQIGGPRDGGWWFTDTNEEGSQSAGPIVEIHTLGKTLSTFKDKEWSGPLFLVEGIGLWQFANYQVKPALGALERREAAVVATLDSTAGQPMLLELPEQNTVTQFMMSLEPDTGLPDPRNVPVPXGRAPAIPNFAGTVGETIFQIVDIGAKLASGALPIPFGWLIKGGWWFVKRVFGRKAGVDKVPFVVYASLADAQNNKPAIATQTTNKTTAQTELLVTQINSPNVGPNPAVPAQRNIIHQVLHPGDTFRLSSVLLSEAMINVPTDNAGTAYTLVPVSAVPGVGRTSSGSPVTISVPPTPSVLQTIAYIQTPWWIGPPGRAPALSVVGQNNSVTNVPSVTNGGYVQVLYRLINPRFTDQSGDLDYFEPDYQGDVQFALLPTFNTTGDVGVQKPYEPFGSVVATGLIHSGTTPPFNMVFNLIKTYKPFEGYEPSNPGVDDQVKDLFLLYGDNAGKISFITLPKNGNQATWKLKQRSFAENTYFLAVSITDAPVKISGVDVPTTVKLGTYTRTESQLAPIFPYDLIGSMLAATSADLVLRVPEKTVLDKYIVDQLQAMGIHPTSIEREPLVDLAAEGPSWWPYDVPSDSEHTDDSVSEFWDKVGDEMIPIPTRWVHDAEMRQQLGIDE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009552467.1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Gammaherpesvirinae"
+    ],
+    "genome_description": "Eptesicus fuscus gammaherpesvirus, complete genome",
+    "start_1based": 5477,
+    "end_inclusive": 6247,
+    "strand": -1,
+    "location": "[5476:6247](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "EXJ68_gp04"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "MHC Class I"
+      ],
+      "protein_id": [
+        "YP_009552467.1"
+      ],
+      "db_xref": [
+        "GeneID:41700941"
+      ],
+      "translation": [
+        "MWLTRVVCLVLYPKGAELTDLLSRRPSAQAKGPPKESMSATMRACLLVCAVALSQCWFPRPTVEGLADKDAHPRSPTPPHVFVESARIAGDSALLTCRALNFYPIKINFRWEIDGAPVPTWYPGALVFEDGTYQGWSTIKVPKDSATRFTCVVTHSSLNGSLTVRWQPGATGASARFIVALVCTLLGISVLLGILALVYHRQLARRDVLQKLADLKEPEPPRPQQQLSGSQPRWPCLLWKNWRRRTDRSPTPLDKC"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009552468.1",
+    "genome": "NC_040615.1",
+    "organism": "Eptesicus fuscus gammaherpesvirus",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Gammaherpesvirinae"
+    ],
+    "genome_description": "Eptesicus fuscus gammaherpesvirus, complete genome",
+    "start_1based": 6437,
+    "end_inclusive": 6895,
+    "strand": -1,
+    "location": "[6436:6895](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "EXJ68_gp05"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "MHC Class II"
+      ],
+      "protein_id": [
+        "YP_009552468.1"
+      ],
+      "db_xref": [
+        "GeneID:41700942"
+      ],
+      "translation": [
+        "MKLAYVKADSAVLTCWVTGFYPSHVRVTWMKDKTEAALRPQERLQLLGDGNYQLRSELIVPEEHADKYTCRVSHISFPDAVEVRWKRGRDWNRIWTICGSIGLAVDVLAVLVFVLDARRQRLRDARARQQRQPIQLPPLPPRDEWRRGPGVV"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009551664.1",
+    "genome": "NC_040519.1",
+    "organism": "Zirqa virus",
+    "taxonomy": [
+      "Viruses",
+      "Riboviria",
+      "Orthornavirae",
+      "Negarnaviricota",
+      "Polyploviricotina",
+      "Bunyaviricetes",
+      "Hareavirales",
+      "Nairoviridae",
+      "Orthonairovirus",
+      "Orthonairovirus zirkuense"
+    ],
+    "genome_description": "Zirqa virus strain Por 7866 segment L, complete sequence",
+    "start_1based": 95,
+    "end_inclusive": 12055,
+    "strand": 1,
+    "location": "[94:12055](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "F2Q22_sLgp1"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "RNA-dependent RNA polymerase"
+      ],
+      "protein_id": [
+        "YP_009551664.1"
+      ],
+      "db_xref": [
+        "GeneID:41704198"
+      ],
+      "translation": [
+        "MDDIQWQEILPGLFTTEARFPLLDFFNRIPVKADGNCFFRAFSVLFFDQEDQWRTVKNTAVSFAKKSWSECTGAKQQYVNKAEKEKAQHKLTYRDVTLGDTGLDMLSRRGREVYIEEAQKEGYWGGTNEAEMISKSLGVTIIIWEVNSDMKVVSVQKFGKDKVSGSFNIMKLDAHFDGLSLQQVLEDRQPARDGISEQMEPTTALSVILSAEDKGAEMTPDFFLDQQTDEELSDTSDDDYQSTKAEAPESTSNDTMSRRELLKEQDKERKRLRVMQKAMELSAHVPARVGRTLYKIFNCAIEVSLTSKVLYLLPEGTDDPNRVTLSKIRHSMLNREGELQDQFKHCTVVVTSGLMEFVNVPELLRLCLPDTGISQYYDIVHPAFVYDILTVALSILFSSFLYGSDFKTKRKFILNTVRDRFVTPSKVPKLLKNHSNKLLYDSPDRVISQVCLALYKDMSMQISKAMKEMPATGLLALRNLYLQTVDFNDYMSILNDLRVVSYDLDFFNQDELQDIKRLMDCIAEIRKEKEVKPGSLGSKWSAMYLNVGEDEVFKDKKGKKCSYLKSEPLERKLIEHFFKKKFMFKFISMQGKAYSGGSLNTVLAYCNNLYLTKDQLGFSLEDTEHLSAEMVRIRSLLDDQKVEPIAIICDKLEPRFKELFNNLPSVCADECKSLFDDIRNAENHSTAWKAALRLKGVAYEGFMARAYNWNYLTEDLKPTLSMIIQTLYPEKFIQFLERTQLCPEQRDLTPDFVMTQNLIIRKDKIEAVVETEQLSIDLLNDGSSTVTPVSKKTFPLPSEPILEVNRLESVIEKFKKMQEDKSRNTGLLVETTKTSFSEDDKFSYSELLILEVGYQTDVEGKVISDMQKWKNILNLLDFLNIKASIISCADCSDIPSDNWWLPERYVKLLKSSISYLFAKLQQNSPSDVTDIVVGAISTQKIRSIIKAGTTVKTPITIKDLRETWNKNKDKIIERPTGAKLPDKTVLALKLSLVDGVVQEKTSTDDVVKIIEENMERIAQEIEQTKFKHSLNQTEETSLDLVISWIVEDLKSARCQKCVKDILEDVKRISSKEAAVELLSRELILENHPECCHSLNVSIGTYSLFQKRTGFSNIVQHRETVLDEYSEQQTQLDKLVKLTLPGKTEKERKVKRTVEQLIRLSMTLSGIQCLKSSNFQLIIVKSRYNKRLGHKRNAAEEELEIVQKTEKGKHMLEQLERIKKVLNPARLKTYSDYCKSVIQSVLDNPAGQQGSKSELLPEWCDQILMDLKAKTEDGEIVDALKESIESKRVLVINNDKVVVPSWDQVVQYLDVKASDLILKKTNIFGLDCVLFKEAVLESISRYFQTPYWECPVILSTLISFLLRFPWYQKIVLYGKICETFLQCCTEFRRSGIKLARVRHTNCNMAIKLPSNKKENMKCIIYDSEMEPLTEIFLLNRRVAVLGASYYYIVVVLFCQCLQHYRCLNGLENSEEMAQKVRNANAKHLDSVSKQLKNVHLGRLSEASNDLLKLCKENGSFISKSTKSHFITVFSGLSITYSTLLGDALLTNSQPLNKQIQMLRFGVLNGLSRMSMTKELGKKFSSSCRRMEHYIARLHQLLTVYTCNRFPEENINAWLKDDLCPNVRMPSVSVYGHFINSDRQLVFDIYNVHIYNKEMDNFDEGTIKVLEETAERHMTWEIDLMQAIDKANEDSKKDRNLRLLLCIGNVKPSSDGSTTVEDESLSQTSVSSVKSSTSSKKRIKSYFGAISMKKKPFSFSEDFIVERDPKSDYSQSISDKWTYGVYKAKPESVLRDVIEVVRKNPNHTMGSFELLQAFTEFARPKFPVESIIKAKRNPKNYITVSEVTETTSIVSEPRTHASIKDSIRIITGQENKKLVKMLRGKLQSLGLSLNSVRSKGHDLSMLLSSVEGLTEDQKKKIVLGITEPAKLTFYNWREIIKMDVEQTLVSSDGNYIYCWLKSLGSQVKRSLKKYIKNLRYDNEGYTPKLSTKATDLIGQDGINECYKLIENLKALTKNDIPKHSDIDRDKLIQVWSAFCKLPKCFDEVISPTVDALNDVKASIDTLMSKFNNLIELKKEYPTLSFSREEVELRCLETNFIKKYGKQLMVLMNAVFYICLSCPWCVHYKSLENFLSKHMDETGGYDFGSETVAKVMDITLEKVWLLLVESRGHEMAIDHIKRVVKYTSAMFTGNGRPISCSLNQTEGTINVLDHGQMVDRLRTFLTRAQLYTKELDFIWTCHMITNSNFEVTKRLTGRSTGERLPRSVRSKVVYEMIKVVGESGHAILQQLAFSTILNVNHEFFSVLAPKAQLGGHRDLLVQETGTKLIHAASEMFSRTLLATTNDDGLTSPHLKETILGSALNHISLSRKLHGNTVEDGSNLIQFYKVFCISGDNTKWGPIHCCAFFSGMMQQLLKDHPDWSSFYKLVFLKNLYRQVEIPAGSIKKILNAFRYNNSHKKIEEMNEHQLRELLYTTIDDWNENPIIKFLVLTYIVQGKISMRMYNHMGQGIHHATSSILTSIMGDVISHFIQVYTNKNFKGLTCHVEHAGSSDDYAKVIVLSGLVSKELFEEYMINFWPKMCRLKNIIAGISRAVQMKDSAKTLCGDAFIEFYSEFMLSHRITPAVIKFIFTGLINSSVTSPQSMSQACQVSSQQAMYNSVPLLTNFAFSLLRQQMFMNHTEYFQRTYGLITMGTLSAFGRLFLPKYSNLTCSSIAIEDSEVIAQNLAMLQDNSILFPGTKAYEEDVSIPEIESGPASIESSGAGSPSSKLSAKTLSSDTSLKFSQDKALTAVEAAYLNTIKPNTSRVKARTEMELYQGIFGHELPVSFEKLKKSSLVNSCQYLRDVIDEPWLMVQRIRSIMIALIAGYYRAFNSDGTEHPVKANLNRDENTVIEDPMIQLIPEKLRRELERLGLAKMTVEELIPTHMLEDDFASLVSKRLVMMNCATENYASEVSRLKQTLSSRNVIHGLAGGIKELSIPIYTIFLKSYFFKDNVFFKHNDRWNTRHSSNYRDSTGKELKDKIVVKFTTWIEKMLNCDISIDFTKSGATMSLFDNSLRGVRVIHLCNNTCELSLVSDQIECLKKEFEALALQFSDVNRHKLKILESQRQESAVEASKAVIVKTTLFSATDAVRISNSPAVVIGYMINEATLSDIKPTKVDMGNLNRDRFRITMFYKAITDLISEVVKESELIKKKDNIVELEKVDIYTNALTMLCRLVQRAKPRVSSFYIIKGASHGNEPTVNELISYGIQEGLLYVLPECPIETSTYSVRYWKVLQCVSAISSLPLSDSEKTSLLSSFLNWKPTLNDIDIECSMYKHDKAVLEEFNERTLLNVLSSELQSIRNDRERESIGDLIEFISSPRQLMQDKPYLGITSTFKKWGEGQKNGKFTYSSSSGESSGIFINGQLYLTLSKDSTALLHEVERKVLEWLNQLRTDVTAAEQHLPFLNMLVSSKTCSKRTVDGTSYAVYYLKEDPKFLQLKRFVGKGEYKVVKVKSQILSVKKEVVKEVRAEPHIVWRNSAISIVYDEETENPSYHHRVKEIYELIKQATKCTSERLSSIFYKDTRLTLAKISLQDQLYLSSLSLLHCFFCHTLTSSVMEATSKSEILTRYLQQGRSSVIRSASSIKNKLIEIRTVEDNTVRSEEDEICARLQLGLNKGDYSIDCWAEVQRMLDENGFHRINVSLQSEPSQYRYKWIVEPEFGVSKAVDVIDLKDLCYLLSSGIVPKAIVPYITDDVLFSDLIGISERIKIEINKNRIDQKTFSLICCSIMYTMQNNPTNRQALIMKLSSIFQLIALKEFHTQKGRIKFFTDSEAVQMQLKLVGVTVNESRSLENKYDDENKVKDIKTRLARSRLMSEIGSLFKPFPNIKELVKFTDGFEMEGDDGQVISTLFFTRLKCHETDIYKILSFMNANIQNSTIDLLTDLIMLLYGRAYKSHRMQAKEGEGLKSKKSNKTTSSEITVADLLADDSKEPPQEEEDAEYDINEVEFEL"
+      ]
+    }
+  },
+  {
+    "protein": "YP_008658429.1",
+    "genome": "NC_022563.1",
+    "organism": "Squirrelpox virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Sciuripoxvirus",
+      "Sciuripoxvirus squirrelpox"
+    ],
+    "genome_description": "Squirrel poxvirus strain Red squirrel UK complete genome",
+    "start_1based": 5703,
+    "end_inclusive": 6737,
+    "strand": -1,
+    "location": "[5702:6737](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "SQPV_0040"
+      ],
+      "inference": [
+        "ab initio prediction:GENEMARK:v2.4"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "major histocompatibility complex, class I, E (human)"
+      ],
+      "protein_id": [
+        "YP_008658429.1"
+      ],
+      "db_xref": [
+        "GeneID:18158390"
+      ],
+      "translation": [
+        "MLALLILLVLSGLRAALAAGGCRASSLVYHHVGLTTEATGDHPRYLVVGYVDDTEIVRFDSNSTDPRVVASVPWNVTNETKYWTDQNKNARETQKIFRLNMRTMSRYYNHTGGSHVLQWSYGCSVTVNCTRGGAHEAFAYDGEDYMTLNEDLRTWTAVSSHASLTMKSASFATDTEFQRSYLTTDCVEWLGKHLAAGGEHLRVVPPRTNLTYREVGGAVELRCWAREFYPSAVSITWLHDSGEPVNQTSVEVRPDGAGTFQKWAAVVVTAGTETEYACRVTHNGESWTLRRPGGFSVLGTVLLVVAVLIALILAAYPVYVVTRNHLAEHRRVTTLEYENLFVVA"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010229102.1",
+    "genome": "NC_034502.1",
+    "organism": "Farallon virus",
+    "taxonomy": [
+      "Viruses",
+      "Riboviria",
+      "Orthornavirae",
+      "Negarnaviricota",
+      "Polyploviricotina",
+      "Bunyaviricetes",
+      "Hareavirales",
+      "Nairoviridae",
+      "Orthonairovirus",
+      "Orthonairovirus bushkeyense"
+    ],
+    "genome_description": "Farallon virus isolate CalAr846 segment L cRNA sequence",
+    "start_1based": 56,
+    "end_inclusive": 12001,
+    "strand": 1,
+    "location": "[55:12001](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "CAU96_sLgp1"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "RNA-dependent RNA polymerase"
+      ],
+      "protein_id": [
+        "YP_010229102.1"
+      ],
+      "db_xref": [
+        "GeneID:69042383"
+      ],
+      "translation": [
+        "MEDINWQLFGPNLYTSMVKIAIPDFFERIRVKGDGNCFFRAFAYLFFDTEEMWDTVKGTALGYARQHWSECHGAKGVYNYRAENEIKSEKALYSSVLRGNATENVTRRGLDLYLEDATKEGYWGGTDEAEMLASALNVTIVIWNVNTDMKVLDVQKFGTDSVPRAFNIVRCGAHFDALKLINQHGTEAATVSTKQLELSPVAVMEALIGDDGEASLQPEAYIPEGGAGNISKKSTSSSEEVSSADEEDVKPGEQLQDETKTRKELFKEMKEKKKQQDQMRKAMELSAHVPAKVGRVLHKIFNCNVEVSLTSKVLYLLPEGSDDPNRVTLSKIRHIMLDKEGQMFEQFKNCTVVITSGLMEFVNTPELLRQCLPDTGISQYYDIIHPAFVYDILTVSVSILFSSFLYGSDFKTKRKFILNTVRDRFVKPSKVPKLMKEKNNKIIYEHPDKVVSDVCLSLYKEMAVIISKSMKEMPATGLLALRNVYLQSMDFNDYMQVLDDLRVVSYDLDFFNQDELQDIKKLIDCIAEIRKEEEVKPGSLASDWSCIYLSTTQDALFRDSKGKVLKSLRSNGLERRLIQHFFRKKLMFKFISLQGKAYSGGTLNNVLAYCNNLYLTKDQLGFDTEDTEHLSAEMVRIRSLLDDQRVEPIAIICDKLERRFRDLFENLPNVCAEECKSLFEDIRNAENHSSAWKAALRLKGVAYEGFMAKAYNWNYLTEDLKPTLSMIIQTLYPEKFLQFLERTQLCPEQRDLTPDFVMTQNLVIKKDKIDATVETEQLSLDYLMSGTASVIPVSKKTFPLPSEPILEVNRLESVIENFQKMQESKKRDSGLLVESTTVENDTHDKFTYSELLILEVGYQTDIEGKVISDMQKWKNILNLLNFLGIKASVISCADCSDVPSDNWWLPERYVKILKGTISYLFAKLQQNSPSDVSDIVVGAISTQKIRSIIRSGTVVKTPVTIKDLRETWNKNKDKITDRPTGLKLPERIVSAMQLSLIDGVVQEKTSTDEIVKTVEENMEKIAQEVEQTKFKHTLNKDEETSFELLHAWIVEDLKSARCNACVTKILEDCKMLNSLSASFEMISKELILTGHPACCHAIDVDIGTYSLFQRRTGFFDAVNHSETVLDEYDEKQTQLDRLVKLTLPGKTEKERKIKRTVEQLIRVCMELSNIQCIKTPSFQLIIVKKNLKKNIKSAETSKDRRRGLLVEQLERIKKTLSPNRMKSYSDHCKSVIQSVLDSPFEQKGCRSELQPQWCDQILMDLKAKTEDGEIIEALKKTIESKKTLIKNNDKVIVPDWDQISSYLDVKADDLLSSGKLIFDLDCVLFKETLLETISRYFQTPYWECPVILSNLISFLLRFKWYQKLVLYGKICETFLQCCTEFRRSGIKLAKIRHTTCNLAIKLPSNKKENMKCIVYSSNMEALSGVFLLNRRVAVLGASYYYIIVVLFCQCLQHYRCMNGLEDTKKLEEAVRQANAKHLDCVHEQMKLIHQGRIKDASNSLINLCKQNGNFLSRSTRSHFITVFSGLSVTYSALLGDALLTNSQPLNKQIQMLRFGVLNGLSRMSMTFELGKKFSSSCRRMEFYIARTYQMLSVFTCNRFPGSNIQNWTKDDLCPNITMPSVSIYGHFINSDRQLVFDIYNVHIYNKEMDNFDEGTIKVLEETAERHMTWELDLMHAVEKMGEDPKKDRSARLLLCIANVKPSSSSGTTIEDETLSQTSVSSAQSSMSSKKRIKTYFGAMSMKKKPFSFSEDFIVERDSSADFIQTISDKWTFGVYKAKPESVLRDIIEIVRKNPSHTMGSFELLQAFTEFARPKYPVESIIKAKRNPKNYITVSEVTETTSIVSEPRTHASIKDGLRIITGQENKKLVKMLRGKLQSLGLSLVNDKSKGSDLSELLSSVEGLSEDQKKKIVLGITEPSKLTFYTWREIIKMDVECALVTSDGNYIYCWLKSLGGQVKRALKKYIKNLRYDNERFTPKFSLETEILIGLTGIRECYKLIENLKSLTKNEIPPNPDIDNNKLIEVWVKFCELPKCSSEILSESQQWIDAVSTELDILMLKYNELIKLKNDYPSLSFSREEVELRSLETKFVKNNNNALMKLMNCVFYICLCCPWCVHYKSLENFLSKHMDETGGYDFGNETVTKVMEITLEKVWLSLIVSDNCPSLETIKRIVKYTSAMFTGNGRPISCSLNQAEGSINVMDHGQMVDRLRTFLTRAQLFTKELDFIWTCHMITNSNFEVTKRLTGRSTGERLPRSVRSKVVYEMIKVVGESGHAILQQLAFSTILNTNHEFFAVLAPKAQLGGHRDLLVQETGTKLVHATSEMFSRTLLATTNDDGLTNPHLKETILSSALNHINVSRKLHGKFIEEESSLVQFYKVFCISGDNTKWGPIHCCAFFSGMMQQLLKDHPDWSSFYKLVFLKNLYRQVEIPTGSIKKILNAFRYNNSNKKLEELNEYQLRELLYNTIDSWNENPIIKFLVVTYLIQGKIAMRMYNHMGQGIHHATSSILTSIMGDVITHFIQVYASNNFKGLTCSVEHAGSSDDYAKIITLSGLVTKEVFDSYESVFWIKMCRLKNIIAGISRAVQMKDSAKTLCGDAFIEFYSEFMLSHRITPAVIKFIFTGLINSSVTSPQSMSQACQVSSQQAMYNSVPLLTNFAFSLLRQQMFMNHTEYFQRTYGLITMGTLSSFGRLYLPKYSNLTCSSIAIEDSEVISQNLSMIKDNTVMFPGTKAYEEDIPVGEVDSGPASVESSGAGSPSSRLSSLTLGSDTSLKFSQDKALTAVETAYLNSIKPSLSRMRCKAEVEIFQRIFKHNLPSCFEKLKKSSLVNSCEYLREVMDEPWLMIQRIRSIVVLLIAGYYRAFNSDGTEHPVKANLNRDENTVIEDPMIQLIPEKLRRELERLGLAKMTVEELIPTHMLEDDFASLVSKRLVMMNCATENYSSEVSRLKQTLSSRNVIHGLAGGIKELSIPIYTIFLKSYFFKDNVFFKHYDRWNTKHSLNYRDSTGKELKDKIVIKYTTWLDKILNCDVSIDYTHSSAIKSLFDSSLKGVQVIHLCNNTCELSIIYDEVESLQKEFEALALQFSDVNRHKLKILESQRQEAAVEASKAVIVKTTLFSATDAVRIINSPAIVIGYMINESTLSDIKPTKIDMGNLIRDRFRITMFYKTLTDLVSEIVKESELIKRKDGIVELEKVDLYANALTMLCRLVQRSKPRVSSFYIIKGASHGNEPTVSELISYGIQEGLLYILPDCPVETSTYSVRYWKVLQCISAIASLPLSDGEKTSLLSSFLNWKPTVNDLDAKCTMLKYDKAVLEEFNERTLLNVLSSELQSIRNDKERESISDLIEFISSPRQLMQDKPYLGVTSTFRRWGEGQKNGKFTYSSSSGEASGIFINGQLYLTLSKESTALLHEVERKVLEWLCQLRTDVTAAEQHMPFLNLLASSRTCSKRAVDGVSYSVYYLKEDPKFLQLKRFTGKGEFKIVKIKSQILSVRKEVVKEVRAEPHIVWRPSALSIVYDEETEGPSYHHKIKEIYELVKDATGNTTGKLSSIFYKDTRLTLSKINLQDQLYLSSLSLLHCFFCHTLTSSVMEASSKSEILSRYFEQGRSSIIRSANSIQNRLLEVKSQDGGSLNSEEGEICTRLQQNLNKGDYSIDCWAEIQRMLDENGFHRISVSLSPEPSQFRYKWIVSPEFGLSRNADMSDLRDLCMLLSSGIVPKAVVSYMTDDKLFSNLLMIAERIKIELNKNRIDQKSFSALCCSILYTMQNNKKERKTLLMKIGSIYSLISLKEIDSNKGQIRFIHEEDTIQLQVQVIGLNQLESKSIEAKLSSAKAKETKIKVGRNRLISEISSLFEPFNNIKEIMKFSDGFEMHSDDGKIIFTLFFTRLVCERTDLYKLLTFMNVNIPQSTIDLVVDLIMLLFGAEFKKYTTAQTSSKDQDQQRIELNEEITLNDLLAEDDNDHDAANNATEEEEDYNIDDIEFEL"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010377158.1",
+    "genome": "NC_063383.1",
+    "organism": "Monkeypox virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Orthopoxvirus",
+      "Orthopoxvirus monkeypox"
+    ],
+    "genome_description": "Monkeypox virus, complete genome",
+    "start_1based": 158917,
+    "end_inclusive": 159858,
+    "strand": 1,
+    "location": "[158916:159858](+)",
+    "qualifiers": {
+      "gene": [
+        "OPG185"
+      ],
+      "locus_tag": [
+        "NBT03_gp156"
+      ],
+      "old_locus_tag": [
+        "MPXV-M5312_HM12_Rivers-162"
+      ],
+      "note": [
+        "Taxonomic breadth: chordopoxvirinae; Old product: MPXVgp163; EEV envelope and cell membrane glycoprotein hemagglutinin; inhibition of the ability of infected cells to fuse; interacts with VAC F13L; similar to VACV-WR B2R and VACV-Cop A56R"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "Hemagglutinin"
+      ],
+      "protein_id": [
+        "YP_010377158.1"
+      ],
+      "db_xref": [
+        "GeneID:72551572"
+      ],
+      "translation": [
+        "MTQLPILLLLISLVYATPSPQTSKKIGDDATISCSRNNTNYYVVMSAWYKEPNSIILLAAKSDVLYFDNYTKDKISYDSPYDDLVTTITIKSLTAGDAGTYICAFFMTSTTNDTDKVDYEEYSIELIVNTDSESTIDIILSGSTPETISEKPEDIDNSNCSSVFEITTPEPITDNVDDHTDTVTYTSDSINTVNASSGESTTDEIPEPITDKEEDHTVTDTVSYTTVSTSSGIVTTKSTTDDADLYDTYNDNDTVPPTTVGGSTTSISNYKTKDFVEIFGITTLIILSAVAIFCITYYICNKHPRKYKTENKV"
+      ]
+    }
+  },
+  {
+    "protein": "NP_051855.1",
+    "genome": "NC_001132.2",
+    "organism": "Myxoma virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Leporipoxvirus",
+      "Leporipoxvirus myxoma"
+    ],
+    "genome_description": "Myxoma virus, complete genome",
+    "start_1based": 137069,
+    "end_inclusive": 137725,
+    "strand": 1,
+    "location": "[137068:137725](+)",
+    "qualifiers": {
+      "gene": [
+        "m141R"
+      ],
+      "locus_tag": [
+        "MYXV_gp145"
+      ],
+      "note": [
+        "immunoglobulin domain containing protein/ OX-2 homolog; Ig domain OX-2-like protein; contains an Ig-like domain which could be involved in a variety of functions but is likely related to immune evasion; poxviridae are enveloped unsegmented dsDNA viruses; unlike many dsDNA viruses that replicate in the host nucleus poxviruses encode their own replication machinery and therefore replicate in the cytoplasm; viral genes are expressed in a bi-phasic manner with early genes encoding non-structural proteins involved in genome replication and late genes encoding the viral structural proteins"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "Ig domain OX-2-like protein"
+      ],
+      "protein_id": [
+        "NP_051855.1"
+      ],
+      "db_xref": [
+        "GeneID:932206"
+      ],
+      "translation": [
+        "MRVLSILALLSTVAYAYSVRCTNTTTVAEHVNVTISCNKTSSSSSLFHLITWKKNNETTIAGYGPSGATIKDASKIEYLSTGYNTSTILIKNVSAEDSGLYYCIFNSFSTEPSEEGTVRVNVTTSSATTTLQQPQPQALRTTRGRSTNRSTSRHVSRTSTHHVGDGSLTVETRQYKYSSSSSSSSSSWTSSAGSRNVPSLFKLIFVIKMIFYIPNLIG"
+      ]
+    }
+  },
+  {
+    "protein": "NP_044031.1",
+    "genome": "NC_001731.1",
+    "organism": "Molluscum contagiosum virus subtype 1",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Molluscipoxvirus",
+      "Molluscipoxvirus molluscum"
+    ],
+    "genome_description": "Molluscum contagiosum virus subtype 1, complete genome",
+    "start_1based": 96986,
+    "end_inclusive": 98173,
+    "strand": 1,
+    "location": "[96985:98173](+)",
+    "qualifiers": {
+      "gene": [
+        "MC080R"
+      ],
+      "locus_tag": [
+        "MOCVgp080"
+      ],
+      "note": [
+        "putative membrane protein; an unusual feature is the presence of 3 predicted N-terminal signal peptides; contains a predicted C-terminal transmembrane helix; similar to MHC I heavy chains, for example rat MHC I, PIR Accession Number S25536; Description: MHC I heavy chain homolog"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "MC080R"
+      ],
+      "protein_id": [
+        "NP_044031.1"
+      ],
+      "db_xref": [
+        "GeneID:1487099"
+      ],
+      "translation": [
+        "MTGTLILLLACVLNAMAQLLARVCMAAATLARMLALSVAFLLALARTRTGLRAILVALLLRALLRALLAHAHAHTLSYVAAVVYTPGNAQPLLLAEGSINDLVFMRYHRQSGSVLPSPEWAPSVYFHDELWMLNARVDALRSLSVPGARLGNGTLGARSLQLAVGCEKVAGDASFWDLVYDGTEQICMHADATECEPGLPVHARLAKERWTRLGAHSHALEQRCLQWLERHLGARTNRPVVSVPLLSVVAYADGSGTRLRCTASGFSPRDVRLLWTRDGIPGPDYDFVEPRPSGDGSFQQWAELVVAAGLETHYVCVASHDSWKSSWRARWEEGKRRVATSARVAPLATIAEMLVALELMLILRERRLTLGALATMLACSMPNLLPQALRERAGF"
+      ]
+    }
+  },
+  {
+    "protein": "YP_717510.1",
+    "genome": "NC_008291.1",
+    "organism": "Taterapox virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Orthopoxvirus",
+      "Orthopoxvirus taterapox"
+    ],
+    "genome_description": "Taterapox virus, complete genome",
+    "start_1based": 177137,
+    "end_inclusive": 178117,
+    "strand": 1,
+    "location": "[177136:178117](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "TATV_DAH68_203"
+      ],
+      "note": [
+        "host defense modulator; IL-beta-binding protein; binds to cytokines that participate in the regulation of immune responses (interleukin beta) to mediate host immune evasion; similar to vaccinia virus strain Copenhagen B16R; has ATP-binding domain; transfers the gamma phosphate from ATP to one or more amino acid residues in a protein substrate; the poxviridae are enveloped unsegmented dsDNA viruses; unlike many dsDNA viruses that replicate in the host nucleus poxviruses encode their own replication machinery and therefore replicate in the cytoplasm; viral genes are expressed in a bi-phasic manner with early genes genes encoding non-structural proteins involved in genome replication and late genes encoding the viral structural proteins"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "IL-beta-binding protein"
+      ],
+      "protein_id": [
+        "YP_717510.1"
+      ],
+      "db_xref": [
+        "GeneID:4238668"
+      ],
+      "translation": [
+        "MSILPIIFLPIFFYSSFVTTFNTPECIDKGQYFASFMELENEPVILPCPQINTLSSGYNILDILWEKRGADNDRIIPIDNGNNMLILNPTQSDSGIYMCITKNETYCDMMSLNLTIVSVSESNIDLISYPQIVNERSTGEMVCPNINAFIASNVNADIIWSGHRRLRNKRLKQRTPGIITIEDVRKNDAGYYTCVLKYIYGSKAYNVTRIVKLEVRDRIIPPTMQLPEGIVISLGSNLTIACRVSLRPPTTDADVFWISNGMYYEEDDEDGDGRISVANKIYTTDKRRVITSRLNINPVKEEDATTFTCMTFTIPSISKTVTISII"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009281940.1",
+    "genome": "NC_031033.1",
+    "organism": "Volepox virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Orthopoxvirus",
+      "Orthopoxvirus volepox"
+    ],
+    "genome_description": "Volepox virus strain CA, complete genome",
+    "start_1based": 191926,
+    "end_inclusive": 192897,
+    "strand": 1,
+    "location": "[191925:192897](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "BI079_gp192"
+      ],
+      "old_locus_tag": [
+        "VPXV-CA-192"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "il-1 beta receptor"
+      ],
+      "protein_id": [
+        "YP_009281940.1"
+      ],
+      "db_xref": [
+        "GeneID:29064139"
+      ],
+      "translation": [
+        "MTILFPIFFYSLISFSLSDYITKEIECIDKGLYLSFMELENEPVILPCPQTKTLSDNENDIIWEKLGDDNDQIISIDNGNNMLILKPTQADSGIYICNTKNETYCEMMSLNLTIISDIKSNLDLIAYPQIVNERSTGKMICPNINSFTSSDDTIDIRWSGHRRLRNKRFNQTGTVIIIDDARKNDAGYYKCVFKYTYGGKTYDVTRFVKLDVKDRILPPMIRLPEVVSSSIGSTLTITCRVSTRPPIDADVFWAGKDNRYYEYGDANEDDGRIRVINKLYTTDKKHVITSKLIINPVKEEDSTFTCIAFAIHSASKTVTVSMK"
+      ]
+    }
+  },
+  {
+    "protein": "NP_955190.1",
+    "genome": "NC_005309.1",
+    "organism": "Canarypox virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Avipoxvirus",
+      "Avipoxvirus canarypox"
+    ],
+    "genome_description": "Canarypox virus, complete genome",
+    "start_1based": 203262,
+    "end_inclusive": 203777,
+    "strand": 1,
+    "location": "[203261:203777](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "CNPV167"
+      ],
+      "note": [
+        "similar to Fowlpox virus FPV125 and vaccinia virus strain Copenhagen A56R"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "CNPV167 Ig-like domain protein"
+      ],
+      "protein_id": [
+        "NP_955190.1"
+      ],
+      "db_xref": [
+        "GeneID:2700247"
+      ],
+      "translation": [
+        "MTCKKGLMMIVFLYLISLAKTSFVTVKAQQTCVRVNENSAVNLTCLFTNGQGNVSDDVKVSWTHNSTLTRNNSNKNITGVYTTWNATTRSGQTVLHIPAVSKEQEGTYTCVVLISGSTDYKKINIEVINSTQEDNVETTTETTVENKTDTIRYVSACNVLTFIIMLVSVLI"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009329802.1",
+    "genome": "NC_032111.1",
+    "organism": "BeAn 58058 virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Oryzopoxvirus"
+    ],
+    "genome_description": "BeAn 58058 virus, complete genome",
+    "start_1based": 153367,
+    "end_inclusive": 154224,
+    "strand": 1,
+    "location": "[153366:154224](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "BTW14_gp196"
+      ],
+      "old_locus_tag": [
+        "BAV00214"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "hypothetical protein"
+      ],
+      "protein_id": [
+        "YP_009329802.1"
+      ],
+      "db_xref": [
+        "GeneID:30524443"
+      ],
+      "translation": [
+        "MNITQIFIPVYFSLYNILEYYYTGILDNNGDVRFIYSAYLNNEEFIRYDSLSDDPRPEPRTSWAKKIKFTQILDEYNKIKYMERTFKMNLRILSKGDKSANNKLQLISKCTIYPRSTSWSNVYVFNERIYSHISSYENTWIDEVKTNLIKLDDYKNYNCFVDLNRYINKKIPRKVIKPIVCVEAVKYGNHDDLLALNCYARGFFPKDILITWMDDENNDHIQDCLMTFGPNGDGTYRIRAEKVVSIGEENKFSCEVYHEPHGYIVANITDPNFNCKNVYAHYKYQ"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009282871.1",
+    "genome": "NC_031038.1",
+    "organism": "Skunkpox virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Orthopoxvirus",
+      "Orthopoxvirus skunkpox"
+    ],
+    "genome_description": "Skunkpox virus strain WA, complete genome",
+    "start_1based": 175253,
+    "end_inclusive": 176194,
+    "strand": 1,
+    "location": "[175252:176194](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "BIZ96_gp177"
+      ],
+      "old_locus_tag": [
+        "SKPV-WA-177"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "hemagglutinin"
+      ],
+      "protein_id": [
+        "YP_009282871.1"
+      ],
+      "db_xref": [
+        "GeneID:29057755"
+      ],
+      "translation": [
+        "MKQLSIVLLISLVYVYATPHPTTKITKKLGEDATLSCKRNNTEDYIVLSTWYKEPESIILLAVKNDVVYFDGYTSDKVSYDSPYDDLVTTITVKSLTSSDAGTYICSFFITLKNDSDVVDYEEHYIELTVVTDDVSTIDVILSGSTTKDNNSFTEEPHDTVSESNTQVSETFDSITNTVSTNDDSNTISGTPVPDVVTTTPTTTPTPATTTTTTAPTTTTTSTPTTTSTTPTTTTTNDDDLYDVYNDPVSTSSKPTVESGTTAKTDTPKKYTTRDFVEIFGVVSLILLLSMAIFCIVYYYCDKRTRTYGTHIA"
+      ]
+    }
+  },
+  {
+    "protein": "NP_043904.1",
+    "genome": "NC_001720.1",
+    "organism": "Fowl aviadenovirus A",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Preplasmiviricota",
+      "Polisuviricotina",
+      "Pharingeaviricetes",
+      "Rowavirales",
+      "Adenoviridae",
+      "Aviadenovirus",
+      "Aviadenovirus ventriculi"
+    ],
+    "genome_description": "Fowl adenovirus A, complete genome",
+    "start_1based": 40037,
+    "end_inclusive": 41002,
+    "strand": 1,
+    "location": "[40036:41002](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "FAdVAgp29"
+      ],
+      "note": [
+        "ORF9"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "hypothetical protein"
+      ],
+      "protein_id": [
+        "NP_043904.1"
+      ],
+      "db_xref": [
+        "GeneID:1733469"
+      ],
+      "translation": [
+        "MEPPHNSPVPFSIAKMGNPTLLLLSGLLSLTQAISIGEHENKTRHVIVWRHSSSHQCSDWRTVTEWFPPQKGNPVRPPYTQRVSLDTANNTLTVKPFETNNGCWETTSQGINHPPTTIQYRVWNITTTPTIQTINITKITVREGEDFTLYGPVSETMSIIEWEFIKDVTPQFILQYYLSINSTIVYASYQGRVTFNPGKNTLTLKGAKTTDSGTYKSTVNLDQVSVHNFRVGVTPIEKKEEATAETPASKPTPIPRVRADARSTALWVGLALCILTVIPALIGWYFRDRLCVPDPIIELEIPGQPHVTIHILKGPDDDCET"
+      ]
+    }
+  },
+  {
+    "protein": "YP_164124.1",
+    "genome": "NC_006549.1",
+    "organism": "Singapore grouper iridovirus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Megaviricetes",
+      "Pimascovirales",
+      "Pimascovirales incertae sedis",
+      "Iridoviridae",
+      "Alphairidovirinae",
+      "Ranavirus",
+      "Ranavirus epinephelus1"
+    ],
+    "genome_description": "Singapore grouper iridovirus, complete genome",
+    "start_1based": 23447,
+    "end_inclusive": 24445,
+    "strand": -1,
+    "location": "[23446:24445](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "ORF029L"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "hypothetical protein"
+      ],
+      "protein_id": [
+        "YP_164124.1"
+      ],
+      "db_xref": [
+        "GeneID:3197129"
+      ],
+      "translation": [
+        "MFGIATLIACVAFTLVDCEHATCYVGNSCKLQCRVDSTKEALFHWYKKSGDSMLSVYSYYHWAPKLEFQSPLFKNRVSVDAAAAKSADASITIANISKADEGAYKCYTSHQTGNSEKILTVSVKQPIKHVSVSKVNDTFQCAAMFNTEPGRVDWNTHVIEYVSDGSSKITVTADVPDTDEYSLTCTASSGLVTVTATVFGTSITSNSTERVNVSCGYDTNRYVRWHRDGIFVADNNGVLPEYENDTRVYDDGTLELSGENKGGLYTCADSAETYMYVTRVIVDDRRPRNRAIPAVILILLVLAIAGFATYRVRSKLPKLPKLPKLNELCNAV"
+      ]
+    }
+  },
+  {
+    "protein": "YP_227526.1",
+    "genome": "NC_006966.1",
+    "organism": "Deerpox virus W-848-83",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Cervidpoxvirus",
+      "Cervidpoxvirus muledeerpox"
+    ],
+    "genome_description": "Deerpox virus W-848-83, complete genome",
+    "start_1based": 142581,
+    "end_inclusive": 143540,
+    "strand": -1,
+    "location": "[142580:143540](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "DpV83gp151"
+      ],
+      "note": [
+        "sequence similarity with Bos taurus MHC class I antigen"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "MHC class I -like protein"
+      ],
+      "protein_id": [
+        "YP_227526.1"
+      ],
+      "db_xref": [
+        "GeneID:3346435"
+      ],
+      "translation": [
+        "MNINMMFVVFLIFTIPYIILSYDQNDDSTLTHQYTIYIDNNNNTIFSFVEIVNEDTLLNSFTKTFLENNTESDIEKELHGHIPYGLNQLILYLIQYVTIEQNKKLDKYKNVLQFVMSCKLGGGGYNNYLYNNDYFNIICHNRSSITCTKNMTIIKINNDLFMYSIRTFINDQCRYKLMDYLTNKKDIIEYKKKPTILIYKHIVNDTFVLTCYALGYFPKQIAIHWDKINIKNITDSVPYKNYNYESWSSISLDSSPIELKYTCHVYHNNYHFEVTAYIEKDINIIFLIIPILIIMLLLIAAIAYKFYPFSENIYKKMYK"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004324699.1",
+    "genome": "NC_015289.1",
+    "organism": "Synechococcus phage S-SSM5",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Pantevenvirales",
+      "Kyanoviridae",
+      "Glaucusvirus",
+      "Glaucusvirus ssm5"
+    ],
+    "genome_description": "Synechococcus phage S-SSM5, complete genome",
+    "start_1based": 76111,
+    "end_inclusive": 80271,
+    "strand": 1,
+    "location": "[76110:80271](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "SSSM5_096"
+      ],
+      "note": [
+        "T4-LIKE GC: 399; similar to Synechococcus phage S-SM1 protein"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "baseplate wedge subunit"
+      ],
+      "protein_id": [
+        "YP_004324699.1"
+      ],
+      "db_xref": [
+        "GeneID:10329269"
+      ],
+      "translation": [
+        "MARTVPGTGAVIEPIFDEVFGVRAVKVLNGGSGYVPTDPPRLTVTGCGTPDVEALLYPIIDADSGRITHVRVLNRGKGYDPLRLQIVPEQETPNVVTSFDINRLWQAHPNSPTTGTFTISGNDVTDRLRLVSDNHPKPTQHFLTERQPGGSTDVVDRSFDHTVVYRGGKDVPYVGTREFQKNKALGILANGSLLHSPEWGTVGGTPTNFSIDTVKYDYVKNTNVYDAVNDSGVYYYQSSKVVDEFDLTNGVFDWGNIQQYTWNVKVETGNLVVGVTGLDETLGNVEVGRIVDEVGGTGRGEIAKIVRDNQNNITRIYIRALTGDAFVANDLLLGSNGFEFRIDGDPISINPYYIDFGPDAAKFGPFVPGQFYFAPENIQVRANYLIRFNQSDASNQAGIGHPIRFSTTQDGTLNGGTLYYDSTGLSSAPSADYESIYSPLFLMNGDESSRIYFHCAYHRYMGGYAGDEAYMVLNTSAETYTPTNNYYVQDFYQSNSNDPNTIDRSRYIDGHSKVLGVSFDGYPIYGPWGYNSSGAVAREVSSYRLKTTAELSGARPQVNTASTVTYAVTISNGQFQFDGSRPSFLELDRGKTYIFNQNDASNDSQHLLISTTEDGWHGINPVVIGNTANLYTGNGIRYYIDGSEVTYASYLSGFNLATTREIRFTVPVNAPAALYLFAYTTAGHGIRTVQDGYILGDLTEDYIYDSSVGTLDEFNGKFAVTPEYPNGTYAYFMTEDGSGNPTYPYAIGPKMYGTPLFEGQTAPAPVTVFPSGAEGDVVLADNGSVSYIKMTKKGDNFFGPAKARILGGEGTGAIGTPTVQTVTGLALLNGGRSYATPPTLIFEGGGGQGAQGAAEIDTLGKVTSIAITNPGEFYQEPPFILITGGGGIGAKAEATIDQGVITAINITDPGVGYTSVPNVIFTKLVTLKRKTRARQAFNSSNIYLTGLVKSVGANDSEIYVDSTDAFPGSGQIILNYETITYTSKSVGKFGGLTRGVNFNYDQRVILDAGQNDSNGVSTYNFSVGDRVIRRVENANNKIAKVYDWNPATRELLVTFEVDELAFIDGGIPSTEDAIVQFDAGVASSAPSGFQPHTVLSTTGSSIFLLTDPPSTLADSSFQDILPTAAGDGIADLDNTGTDFANQISLDGGIYNSLYGIEETQGGTNTTLFQVGDNVKDGSIPQKFATIVTAGALSDGVEHTALLSIKLDANNANGQNYSVNEVVTGATSGVIGTVVSWDPATSTLVVGSIVPFNTGNVNVGVGGYLYEFSHDSTVVDVIIQNPGTNYTAAPTVAFENIGDIQATGTAVLTTAGDQVASITITNGGYGIKQTVDNTYNLHPTITFTNAGGDSTGANAAAQAILGGEDLVGNGGARYRIKSIDYQATVRS"
+      ]
+    }
+  },
+  {
+    "protein": "YP_005296358.1",
+    "genome": "NC_016924.1",
+    "organism": "Cotia virus SPAn232",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Oryzopoxvirus",
+      "Oryzopoxvirus cotia"
+    ],
+    "genome_description": "Cotia virus SPAn232, complete genome",
+    "start_1based": 170429,
+    "end_inclusive": 171274,
+    "strand": 1,
+    "location": "[170428:171274](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "COTV170"
+      ],
+      "note": [
+        "similar to Leopardus pardalis FLA-I/SQPV-I2L"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "MHC class I antigen"
+      ],
+      "protein_id": [
+        "YP_005296358.1"
+      ],
+      "db_xref": [
+        "GeneID:11748041"
+      ],
+      "translation": [
+        "MNITQIFIPAYFSVYNILEFYYTGIIHNNNVRFIYSAYLNHEEFIRYDSSSDNPRPELLTPWAKKLKFSQLVDEYNKIKEMERNFKMNLHILSKGDKPSSYNKLQLISDCVKYPTKNSWSNTYAYNEKTYSHISSYGGNTWIDEVESNLIKMDDYKNYDCFVDLNRYINKKIPRKLSKPRVCVEAVKYGNDEESLLALNCYASGFFPKDIYVTWMDDKNSDHHQDCLMVFGPNGDGTYSIRMEKIVSVGEENNFSCEVYHDPHGYLIANMSDPNYNCKNVF"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004821526.1",
+    "genome": "NC_015960.1",
+    "organism": "Yokapox virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Centapoxvirus",
+      "Centapoxvirus yokapox"
+    ],
+    "genome_description": "Yoka poxvirus, complete genome",
+    "start_1based": 157225,
+    "end_inclusive": 158262,
+    "strand": 1,
+    "location": "[157224:158262](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "YKV173"
+      ],
+      "note": [
+        "similar to host MHC class I proteins"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "MHC class I protein"
+      ],
+      "protein_id": [
+        "YP_004821526.1"
+      ],
+      "db_xref": [
+        "GeneID:11107308"
+      ],
+      "translation": [
+        "MRIIALLIIITHTYTATNHHLSYHCVAEIWPSDIYNISIKVDIDNLNIINFNNNKNITHLVENEYIDDILYYETIPKIYKFYKRNTYDNEENQYKNKLYTDVVNDIKQKLKLLMSIYNDSTYTTPHVYKSFYECTVNSNGDLIIGNDTFTYDDIPYGNLSVNESYFWFMFNNELTIVKIQNSTNNLYRCVNYLNSFVKKESYIFEPKSPSVELIYSETNNDHILYCLSSGFFPYDINIQWRNNGKNITSDKVILQNDTSFIGSSIIHVPFTDGGNYTCTIHHQSLKEDIVVYRVIDKKYNVIIAESTDMLLYIIYLSIFVGIAFVILIISYISYKRYRVYKYLKS"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009031747.1",
+    "genome": "NC_024139.1",
+    "organism": "Escherichia phage vB_EcoS_FFH_1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus FFH1"
+    ],
+    "genome_description": "Escherichia phage vB_EcoS_FFH1, complete genome",
+    "start_1based": 75883,
+    "end_inclusive": 77721,
+    "strand": 1,
+    "location": "[75882:77721](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "FG39_gp087"
+      ],
+      "note": [
+        "ORF126"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "putative recombination endonuclease subunit D13"
+      ],
+      "protein_id": [
+        "YP_009031747.1"
+      ],
+      "db_xref": [
+        "GeneID:19487093"
+      ],
+      "translation": [
+        "MSKITIKTLKFSNVMSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWNAPKKEYDMHAYFSKDDDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETVKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRASEVKKRYQKFKQEASNTECPTCGTHLDTTAAKKAMDMARVEYDPLFKEKQSLEAKLEQLKKEQLEYVAYTRAKDALDKAVVARDEFKNSMSDASFEELNVQILQVQIRQLEQEIADGRSKVAIAKEHNANVELANAKYKAKLEQIEKAEAEMSEITSKLDGVSEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNEEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009785290.1",
+    "genome": "NC_047754.1",
+    "organism": "Escherichia phage phiAPCEc03",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus APCEc03"
+    ],
+    "genome_description": "Escherichia phage APCEc03, complete genome",
+    "start_1based": 62880,
+    "end_inclusive": 64676,
+    "strand": -1,
+    "location": "[62879:64676](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "HOR05_gp054"
+      ],
+      "old_locus_tag": [
+        "APCEc03_099"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "putative exonuclease"
+      ],
+      "protein_id": [
+        "YP_009785290.1"
+      ],
+      "db_xref": [
+        "GeneID:54975339"
+      ],
+      "translation": [
+        "MSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWNAPKKEYDMHAYFSKDDDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETIKADRKEVAATLSNLQGQMAVITKILNSKDNLGSLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRASEVKKRYQKFKQEASNTECPTCGTHLDTTAAQKAMDMARIEYDPLFKEKQSLEAKLEQLKKEQLEYVAYTKAKDALDKAVVARDEFKNSMSDASFEELNVQILQVQIRQLEQEIADGRSKVAIAKEHNANVELANAKYKAKLEQIEKAEAEMTEITSKLDGVSEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNGEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009202119.1",
+    "genome": "NC_028840.1",
+    "organism": "Escherichia phage slur09",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus slur09"
+    ],
+    "genome_description": "Escherichia phage slur09 genome assembly slu09, chromosome : 1",
+    "start_1based": 53248,
+    "end_inclusive": 55086,
+    "strand": -1,
+    "location": "[53247:55086](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "SLUR09_00073"
+      ],
+      "inference": [
+        "ab initio prediction:Prodigal:2.60",
+        "similar to AA sequence:UniProtKB:Q9X1X1"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "putative DNA double-strand break repair Rad50 ATPase"
+      ],
+      "protein_id": [
+        "YP_009202119.1"
+      ],
+      "db_xref": [
+        "GeneID:26647691"
+      ],
+      "translation": [
+        "MSKITIKTLKFSNVMSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWSSPKKEYDMHAYFSKDEDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETIKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPIDQNEEISSVTRDLTIVTSRAGEVKKRYQKFKQEASNTECPTCGTHLDTTAAQKAMDMARTEYDPLFKEKQSLEAKLEQLKKEQLEYTAYIRAKDALDKALAARDEFKSSMSDASFEELNVQNLQVQIRQLEQEIADGRSKVAIAKEHNANVELANAKYKAKLEQIEKAEAEMSEITSKLDEVSEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNEEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009794607.1",
+    "genome": "NC_047881.1",
+    "organism": "Shigella phage SSP1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus SSP1"
+    ],
+    "genome_description": "Shigella phage SSP1, complete genome",
+    "start_1based": 61386,
+    "end_inclusive": 63224,
+    "strand": -1,
+    "location": "[61385:63224](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "HOS34_gp080"
+      ],
+      "old_locus_tag": [
+        "SSP1_101"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "exonuclease subunit 2"
+      ],
+      "protein_id": [
+        "YP_009794607.1"
+      ],
+      "db_xref": [
+        "GeneID:54984861"
+      ],
+      "translation": [
+        "MSKITIKTLKFSNVMSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWSSPKKEYDMHAYFSKDEDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETIKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRAGEVKKRYQKFKQEASNTECPTCGTHLDITAAQKAMDMARTEYDPLFKEKQSLETKLEQLKKEQLEYTTYIRAKDALDKAVAARDEFKNSMSDASFEELNVQNLQVQIRQLEQEIADGRSKVAIAKEHNANVELANAKYRAKLEQIEKAEAEMSEITSKLDGVSEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNEEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009408219.1",
+    "genome": "NC_035468.1",
+    "organism": "Murmansk poxvirus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Centapoxvirus",
+      "Centapoxvirus microtuspox"
+    ],
+    "genome_description": "Murmansk poxvirus strain LEIV-11411, complete genome",
+    "start_1based": 38295,
+    "end_inclusive": 39257,
+    "strand": -1,
+    "location": "[38294:39257](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "CKM52_gp037"
+      ],
+      "old_locus_tag": [
+        "Murmansk-037"
+      ],
+      "note": [
+        "similar to MHC class I proteins"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "hypothetical protein"
+      ],
+      "protein_id": [
+        "YP_009408219.1"
+      ],
+      "db_xref": [
+        "GeneID:33867963"
+      ],
+      "translation": [
+        "MKYTMVIIYLLICVTNVLTHSLMYFHTAISRPELNDIRYIIVGYVDDIQIMRYDNDVGNKMIELNVPWMKGDNDYLEKESKKARNTEKNFKLNLKTLIGYYNQSNNQFHTLQWMYGCEIGQDKRLSRVYCQEAYDGMDYISLNNDLKSWFATDTSAQISKRKLDIAEEADHQRVYLQGMCIYWLSKYIKLDNNKLLRVYNPKTFVTRHYEDNYATLRCWAINFYPSDINISWLKEDYQQDNTDTIETRPSGDGKFQKWVSIKVPAGEEYKYTCHVYHEDMHEILRFEAKQTVNVAAIVVLVIIGIIGIIVVITSIHRIML"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009408378.1",
+    "genome": "NC_035468.1",
+    "organism": "Murmansk poxvirus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Centapoxvirus",
+      "Centapoxvirus microtuspox"
+    ],
+    "genome_description": "Murmansk poxvirus strain LEIV-11411, complete genome",
+    "start_1based": 192834,
+    "end_inclusive": 193853,
+    "strand": 1,
+    "location": "[192833:193853](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "CKM52_gp196"
+      ],
+      "old_locus_tag": [
+        "Murmansk-196"
+      ],
+      "note": [
+        "similar to MHC class I proteins"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "hypothetical protein"
+      ],
+      "protein_id": [
+        "YP_009408378.1"
+      ],
+      "db_xref": [
+        "GeneID:33868122"
+      ],
+      "translation": [
+        "MRIIILLTILQTVYSYHHTLLYKCVAELRPTDRYNISINVYIDNLNIISFNGSNITYLVHNDYVDDILYHDVIHKINKFYKRDIYNYEYDNDAEKDNIKLHDNVIKDIKYKLQTLIDINNSSKDVRHVYKSFYGCTVNDNGTFISGNDRFTYDDKPYGYENYSYFWISYNNKLSIVELSNETNNFGACINYLNSFIEKESNLFTIKIPNTTLLYSELNNTRILECLSTGFFPSDINIQWRVNGKNITGNKVITSNGTSFVGSSIIHVPYTDGGNYTCTVHHESLKDDIIVYKILEADNKIITEVTISTLSYVIYAATAAIIISILCIIAYILCKHYHDA"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009408421.1",
+    "genome": "NC_035469.1",
+    "organism": "NY_014 poxvirus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Centapoxvirus"
+    ],
+    "genome_description": "NY_014 poxvirus strain 2013, complete genome",
+    "start_1based": 38894,
+    "end_inclusive": 39859,
+    "strand": -1,
+    "location": "[38893:39859](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "CKM51_gp033"
+      ],
+      "old_locus_tag": [
+        "NY_014-033"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "MHC-I H-chain homolog"
+      ],
+      "protein_id": [
+        "YP_009408421.1"
+      ],
+      "db_xref": [
+        "GeneID:33868166"
+      ],
+      "translation": [
+        "MKYTMFIIYLLICVTNVLTHSLMYFHTAISRPELNDIRYIIVGYVDDIQIMRYDSDVGNKMIELNVPWMKGDNDYLEKESRKARNTEKNFKLNIKTLIGYYNQSNNQFHTLQWMYGCEIGQDKRLSSGYCQEAYDGMDYISLNNDLKSWFATDTSAQISKRKLDIAEEADHQRAYLQGMCIDWLSKYIELDNNKLLRVYNPKTFVTRHYEYNYAILRCWAINFYPSDIKISWLKDDYQQDNMDTIETRPSGDGKFQKWVSIKVPAGEEYKYTCHVYHEDMHEILRFEAKQTVNVAAIVVLVIIGIIGIIIVVITSIHRIML"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009408574.1",
+    "genome": "NC_035469.1",
+    "organism": "NY_014 poxvirus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Centapoxvirus"
+    ],
+    "genome_description": "NY_014 poxvirus strain 2013, complete genome",
+    "start_1based": 187301,
+    "end_inclusive": 188314,
+    "strand": 1,
+    "location": "[187300:188314](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "CKM51_gp186"
+      ],
+      "old_locus_tag": [
+        "NY_014-186"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "MHC class I protein"
+      ],
+      "protein_id": [
+        "YP_009408574.1"
+      ],
+      "db_xref": [
+        "GeneID:33868319"
+      ],
+      "translation": [
+        "MRIIVLLTILQTVYSYHTLSYKCVAELRPTDTYNISINVHIDNIHIISFNGTNITYLVNNDYVDDILYHDVIHRINKFYKRNIYNYEYSDDVKDNIRLHNNVIKDIKYKLQTLIDINNSSKDIPHVYKSFYECTVNDNGTFISGTDSFTYDDKPYGYVNYSYFWIVYNDKLSIVELRNVTNLEACINYLNNFIEKESNLFTFKIPNTRLLYSEVNDTRILECLSTGFFPSDINIQWIVNGKNITGTKVITSNRTSFIGSSIIHVPPTDGGNYTCVVHHQSLKDDIIVYKIIEANNKIITTEVTISTLSYAIYAATAAIIISILCIIVYILYKHYHDA"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009448124.1",
+    "genome": "NC_036582.1",
+    "organism": "Flamingopox virus FGPVKD09",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Avipoxvirus",
+      "Avipoxvirus flamingopox"
+    ],
+    "genome_description": "Flamingopox virus FGPVKD09, complete genome",
+    "start_1based": 228264,
+    "end_inclusive": 229055,
+    "strand": 1,
+    "location": "[228263:229055](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "C1178_gp215"
+      ],
+      "old_locus_tag": [
+        "fgpv_215"
+      ],
+      "note": [
+        "similar to penguinpox pepv214/fowlpox fpv200"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "V-type Ig domain protein"
+      ],
+      "protein_id": [
+        "YP_009448124.1"
+      ],
+      "db_xref": [
+        "GeneID:35381540"
+      ],
+      "translation": [
+        "MMMKYTSSKFIISILKINYNMKFIIIILSILQYVYSKDDYYDSVSHVGDSVTLNCNDYPNTSKVDSITWFKYSDPVNKYLSISTINDTKYYENNHKILTTASADLKSSSLTILSSYIGNHGCYGCRFKSGICNRERKTCLGILDSVYLSWTSLMYTTRVRCYIVSLKKDLKTNWMVNGVITEGMSFNDISYDDSYLSGCYMIELKIINSFDKVVSPICRVNFGPKVYEYKINLTNTVPDTLYDKYSNPIRYYNPSNSHITKMK"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009805457.1",
+    "genome": "NC_048009.1",
+    "organism": "Salmonella phage S131",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus S131"
+    ],
+    "genome_description": "Salmonella phage S131, complete genome",
+    "start_1based": 28349,
+    "end_inclusive": 30145,
+    "strand": -1,
+    "location": "[28348:30145](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "HOT63_gp026"
+      ],
+      "EC_number": [
+        "3.1.11.-"
+      ],
+      "note": [
+        "label: orf26"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "recombination related exonuclease"
+      ],
+      "protein_id": [
+        "YP_009805457.1"
+      ],
+      "db_xref": [
+        "SEED:fig|6666666.217929.peg.109",
+        "GeneID:54996195"
+      ],
+      "translation": [
+        "MSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWSTPKKEYDMHAYFSKDEDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKIIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETIKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRASEVKKRYQKFKQEASNTECPTCGTHLDTTAAQKAMDMARVEYDPLFKEKQSLEAKLEQLKKEQLEYVAYTRAKDALDKAVVARDEFKNSMSDTSFEELNVQNLQVQIRQLEQEIADGRSKVAIAKEHNANVELANAKYKAKLEQIEKAEAEMSEITSKLDEVSEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNEEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLD"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009841460.1",
+    "genome": "NC_048731.1",
+    "organism": "Escherichia phage fp01",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus fp01"
+    ],
+    "genome_description": "Escherichia phage fp01, complete genome",
+    "start_1based": 53077,
+    "end_inclusive": 54915,
+    "strand": 1,
+    "location": "[53076:54915](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "HWB87_gp081"
+      ],
+      "EC_number": [
+        "3.1.11.-"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "recombination related exonuclease"
+      ],
+      "protein_id": [
+        "YP_009841460.1"
+      ],
+      "db_xref": [
+        "GeneID:55611732"
+      ],
+      "translation": [
+        "MSKITIKTLKFSNVMSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWSTPKKEYDMHAYFSKDEDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETIKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRAGEVKKRYQKFKQEASNTECPTCGTHLDTTAAQKAMDMARIEYDPLFKEKQSLEAKLEQLKKEQLEYVAYTRAKDALDKAVAARDEFKNSMSDASFEELNVQNLQVQIRQLEQEIADGRSKVAIAKEHNANVELANAKYKAKLEQIEKAEAEMSEITSKLDEVSEAVSDLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNEEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010085861.1",
+    "genome": "NC_055231.1",
+    "organism": "Orthopoxvirus Abatino",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Orthopoxvirus",
+      "Orthopoxvirus abatinomacacapox"
+    ],
+    "genome_description": "Orthopoxvirus Abatino, complete genome",
+    "start_1based": 186187,
+    "end_inclusive": 187167,
+    "strand": 1,
+    "location": "[186186:187167](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "KM543_gp193"
+      ],
+      "old_locus_tag": [
+        "OPVA193"
+      ],
+      "note": [
+        "similar to VACV-Cop B16R"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "putative B16R protein"
+      ],
+      "protein_id": [
+        "YP_010085861.1"
+      ],
+      "db_xref": [
+        "GeneID:65100935"
+      ],
+      "translation": [
+        "MSILPVIFLSIFFYSSFVQTFNEPECIDKGQYFASFMELENEPVILPCPQINTLSSGYNILDILWEKRGADNDRIIPIDNGNNMLILNPTQSDSGIYICITKNETYCDMMSLNLTIVSVTESNIDLISYPQIVNERSTGEMVCPNINAFIASNVNADIIWSGHRRLRNKRLKQRTPGIITIEDVRKNDAGYYTCVLKYIYGSKTYNVTRIVKLEVRDRIIPPTMQLPEGIVTSLGSNLTIACRVSLRPPTTDADVFWISNGMYYEEDDEDGDGRISVANKIYTIDKRRVITSRLNINPVKEEDATTFTCMAFTIPSISKTVTISIT"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010076267.1",
+    "genome": "NC_054940.1",
+    "organism": "Shigella phage JK45",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Pantevenvirales",
+      "Straboviridae",
+      "Tevenvirinae",
+      "Mosigvirus",
+      "Mosigvirus jaykay"
+    ],
+    "genome_description": "Shigella phage JK45, complete genome",
+    "start_1based": 113898,
+    "end_inclusive": 115028,
+    "strand": -1,
+    "location": "[113897:115028](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "KMC32_gp230"
+      ],
+      "old_locus_tag": [
+        "JK45_00189"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "Hoc-like head decoration"
+      ],
+      "protein_id": [
+        "YP_010076267.1"
+      ],
+      "db_xref": [
+        "GeneID:65065105"
+      ],
+      "translation": [
+        "MAFTVDITPKTPTGVIDQTQQFTATPSGETGGGTITYAWSVDDAPQVGSAETFDYVLKGPAGTKTIKVVATNTIPDTDAETAEATTTITVQNKTQTTTLAVTPDSPSAGVIGTPVQFTAALASQPAGASATYQWYVDDSQVGGETNSTFSYTPTTSGVKRIKCVAQVTATDYDAKEVTSNEVSLTVNKKTMNPQVTLTPPSINVQQDASATFTANVTDAPPEAQITYSWKKDSSPVEGSTNVYTVDTSSIGSQTIEVTATITATDYDSKTITAEGQVQVTDKVAPEPEGELPYVHPLPHRTSAYIWCGWWVMDEIQKMTEEGKDWKTEDPDSKYYLHRYTLQKMMKDYPEVDVQESRNGYIIHKTALETGIIYTYP"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009856524.1",
+    "genome": "NC_048852.1",
+    "organism": "Salmonella phage L6jm",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus L6jm"
+    ],
+    "genome_description": "Salmonella phage L6jm, complete genome",
+    "start_1based": 76069,
+    "end_inclusive": 77907,
+    "strand": 1,
+    "location": "[76068:77907](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "HWD08_gp128"
+      ],
+      "note": [
+        "ORF128"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "hypothetical protein"
+      ],
+      "protein_id": [
+        "YP_009856524.1"
+      ],
+      "db_xref": [
+        "GeneID:55627270"
+      ],
+      "translation": [
+        "MSKITIKTLKFSNVMSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWSSPKKEYDMHAYFSKDEDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYRMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETIKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPDFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRAGEVKKRYQKFKQEASNTECPTCGTHLDTTAAQKAMDMARTEYDPLFKEKQSLEAKLEQLKKEQLEYTAYIRAKDALDKAVVARDEFKNSMSDASFEELNVQILQVQIRQLEQEIADGRSKVAIAKEHNANVELANAKYKAKLEQIEKAEAEMSEITSKLDEVSEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNEEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "NP_536590.1",
+    "genome": "NC_003310.1",
+    "organism": "Monkeypox virus",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Pokkesviricetes",
+      "Chitovirales",
+      "Poxviridae",
+      "Chordopoxvirinae",
+      "Orthopoxvirus",
+      "Orthopoxvirus monkeypox"
+    ],
+    "genome_description": "Monkeypox virus, complete genome",
+    "start_1based": 158617,
+    "end_inclusive": 159558,
+    "strand": 1,
+    "location": "[158616:159558](+)",
+    "qualifiers": {
+      "gene": [
+        "OPG185"
+      ],
+      "locus_tag": [
+        "MPXV_gp157"
+      ],
+      "note": [
+        "Taxonomic breadth: chordopoxvirinae; Old product: B2R; EEV envelope and cell membrane glycoprotein hemagglutinin; inhibition of the ability of infected cells to fuse; interacts with VAC F13L; similar to VACV-WR B2R and VACV-Cop A56R"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "Hemagglutinin"
+      ],
+      "protein_id": [
+        "NP_536590.1"
+      ],
+      "db_xref": [
+        "GeneID:928920"
+      ],
+      "translation": [
+        "MTQLPILLLLISLVYVTPSPQTSKKIGDDATISCSRNNTNYYVVMSAWYKEPNSIILLAAKSDVLYFDNYTKDKISYDSPYDDLVTTITIKSLTAGDAGTYICAFFMTSTTNDTDKVDYEEYSIELIVNTDSESTIDIILSGSTPETISEKPEDIDNSNCSSVFEIATPEPITDNVEDHTDTVTYTSDSINTVNASSGESTTDETPEPITDKEEDHTVTDTVSYTTVSTSSGIVTTKSTTDDADLYDTYNDNDTVPPTTVGGSTTSISNYKTKDFVEIFGITTLIILSAVAIFCITYYICNKHPRKYKTENKV"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010801415.1",
+    "genome": "NC_076964.1",
+    "organism": "Equid herpesvirus 6",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Alphaherpesvirinae",
+      "Varicellovirus"
+    ],
+    "genome_description": "Equid herpesvirus 6 strain AsHV/Bari/2011/740, complete genome",
+    "start_1based": 20372,
+    "end_inclusive": 21790,
+    "strand": -1,
+    "location": "[20371:21790](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "QKT44_gp16"
+      ],
+      "note": [
+        "type 1 membrane protein; contains a signal peptide;binds cell surface heparan sulphate; binds complement C3b"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "envelope glycoprotein C"
+      ],
+      "protein_id": [
+        "YP_010801415.1"
+      ],
+      "db_xref": [
+        "GeneID:80540124"
+      ],
+      "translation": [
+        "MGGGRRLLAAGVVLAGVGGLALAGVTPTASSETIPAAGSDPPSGGAPTTSGPTTELPLAKTSRGPAGTKPKGAATKRPKRPLITCVPARIWVPYYSPVTIHCTATKPVLRGARTLEVHFKQRTKFTATDEGDREHGANQTEARALDLLLFSSARPDDDHGAAGPLGVISARLPTRQLFRLPSHEDNATRFELQITSVDWRTAGVYSWRLFDDAPNGFQHTFNVTVGAYSPPVLSLVAPPPLKGENYRATCVAAGYFPRRSIQLRWYANDREVDFETHVTNSSSVWIDGLLTRVSTLSLPADPREPYPPNLRCEVLWYRDPVSSTRLSKIATPAVFTRPDVAVTFREGLAVCDATCVPSSGVFVTWSVDEDAPGVASQDMTTGMCADHPGLVNLRSTRPLSKHGGERAYTCVVDGYPEGLPTFSDTALYDASPEADDRPMLAGVLGIVGGVLALGLLVLITALCFYYSRPKRR"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010797047.1",
+    "genome": "NC_076129.1",
+    "organism": "miniopterid betaherpesvirus 1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Quwivirus",
+      "Quwivirus miniopteridbeta1"
+    ],
+    "genome_description": "Bat betaherpesvirus B7D8, complete genome",
+    "start_1based": 41206,
+    "end_inclusive": 42315,
+    "strand": -1,
+    "location": "[41205:42315](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "QKK99_gp038"
+      ],
+      "note": [
+        "HFE protein or MHC class II-like protein"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "b39.1"
+      ],
+      "protein_id": [
+        "YP_010797047.1"
+      ],
+      "db_xref": [
+        "GeneID:80534750"
+      ],
+      "translation": [
+        "MYIVCFFIVLGVSTGRLTMRSVTVGHREASVVTLNRSSDVNINGVPMYALQIFPGSLRNGLRDEVGIASDVGRLGSAELLSYFVKFSLKDLWSHVRAIDTGVTVDVTTERVCDEANGERFANYTVFMSGEVCFFAETVLSAGVTVPVIHTCATACCVRNVIRNAVENIAFCARQVFDMVRPPDVAVYRFEENATHDGLVCVASDYAPDKISMTWYTENVSVGDIKIHVLRSDSHVESAIELRVPRGETIDHVCQVTHPALGVPVNASGNRSVTLTSAPCILQFIGSCPVTSQAVFVGTSFCLALLMLCGCVFQIVTNYTRCAGSVSSRTCCVFDRRMSEDDGATLVTSCEDQIADGPYRWSEMTVTIDE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010797050.1",
+    "genome": "NC_076129.1",
+    "organism": "miniopterid betaherpesvirus 1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Quwivirus",
+      "Quwivirus miniopteridbeta1"
+    ],
+    "genome_description": "Bat betaherpesvirus B7D8, complete genome",
+    "start_1based": 43831,
+    "end_inclusive": 45069,
+    "strand": -1,
+    "location": "[43830:45069](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "QKK99_gp041"
+      ],
+      "note": [
+        "MHC class I-like protein"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "b39.4"
+      ],
+      "protein_id": [
+        "YP_010797050.1"
+      ],
+      "db_xref": [
+        "GeneID:80534753"
+      ],
+      "translation": [
+        "MSVRRIDSSILQFLFIYVSAVRFGSGEPNLIVPGFLRINFTTWSDFSVFEGTNQTIPPEIDWGASMILDNGVTFAVYNASERDTDELVYGLNTSVLFQAFERFVDNDRAMHRNYTILRMPGSSRHLKSHTLTVKIERICFYSFERKQRSTIYGVFQGERHDYYEIFLTDSVQTTSRPIRRDRAFDDLSEQYGRPSRLRRVFERQHNETQDFCEVHFYKKLRAPTICVSHSRLNSTHLTLTCHVNGYKPDNVSVRWYVTGFSNGSGPMKPVVSTISKGSRETTVVTQVPWKNIISYFCGIHHDLLKDGVYVSDSLSSDEYLSLSGSHDRVLLSVMCYGGSVSLLLLFVGTLARRNFINAVSSICMVRWSYSLKECLALTSQSFSHMVKLGTAVTFIRTRWKFFGVGDDVARLV"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010780588.1",
+    "genome": "NC_075038.1",
+    "organism": "Tupanvirus deep ocean",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Megaviricetes",
+      "Imitervirales",
+      "Orthomivirineae",
+      "Mimiviridae",
+      "Megamimivirinae",
+      "Tupanvirus",
+      "Tupanvirus altamarinense"
+    ],
+    "genome_description": "Tupanvirus deep ocean, complete genome",
+    "start_1based": 680568,
+    "end_inclusive": 680810,
+    "strand": 1,
+    "location": "[680567:680810](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "QJ856_gp0777"
+      ],
+      "note": [
+        "ID=R572"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "ubiquitin domain-containing protein"
+      ],
+      "protein_id": [
+        "YP_010780588.1"
+      ],
+      "db_xref": [
+        "GeneID:80517279"
+      ],
+      "translation": [
+        "MQIFVKTLTGKTITLECESSDTIENIKQKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNVQKESTLHLVLRLRGGERSN"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010781883.1",
+    "genome": "NC_075039.1",
+    "organism": "Tupanvirus soda lake",
+    "taxonomy": [
+      "Viruses",
+      "Varidnaviria",
+      "Bamfordvirae",
+      "Nucleocytoviricota",
+      "Megaviricetes",
+      "Imitervirales",
+      "Orthomivirineae",
+      "Mimiviridae",
+      "Megamimivirinae",
+      "Tupanvirus",
+      "Tupanvirus salinum"
+    ],
+    "genome_description": "Tupanvirus soda lake, partial genome",
+    "start_1based": 683177,
+    "end_inclusive": 683419,
+    "strand": 1,
+    "location": "[683176:683419](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "QJ857_gp0824"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "polyubiquitin"
+      ],
+      "protein_id": [
+        "YP_010781883.1"
+      ],
+      "db_xref": [
+        "GeneID:80518647"
+      ],
+      "translation": [
+        "MQIFVKTLTGKTITLECESSDTIENIKQKIQDKEGIPPDQQRLIFAGKQLEDGRTLADYNVQKESTLHLVLRLRGGERSD"
+      ]
+    }
+  },
+  {
+    "protein": "YP_010839829.1",
+    "genome": "NC_078159.1",
+    "organism": "Punta Salinas virus",
+    "taxonomy": [
+      "Viruses",
+      "Riboviria",
+      "Orthornavirae",
+      "Negarnaviricota",
+      "Polyploviricotina",
+      "Bunyaviricetes",
+      "Hareavirales",
+      "Nairoviridae",
+      "Orthonairovirus",
+      "Orthonairovirus peruense"
+    ],
+    "genome_description": "Punta Salinas virus strain CalArt888 segment L, complete sequence",
+    "start_1based": 1,
+    "end_inclusive": 11961,
+    "strand": 1,
+    "location": "[0:11961](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "QK622_sLgp1"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "RNA-dependent RNA polymerase"
+      ],
+      "protein_id": [
+        "YP_010839829.1"
+      ],
+      "db_xref": [
+        "GeneID:80549906"
+      ],
+      "translation": [
+        "MEDINWQHIGPNLYTALVKFAIPEFFERIRVKGDGNCFFRSFAYLFFDSEEMWPAVKNTALGYARQHWAECYGARGLYENRAIEEQKTMRASYSAVVKGNVQERSTERGKELYLEEASKDGYWGGTDEAEMLAKALNLTIIIWNVNSDLKVLDVQKFGPHTVERAFNIVKTGAHFDALRLLGNIPVPGPSTATQLTSINPMMVIEAVSAQDDSAEAMSPEVYITDKKDEPEGSEDSDVTHASESSSDETEESAASGVDFTSEVGANKTREELFKEMKEQKKRQDQMRKALELSAHVPAKVGRVLHKIFNCNVEVSLTSKVLFLLPEGSDDPNRVTLSKIRHIMLDKEGQMFSQFKNCTVVITSGLMEFVNIPELLRQCLPDTGVSQFYDIIHPAFVYDILTVSVAILFSSFLYGSDFKTKRKFILNTVRDRFVKPTKVPKLMREQNNKLIYDHPDRVVSDVCSSLYKEMALQISKCMKEMPATGLLALRNVYLQSMDFGDYLQVLNDLRVVSYDLDFFNQDELQDIKRLIDCIAEIRKAPEVLPGTLAADWSFMYLGTDADQLFRDRKGKKLKSLRPDSLERRLIQHFFRKKLMFKFISLQGKAYSGGTLSNVLAYCNNLYLTKDQLGFSPEDTEHLSAEMVRIRSLLDDQKVEPIAIICDKLDRRFKELFENLPAVCADECRSLFEDIRNAENHSSAWKAALRLKGVAYEGFMAKAYNWNYLTEDLKPTLSMIIQTLYPEKFLQFLERTQLCPEQRDLTPDFVMTQNLIIKKDKIDAIVETEQLSLDYLVSGAATVIPVSKKTFPLPTEPILEVNRLESVIENFQKMQETKKRDTGLLVESTNVVTEEHNRFTYSELLILEVGYQTDVEGKVISDMQKWKNILNLLNFLEIKASVISCADCSDVPSDNWWLPERYVKLLKGTISFLFAKLQQNSPSDVSDIVVGAISTQKIRSIIRSGTTVKTPVTIKDLRETWNKNKEKITERPTGTVLPERIVSAMQLSLVDGVIQEKTSTDDIVKVVEENMEKIAQELEQTKFKHTLNKEEETSFELIYSWLVEDLKSARCEDCVKKILNDCKLLNSLSASTELISKELVLSEHPSCCHPVCVDVGTYSLFQKRTGFFDAVGHSETVLDEYDDKQTQLDKLVKLTLPGKTEKERKIKRTVELLIRVCMELSGIQCLKTPSFQLIIVKRNLKRSQKTGDITKEKRKQHLLEQLERIKKTLSPSRLKSYSEHCISVIESVLESPHEQKGCRSELQSRWCDQILIDLKAKTEDGEIIEALKGSIESRKTLVRNNDKVMVPDWDQVSSYLDVKADDLLNTGKMVFELDCVLFKETVLETISRYFQTPYWECPIILSNLITFLLRFKWYQKLVLYGKTCETFLQCCTEFRRSGLKLAKIRHTNCNLAIKLPSNKKENMKCIIYSSNMEALSGVFQLNRRVAVLGASYYYIIVVLFCQCLQHYRCMNGLENIKKVEESVRQANAKHLDALQEQLKLVHQGRIKEASDRLLDLCKSNGNFLSKSTRAHFITVFSGLSITYSTLLGDALLTNSQPLNKQIQMLRFGILNGISRMSMTSELGKKFSSSCRRMEHYIARVYQLLVVFTCNRYPHTNINNWIKDDLCPNVQMPSVSIYGHYINSDRQLVFDIYNVHIYNKEMDNFDEGTIKVLEETAERHMTWELDLMKAVEKLNEDPKKDRLARLLLCVGNVKPSGSQETTMEDETLSQTSVSSLQSSMSSKKRIKTYFGAMSMKKKPFSFSEDFIVERDSSSDYTQSISDKWTFGVYKAKPDSVLRDIVEIIRKNPNHTMGSFELLQAFTEFARPKYPIESIIKAKRNPKNYITVSEVTETTSIVSEPKTHASLKDNLRIITGQENKKLVKMLRGKLQSLGLSLVNDKSKGSDLSGLLSSVDGLSEDQKKKIILGITEPSKLTFYTWKEIVKMDVENALVTSDGNYIYCWLKSLGGQVKRSLRKYIKNLRYDNERFTPKFSEDTEALIGKDGITECLKLIENLKSLTKNEIPINSDIDNNKLIDVWVKFCKLPKCYEEILNESAEWIKVVAPDLDFLMGKYNELLKLKKEYPTLSFSREEVELRSLETKFVKDNNNLLMKLMNCVFFICLCCPWCVHYKSLENFLSKHMDESGGYDFGNETVSKVMDITLEKVWYEVLQCQNKVQVEVIKRVVKYTSAMFTGNGRPISCSLNQTEGTINVMDHGQMVDRLRTFLTRAQLYTKELDFIWTCHMITNSNFEVTKRLTGRSTGERLPRSVRSKVVYEMIKVVGESGHAILQQLAFSTILNTNHEFFAVLAPKAQLGGHRDLLVQETGTKLVHAASEMFSRTLLATTNDDGLTSPHLKETILGSALNHISIARKVHGRVIEEDSNLYQFYKVFCISGDNTKWGPIHCCAFFSGMMQQLLKDHPDWSSFYKLVFLKNLYRQVEIPTGSIKKILNAFRYNNSDKKIEEMNEYQLRELLYSTIDSWNENPIIKFLVVTYLIRGKIAMRMYNHMGQGIHHATSSILTSIMGDVISHYIQVYMNSNFKGLTCSVEHAGSSDDYAKIITLSGMVSKELFDSYESVYWTRMCRLKNIISGISRAVQMKDSAKTLCGDAFIEFYSEFMLSHRITPAVIKFIFTGLINSSVTSPQSMSQACQVSSQQAMYNSVPLLTNFAFSLLRQQMFMNHTEYFQRTYGLITMGTLSSFGRLYLPKYSNLTCSSIAIEDSEVISQNLTMLKENAILFPGTKPYEEDVTVTEVESGPASVESSGGGSPSSKLSSMTLGSDTSLKFSHDKALTAVELAYLNSIKPSLSRLRCRAEMETFQKIFKLELPVCFEKLKKSSLVNSCEYLREVIDEPWLMVQRIRSIVVLLIAGFYRAFNSDGTEHPVKANLNRDENTIIEDPMIQLIPEKLRRELEKLGLAKMTVEELIPTHMLEDDFASLVSKRLVMMNCATENYASEVSRLKQTLNSRNVIHGLAGGIKELSIPIYTIFLKSYFFKDNVFFKHYDRWNTKHSLNYRDSTGKELKDKIVIKFTTWLDKILNCDISIDYSHSNAVKSLFDNSLKGIQVIHLCNNTCELSILYEEVECLQKEFEALALQFSDVNRHKLKILESQRQESAVEASKAVIVKTTLFSATDAVRIINSPAIVIGYMVNESTLSDIKPTKIDMGNLIRDRFRITMFYKTLTDLVGEIIKESELIKRKDGIVDLEKVDLYANALTMLCRLVQRSKPKVSSFYIIKGASHSNEPTVTELISYGIQEGLLYILPDCPIETSTYSVRYWKVLQCVSAIANLPLSDSEKTSLLSSFLNWKPTINDIDSKCTMLKHDKAVLEEFDERTLLNVLSSELQSIRNDKERESISDLIEYISSPRQLMQDKPYLGVTSTFKKWGEGQKNGKFTYSSNSGEASGIFINGQLYLTLSKDSTALLHEVERKVLEWLCQLRTDVTAAEQHMPFLSLLASSRTCSKRAIDGISYIVYYLKEDPKFLQLKKFIGKGEYKIVKVKSQILSVRKEVVKEVRAEPHIVWRPNALSIVYDEETENPSYHHKIREIYELIKDATGNSSGKLSSIFYKDTRLTLSKISLQDQLYLSSLSLLHCFFCHTLTSSIMEASSKSEILSRYFEQGRSSIIRSANSIQNRLLEIKSSDGSLVKSEESDICSKLQQSLNKGDFSIDCWAEVQRMLDENGFHRINVTLSPEPSQFRYKWLVTPEFGLSKNSDVTDLRDLCMLLSSGIVPKVVISYMTDDVLFTNLLLIAERLKIDLNKNRVDQKAFCAVCCSIIYTLQSNPKDRKTLLMRISSIFQLISIKEIESSKGAIRFMADSDTIQIQVTIVGLSQLEYKSIDNKVHPAEKAKEVKIKIGRNRLISEVSSLFEPFSNIKEIMKFADGLEMSTEDGKITFILFFTRLASEKTDIYKLLTFLNIEVPQTTVDLLTDLIMLLYGGSFKKYSTTQPSTVKATSKSTKKEEITLSDLLAEDSPPSDNKEDSDLEDYNIDDIEFEL"
+      ]
+    }
+  },
+  {
+    "protein": "YP_006956.1",
+    "genome": "NC_005859.1",
+    "organism": "Escherichia phage T5",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus T5"
+    ],
+    "genome_description": "Enterobacteria phage T5, complete genome",
+    "start_1based": 77769,
+    "end_inclusive": 79607,
+    "strand": 1,
+    "location": "[77768:79607](+)",
+    "qualifiers": {
+      "gene": [
+        "D13"
+      ],
+      "locus_tag": [
+        "T5.128"
+      ],
+      "experiment": [
+        "experimental evidence, no additional details recorded"
+      ],
+      "note": [
+        "similar to subunit C of recombination endonuclease SbcCD"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "putative recombination endonuclease, subunit D13"
+      ],
+      "protein_id": [
+        "YP_006956.1"
+      ],
+      "db_xref": [
+        "GeneID:2777609"
+      ],
+      "translation": [
+        "MSKITIKTLKFSNVMSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWNAPKKEYDMHAYFSKDEDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETIKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRASEVKKRYQKFKQEASNTECPTCGTHLNTTAAQKAMDMARVEYDPLFKEKQSLEAKLEQLKKEQLEYVAYTRAKDALDKAVVARDEFKNSMSDASFEELNVQILQVQIRQLEQEIADGRSKVAIAKEHNATVELANAKYKAKLEQIEKAEAEMTEITSKLDGVSEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNEEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_013605689.1",
+    "genome": "NC_134262.1",
+    "organism": "Salmonella phage vB_Sen-E22",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus E22"
+    ],
+    "genome_description": "Salmonella phage vB_Sen-E22, complete genome",
+    "start_1based": 76616,
+    "end_inclusive": 78454,
+    "strand": -1,
+    "location": "[76615:78454](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "vBSenE22_122"
+      ],
+      "inference": [
+        "ab initio prediction:Prodigal:002006",
+        "similar to AA sequence:GenBank:ADW80098.1"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "putative exonuclease subunit 2"
+      ],
+      "protein_id": [
+        "YP_013605689.1"
+      ],
+      "translation": [
+        "MSKITIKTLKFSNVMSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWSSPKKEYDMHAYFSKDEDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETIKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRAGEVKKRYQKFKQEASNTECPTCGTHLDTTAAQKAMDMARTEYDPLFKEKQSLETKLEQLKKEQLEYTTYIRAKDALDKAVAARDEFKNSMSDASFEELNVQNLQVQIRQLEQEIADGRSKVAIAKEHNANVELANAKYRAKLEQIEKAEAEMSEITSKLDGVSEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLVELLNEEESLNSIIVSHGHTHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_011993078.1",
+    "genome": "NC_105119.1",
+    "organism": "Escherichia phage HildyBeyeler",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Uroviricota",
+      "Caudoviricetes",
+      "Caudoviricetes incertae sedis",
+      "Demerecviridae",
+      "Markadamsvirinae",
+      "Tequintavirus",
+      "Tequintavirus hildybeyeler"
+    ],
+    "genome_description": "Escherichia phage HildyBeyeler, complete genome",
+    "start_1based": 28287,
+    "end_inclusive": 30185,
+    "strand": -1,
+    "location": "[28286:30185](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "bas33_0029"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "recombination nuclease subunit 2"
+      ],
+      "protein_id": [
+        "YP_011993078.1"
+      ],
+      "translation": [
+        "MKSRSYLKATLIESWLELRNMSKITIKTLKFSNVMSYGKDIVIHFDKNPVTQLIGGNGLGKSTIATVIEELFYNKNSRGIKKDALFSWNAPKKEYDMHAYFSKDDDEYELHKVVKSTAKVTLIKNGEDISGHTATQTYKMIEEIMGGDFQTFTKLIYQSVGSNLDFLKATDATRKAFLVNLFNQEQYKEMSETVKADRKEIANTLNNLQGQMAVITKILNGKNNLGTLQEPVEVPEFDEEPLAQELTESKIKAALAKSQEANITKLRNLDKAVQVAEQSFEPFKNLPAPTDQNEEISSVTRDLTIVTSRASEVKKRYQKFKQEASNTECPTCGTHLDTTAAQKAMDMARIEYDPLFKEKQSLEARLEQLKKEQLEYVAYIRAKDALDKAVAARDEFKNSMSDASFEELNVQNLQVQIRQLEQAIADGRSKVAVAKEHNANVELANAKYKAKLEQIEKAEAEMTEITSKLDGVAEAVADLDILIAALKNLVGYKLEHSVKVFEELINKYLSIMTGGKFALGFELDETKLQVVIFNDGNRTSMENCSTGQQSRINLATLLAIRMLLTSISKVNINLLFLDEVISFIDTKGLDTLIELLNEEESLNSIIVSHGHSHPLAHKITVKKDAEGFSYLE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009344844.1",
+    "genome": "NC_033620.1",
+    "organism": "Murine roseolovirus",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Roseolovirus"
+    ],
+    "genome_description": "Murine roseolovirus isolate YOK1, complete genome",
+    "start_1based": 23039,
+    "end_inclusive": 23854,
+    "strand": -1,
+    "location": "[23038:23854](-)",
+    "qualifiers": {
+      "gene": [
+        "ORF13"
+      ],
+      "locus_tag": [
+        "B0195_gp017"
+      ],
+      "old_locus_tag": [
+        "MRV_0017"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "cell surface glycoprotein"
+      ],
+      "protein_id": [
+        "YP_009344844.1"
+      ],
+      "db_xref": [
+        "GeneID:30999354"
+      ],
+      "translation": [
+        "MYYIVIFYLILSFVTGDSKISIIGNKEQKLHTSVTLKCSIQTENEPLIITWQRKKGSESPENICTYSKTHGAVTQPKFLNKFTLTELNLYNTSINIKNITMDDACCYLCLYNIFGTEKKSAEICITVYIQPMGYLQNMTYKNYSIISCIVTSYPESSVQWILGNFSLKNVTNKIVNKNMTTTVNNSIIVYNENMSGCEVKCQIKFKNNITEYPYVFEHSLVNNVTSKYTSFKDSTYSFIAVFLFLMIVVAFLCIVIYWKRYSAILNNLINI"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009352953.1",
+    "genome": "NC_034266.1",
+    "organism": "Columbid alphaherpesvirus 1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Alphaherpesvirinae",
+      "Mardivirus",
+      "Mardivirus columbidalpha1"
+    ],
+    "genome_description": "Columbid alphaherpesvirus 1 strain HLJ, complete genome",
+    "start_1based": 108536,
+    "end_inclusive": 110542,
+    "strand": 1,
+    "location": "[108535:110542](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "B7477_gp059"
+      ],
+      "old_locus_tag": [
+        "CoHVHLJ_059"
+      ],
+      "note": [
+        "cell attachment; UL44"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "envelope glycoprotein C"
+      ],
+      "protein_id": [
+        "YP_009352953.1"
+      ],
+      "db_xref": [
+        "GeneID:32014207"
+      ],
+      "translation": [
+        "MGGAGRAPSDDVAGPSQRALLLAVLLLSPCAWHVAGQSGDFWSDAPSGDRSTETYLQETGSAGYEDVFSATQPQVHDPETTTAVTGDATQWETGAYTPTTDDGRTDRSTTVDPTAQEASGSECNEADSSEERPFETDDFIPVDVRQDPRPGGTAEPPSSPDPTGSWLGASRAPAYDIFSILGRRKRMANGDGSGSGTTPSEEYSVVTAHPSQPAVAAQVAPSSPTGAPSTTASTGPSSTGGSASSAAAPTTAGTTASGHAAGGSAGGKNDSAARPGVDLVCSRYELYTTLNRTMRFNCTVVPVGDGADDIKWRIRAFFRSSDMVAESAATGDYVDYGSMWYPSFSHPGRVTRVFASFKEEDGLWTSYPDGDKYNLMIQNYTFILTVRNVGAHDDGYFNVGLFDHDFNVLVQINVTVRVVKRPSVVDVTALPVILGHNFTAVCAVREFYPPGTVNVAWKNNGQAVDAGSVSSDVHVDENGVATIISTLTVDGKGADHAPMLSCYANWRVGNAESHTSASINSRVYRPPILSMWFEDSNAICKAICVPDDIWIAWFIDADPQPQGLVYTNRSGVCMSVPGYVNIYSVVPLADKMKASKYTCSLNGYPFDSDLFEISEYFDGSVMGRGRPVITTIVTVFAAGIVLCVLIMILAFCFYSAGSKDLDLYAIKT"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009342359.1",
+    "genome": "NC_033464.1",
+    "organism": "Spheniscid alphaherpesvirus 1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Alphaherpesvirinae",
+      "Mardivirus",
+      "Mardivirus spheniscidalpha1"
+    ],
+    "genome_description": "Sphenicid alphaherpesvirus 1 isolate lib01004 genome assembly, complete genome: monopartite",
+    "start_1based": 26998,
+    "end_inclusive": 28404,
+    "strand": -1,
+    "location": "[26997:28404](-)",
+    "qualifiers": {
+      "gene": [
+        "UL44"
+      ],
+      "locus_tag": [
+        "BQ1924_gp19"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "envelope glycoprotein C"
+      ],
+      "protein_id": [
+        "YP_009342359.1"
+      ],
+      "db_xref": [
+        "GOA:A0A1R3T437",
+        "InterPro:IPR001038",
+        "InterPro:IPR007110",
+        "InterPro:IPR013783",
+        "InterPro:IPR036179",
+        "UniProtKB/TrEMBL:A0A1R3T437",
+        "GeneID:30902396"
+      ],
+      "translation": [
+        "MERSFFNLQRTVVLLACLTLFVNEAGSQSTTVSTATSSTTAMVSTNNVGRTKTTVTPHAANNDDRVSMTFAEYNKNYTMRCIIPKINDSMISGSKNLTVSVYFHKGFAEYGIDAVNVDSGDENIGSDDDLNSTNVIHEPATDNADYLVTKVFAASYTTNYTVDVNIKNPHKYSVEVTPNSDVLLLTIRSITIGDEGIYMWEFSNGNATIHRSFVKLEVYKVPSKVEVTAPPRLVGNPFDAICFITNFYPQKSVKVYWYKNSEEVNHDLYETVYETGFNGLTSAISTLTVMETKNRPPPALKCVASITLGNADKVIEHGSEVIPSMYFEPTVTAYVNGYGKVVCKAKCVLPNTVGITWTVGGVIEKELWPAAGVTESGVCEEHPGLVNIVGQRDLSEENGPLEYKCHLIGYPHGLPDFTASVIFDASPELMAKPVIITAALALLAASVLGSLIMITALCLYYSRDTYGL"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009022070.1",
+    "genome": "NC_023893.1",
+    "organism": "Sclerotinia sclerotiorum betaendornavirus 1",
+    "taxonomy": [
+      "Viruses",
+      "Riboviria",
+      "Orthornavirae",
+      "Kitrinoviricota",
+      "Alsuviricetes",
+      "Martellivirales",
+      "Endornaviridae",
+      "Betaendornavirus",
+      "Betaendornavirus sclerotiniae"
+    ],
+    "genome_description": "Sclerotinia sclerotiorum betaendornavirus 1 isolate 11691, complete genome",
+    "start_1based": 26,
+    "end_inclusive": 10405,
+    "strand": 1,
+    "location": "[25:10405](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "DK24_gp1"
+      ],
+      "note": [
+        "contains methyltransferase (MTR), cysteine-rich region (CRR), DEAD-like helicase (DEXDc), viral RNA helicase (Hel), Phytoreo_S7 and RNA-dependent RNA polymerase (RdRp)"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "polyprotein"
+      ],
+      "protein_id": [
+        "YP_009022070.1"
+      ],
+      "db_xref": [
+        "GeneID:18983192"
+      ],
+      "translation": [
+        "MSQTITNTTITTTTITDAQINTHKRAFGSLSKDYPNKNHQRGLTWFDVVDPPKQQKHWPKLTPNPRWKKLSTSKNAVGKAELGGETQVMASYNCWQCIFGYDLGIDTAISLEMIKMTIMCQPEDAAHIQIQASYANGMLHIANPPGLPTGEMTPELFNAQRKFVEHPIDGCIKLIDLVDLYDEGTMVGFTPRTITEKLANDIGVDVNSVDTQQLKKAISDSVNSRGTKAVTKFTDQAIILPTSCPEEIVNDLNNEFGNATFIRGNKEHHPHIYHNASRKAVTNLLCGWHGRDALIYDIGGNPASHLNAGRFTVHSVYSKNQAADNARHIKWSKQCVAWARRNMNNENNHSVVNGVANSILKPNSALWCSDGINKCVHSSKHGSFGISIDTLFHLPVNDLFDFYIRNKVFHSVHAITLPTNYSYARNGALKYNEGHWYKKNDDWTIEFNGESLAYSQSVALTDTYLTVPLHNIGEMVVYCKVSGYKGAHLIIEHYLIDRAQLDQLYLKHVMWFNTNMDELFVMVPRINMDQSTTVMGRIPYTMEQVVINVRFYERLLNRLMQSYTWDSVLSYAAGLIGRVYATSSGLHMKWNLTNSQVRDHCLIAYWTTNRINESIKPLLAQAEHASRDPDFLTSLWNSLKNWLKDFGSQFDPTGNNTVQKFIADNKGDTLRLIQMFNSTVRSVESLNVATQMVHSRSVVDWVASSTGVSYRRLDVDIDTWRLNQDMSGNKMTVYDHIEFKDAKPAGVNIGCSITKTCTHDHKPFHLHLSDLSRRMGNCACCGVVSNLNITKLCTICSDILPCHGKNLRCTHIHEQLNDECCLLTKCTCKKDKNCSCCGLPSVGTYCKVCQFLPDKATNKQPTNSVNNNSTTVAPIIMKPTTERKDAPVRFTFEKPQVSNTQNEFKKNESATHPLATNNDSLFVTLKEQLVDDVVTFDDKTTIKSDDAEIRSVATESIVSVEASVDAIQLNDNNIEPLLPEEEVAGTEQISTLMRAVVSVDDVNPGHADTVLTRLPPRYQGGVAVRVVGYTDVPGDGTCGAHALSVALGLNVDEVKHWLTVATGHDDWHNSEELAACALAYGRNLICVDIGDTTIYRGGDQDYAGSIIHGTVVGCGAHWLAGNCNILSYSSLFTNKLISDYTNLLRAAHLTLNGSDQTALAYSHSDLDVDSIIDMNGSIIISREGISVQHEGGNSKCQISDKSDDIKMIIGPTGSGKTTTAFQHIEGKVLLITPLRSAVNNSFDYLKNKVKVVARAQGAWIPDNINIKDITKSDLVIMTMETLYSGIFIGQDKKNIYHQLVSARAIICDEVHEISPHYARLLTVLPKNKTYICSATMPGIKLDYNCKFDVTTNFVQGDIVDYWFNEVKTSRTMPLNTCYIVGTKNECKFADMPNDIKAINSSTINEVTINEVNRCIATNIVTTSITMPQIANIIDLGVRITSDVIVKPYLTDVEKDIRFFNYSKRLYSWAEMTQARGRVGRVSDGQFYGPCPDKTTRQSNIEAMLNSCYTRAPCYSGLLHEWQMITQKNYDEAVNHFTKLGNTFDSKPKWWDEFQSWQESVAELLQCKNANLQPVFVDEYIHKEDILALIPNYIGTNPISTSMKHNKNRVGALRYSCAVDWDNVLPKHLYETTDNIDFESLVISVPDSSQFLNIETDSNEEIASKLRLLAIASILNAIKGLMARGQIYINTNKWSDQHGQYILYDSLEDAQALSGINLSEYDIIGLVDIKKSSMRITHYQQSNKWVGYVIVPTYKTHHYMGQLTDIGLIRDRQAPLVDTLRNSTLYVGPPGSGKTTMMVNENKSSYTTTISSGQLKNHGTWLPPSLIPHSQENINIDEIGLLDVSVILSLASRSNKLTGTGDISQVVHIANETNAYYTGFDSGIDLFSKYANKIYLDKTHRFGPLTCNLVAKLGFDINPTNIDKIEEIKGYVCATNDNKSYSKVLIASEPDAIICATNHLARMFRKITQIPVYNIAKCQGIDTPNTLVVLQGGQIDVLANNQLYVALTRHSQRLSIIVDPPHAALLTQLCIETENMISYADALGGSSNITQPIFNYIIESNMNRLLNDAQVMNYLTTICALQSGKISPNTMIVIMDQMNSHYNNCPFKFVRLREIKDIKQLECVVSLYGIQCIVYNISITDERELLCCLLTQVTTNKHIKEYLRSLPNRFAATGKKLCYNLYLWLSKFMKDNASVLSTYLYANDTIDIGGGVDLCHVLWLAINGVRSAFMTLIHLLDDVGNKLSKYTDGSYAAEQFKELLIDTWKKSNPLSFGDLKISSSVISLFKIFRDHFGSGIKTLWDFIQYVVKNMREWWENQFNNDKPIYYELEGTSMSLIVTDSPCIDIMRNSLDGDYSLIDGSPTISNTQYITTLDNLIDNSTIGWEKKDVPSPTCEDCPDDIQEVLDEIEVLFDYEAETNEKYDSLIDNEHHESTHECSEPEVESSPCEQKNEKENIKQNQCLCIETCNDWQLADTIVTSLDLNTYKPNLMGRMVIEKISDGIKINLKLPGVGKFNAVTKKCCGDNTHLIYVTVNGEQLTLKISKIASGYELYCMPDVVDVNFSQLEQAIKMLSKLGGGKLNNGMTLLVDSLKITRKFIKKLVRLTHYKLKYLMGTINLRHLTSNRSNLEVYRTICHRLPTSYGNSKFSTRECIGGTVLSTIELIPNNAANRSEIFIAIYNVNGDTQILIFTNDNNYSNYITRRLMTPVEHGNFAGDRSAISALLRLGIDIKSILTQDNDLTIDDIKKWLLANPLTSMFDVTDQRTYNNAKEHSIVEKHLFTDIHNILDKPLDVKYAFCIPSGHGKTTTVNRIRRSNQEFTVLDVDEVQEQATILHLGFEDKMLNYKEKLEKYIANSTKPPDAVFIHSPICAPAGYKVIIILNDGADVPLDRIWSDKNVCHLESMNNIIHTQNYDDVYNVTINYLNKKLTGDITLEDGTTIVDNIDSILGDSFMRNHPGYDDIYRLPTGKQDILNMNTGNIGLGEQRFFKTGPHPEVMRPTVNKMPSALPNAIMTRLMGRVKYRTVDLTIKDYHKLMTKFFIKGYESKLASYTDDPINLNYEDILNWLVAKGNKIQLLDNMLRSVKDDEFATDPANINVHYKVENLMKEQVNDILDQVGRVIVWNNQNINMYACPVINEAKARFKSLLKPNVIYTDGMTVADMNKSIGQYKSKWLLEMDLSKQDRQTDAQILIYEWKLMGMLGVPDVLIEFMTSFIPTFRINGTSHETAKLPAIHFSGGAMTSMGNEIRNLLLLSDCIGNNYVAIYTLGDDSLVLMNTKPDLELYKRICASRHNVENTAVASTNCALFLQMIVARNEDGTYYLSHNFARLKEKLVYSTYPNTSSDWKMKYASYLMMIGYSAQTKRAMEYSGFVSFPSLGTTMSQRVSANALYNEINDLQVFNIINDIINAKEQISEEIIIQLPVIMTGSKLKSGMSKVGKYVDNHNTMHELLIQYMEEHTET"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009046543.1",
+    "genome": "NC_024450.1",
+    "organism": "Falconid herpesvirus 1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Alphaherpesvirinae",
+      "Mardivirus",
+      "Mardivirus columbidalpha1"
+    ],
+    "genome_description": "Falconid herpesvirus 1 strain S-18, complete genome",
+    "start_1based": 108391,
+    "end_inclusive": 110397,
+    "strand": 1,
+    "location": "[108390:110397](+)",
+    "qualifiers": {
+      "locus_tag": [
+        "HQ28_gp059"
+      ],
+      "old_locus_tag": [
+        "FaHV1S18_059"
+      ],
+      "note": [
+        "cell attachment; UL44"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "envelope glycoprotein C"
+      ],
+      "protein_id": [
+        "YP_009046543.1"
+      ],
+      "db_xref": [
+        "GeneID:19738347"
+      ],
+      "translation": [
+        "MGGAGRAPSDDVAGPSQRALLLAVLLLSPCAWHVAGQSGDFWSDAPSGDRSTETYLQETGSAGYEDVFSATQPQVHDPETTTAVTGDATQWETGAYTPTTDDGRTDRSTTVDPTAQEASGSECNDADSSEERPFETDDFIPVDVRQDPRPGGTAEPPSSPDPTGSWLGASRAPAYDIFSILGRRKRMANGDGSGSGTTPSEEYSVVTAHPSQPAVAAQVAPSSPTGAPSTTASAGPSSTGGSAXSAAAPTTAGTTASGHAASGSAGGKNDSAARPGVDLVCSRYELYTTLNRTMRFNCTVVPVGDGADDIKWRIRAFFRSSDMVAESAATGDYVDYGSMWYPSFSHPGRVTRVFASFKEEDGLWTSYPDGDKYNLMIQNYTFILTVRNVGAHDDGYFNVGLFDHDFNVLVQINVTVRVVKRPSVVDVTALPVILGHNFTAVCAVREFYPPGTVNVTWKNNGQAVDAGSVSSDVHIDENDVATIISTLTVDGKGADHAPMLSCYANWRVGNAESHTSASVNSRVYRPPILSMWFEDSNAICKAICVPDDIWIAWFIDADPQPQELIYTNRSGVCMSVPGYVNIYSVVPLADKMKASKYTCSLNGYPFDSDLFEISEYFDGSVMGRGRPVITTIVTVFAAGIVLCVLIMILAFCFYSAGSKDLDLYAIKT"
+      ]
+    }
+  },
+  {
+    "protein": "YP_007969839.1",
+    "genome": "NC_020474.2",
+    "organism": "Elephantid betaherpesvirus 1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Proboscivirus",
+      "Proboscivirus elephantidbeta1"
+    ],
+    "genome_description": "Elephantid herpesvirus 1, complete genome",
+    "start_1based": 134073,
+    "end_inclusive": 134743,
+    "strand": 1,
+    "location": "join{[134072:134130](+), [134204:134255](+), [134324:134743](+)}",
+    "qualifiers": {
+      "gene": [
+        "EE23"
+      ],
+      "locus_tag": [
+        "I868_gp080"
+      ],
+      "note": [
+        "contains signal peptide; contains immunoglobulin domain; OX-2 family"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "protein EE23"
+      ],
+      "protein_id": [
+        "YP_007969839.1"
+      ],
+      "db_xref": [
+        "GeneID:15486263"
+      ],
+      "translation": [
+        "MARMLYLIVGVAAALFCATDSYPLTSEEDSDEVTYSTSVETNISSSSDRHGKLNVTCLARALPPASNVTWIGLSNIDNSTSITNNTDGTLTVRSTLYVTDDKRQINGSAYCKVSHQVSVTYLAAPWNSADDLGIFDLIIKELDLSDDFELVFNDGEGDDEDDDYDDDEGEDDEDK"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009052043.1",
+    "genome": "NC_024696.1",
+    "organism": "Elephant endotheliotropic herpesvirus 5",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Proboscivirus"
+    ],
+    "genome_description": "Elephant endotheliotropic herpesvirus 5 strain Vijay, complete genome",
+    "start_1based": 133932,
+    "end_inclusive": 135044,
+    "strand": 1,
+    "location": "join{[133931:133989](+), [134072:134426](+), [134502:134817](+), [134895:135044](+)}",
+    "qualifiers": {
+      "gene": [
+        "EE22A"
+      ],
+      "locus_tag": [
+        "JS59_gp079"
+      ],
+      "note": [
+        "type 1 membrane protein; contains 2 immunoglobulin domains; OX-2 family"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "membrane protein EE22A"
+      ],
+      "protein_id": [
+        "YP_009052043.1"
+      ],
+      "db_xref": [
+        "GeneID:20098533"
+      ],
+      "translation": [
+        "MDLKLSCLLFIPTIIFFYSGGNAYIEITSQSPQLGSETTLTCSLKNDSDYPIAVRWQKENASREDRDLGMIFPGNTNAKLYDRYEGKINISQTNSMRETTLTFFNTTVEDEGCFLCVFYCSGQSPYVLLNKTCVTVSAAPTVFISTKDDGNQTNVTCTATGLPAPLVQWLGHGPGVENSTQNTTNKNGTVSVSSTLYFKKSSDIGSKPYYCVVELFGNITNSITWNTPITPTPPVDAVPRDGDSRDARSRSLISGVSIATVVLIVLILLVIYYHTKKPDQHELDETQPPGE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_009118468.1",
+    "genome": "NC_026421.1",
+    "organism": "Equid gammaherpesvirus 5",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Gammaherpesvirinae",
+      "Percavirus",
+      "Percavirus equidgamma5"
+    ],
+    "genome_description": "Equid herpesvirus 5 strain 2-141/67, complete genome",
+    "start_1based": 170973,
+    "end_inclusive": 171797,
+    "strand": 1,
+    "location": "[170972:171797](+)",
+    "qualifiers": {
+      "gene": [
+        "E11"
+      ],
+      "locus_tag": [
+        "TS67_gp78"
+      ],
+      "note": [
+        "type 1 membrane protein; similar to OX-2; involved in immune regulation"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "membrane protein E11"
+      ],
+      "protein_id": [
+        "YP_009118468.1"
+      ],
+      "db_xref": [
+        "GeneID:23104215"
+      ],
+      "translation": [
+        "MNSLLCWKSLWWNLSTCRWLLWILAGAMLCRAQVVTQDERVLLNTPASLKCSLQTSQEVLIVTWQKIKPTIPENMITFSKDHGVVVQPAYKDKINITQLGLQNSTITFWNTTLEDEGCYNCLFNTFGSGKISGVACLTLSVQPTVFLHYKFFDDHLNITCSANARPPPQIFWKISGSEIENSSEVLSHSNGTTSVTSVLQVKDPKSQLGKEVICQVWHLGNVTNLRETVSKGIWFSVPLLISLLSLVIILLVVIVVIILCCKRRAKRRRRQGII"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004940044.1",
+    "genome": "NC_016447.1",
+    "organism": "Aotine betaherpesvirus 1",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Cytomegalovirus",
+      "Cytomegalovirus aotinebeta1"
+    ],
+    "genome_description": "Aotine herpesvirus 1 strain S34E, complete genome",
+    "start_1based": 20743,
+    "end_inclusive": 21789,
+    "strand": -1,
+    "location": "[20742:21789](-)",
+    "qualifiers": {
+      "gene": [
+        "A18"
+      ],
+      "locus_tag": [
+        "AoHV-1_gp021"
+      ],
+      "note": [
+        "type 1 membrane protein; MHC family"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "membrane protein A18"
+      ],
+      "protein_id": [
+        "YP_004940044.1"
+      ],
+      "db_xref": [
+        "GeneID:11464092"
+      ],
+      "translation": [
+        "MLSRLLLVSACVWGGGGGGAEISHSLTYCFYAVSEYGKQARLRVLGYVDDTPFVKFDSKATIPRVESITPWLELDNSQYFEKNTEKCKHLERNFGVHLKMAMGYYNQTDTKPHTLQLLLECNIGLDERFLSGHFQYAYDAKDHISLNDNLDTWVAANVAAQITKRKFEASNLQQKLKKYLEGECIEWLRRYLTNGNLSTYFVSPKVSITKHETHQNVTLKCWAWDFYPAKITLEWKNDNVNVTDLTEFVETRPLGNGTFEKWMAIVVQLGEEWKYSCHVHHHGVTFNYTLPQRFQTSIAKGPVAGGVGIVIIVSVLAVGGFTMWKFKNKRLKTNRRYDEVFVTDAEFE"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004940185.1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Cytomegalovirus",
+      "Cytomegalovirus saimiriinebeta4"
+    ],
+    "genome_description": "Saimiriine herpesvirus 4 strain SqSHV, complete genome",
+    "start_1based": 10976,
+    "end_inclusive": 11974,
+    "strand": -1,
+    "location": "[10975:11974](-)",
+    "qualifiers": {
+      "gene": [
+        "S7"
+      ],
+      "locus_tag": [
+        "SaHV-3_gp009"
+      ],
+      "note": [
+        "type 1 membrane protein; MHC family"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "membrane protein S7"
+      ],
+      "protein_id": [
+        "YP_004940185.1"
+      ],
+      "db_xref": [
+        "GeneID:11464244"
+      ],
+      "translation": [
+        "MICEYVAKIPLSLSLSLSCVFSHFLTYQNTLVSNSSGKHYFFQVAYVDDVQIMTFNSTVMKSDLKQSVLELEMDGNLETNTQRSKESMEMMIHLLRFLSTQQSKNLESHTLQWVYGCGYDDKFMRFGYDGVEIFRLGSEGKSWVSTCNESLWMKHILDECYPAKYTTTYFESTCLQWLRRHSSEVLILLMTKPHTKLIKEAISTNESRLRCWASSFYPAGINITWSKDEVDKINETQSVDTRPDGPGTFQKWSAIVVPSGEEHKYVCSIYHDGFSYPVNLTLELLMSAQFRDVNTHTGLIFGLLLLGGSVIFGVVWKIWRDRVNIPRIRLWR"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004940186.1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Cytomegalovirus",
+      "Cytomegalovirus saimiriinebeta4"
+    ],
+    "genome_description": "Saimiriine herpesvirus 4 strain SqSHV, complete genome",
+    "start_1based": 12214,
+    "end_inclusive": 13239,
+    "strand": -1,
+    "location": "[12213:13239](-)",
+    "qualifiers": {
+      "gene": [
+        "S8"
+      ],
+      "locus_tag": [
+        "SaHV-3_gp010"
+      ],
+      "note": [
+        "type 1 membrane protein; MHC family"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "membrane protein S8"
+      ],
+      "protein_id": [
+        "YP_004940186.1"
+      ],
+      "db_xref": [
+        "GeneID:11464245"
+      ],
+      "translation": [
+        "MVSDVGLYIYTYIFVYMYIYTNIYVYNVAEGHSLEYYHTLVSHVNGTPHFFIQVGYVDDTPIMGFNSSISKSVLKQSFMEQEESTYWSTETERSKTSMAIMTQLLPKMSGKSHTLQLMYGCTKGSNGLLSDSFFKFGYDGKDYFYLGSDQKWIMVLNVSVKIQDECGTGMIHNYFEDECVEWISRYTGNSGGHFIISQPKTKVVKQRLSSTYLLLKCWASYFYPAKIRMTWFKDGVNRTNETEYVETRPHGDGTFQKWAAIVVSSGDEEKYVCQVDHAGFQQRVNLSVDPLSLAQSAADSNVHFGLITFGVIIGMVLTSYLVWRRWNNSFLPRRFFSNFDV"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004940188.1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Cytomegalovirus",
+      "Cytomegalovirus saimiriinebeta4"
+    ],
+    "genome_description": "Saimiriine herpesvirus 4 strain SqSHV, complete genome",
+    "start_1based": 13982,
+    "end_inclusive": 15016,
+    "strand": -1,
+    "location": "[13981:15016](-)",
+    "qualifiers": {
+      "gene": [
+        "S9"
+      ],
+      "locus_tag": [
+        "SaHV-3_gp012"
+      ],
+      "note": [
+        "type 1 membrane protein; MHC family"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "membrane protein S9"
+      ],
+      "protein_id": [
+        "YP_004940188.1"
+      ],
+      "db_xref": [
+        "GeneID:11464247"
+      ],
+      "translation": [
+        "MFSTFLLEFLLTSIVIGTKHSMRYFVTAVSRPGRGDPRYLEVGYVDDVQFVRFDSDVSNPKMESRVSWVVENETYWSNETLGCTIDQAQFKKNLETLATYYNQTYNRSHTIQRMYGCDVWENGSFIRGYEQYAYDGKDYFSLNEDLRSWTATDMAAQITKRKWEAANAAEKVQTYLQGACSQWLLRYVVNGTEMLKAIPPKTDVKSESVSSHETTLRCWALGFYPADIKITWYRDGEDQSQDTEQIDTRPAGDGTFQKWVAIVVPSGEETRYTCDVQHEGLPGSVTVIERLESSDSSIPFVGVSVVMIALLGLAVLFFLWRRKRMGGTPPVDDSVTVTLRDDED"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004940190.1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Cytomegalovirus",
+      "Cytomegalovirus saimiriinebeta4"
+    ],
+    "genome_description": "Saimiriine herpesvirus 4 strain SqSHV, complete genome",
+    "start_1based": 16844,
+    "end_inclusive": 17878,
+    "strand": -1,
+    "location": "[16843:17878](-)",
+    "qualifiers": {
+      "gene": [
+        "S11"
+      ],
+      "locus_tag": [
+        "SaHV-3_gp014"
+      ],
+      "note": [
+        "type 1 membrane protein; MHC family"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "membrane protein S11"
+      ],
+      "protein_id": [
+        "YP_004940190.1"
+      ],
+      "db_xref": [
+        "GeneID:11464249"
+      ],
+      "translation": [
+        "MWIFIVIYFRVLCNFSLSYSLRYFSVSIERDNQEPLYLEAGYVDDIEIVRFDSSDADPKMRPKVSWIQESSSFWDTETEGCVGDRTIFKSNLKVLLRYYNQSGKHIIQRMCGCQGSSNGTLIHGYDQYAYDGKDYIMLTDDLQDWQVTDMYSKLTKDKWDGQNRAQVVRAYLEIDCPEWVQKYVINGTRAGAFQIKAPQVFLTEHHLSDHEVNLKCWALNFYPADIYMMWMKDGEDQAQDIETIETRPSGDGTYQKWVAIVVSPQERQRYQCEVQHVGQKTSVTSKLQSSADSGYGGSLTGIFVVTVALGVGISVVIWRKKLGSKIIMYRRNVGVRMESVSETA"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004940191.1",
+    "genome": "NC_016448.1",
+    "organism": "Saimiriine betaherpesvirus 4",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Betaherpesvirinae",
+      "Cytomegalovirus",
+      "Cytomegalovirus saimiriinebeta4"
+    ],
+    "genome_description": "Saimiriine herpesvirus 4 strain SqSHV, complete genome",
+    "start_1based": 18194,
+    "end_inclusive": 19069,
+    "strand": 1,
+    "location": "[18193:19069](+)",
+    "qualifiers": {
+      "gene": [
+        "S12"
+      ],
+      "locus_tag": [
+        "SaHV-3_gp015"
+      ],
+      "note": [
+        "type 1 membrane protein; MHC family"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "membrane protein S12"
+      ],
+      "protein_id": [
+        "YP_004940191.1"
+      ],
+      "db_xref": [
+        "GeneID:11464250"
+      ],
+      "translation": [
+        "MILYCISMAFWSFTSGYTYTLEFLYTTDNSAIYAAGFFNNVQFFSYNSNTQNISTIAPWTEDVPNYEHTTELISILIQNYSNVVMHLKYGCRLNETTTELFSPNKINQTLELKNSIDYYLNHSCINQLNRYIDVSHNITFVRSPVTSLVMTYRPNQKLLCRAIDFFPPINIKASWYKDNQLISTTHQIRPSGNGYFQSSISTPFTFGDEHRYTCKITHLSDIFQLHFYWPKDLDSEENDENHDYHSVWLYRILYLLIALFVITFIYCCKTGIQEQLKLHDNTRYQRLDLLT"
+      ]
+    }
+  },
+  {
+    "protein": "YP_004207833.1",
+    "genome": "NC_015049.1",
+    "organism": "Cricetid gammaherpesvirus 2",
+    "taxonomy": [
+      "Viruses",
+      "Duplodnaviria",
+      "Heunggongvirae",
+      "Peploviricota",
+      "Herviviricetes",
+      "Herpesvirales",
+      "Orthoherpesviridae",
+      "Gammaherpesvirinae",
+      "Rhadinovirus",
+      "Rhadinovirus cricetidgamma2"
+    ],
+    "genome_description": "Rodent herpesvirus Peru, complete genome",
+    "start_1based": 236,
+    "end_inclusive": 697,
+    "strand": -1,
+    "location": "[235:697](-)",
+    "qualifiers": {
+      "locus_tag": [
+        "RHVP.R1"
+      ],
+      "note": [
+        "similar to MHC class I antigen"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "hypothetical protein"
+      ],
+      "protein_id": [
+        "YP_004207833.1"
+      ],
+      "db_xref": [
+        "GeneID:10192270"
+      ],
+      "translation": [
+        "MKPCRKQVTKRTRIPPCSFNGPQTPKILIFYQSLVSPQVHVTRQATPDRQVTLKCWATGFYPADITITWHMGAEQLTDGVGQVETRPAGDGTFQKWAAIEVPAHKEHKYTCHVKHEASNMAITVTGGTSSPSIGGPNMTLLLAMIMFALKIGS"
+      ]
+    }
+  }
+]

@@ -1,0 +1,535 @@
+Entry	Entry Name	Protein names	Organism (ID)	Organism	family	split	Length	EMBL
+A0A075B6H9	LV469_HUMAN	Immunoglobulin lambda variable 4-69	9606	Homo sapiens (Human)	IGL_V	train	119	AC245452;
+A0A075B6I0	LV861_HUMAN	Immunoglobulin lambda variable 8-61	9606	Homo sapiens (Human)	IGL_V	train	122	AC245517;
+A0A075B6I1	LV460_HUMAN	Immunoglobulin lambda variable 4-60	9606	Homo sapiens (Human)	IGL_V	train	120	AC245517;
+A0A075B6I4	LVX54_HUMAN	Immunoglobulin lambda variable 10-54	9606	Homo sapiens (Human)	IGL_V	train	117	AC245060;
+A0A075B6I9	LV746_HUMAN	Immunoglobulin lambda variable 7-46	9606	Homo sapiens (Human)	IGL_V	train	117	AC245291;
+A0A075B6J1	LV537_HUMAN	Immunoglobulin lambda variable 5-37	9606	Homo sapiens (Human)	IGL_V	train	123	AC245291;
+A0A075B6J6	LV322_HUMAN	Immunoglobulin lambda variable 3-22	9606	Homo sapiens (Human)	IGL_V	train	115	AC244250;
+A0A075B6J9	LV218_HUMAN	Immunoglobulin lambda variable 2-18	9606	Homo sapiens (Human)	IGL_V	train	118	AC244250;CH471095;
+A0A075B6K0	LV316_HUMAN	Immunoglobulin lambda variable 3-16	9606	Homo sapiens (Human)	IGL_V	train	115	AC244250;CH471095;
+A0A075B6K2	LV312_HUMAN	Immunoglobulin lambda variable 3-12	9606	Homo sapiens (Human)	IGL_V	train	115	AC244157;CH471095;
+A0A075B6K4	LV310_HUMAN	Immunoglobulin lambda variable 3-10	9606	Homo sapiens (Human)	IGL_V	train	115	AC245028;CH471095;
+A0A075B6K5	LV39_HUMAN	Immunoglobulin lambda variable 3-9	9606	Homo sapiens (Human)	IGL_V	train	115	AC245028;CH471095;
+A0A075B6K6	LV403_HUMAN	Immunoglobulin lambda variable 4-3	9606	Homo sapiens (Human)	IGL_V	train	122	AC245028;
+A0A075B6L2	TVG11_HUMAN	Probable non-functional T cell receptor gamma variable 11	9606	Homo sapiens (Human)	TRG_V	train	119	AC006033;
+A0A075B6L6	TVB73_HUMAN	Probable non-functional T cell receptor beta variable 7-3	9606	Homo sapiens (Human)	TRB_V	train	115	AC245088;
+A0A075B6N1	TVB19_HUMAN	T cell receptor beta variable 19	9606	Homo sapiens (Human)	TRB_V	train	114	AC244472;
+A0A075B6N2	TVBT1_HUMAN	T cell receptor beta variable 20-1	9606	Homo sapiens (Human)	TRB_V	train	111	AC244472;
+A0A075B6N3	TVBX1_HUMAN	T cell receptor beta variable 24-1	9606	Homo sapiens (Human)	TRB_V	train	115	AC244472;
+A0A075B6N4	TVBY1_HUMAN	T cell receptor beta variable 25-1	9606	Homo sapiens (Human)	TRB_V	train	114	AC244472;
+A0A075B6P5	KV228_HUMAN	Immunoglobulin kappa variable 2-28	9606	Homo sapiens (Human)	IGK_V	train	120	AC244255;
+A0A075B6Q5	HV364_HUMAN	Immunoglobulin heavy variable 3-64	9606	Homo sapiens (Human)	IGH_V	train	118	AC245369;
+A0A075B6R0	TRGV2_HUMAN	T cell receptor gamma variable 2	9606	Homo sapiens (Human)	TRG_V	train	118	AC007245;
+A0A075B6R2	HV404_HUMAN	Immunoglobulin heavy variable 4-4	9606	Homo sapiens (Human)	IGH_V	train	117	AC244226;
+A0A075B6S0	TRGJ1_HUMAN	T cell receptor gamma joining 1	9606	Homo sapiens (Human)	TRG_chain	train	16	AC006033;
+A0A075B6S2	KVD29_HUMAN	Immunoglobulin kappa variable 2D-29	9606	Homo sapiens (Human)	IGK_V	train	120	AC233264;
+A0A075B6S4	KVD17_HUMAN	Immunoglobulin kappa variable 1D-17	9606	Homo sapiens (Human)	IGK_V	train	117	AC243981;AC245506;
+A0A075B6S5	KV127_HUMAN	Immunoglobulin kappa variable 1-27	9606	Homo sapiens (Human)	IGK_V	train	117	AC244255;
+A0A075B6S6	KVD30_HUMAN	Immunoglobulin kappa variable 2D-30	9606	Homo sapiens (Human)	IGK_V	train	120	AC233264;
+A0A075B6T6	TVAL2_HUMAN	T cell receptor alpha variable 12-2	9606	Homo sapiens (Human)	TRA_V	train	113	AC243980;
+A0A075B6T7	TVA6_HUMAN	T cell receptor alpha variable 6	9606	Homo sapiens (Human)	TRA_V	train	132	AC243980;
+A0A075B6T8	TVA91_HUMAN	T cell receptor alpha variable 9-1	9606	Homo sapiens (Human)	TRA_V	train	112	AC243980;
+A0A075B6U4	TVA7_HUMAN	T cell receptor alpha variable 7	9606	Homo sapiens (Human)	TRA_V	train	112	AC243980;
+A0A075B6V5	TVA36_HUMAN	T cell receptor alpha variable 36/delta variable 7	9606	Homo sapiens (Human)	TRA_V	train	113	AC245470;
+A0A075B6W5	TVA23_HUMAN	T cell receptor alpha variable 23/delta variable 6	9606	Homo sapiens (Human)	TRA_V	train	121	AC245505;
+A0A075B6X5	TVA18_HUMAN	T cell receptor alpha variable 18	9606	Homo sapiens (Human)	TRA_V	train	111	AC245505;
+A0A075B6Y3	TJA3_HUMAN	T cell receptor alpha joining 3	9606	Homo sapiens (Human)	TRA_chain	train	20	AC243965;
+A0A075B6Y9	TJA42_HUMAN	T cell receptor alpha joining 42	9606	Homo sapiens (Human)	TRA_chain	train	20	AC243965;
+A0A075B700	TJA31_HUMAN	T cell receptor alpha joining 31	9606	Homo sapiens (Human)	TRA_chain	train	18	AC243965;
+A0A075B706	TRDJ1_HUMAN	T cell receptor delta joining 1	9606	Homo sapiens (Human)	TRD_chain	train	16	AC244502;
+A0A087WSX0	LV545_HUMAN	Immunoglobulin lambda variable 5-45	9606	Homo sapiens (Human)	IGL_V	train	123	AC245291;
+A0A087WSY4	HV432_HUMAN	Immunoglobulin heavy variable 4-30-2	9606	Homo sapiens (Human)	IGH_V	train	118	AC245166;
+A0A087WSY6	KVD15_HUMAN	Immunoglobulin kappa variable 3D-15	9606	Homo sapiens (Human)	IGK_V	train	115	AC243981;
+A0A087WSZ0	KVD08_HUMAN	Immunoglobulin kappa variable 1D-8	9606	Homo sapiens (Human)	IGK_V	train	117	AC243981;
+A0A087WSZ9	TVA30_HUMAN	T cell receptor alpha variable 30	9606	Homo sapiens (Human)	TRA_V	train	112	AC245470;
+A0A087WT01	TVA27_HUMAN	T cell receptor alpha variable 27	9606	Homo sapiens (Human)	TRA_V	train	109	AC245470;
+A0A087WT02	TVA92_HUMAN	T cell receptor alpha variable 9-2	9606	Homo sapiens (Human)	TRA_V	train	112	AC243980;
+A0A087WT03	TVAZ1_HUMAN	T cell receptor alpha variable 26-1	9606	Homo sapiens (Human)	TRA_V	train	109	AC245470;
+A0A087WV62	TVB16_HUMAN	T cell receptor beta variable 16	9606	Homo sapiens (Human)	TRB_V	train	115	AC244472;
+A0A087WW87	KV240_HUMAN	Immunoglobulin kappa variable 2-40	9606	Homo sapiens (Human)	IGK_V	train	121	AC244255;
+A0A087X0K7	TVB17_HUMAN	Probable non-functional T cell receptor beta variable 17	9606	Homo sapiens (Human)	TRB_V	train	114	AC229888;AC244472;
+A0A087X0M5	TVB18_HUMAN	T cell receptor beta variable 18	9606	Homo sapiens (Human)	TRB_V	train	115	AC244472;
+A0A0A0MRZ7	KVD26_HUMAN	Immunoglobulin kappa variable 2D-26	9606	Homo sapiens (Human)	IGK_V	train	120	AC233264;
+A0A0A0MRZ8	KVD11_HUMAN	Immunoglobulin kappa variable 3D-11	9606	Homo sapiens (Human)	IGK_V	train	115	AC243981;
+A0A0A0MRZ9	LV552_HUMAN	Immunoglobulin lambda variable 5-52	9606	Homo sapiens (Human)	IGL_V	train	124	AC245060;
+A0A0A0MS01	TVG10_HUMAN	Probable non-functional T cell receptor gamma variable 10	9606	Homo sapiens (Human)	TRG_V	train	119	AC006033;
+A0A0A0MS02	TRGV1_HUMAN	Probable non-functional T cell receptor gamma variable	9606	Homo sapiens (Human)	TRG_V	train	117	AC007245;
+A0A0A0MS03	TVB53_HUMAN	Probable non-functional T cell receptor beta variable 5-3	9606	Homo sapiens (Human)	TRB_V	train	114	AC245088;
+A0A0A0MS04	TVB67_HUMAN	Probable non-functional T cell receptor beta variable 6-7	9606	Homo sapiens (Human)	TRB_V	train	114	AC233282;AC244196;
+A0A0A0MS05	TVB57_HUMAN	Probable non-functional T cell receptor beta variable 5-7	9606	Homo sapiens (Human)	TRB_V	train	114	AC233282;AC244196;
+A0A0A0MS06	TVB23_HUMAN	Probable non-functional T cell receptor beta variable 23-1	9606	Homo sapiens (Human)	TRB_V	train	115	AC239612;AC244472;
+A0A0A0MS14	HV145_HUMAN	Immunoglobulin heavy variable 1-45	9606	Homo sapiens (Human)	IGH_V	train	117	AC244452;
+A0A0A0MS15	HV349_HUMAN	Immunoglobulin heavy variable 3-49	9606	Homo sapiens (Human)	IGH_V	train	119	AC244452;AC245369;
+A0A0A0MT36	KVD21_HUMAN	Immunoglobulin kappa variable 6D-21	9606	Homo sapiens (Human)	IGK_V	train	114	AC245506;
+A0A0A0MT70	TJB26_HUMAN	T cell receptor beta joining 2-6	9606	Homo sapiens (Human)	TRB_chain	train	17	AC239618;AC245427;
+A0A0A0MT76	LJ01_HUMAN	Immunoglobulin lambda joining 1	9606	Homo sapiens (Human)	IGL_chain	train	42	AC245028;
+A0A0A0MT78	TJB27_HUMAN	T cell receptor beta joining 2-7	9606	Homo sapiens (Human)	TRB_chain	train	15	AC245427;
+A0A0A0MT87	TJB24_HUMAN	T cell receptor beta joining 2-4	9606	Homo sapiens (Human)	TRB_chain	train	16	AC239618;AC245427;
+A0A0A0MT89	KJ01_HUMAN	Immunoglobulin kappa joining 1	9606	Homo sapiens (Human)	IGK_chain	train	12	AC244205;
+A0A0A0MT94	TJB22_HUMAN	T cell receptor beta joining 2-2	9606	Homo sapiens (Human)	TRB_chain	train	16	AC239618;AC245427;
+A0A0A0MTA4	TJB25_HUMAN	T cell receptor beta joining 2-5	9606	Homo sapiens (Human)	TRB_chain	train	15	AC239618;AC245427;
+A0A0A0MTA7	TJB21_HUMAN	T cell receptor beta joining 2-1	9606	Homo sapiens (Human)	TRB_chain	train	16	AC239618;AC245427;
+A0A0A6YYC5	TVA14_HUMAN	T cell receptor alpha variable 14/delta variable 4	9606	Homo sapiens (Human)	TRA_V	train	116	AC243980;
+A0A0A6YYD4	TVB13_HUMAN	T cell receptor beta variable 13	9606	Homo sapiens (Human)	TRB_V	train	124	AC244196;
+A0A0A6YYG2	TVB66_HUMAN	T cell receptor beta variable 6-6	9606	Homo sapiens (Human)	TRB_V	train	114	AC244196;
+A0A0A6YYG3	TVB68_HUMAN	T cell receptor beta variable 6-8	9606	Homo sapiens (Human)	TRB_V	train	113	AC244196;
+A0A0A6YYJ7	TVA83_HUMAN	T cell receptor alpha variable 8-3	9606	Homo sapiens (Human)	TRA_V	train	113	AC243980;
+A0A0A6YYK1	TVA81_HUMAN	T cell receptor alpha variable 8-1	9606	Homo sapiens (Human)	TRA_V	train	113	AC243980;
+A0A0A6YYK4	TVB71_HUMAN	Probable non-functional T cell receptor beta variable 7-1	9606	Homo sapiens (Human)	TRB_V	train	115	AC231381;AC245088;
+A0A0A6YYK6	TVA16_HUMAN	T cell receptor alpha variable 16	9606	Homo sapiens (Human)	TRA_V	train	109	AC245505;
+A0A0A6YYK7	TVA19_HUMAN	T cell receptor alpha variable 19 (T-cell receptor alpha chain V region HPB-MLT)	9606	Homo sapiens (Human)	TRA_V	train	116	AC245505;
+A0A0B4J1U3	LV136_HUMAN	Immunoglobulin lambda variable 1-36	9606	Homo sapiens (Human)	IGL_V	train	117	AC009286;AC245291;
+A0A0B4J1U4	TRGV5_HUMAN	T cell receptor gamma variable 5	9606	Homo sapiens (Human)	TRG_V	train	118	AC006033;
+A0A0B4J1U6	TVB9_HUMAN	T cell receptor beta variable 9	9606	Homo sapiens (Human)	TRB_V	train	114	AC245088;
+A0A0B4J1U7	HV601_HUMAN	Immunoglobulin heavy variable 6-1	9606	Homo sapiens (Human)	IGH_V	train	121	AC246787;
+A0A0B4J1V0	HV315_HUMAN	Immunoglobulin heavy variable 3-15	9606	Homo sapiens (Human)	IGH_V	train	119	AC247036;
+A0A0B4J1V1	HV321_HUMAN	Immunoglobulin heavy variable 3-21	9606	Homo sapiens (Human)	IGH_V	train	117	AC245166;
+A0A0B4J1V2	HV226_HUMAN	Immunoglobulin heavy variable 2-26	9606	Homo sapiens (Human)	IGH_V	train	119	AC245166;
+A0A0B4J1V6	HV373_HUMAN	Immunoglobulin heavy variable 3-73	9606	Homo sapiens (Human)	IGH_V	train	119	AC245023;
+A0A0B4J1X5	HV374_HUMAN	Immunoglobulin heavy variable 3-74	9606	Homo sapiens (Human)	IGH_V	train	117	AC245023;
+A0A0B4J1X8	HV343_HUMAN	Immunoglobulin heavy variable 3-43	9606	Homo sapiens (Human)	IGH_V	train	118	AC244452;
+A0A0B4J1Y8	LV949_HUMAN	Immunoglobulin lambda variable 9-49	9606	Homo sapiens (Human)	IGL_V	train	123	AC245060;
+A0A0B4J1Y9	HV372_HUMAN	Immunoglobulin heavy variable 3-72	9606	Homo sapiens (Human)	IGH_V	train	119	AC245023;
+A0A0B4J1Z2	KVD43_HUMAN	Immunoglobulin kappa variable 1D-43	9606	Homo sapiens (Human)	IGK_V	train	117	AC243981;
+A0A0B4J200	TJB23_HUMAN	T cell receptor beta joining 2-3	9606	Homo sapiens (Human)	TRB_chain	train	16	CH471198;AC239618;AC245427;
+A0A0B4J234	TVA2_HUMAN	T cell receptor alpha variable 2	9606	Homo sapiens (Human)	TRA_V	train	112	AC243972;
+A0A0B4J235	TVAM2_HUMAN	T cell receptor alpha variable 13-2	9606	Homo sapiens (Human)	TRA_V	train	113	AC243980;
+A0A0B4J237	TVA82_HUMAN	T cell receptor alpha variable 8-2	9606	Homo sapiens (Human)	TRA_V	train	113	AC243980;
+A0A0B4J238	TVA12_HUMAN	T cell receptor alpha variable 1-2	9606	Homo sapiens (Human)	TRA_V	train	106	AC243972;
+A0A0B4J240	TVA10_HUMAN	T cell receptor alpha variable 10	9606	Homo sapiens (Human)	TRA_V	train	114	AC243980;
+A0A0B4J241	TVAM1_HUMAN	T cell receptor alpha variable 13-1	9606	Homo sapiens (Human)	TRA_V	train	112	AC243980;
+A0A0B4J244	TVA3_HUMAN	T cell receptor alpha variable 3	9606	Homo sapiens (Human)	TRA_V	train	114	AC243972;
+A0A0B4J245	TVAL1_HUMAN	T cell receptor alpha variable 12-1	9606	Homo sapiens (Human)	TRA_V	train	112	AC243980;
+A0A0B4J248	TVA11_HUMAN	T cell receptor alpha variable 1-1	9606	Homo sapiens (Human)	TRA_V	train	108	AC243972;
+A0A0B4J249	TVA5_HUMAN	T cell receptor alpha variable 5	9606	Homo sapiens (Human)	TRA_V	train	113	AC243972;
+A0A0B4J262	TVA86_HUMAN	T cell receptor alpha variable 8-6	9606	Homo sapiens (Human)	TRA_V	train	113	AC245505;
+A0A0B4J263	TVA39_HUMAN	T cell receptor alpha variable 39	9606	Homo sapiens (Human)	TRA_V	train	110	AC245470;
+A0A0B4J264	TV381_HUMAN	T cell receptor alpha variable 38-1	9606	Homo sapiens (Human)	TRA_V	train	116	AC245470;
+A0A0B4J265	TVAZ2_HUMAN	T cell receptor alpha variable 26-2	9606	Homo sapiens (Human)	TRA_V	train	109	AC245470;
+A0A0B4J266	TVA41_HUMAN	T cell receptor alpha variable 41	9606	Homo sapiens (Human)	TRA_V	train	112	AC245470;
+A0A0B4J268	TVA4_HUMAN	T cell receptor alpha variable 4	9606	Homo sapiens (Human)	TRA_V	train	109	AC243972;
+A0A0B4J271	TVAL3_HUMAN	T cell receptor alpha variable 12-3	9606	Homo sapiens (Human)	TRA_V	train	114	AC245505;
+A0A0B4J272	TVA24_HUMAN	T cell receptor alpha variable 24	9606	Homo sapiens (Human)	TRA_V	train	114	AC245505;
+A0A0B4J273	TVA34_HUMAN	T cell receptor alpha variable 34	9606	Homo sapiens (Human)	TRA_V	train	112	AC245470;
+A0A0B4J274	TVA20_HUMAN	T cell receptor alpha variable 20	9606	Homo sapiens (Human)	TRA_V	train	112	AC245505;
+A0A0B4J275	TVA17_HUMAN	T cell receptor alpha variable 17	9606	Homo sapiens (Human)	TRA_V	train	112	AC245505;
+A0A0B4J276	TVA25_HUMAN	T cell receptor alpha variable 25	9606	Homo sapiens (Human)	TRA_V	train	109	AC245505;
+A0A0B4J277	TVA22_HUMAN	T cell receptor alpha variable 22	9606	Homo sapiens (Human)	TRA_V	train	110	AC245505;
+A0A0B4J279	TVA21_HUMAN	T cell receptor alpha variable 21	9606	Homo sapiens (Human)	TRA_V	train	112	AC245505;
+A0A0B4J280	TVA40_HUMAN	T cell receptor alpha variable 40	9606	Homo sapiens (Human)	TRA_V	train	105	AC245470;
+A0A0B4J2D9	KVD13_HUMAN	Immunoglobulin kappa variable 1D-13	9606	Homo sapiens (Human)	IGK_V	train	117	AC243981;
+A0A0B4J2E0	TVBL4_HUMAN	T cell receptor beta variable 12-4	9606	Homo sapiens (Human)	TRB_V	train	115	AC244196;
+A0A0B4J2H0	HV69D_HUMAN	Immunoglobulin heavy variable 1-69D	9606	Homo sapiens (Human)	IGH_V	train	117	AC245369;
+A0A0C4DH24	KV621_HUMAN	Immunoglobulin kappa variable 6-21	9606	Homo sapiens (Human)	IGK_V	train	114	AC245015;
+A0A0C4DH25	KVD20_HUMAN	Immunoglobulin kappa variable 3D-20	9606	Homo sapiens (Human)	IGK_V	train	116	AC245506;
+A0A0C4DH27	TRGV8_HUMAN	T cell receptor gamma variable 8	9606	Homo sapiens (Human)	TRG_V	train	118	AC006033;
+A0A0C4DH28	TRGV4_HUMAN	T cell receptor gamma variable 4	9606	Homo sapiens (Human)	TRG_V	train	118	AC007245;
+A0A0C4DH29	HV103_HUMAN	Immunoglobulin heavy variable 1-3	9606	Homo sapiens (Human)	IGH_V	train	117	AC244226;
+A0A0C4DH31	HV118_HUMAN	Immunoglobulin heavy variable 1-18	9606	Homo sapiens (Human)	IGH_V	train	117	AC247036;
+A0A0C4DH32	HV320_HUMAN	Immunoglobulin heavy variable 3-20	9606	Homo sapiens (Human)	IGH_V	train	117	M99657;AC245166;
+A0A0C4DH33	HV124_HUMAN	Immunoglobulin heavy variable 1-24	9606	Homo sapiens (Human)	IGH_V	train	117	AC245166;
+A0A0C4DH34	HV428_HUMAN	Immunoglobulin heavy variable 4-28	9606	Homo sapiens (Human)	IGH_V	train	117	AC245166;
+A0A0C4DH38	HV551_HUMAN	Immunoglobulin heavy variable 5-51	9606	Homo sapiens (Human)	IGH_V	train	117	AC244452;
+A0A0C4DH39	HV158_HUMAN	Immunoglobulin heavy variable 1-58	9606	Homo sapiens (Human)	IGH_V	train	117	AC244452;
+A0A0C4DH41	HV461_HUMAN	Immunoglobulin heavy variable 4-61	9606	Homo sapiens (Human)	IGH_V	train	118	AC245369;
+A0A0C4DH42	HV366_HUMAN	Immunoglobulin heavy variable 3-66	9606	Homo sapiens (Human)	IGH_V	train	116	AC245369;
+A0A0C4DH43	HV70D_HUMAN	Immunoglobulin heavy variable 2-70D	9606	Homo sapiens (Human)	IGH_V	train	119	AC245369;
+A0A0C4DH55	KVD07_HUMAN	Immunoglobulin kappa variable 3D-7	9606	Homo sapiens (Human)	IGK_V	train	119	AC145029;AC247037;
+A0A0C4DH59	TVB54_HUMAN	T cell receptor beta variable 5-4	9606	Homo sapiens (Human)	TRB_V	train	114	AC244196;
+A0A0C4DH62	HJ01_HUMAN	Immunoglobulin heavy joining 1	9606	Homo sapiens (Human)	IGH_chain	train	17	AC246787;
+A0A0C4DH67	KV108_HUMAN	Immunoglobulin kappa variable 1-8	9606	Homo sapiens (Human)	IGK_V	train	115	AC245015;
+A0A0C4DH68	KV224_HUMAN	Immunoglobulin kappa variable 2-24	9606	Homo sapiens (Human)	IGK_V	train	120	AC245015;
+A0A0C4DH69	KV109_HUMAN	Immunoglobulin kappa variable 1-9	9606	Homo sapiens (Human)	IGK_V	train	117	AC245015;
+A0A0C4DH72	KV106_HUMAN	Immunoglobulin kappa variable 1-6	9606	Homo sapiens (Human)	IGK_V	train	117	AC245015;
+A0A0C4DH73	KV112_HUMAN	Immunoglobulin kappa variable 1-12	9606	Homo sapiens (Human)	IGK_V	train	117	AC245015;
+A0A0G2JMI3	HV692_HUMAN	Immunoglobulin heavy variable 1-69-2	9606	Homo sapiens (Human)	IGH_V	train	117	AC245369;
+A0A0G2JS06	LV539_HUMAN	Immunoglobulin lambda variable 5-39	9606	Homo sapiens (Human)	IGL_V	train	123	AC009286;
+A0A0J9YVY3	HV741_HUMAN	Immunoglobulin heavy variable 7-4-1	9606	Homo sapiens (Human)	IGH_V	train	117	AC244226;
+A0A0J9YWP8	TJB13_HUMAN	T cell receptor beta joining 1-3	9606	Homo sapiens (Human)	TRB_chain	train	16	AC239618;AC245427;
+A0A0J9YWX3	TJB16_HUMAN	T cell receptor beta joining 1-6	9606	Homo sapiens (Human)	TRB_chain	train	17	AC239618;AC245427;
+A0A0J9YX06	TJB12_HUMAN	T cell receptor beta joining 1-2	9606	Homo sapiens (Human)	TRB_chain	train	15	AC239618;AC245427;
+A0A0J9YX35	HV64D_HUMAN	Immunoglobulin heavy variable 3-64D	9606	Homo sapiens (Human)	IGH_V	train	117	AC247036;
+A0A0J9YX75	TVB69_HUMAN	T cell receptor beta variable 6-9	9606	Homo sapiens (Human)	TRB_V	train	114	AC233282;
+A0A0J9YXA8	TJB11_HUMAN	T cell receptor beta joining 1-1	9606	Homo sapiens (Human)	TRB_chain	train	15	AC245427;
+A0A0J9YXG5	TJB14_HUMAN	T cell receptor beta joining 1-4	9606	Homo sapiens (Human)	TRB_chain	train	16	AC239618;AC245427;
+A0A0J9YXM7	TJB15_HUMAN	T cell receptor beta joining 1-5	9606	Homo sapiens (Human)	TRB_chain	train	16	AC239618;AC245427;
+A0A0J9YXX1	HV5X1_HUMAN	Immunoglobulin heavy variable 5-10-1	9606	Homo sapiens (Human)	IGH_V	train	117	AC247036;
+A0A0J9YXY3	TVB62_HUMAN	T cell receptor beta variable 6-2	9606	Homo sapiens (Human)	TRB_V	train	114	AC245088;
+A0A0K0K1A3	TVBJ1_HUMAN	T cell receptor beta variable 10-1	9606	Homo sapiens (Human)	TRB_V	train	114	AC244196;
+A0A0K0K1A5	TVB65_HUMAN	T cell receptor beta variable 6-5	9606	Homo sapiens (Human)	TRB_V	train	114	AC244196;
+A0A0K0K1B3	TVB30_HUMAN	T cell receptor beta variable 30	9606	Homo sapiens (Human)	TRB_V	train	111	AC245427;
+A0A0K0K1C0	TVBK1_HUMAN	T cell receptor beta variable 11-1	9606	Homo sapiens (Human)	TRB_V	train	115	AC244196;
+A0A0K0K1C4	TVB27_HUMAN	T cell receptor beta variable 27	9606	Homo sapiens (Human)	TRB_V	train	114	AC244472;
+A0A0K0K1D8	TVB61_HUMAN	T cell receptor beta variable 6-1	9606	Homo sapiens (Human)	TRB_V	train	114	AC245088;
+A0A0K0K1E9	TVB77_HUMAN	T cell receptor beta variable 7-7	9606	Homo sapiens (Human)	TRB_V	train	115	AC244196;
+A0A0K0K1G6	TVBJ3_HUMAN	T cell receptor beta variable 10-3	9606	Homo sapiens (Human)	TRB_V	train	114	AC244196;
+A0A0K0K1G8	TVBJ2_HUMAN	T cell receptor beta variable 10-2	9606	Homo sapiens (Human)	TRB_V	train	114	AC244196;
+A0A1B0GX31	TVB76_HUMAN	T cell receptor beta variable 7-6	9606	Homo sapiens (Human)	TRB_V	train	115	AC244196;
+A0A1B0GX49	TVB64_HUMAN	T cell receptor beta variable 6-4	9606	Homo sapiens (Human)	TRB_V	train	114	AC245088;
+A0A1B0GX51	TVB78_HUMAN	T cell receptor beta variable 7-8	9606	Homo sapiens (Human)	TRB_V	train	115	AC233282;
+A0A1B0GX56	TRDV1_HUMAN	T cell receptor delta variable 1	9606	Homo sapiens (Human)	TRD_V	train	115	AC245505;
+A0A1B0GX68	TVB2_HUMAN	T cell receptor beta variable 2	9606	Homo sapiens (Human)	TRB_V	train	115	AC245088;
+A0A1B0GX78	TVBL5_HUMAN	T cell receptor beta variable 12-5	9606	Homo sapiens (Human)	TRB_V	train	115	AC244196;
+A0A1B0GX95	TVB74_HUMAN	T cell receptor beta variable 7-4	9606	Homo sapiens (Human)	TRB_V	train	115	AC244196;
+A0A1B0GXF2	TVB72_HUMAN	T cell receptor beta variable 7-2	9606	Homo sapiens (Human)	TRB_V	train	115	AC245088;
+A0A539	TVB42_HUMAN	T cell receptor beta variable 4-2	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AF009660;AC245088;
+A0A576	TVB31_HUMAN	T cell receptor beta variable 3-1	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AC245088;
+A0A577	TVB41_HUMAN	T cell receptor beta variable 4-1	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AC245088;
+A0A578	TVB51_HUMAN	T cell receptor beta variable 5-1	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AC231381;AC245088;
+A0A584	TVBK2_HUMAN	T cell receptor beta variable 11-2	9606	Homo sapiens (Human)	TRB_V	train	115	L36092;AC244196;
+A0A589	TVB43_HUMAN	T cell receptor beta variable 4-3	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AC234635;
+A0A597	TVB55_HUMAN	T cell receptor beta variable 5-5	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AC244196;
+A0A599	TVB56_HUMAN	T cell receptor beta variable 5-6	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AC233282;AC244196;
+A0A5A2	TVB58_HUMAN	T cell receptor beta variable 5-8	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AC229888;
+A0A5A6	TVBK3_HUMAN	T cell receptor beta variable 11-3	9606	Homo sapiens (Human)	TRB_V	train	115	L36092;AC244196;
+A0A5B0	TVB14_HUMAN	T cell receptor beta variable 14	9606	Homo sapiens (Human)	TRB_V	train	115	L36092;AC229888;
+A0A5B6	TVB28_HUMAN	T cell receptor beta variable 28	9606	Homo sapiens (Human)	TRB_V	train	114	L36092;AC244472;
+A0A5B7	TVB29_HUMAN	T cell receptor beta variable 29-1	9606	Homo sapiens (Human)	TRB_V	train	111	L36092;AC244472;
+A0A5B9	TRBC2_HUMAN	T cell receptor beta constant 2	9606	Homo sapiens (Human)	TRB_C	train	178	M12888;L36092;AC245427;CH471198;
+A0JD32	TV382_HUMAN	T cell receptor alpha variable 38-2/delta variable 8	9606	Homo sapiens (Human)	TRA_V	train	116	AC245470;AE000521;
+A0JD36	TRDV2_HUMAN	T cell receptor delta variable 2	9606	Homo sapiens (Human)	TRD_V	train	115	AC244502;AE000521;
+A0JD37	TRDV3_HUMAN	T cell receptor delta variable 3	9606	Homo sapiens (Human)	TRD_V	train	113	AC244502;AE000521;
+A0M8Q6	IGLC7_HUMAN	Immunoglobulin lambda constant 7 (Ig lambda-7 chain C region)	9606	Homo sapiens (Human)	IGL_C	train	106	X51755;D87017;AC245028;CH471095;
+A1KXC4	FCMR_MOUSE	Immunoglobulin mu Fc receptor (IgM FcR) (Fas apoptotic inhibitory molecule 3) (FAIM3) (Regulator of Fas-induced apoptosis Toso)	10090	Mus musculus (Mouse)	IGH_chain	train	422	AY227385;AY227386;AY227387;AY227388;AY227389;AY227390;AY227391;AY227392;AY227393;AK007714;AK155943;BC118505;BC116674;
+A2NJV5	KV229_HUMAN	Immunoglobulin kappa variable 2-29	9606	Homo sapiens (Human)	IGK_V	train	120	U41645;AC244255;
+B7Z8K6	TRDC_HUMAN	T cell receptor delta constant	9606	Homo sapiens (Human)	TRD_C	train	153	M22150;M22148;M22149;AK303587;AC244502;
+O60667	FCMR_HUMAN	Immunoglobulin mu Fc receptor (IgM FcR) (Fas apoptotic inhibitory molecule 3) (FAIM3) (Regulator of Fas-induced apoptosis Toso)	9606	Homo sapiens (Human)	IGH_chain	train	390	AF057557;HM480394;BT006797;AK292007;AK301187;AK316336;AC098935;CH471100;BC006401;
+P01593	KVD33_HUMAN	Immunoglobulin kappa variable 1D-33 (Ig kappa chain V-I region AG) (Ig kappa chain V-I region Bi) (Ig kappa chain V-I region Lay) (Ig kappa chain V-I region Ni) (Ig kappa chain V-I region Rei) (Ig kappa chain V-I region Roy) (Ig kappa chain V-I region Scw) (Ig kappa chain V-I region WAT)	9606	Homo sapiens (Human)	IGK_V	train	117	AC233264;
+P01594	KV133_HUMAN	Immunoglobulin kappa variable 1-33 (Ig kappa chain V-I region AU) (Ig kappa chain V-I region Ka)	9606	Homo sapiens (Human)	IGK_V	train	117	AC244255;
+P01597	KV139_HUMAN	Immunoglobulin kappa variable 1-39 (Ig kappa chain V-I region DEE) (Ig kappa chain V-I region Hau) (Ig kappa chain V-I region Mev) (Ig kappa chain V-I region OU) (Ig kappa chain V-I region Walker)	9606	Homo sapiens (Human)	IGK_V	train	117	X00965;AC244255;
+P01599	KV117_HUMAN	Immunoglobulin kappa variable 1-17 (Ig kappa chain V-I region Gal) (Ig kappa chain V-I region WEA)	9606	Homo sapiens (Human)	IGK_V	train	117	AC245015;
+P01601	KVD16_HUMAN	Immunoglobulin kappa variable 1D-16 (Ig kappa chain V-I region HK146) (Ig kappa chain V-I region HK189)	9606	Homo sapiens (Human)	IGK_V	train	117	V00558;K01322;K01324;AC243981;
+P01602	KV105_HUMAN	Immunoglobulin kappa variable 1-5 (Ig kappa chain V-I region CAR) (Ig kappa chain V-I region EU) (Ig kappa chain V-I region HK102) (Ig kappa chain V-I region Kue)	9606	Homo sapiens (Human)	IGK_V	train	117	J00245;Z00001;AC243970;
+P01611	KVD12_HUMAN	Immunoglobulin kappa variable 1D-12 (Ig kappa chain V-I region Wes)	9606	Homo sapiens (Human)	IGK_V	train	117	AC243981;
+P01614	KVD40_HUMAN	Immunoglobulin kappa variable 2D-40 (Ig kappa chain V-II region Cum)	9606	Homo sapiens (Human)	IGK_V	train	121	AC233264;
+P01615	KVD28_HUMAN	Immunoglobulin kappa variable 2D-28 (Ig kappa chain V-II region FR) (Ig kappa chain V-II region GM607) (Ig kappa chain V-II region MIL) (Ig kappa chain V-II region TEW)	9606	Homo sapiens (Human)	IGK_V	train	120	AC233264;Z00009;
+P01618	KV1_CANLF	Ig kappa chain V region GOM	9615	Canis lupus familiaris (Dog) (Canis familiaris)	IGK_V	heldout_species	108	
+P01619	KV320_HUMAN	Immunoglobulin kappa variable 3-20 (Ig kappa chain V-III region B6) (Ig kappa chain V-III region GOL) (Ig kappa chain V-III region HAH) (Ig kappa chain V-III region HIC) (Ig kappa chain V-III region IARC/BL41) (Ig kappa chain V-III region NG9) (Ig kappa chain V-III region SIE) (Ig kappa chain V-III region Ti) (Ig kappa chain V-III region WOL)	9606	Homo sapiens (Human)	IGK_V	train	116	Z00021;AC245015;
+P01624	KV315_HUMAN	Immunoglobulin kappa variable 3-15 (Ig kappa chain V-III region CLL) (Ig kappa chain V-III region POM)	9606	Homo sapiens (Human)	IGK_V	train	115	M12740;AC245015;
+P01626	KV2A1_MOUSE	Ig kappa chain V-II region MOPC 167	10090	Mus musculus (Mouse)	IGK_V	train	112	
+P01627	KV2A2_MOUSE	Immunoglobulin kappa variable 2-112 (Ig kappa chain V-II region VKappa167)	10090	Mus musculus (Mouse)	IGK_V	train	120	J00562;K02415;
+P01628	KV2A3_MOUSE	Ig kappa chain V-II region MOPC 511	10090	Mus musculus (Mouse)	IGK_V	train	113	
+P01629	KV2A4_MOUSE	Ig kappa chain V-II region 2S1.3	10090	Mus musculus (Mouse)	IGK_V	train	112	
+P01630	KV2A6_MOUSE	Ig kappa chain V-II region 7S34.1	10090	Mus musculus (Mouse)	IGK_V	train	113	
+P01631	KV2A7_MOUSE	Ig kappa chain V-II region 26-10	10090	Mus musculus (Mouse)	IGK_V	train	113	
+P01632	KV1A1_MOUSE	Ig kappa chain V-I region S107A	10090	Mus musculus (Mouse)	IGK_V	train	114	U29423;
+P01633	KV5A1_MOUSE	Immunoglobulin kappa chain variable 6-17 (Ig kappa chain V-V region MPC11) (Ig kappa chain V19-17)	10090	Mus musculus (Mouse)	IGK_V	train	149	J00561;
+P01634	KV5A2_MOUSE	Ig kappa chain V-V region MOPC 21	10090	Mus musculus (Mouse)	IGK_V	train	136	V00810;
+P01635	KV5A3_MOUSE	Immunoglobulin kappa chain variable 12-41 (Ig kappa chain V-V region K2)	10090	Mus musculus (Mouse)	IGK_V	train	115	V00778;
+P01636	KV5A4_MOUSE	Ig kappa chain V-V region MOPC 149	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01637	KV5A5_MOUSE	Ig kappa chain V-V region T1	10090	Mus musculus (Mouse)	IGK_V	train	128	V00772;
+P01638	KV5A6_MOUSE	Ig kappa chain V-V region L6	10090	Mus musculus (Mouse)	IGK_V	train	115	
+P01639	KV5A7_MOUSE	Immunoglobulin kappa chain variable 9-120 (Ig kappa chain V-V region MOPC 41)	10090	Mus musculus (Mouse)	IGK_V	train	130	
+P01641	KV5A8_MOUSE	Immunoglobulin kappa variable 9-129 (Ig kappa chain V-V region MOPC 173B)	10090	Mus musculus (Mouse)	IGK_V	train	117	K00880;
+P01642	KV5A9_MOUSE	Immunoglobulin kappa variable 5-48 (Ig kappa chain V-V region L7)	10090	Mus musculus (Mouse)	IGK_V	train	115	
+P01643	KV5AA_MOUSE	Ig kappa chain V-V region MOPC 173	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01644	KV5AB_MOUSE	Ig kappa chain V-V region HP R16.7	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01645	KV5AC_MOUSE	Ig kappa chain V-V region HP 93G7	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01646	KV5AD_MOUSE	Ig kappa chain V-V region HP 123E6	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01647	KV5AE_MOUSE	Ig kappa chain V-V region HP 124E1	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01648	KV5AF_MOUSE	Ig kappa chain V-V region HP 91A3	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01649	KV5AG_MOUSE	Ig kappa chain V-V regions (Anti-arsonate antibodies)	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01650	KV5AH_MOUSE	Immunoglobulin kappa variable 11-125 (Ig kappa chain V-V region UPC 61)	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01651	KV5AI_MOUSE	Ig kappa chain V-V region EPC 109	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01652	KV5AK_MOUSE	Ig kappa chain V-V region J606	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01653	KV5AL_MOUSE	Ig kappa chain V-V region W3082	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01654	KV3A1_MOUSE	Ig kappa chain V-III region PC 2880/PC 1229	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01655	KV3A2_MOUSE	Ig kappa chain V-III region PC 7132	10090	Mus musculus (Mouse)	IGK_V	train	112	
+P01656	KV3A3_MOUSE	Ig kappa chain V-III region MOPC 70	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01657	KV3A5_MOUSE	Ig kappa chain V-III region PC 2413	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01658	KV3A6_MOUSE	Ig kappa chain V-III region MOPC 321	10090	Mus musculus (Mouse)	IGK_V	train	132	
+P01659	KV3A7_MOUSE	Ig kappa chain V-III region TEPC 124	10090	Mus musculus (Mouse)	IGK_V	train	112	
+P01660	KV3A8_MOUSE	Ig kappa chain V-III region PC 3741/TEPC 111	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01661	KV3A9_MOUSE	Ig kappa chain V-III region MOPC 63	10090	Mus musculus (Mouse)	IGK_V	train	131	
+P01662	KV3AA_MOUSE	Ig kappa chain V-III region ABPC 22/PC 9245	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01663	KV3AB_MOUSE	Ig kappa chain V-III region PC 4050	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01664	KV3AC_MOUSE	Ig kappa chain V-III region CBPC 101	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01665	KV3AD_MOUSE	Ig kappa chain V-III region PC 7043	10090	Mus musculus (Mouse)	IGK_V	train	111	Z25444;Z25446;Z25448;Z25450;Z25452;Z25454;Z25458;
+P01666	KV3AE_MOUSE	Ig kappa chain V-III region PC 7183	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01667	KV3AF_MOUSE	Ig kappa chain V-III region PC 6308	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01668	KV3AG_MOUSE	Ig kappa chain V-III region PC 7210	10090	Mus musculus (Mouse)	IGK_V	train	110	
+P01669	KV3AH_MOUSE	Ig kappa chain V-III region PC 7769	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01670	KV3AI_MOUSE	Ig kappa chain V-III region PC 6684	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01671	KV3AJ_MOUSE	Ig kappa chain V-III region PC 7175	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01672	KV3AK_MOUSE	Ig kappa chain V-III region PC 7940	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01673	KV3AL_MOUSE	Ig kappa chain V-III region PC 2485/PC 4039	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P01674	KV3AM_MOUSE	Ig kappa chain V-III region PC 2154	10090	Mus musculus (Mouse)	IGK_V	train	108	
+P01675	KV6A1_MOUSE	Ig kappa chain V-VI region XRPC 44	10090	Mus musculus (Mouse)	IGK_V	train	107	
+P01676	KV6A2_MOUSE	Ig kappa chain V-VI region XRPC 24	10090	Mus musculus (Mouse)	IGK_V	train	107	
+P01677	KV6A3_MOUSE	Ig kappa chain V-VI region TEPC 601/TEPC 191	10090	Mus musculus (Mouse)	IGK_V	train	107	
+P01678	KV6A4_MOUSE	Ig kappa chain V-VI region SAPC 10	10090	Mus musculus (Mouse)	IGK_V	train	107	
+P01679	KV6A5_MOUSE	Ig kappa chain V-VI region J539	10090	Mus musculus (Mouse)	IGK_V	train	107	
+P01680	KV4A1_MOUSE	Ig kappa chain V-IV region S107B	10090	Mus musculus (Mouse)	IGK_V	train	129	J00577;V00780;
+P01681	KVX01_RAT	Ig kappa chain V region S211	10116	Rattus norvegicus (Rat)	IGK_V	heldout_species	109	
+P01682	KV01_RABIT	Ig kappa chain V region 2717	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	110	
+P01683	KV02_RABIT	Ig kappa chain V region 3315	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	115	
+P01684	KV03_RABIT	Ig kappa chain V region 3374	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	109	
+P01685	KV04_RABIT	Ig kappa chain V region 4135	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	107	
+P01686	KV05_RABIT	Ig kappa chain V region BS-1	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	108	
+P01687	KV06_RABIT	Ig kappa chain V region BS-5	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	108	
+P01688	KV07_RABIT	Ig kappa chain V region K-25	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	108	
+P01689	KV08_RABIT	Ig kappa chain V region 120	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	108	
+P01690	KV09_RABIT	Ig kappa chain V region 3381	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	92	
+P01691	KV10_RABIT	Ig kappa chain V region 12F2	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	117	K01358;
+P01692	KV11_RABIT	Ig kappa-B5 chain V region 2699	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	94	
+P01693	KV12_RABIT	Ig kappa chain V region 3368	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	111	
+P01694	KV13_RABIT	Ig kappa chain V region 3547	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	110	
+P01695	KV14_RABIT	Ig kappa chain V region K16-167	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	109	
+P01696	KV15_RABIT	Ig kappa chain V region K29-213	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	110	
+P01697	KV16_RABIT	Ig kappa chain V region AH80-5	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	114	
+P01698	KV17_RABIT	Ig kappa chain V region XP-1	9986	Oryctolagus cuniculus (Rabbit)	IGK_V	heldout_species	104	
+P01699	LV144_HUMAN	Immunoglobulin lambda variable 1-44 (Ig lambda chain V-I region MEM) (Ig lambda chain V-I region VOR)	9606	Homo sapiens (Human)	IGL_V	train	117	AC245291;
+P01700	LV147_HUMAN	Immunoglobulin lambda variable 1-47 (Ig lambda chain V-I region HA) (Ig lambda chain V-I region WAH)	9606	Homo sapiens (Human)	IGL_V	train	117	AC245060;
+P01701	LV151_HUMAN	Immunoglobulin lambda variable 1-51 (Ig lambda chain V-I region BL2) (Ig lambda chain V-I region EPS) (Ig lambda chain V-I region NEW) (Ig lambda chain V-I region NIG-64)	9606	Homo sapiens (Human)	IGL_V	train	117	X01147;AC245060;
+P01703	LV140_HUMAN	Immunoglobulin lambda variable 1-40 (Ig lambda chain V-I region NEWM)	9606	Homo sapiens (Human)	IGL_V	train	118	AC245291;
+P01704	LV214_HUMAN	Immunoglobulin lambda variable 2-14 (Ig lambda chain V-II region NIG-84) (Ig lambda chain V-II region TOG) (Ig lambda chain V-II region VIL)	9606	Homo sapiens (Human)	IGL_V	train	120	AC244250;
+P01705	LV223_HUMAN	Immunoglobulin lambda variable 2-23 (Ig lambda chain V-II region NEI)	9606	Homo sapiens (Human)	IGL_V	train	113	AC244250;
+P01706	LV211_HUMAN	Immunoglobulin lambda variable 2-11 (Ig gamma lambda chain V-II region DOT) (Ig lambda chain V-II region BOH) (Ig lambda chain V-II region BUR) (Ig lambda chain V-II region NIG-58) (Ig lambda chain V-II region TRO) (Ig lambda chain V-II region WIN)	9606	Homo sapiens (Human)	IGL_V	train	119	AC244157;
+P01709	LV208_HUMAN	Immunoglobulin lambda variable 2-8 (Ig lambda chain V-II region BO) (Ig lambda chain V-II region MGC)	9606	Homo sapiens (Human)	IGL_V	train	118	AC245028;
+P01714	LV319_HUMAN	Immunoglobulin lambda variable 3-19 (Ig lambda chain V-III region SH)	9606	Homo sapiens (Human)	IGL_V	train	112	AC244250;
+P01715	LV301_HUMAN	Immunoglobulin lambda variable 3-1 (Ig lambda chain V-IV region Bau) (Ig lambda chain V-IV region MOL) (Ig lambda chain V-IV region X)	9606	Homo sapiens (Human)	IGL_V	train	115	AC245028;
+P01717	LV325_HUMAN	Immunoglobulin lambda variable 3-25 (Ig lambda chain V-IV region Hil)	9606	Homo sapiens (Human)	IGL_V	train	112	AC244250;
+P01718	LV327_HUMAN	Immunoglobulin lambda variable 3-27 (Ig lambda chain V-IV region Kern)	9606	Homo sapiens (Human)	IGL_V	train	113	AC244250;
+P01721	LV657_HUMAN	Immunoglobulin lambda variable 6-57 (Ig lambda chain V-VI region AR) (Ig lambda chain V-VI region EB4) (Ig lambda chain V-VI region NIG-48) (Ig lambda chain V-VI region SUT) (Ig lambda chain V-VI region WLT)	9606	Homo sapiens (Human)	IGL_V	train	117	AC245060;
+P01723	LV1A_MOUSE	Ig lambda-1 chain V region	10090	Mus musculus (Mouse)	IGL_V	train	117	V00811;
+P01724	LV1B_MOUSE	Ig lambda-1 chain V regions MOPC 104E/RPC20/J558/S104	10090	Mus musculus (Mouse)	IGL_V	train	129	
+P01725	LV1C_MOUSE	Ig lambda-1 chain V region S178	10090	Mus musculus (Mouse)	IGL_V	train	110	
+P01726	LV1D_MOUSE	Ig lambda-1 chain V region H2020	10090	Mus musculus (Mouse)	IGL_V	train	129	
+P01727	LV1E_MOUSE	Ig lambda-1 chain V region S43	10090	Mus musculus (Mouse)	IGL_V	train	129	
+P01728	LV2A_MOUSE	Immunoglobulin lambda variable 2 (Ig lambda-2 chain V region)	10090	Mus musculus (Mouse)	IGL_V	train	117	J00599;V00815;X58412;X58418;X58423;X58424;
+P01729	LV2B_MOUSE	Ig lambda-2 chain V region MOPC 315	10090	Mus musculus (Mouse)	IGL_V	train	129	
+P01733	TVBL3_HUMAN	T cell receptor beta variable 12-3 (T-cell receptor beta chain V region YT35)	9606	Homo sapiens (Human)	TRB_V	train	115	M14158;L36092;AC244196;
+P01734	TVB1_MOUSE	T-cell receptor beta chain V region 3H.25	10090	Mus musculus (Mouse)	TRB_V	train	135	M12415;
+P01735	TVB86_MOUSE	T-cell receptor beta chain V region 86T1	10090	Mus musculus (Mouse)	TRB_V	train	133	
+P01736	TVB3_MOUSE	T-cell receptor beta chain V region PHDS203	10090	Mus musculus (Mouse)	TRB_V	train	120	
+P01737	TVA84_HUMAN	T cell receptor alpha variable 8-4 (T cell receptor alpha chain V region PY14)	9606	Homo sapiens (Human)	TRA_V	train	113	AC243980;
+P01738	TVA1_MOUSE	T-cell receptor alpha chain V region PHDS58	10090	Mus musculus (Mouse)	TRA_V	train	130	
+P01739	TVA2_MOUSE	T-cell receptor alpha chain V region 2B4	10090	Mus musculus (Mouse)	TRA_V	train	132	
+P01740	TVC1_MOUSE	T-cell receptor gamma chain V region V108A	10090	Mus musculus (Mouse)	TRG_V	train	135	
+P01741	HVM00_MOUSE	Ig heavy chain V region (Anti-arsonate antibody)	10090	Mus musculus (Mouse)	IGH_V	train	114	
+P01742	HV169_HUMAN	Immunoglobulin heavy variable 1-69 (Ig heavy chain V-I region EU) (Ig heavy chain V-I region SIE) (Ig heavy chain V-I region WOL)	9606	Homo sapiens (Human)	IGH_V	train	117	AC245369;
+P01743	HV146_HUMAN	Immunoglobulin heavy variable 1-46 (Ig heavy chain V-I region DOT) (Ig heavy chain V-I region HG3) (Ig heavy chain V-I region Mot)	9606	Homo sapiens (Human)	IGH_V	train	117	J00240;AC244452;
+P01745	HVM01_MOUSE	Ig heavy chain V region MPC 11	10090	Mus musculus (Mouse)	IGH_V	train	121	
+P01746	HVM02_MOUSE	Ig heavy chain V region 93G7	10090	Mus musculus (Mouse)	IGH_V	train	140	J00493;
+P01747	HVM03_MOUSE	Ig heavy chain V region 36-65	10090	Mus musculus (Mouse)	IGH_V	train	120	
+P01748	HVM04_MOUSE	Ig heavy chain V region 23	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P01749	HVM05_MOUSE	Ig heavy chain V region 3	10090	Mus musculus (Mouse)	IGH_V	train	117	J00536;
+P01750	HVM06_MOUSE	Ig heavy chain V region 102	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P01753	HVM09_MOUSE	Ig heavy chain V region 186-1	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P01754	HVM10_MOUSE	Ig heavy chain V region 1-62-3 (Ig heavy chain V region 145)	10090	Mus musculus (Mouse)	IGH_V	train	117	J00533;
+P01756	HVM12_MOUSE	Ig heavy chain V region MOPC 104E	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P01757	HVM13_MOUSE	Ig heavy chain V region J558	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P01758	HVM14_MOUSE	Ig heavy chain V region 108A	10090	Mus musculus (Mouse)	IGH_V	train	117	J00488;
+P01759	HVM15_MOUSE	Ig heavy chain V region BCL1	10090	Mus musculus (Mouse)	IGH_V	train	136	J00494;
+P01762	HV311_HUMAN	Immunoglobulin heavy variable 3-11 (Ig heavy chain V-III region TRO)	9606	Homo sapiens (Human)	IGH_V	train	117	AC247036;
+P01763	HV348_HUMAN	Immunoglobulin heavy variable 3-48 (Ig heavy chain V-III region WEA)	9606	Homo sapiens (Human)	IGH_V	train	117	AC244452;
+P01764	HV323_HUMAN	Immunoglobulin heavy variable 3-23 (Ig heavy chain V-III region LAY) (Ig heavy chain V-III region POM) (Ig heavy chain V-III region TEI) (Ig heavy chain V-III region TIL) (Ig heavy chain V-III region TUR) (Ig heavy chain V-III region VH26) (Ig heavy chain V-III region WAS) (Ig heavy chain V-III region ZAP)	9606	Homo sapiens (Human)	IGH_V	train	117	M35415;AC245166;
+P01766	HV313_HUMAN	Immunoglobulin heavy variable 3-13 (Ig heavy chain V-III region BRO)	9606	Homo sapiens (Human)	IGH_V	train	116	AC247036;
+P01767	HV353_HUMAN	Immunoglobulin heavy variable 3-53 (Ig heavy chain V-III region BUT)	9606	Homo sapiens (Human)	IGH_V	train	116	AC244452;
+P01768	HV330_HUMAN	Immunoglobulin heavy variable 3-30 (Ig heavy chain V-III region BUR) (Ig heavy chain V-III region CAM) (Ig heavy chain V-III region GA) (Ig heavy chain V-III region NIE)	9606	Homo sapiens (Human)	IGH_V	train	117	AC245166;
+P01772	HV333_HUMAN	Immunoglobulin heavy variable 3-33 (Ig heavy chain V-III region HIL) (Ig heavy chain V-III region KOL)	9606	Homo sapiens (Human)	IGH_V	train	117	AC245166;
+P01780	HV307_HUMAN	Immunoglobulin heavy variable 3-7 (Ig heavy chain V-III region GAL) (Ig heavy chain V-III region GAR) (Ig heavy chain V-III region JON)	9606	Homo sapiens (Human)	IGH_V	train	117	AC244226;
+P01782	HV309_HUMAN	Immunoglobulin heavy variable 3-9 (Ig heavy chain V-III region DOB)	9606	Homo sapiens (Human)	IGH_V	train	118	AC233755;
+P01784	HV01_CANLF	Ig heavy chain V region GOM	9615	Canis lupus familiaris (Dog) (Canis familiaris)	IGH_V	heldout_species	114	
+P01785	HV02_CANLF	Ig heavy chain V region MOO	9615	Canis lupus familiaris (Dog) (Canis familiaris)	IGH_V	heldout_species	117	
+P01786	HVM17_MOUSE	Ig heavy chain V region MOPC 47A	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P01787	HVM18_MOUSE	Ig heavy chain V regions TEPC 15/S107/HPCM1/HPCM2/HPCM3	10090	Mus musculus (Mouse)	IGH_V	train	123	
+P01788	HVM19_MOUSE	Ig heavy chain V region H8	10090	Mus musculus (Mouse)	IGH_V	train	123	
+P01789	HVM20_MOUSE	Ig heavy chain V region M603	10090	Mus musculus (Mouse)	IGH_V	train	122	
+P01790	HVM21_MOUSE	Ig heavy chain V region M511	10090	Mus musculus (Mouse)	IGH_V	train	122	
+P01791	HVM22_MOUSE	Ig heavy chain V region HPCM6	10090	Mus musculus (Mouse)	IGH_V	train	123	
+P01792	HVM23_MOUSE	Ig heavy chain V region HPCG8	10090	Mus musculus (Mouse)	IGH_V	train	123	
+P01793	HVM24_MOUSE	Ig heavy chain V region HPCG13	10090	Mus musculus (Mouse)	IGH_V	train	123	
+P01794	HVM25_MOUSE	Ig heavy chain V region HPCG14	10090	Mus musculus (Mouse)	IGH_V	train	123	
+P01795	HVM26_MOUSE	Ig heavy chain V region M167	10090	Mus musculus (Mouse)	IGH_V	train	144	J00516;
+P01796	HVM27_MOUSE	Ig heavy chain V-III region A4	10090	Mus musculus (Mouse)	IGH_V	train	113	
+P01797	HVM28_MOUSE	Ig heavy chain V-III region U61	10090	Mus musculus (Mouse)	IGH_V	train	113	
+P01798	HVM29_MOUSE	Ig heavy chain V-III region E109	10090	Mus musculus (Mouse)	IGH_V	train	113	
+P01799	HVM30_MOUSE	Ig heavy chain V-III region ABE-47N	10090	Mus musculus (Mouse)	IGH_V	train	113	
+P01800	HVM31_MOUSE	Ig heavy chain V-III region T957	10090	Mus musculus (Mouse)	IGH_V	train	113	
+P01801	HVM32_MOUSE	Ig heavy chain V-III region J606	10090	Mus musculus (Mouse)	IGH_V	train	115	
+P01802	HVM33_MOUSE	Ig heavy chain V-III region W3082	10090	Mus musculus (Mouse)	IGH_V	train	115	
+P01803	HVM34_MOUSE	Ig heavy chain V region AMPC1	10090	Mus musculus (Mouse)	IGH_V	train	113	
+P01804	HVM35_MOUSE	Ig heavy chain V-III region HPC76	10090	Mus musculus (Mouse)	IGH_V	train	111	
+P01805	HVR01_RAT	Ig heavy chain V region IR2	10116	Rattus norvegicus (Rat)	IGH_V	heldout_species	142	
+P01806	HVM36_MOUSE	Ig heavy chain V region 441	10090	Mus musculus (Mouse)	IGH_V	train	116	V00774;
+P01807	HVM37_MOUSE	Ig heavy chain V region X44	10090	Mus musculus (Mouse)	IGH_V	train	119	
+P01808	HVM38_MOUSE	Ig heavy chain V region T601	10090	Mus musculus (Mouse)	IGH_V	train	119	
+P01809	HVM39_MOUSE	Ig heavy chain V region X24	10090	Mus musculus (Mouse)	IGH_V	train	118	X63164;
+P01810	HVM40_MOUSE	Ig heavy chain V region J539	10090	Mus musculus (Mouse)	IGH_V	train	119	
+P01811	HVM41_MOUSE	Ig heavy chain V region UPC10	10090	Mus musculus (Mouse)	IGH_V	train	117	M36631;
+P01812	HVM42_MOUSE	Ig heavy chain V region MOPC 173	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P01813	HV01_CAICR	Ig heavy chain V region C3	8499	Caiman crocodilus (Spectacled caiman) (Caiman sclerops)	IGH_V	heldout_species	117	M12768;V00146;
+P01814	HV270_HUMAN	Immunoglobulin heavy variable 2-70 (Ig heavy chain V-II region COR) (Ig heavy chain V-II region DAW) (Ig heavy chain V-II region OU) (Ig heavy chain V-II region SESS)	9606	Homo sapiens (Human)	IGH_V	train	119	AC245369;
+P01817	HV205_HUMAN	Immunoglobulin heavy variable 2-5 (Ig heavy chain V-II region HE) (Ig heavy chain V-II region MCE)	9606	Homo sapiens (Human)	IGH_V	train	119	AC244226;
+P01819	HVM43_MOUSE	Ig heavy chain V region MOPC 141	10090	Mus musculus (Mouse)	IGH_V	train	144	AH001932;
+P01820	HVM44_MOUSE	Ig heavy chain V region PJ14	10090	Mus musculus (Mouse)	IGH_V	train	115	V00767;
+P01821	HVM45_MOUSE	Immunoglobulin heavy variable 2-4 (Ig heavy chain V region MC101)	10090	Mus musculus (Mouse)	IGH_V	train	116	J00502;
+P01822	HVM46_MOUSE	Ig heavy chain V region MOPC 315	10090	Mus musculus (Mouse)	IGH_V	train	137	M27638;X07880;
+P01823	HVM47_MOUSE	Ig heavy chain V region 36-60	10090	Mus musculus (Mouse)	IGH_V	train	113	
+P01824	HV439_HUMAN	Immunoglobulin heavy variable 4-39 (Ig heavy chain V-II region WAH)	9606	Homo sapiens (Human)	IGH_V	train	125	AC244452;
+P01825	HV459_HUMAN	Immunoglobulin heavy variable 4-59 (Ig heavy chain V-II region NEWM)	9606	Homo sapiens (Human)	IGH_V	train	116	AC244452;
+P01826	HV1A_RABIT	Ig heavy chain V-A1 region BS-5	9986	Oryctolagus cuniculus (Rabbit)	IGH_V	heldout_species	116	
+P01827	HV2A_RABIT	Ig heavy chain V-A2 region BS-1	9986	Oryctolagus cuniculus (Rabbit)	IGH_V	heldout_species	114	
+P01828	HV2B_RABIT	Ig heavy chain V-A2 region K-25	9986	Oryctolagus cuniculus (Rabbit)	IGH_V	heldout_species	117	
+P01829	HV2C_RABIT	Ig heavy chain V-A2 region P-MU-3	9986	Oryctolagus cuniculus (Rabbit)	IGH_V	heldout_species	136	
+P01834	IGKC_HUMAN	Immunoglobulin kappa constant (Ig kappa chain C region) (Ig kappa chain C region AG) (Ig kappa chain C region CUM) (Ig kappa chain C region EU) (Ig kappa chain C region OU) (Ig kappa chain C region ROY) (Ig kappa chain C region TI)	9606	Homo sapiens (Human)	IGK_C	train	107	J00241;AC244205;
+P01835	KACB_RAT	Ig kappa chain C region, B allele	10116	Rattus norvegicus (Rat)	IGK_C	heldout_species	106	
+P01836	KACA_RAT	Ig kappa chain C region, A allele	10116	Rattus norvegicus (Rat)	IGK_C	heldout_species	106	
+P01837	IGKC_MOUSE	Immunoglobulin kappa constant (Ig kappa chain C region MOPC 21)	10090	Mus musculus (Mouse)	IGK_C	train	107	V00807;AC153612;
+P01838	KAC9_RABIT	Ig kappa-b9 chain C region	9986	Oryctolagus cuniculus (Rabbit)	IGK_C	heldout_species	104	
+P01839	KACB_RABIT	Ig kappa-b4 chain C region	9986	Oryctolagus cuniculus (Rabbit)	IGK_C	heldout_species	106	V00885;X05800;
+P01840	KAC4_RABIT	Ig kappa-b4 chain C region	9986	Oryctolagus cuniculus (Rabbit)	IGK_C	heldout_species	103	X00231;
+P01841	KAC5_RABIT	Ig kappa-b5 chain C region	9986	Oryctolagus cuniculus (Rabbit)	IGK_C	heldout_species	103	
+P01843	LAC1_MOUSE	Ig lambda-1 chain C region	10090	Mus musculus (Mouse)	IGL_C	train	105	J00582;J00587;
+P01844	LAC2_MOUSE	Ig lambda-2 chain C region	10090	Mus musculus (Mouse)	IGL_C	train	104	J00595;
+P01845	LAC3_MOUSE	Ig lambda-3 chain C region	10090	Mus musculus (Mouse)	IGL_C	train	104	J00585;
+P01846	LAC_PIG	Ig lambda chain C region	9823	Sus scrofa (Pig)	IGL_C	heldout_species	105	
+P01847	LAC_RABIT	Ig lambda chain C region	9986	Oryctolagus cuniculus (Rabbit)	IGL_C	heldout_species	105	
+P01848	TRAC_HUMAN	T cell receptor alpha chain constant	9606	Homo sapiens (Human)	TRA_C	train	140	X02592;AC243965;
+P01849	TRAC_MOUSE	T-cell receptor alpha chain constant	10090	Mus musculus (Mouse)	TRA_C	train	136	U07662;
+P01850	TRBC1_HUMAN	T cell receptor beta constant 1	9606	Homo sapiens (Human)	TRB_C	train	176	X00437;M12887;L36092;AC245427;CH471198;
+P01851	TCB2_MOUSE	T-cell receptor beta-2 chain C region	10090	Mus musculus (Mouse)	TRB_C	train	173	
+P01852	TCB1_MOUSE	T-cell receptor beta-1 chain C region	10090	Mus musculus (Mouse)	TRB_C	train	173	
+P01853	TCC1_MOUSE	T-cell receptor gamma chain C region C10.5	10090	Mus musculus (Mouse)	TRG_C	train	167	
+P01854	IGHE_HUMAN	Immunoglobulin heavy constant epsilon (Ig epsilon chain C region) (Ig epsilon chain C region ND)	9606	Homo sapiens (Human)	IGH_C	train	546	L00022;J00222;AL928742;X63693;
+P01855	IGHE_RAT	Immunoglobulin heavy constant epsilon (Ig epsilon chain C region)	10116	Rattus norvegicus (Rat)	IGH_C	heldout_species	429	J00744;
+P01857	IGHG1_HUMAN	Immunoglobulin heavy constant gamma 1 (Ig gamma-1 chain C region) (Ig gamma-1 chain C region EU) (Ig gamma-1 chain C region KOL) (Ig gamma-1 chain C region NIE)	9606	Homo sapiens (Human)	IGH_C	train	399	J00228;AL122127;X52847;
+P01859	IGHG2_HUMAN	Immunoglobulin heavy constant gamma 2 (Ig gamma-2 chain C region) (Ig gamma-2 chain C region DOT) (Ig gamma-2 chain C region TIL) (Ig gamma-2 chain C region ZIE)	9606	Homo sapiens (Human)	IGH_C	train	395	J00230;AL928742;
+P01860	IGHG3_HUMAN	Immunoglobulin heavy constant gamma 3 (HDC) (Heavy chain disease protein) (Ig gamma-3 chain C region)	9606	Homo sapiens (Human)	IGH_C	train	446	X03604;D78345;AC244226;AC246787;AL122127;J00231;
+P01861	IGHG4_HUMAN	Immunoglobulin heavy constant gamma 4 (Ig gamma-4 chain C region)	9606	Homo sapiens (Human)	IGH_C	train	396	K01316;AL928742;
+P01862	IGHG2_CAVPO	Ig gamma-2 chain C region	10141	Cavia porcellus (Guinea pig)	IGH_C	heldout_species	329	
+P01863	GCAA_MOUSE	Ig gamma-2A chain C region, A allele (Immunoglobulin heavy chain gamma polypeptide)	10090	Mus musculus (Mouse)	IGH_C	train	330	V00798;
+P01864	GCAB_MOUSE	Ig gamma-2A chain C region secreted form (B allele)	10090	Mus musculus (Mouse)	IGH_C	train	335	J00479;
+P01865	GCAM_MOUSE	Immunoglobulin heavy constant gamma 2A (Ig gamma-2A chain C region, membrane-bound form)	10090	Mus musculus (Mouse)	IGH_C	train	398	J00470;J00471;M35032;
+P01867	IGG2B_MOUSE	Immunoglobulin heavy constant gamma 2B (Ig gamma-2B chain C region)	10090	Mus musculus (Mouse)	IGH_C	train	404	J00461;J00462;
+P01868	IGHG1_MOUSE	Ig gamma-1 chain C region secreted form	10090	Mus musculus (Mouse)	IGH_C	train	324	J00453;V00795;
+P01869	IGH1M_MOUSE	Ig gamma-1 chain C region, membrane-bound form	10090	Mus musculus (Mouse)	IGH_C	train	393	J00453;
+P01870	IGHG_RABIT	Ig gamma chain C region	9986	Oryctolagus cuniculus (Rabbit)	IGH_C	heldout_species	323	M16426;
+P01871	IGHM_HUMAN	Immunoglobulin heavy constant mu (Ig mu chain C region) (Ig mu chain C region BOT) (Ig mu chain C region GAL) (Ig mu chain C region OU)	9606	Homo sapiens (Human)	IGH_C	train	474	X14940;X14940;X14940;X14940;X14940;X14939;X17115;X57086;AC244226;AC245166;AC246787;AC247036;K01310;
+P01872	IGHM_MOUSE	Immunoglobulin heavy constant mu [Cleaved into: Mu' chain (55 kDa mu' chain)]	10090	Mus musculus (Mouse)	IGH_C	train	454	V00821;V00827;J00443;J00444;J00443;J00444;
+P01874	IGHM_CANLF	Ig mu chain C region	9615	Canis lupus familiaris (Dog) (Canis familiaris)	IGH_C	heldout_species	450	
+P01875	IGHM_CHICK	Ig mu chain C region	9031	Gallus gallus (Chicken)	IGH_C	heldout_species	446	X01613;
+P01876	IGHA1_HUMAN	Immunoglobulin heavy constant alpha 1 (Ig alpha-1 chain C region) (Ig alpha-1 chain C region BUR) (Ig alpha-1 chain C region TRO)	9606	Homo sapiens (Human)	IGH_C	train	398	J00220;AL901608;AL928768;M60193;
+P01877	IGHA2_HUMAN	Immunoglobulin heavy constant alpha 2 (Ig alpha-2 chain C region) (Ig alpha-2 chain C region BUT) (Ig alpha-2 chain C region LAN)	9606	Homo sapiens (Human)	IGH_C	train	391	J00221;AL928742;
+P01878	IGHA_MOUSE	Ig alpha chain C region	10090	Mus musculus (Mouse)	IGH_C	train	344	D11468;
+P01879	IGHA_RABIT	Ig alpha chain C region	9986	Oryctolagus cuniculus (Rabbit)	IGH_C	heldout_species	299	X00353;
+P01880	IGHD_HUMAN	Immunoglobulin heavy constant delta (Ig delta chain C region) (Ig delta chain C region NIG-65) (Ig delta chain C region WAH)	9606	Homo sapiens (Human)	IGH_C	train	430	K02880;K02875;K02876;K02877;K02878;K02879;X57331;AC246787;BC021276;BC063384;
+P01881	IGHD_MOUSE	Ig delta chain C region secreted form	10090	Mus musculus (Mouse)	IGH_C	train	257	J00447;J00448;J00449;J00450;
+P01882	IGHDM_MOUSE	Ig delta chain C region membrane-bound form	10090	Mus musculus (Mouse)	IGH_C	train	290	J00447;J00448;J00449;J00450;
+P01883	IGHD_RAT	Ig delta chain C region	10116	Rattus norvegicus (Rat)	IGH_C	heldout_species	202	J00741;
+P03976	KV2A5_MOUSE	Ig kappa chain V-II region 17S29.1	10090	Mus musculus (Mouse)	IGK_V	train	113	
+P03977	KV3A4_MOUSE	Ig kappa chain V-III region 50S10.1	10090	Mus musculus (Mouse)	IGK_V	train	111	
+P03978	TVC2_MOUSE	T-cell receptor gamma chain V region V108B	10090	Mus musculus (Mouse)	TRG_V	train	115	M12832;
+P03979	TRGV3_HUMAN	T cell receptor gamma variable 3 (T-cell receptor gamma V-gamma-1.1 region)	9606	Homo sapiens (Human)	TRG_V	train	118	M13231;AC007245;X04038;
+P03980	HVM48_MOUSE	Ig heavy chain V region TEPC 1017	10090	Mus musculus (Mouse)	IGH_V	train	138	
+P03981	HV02_CAICR	Ig heavy chain V region E1	8499	Caiman crocodilus (Spectacled caiman) (Caiman sclerops)	IGH_V	heldout_species	117	M12769;
+P03982	HV03_CAICR	Ig heavy chain V region G4	8499	Caiman crocodilus (Spectacled caiman) (Caiman sclerops)	IGH_V	heldout_species	117	M12770;
+P03983	HV01_HETFR	Ig heavy chain V region	7792	Heterodontus francisci (Horn shark) (Cestracion francisci)	IGH_V	heldout_species	116	M12195;
+P03984	KAC6_RABIT	Ig kappa chain b5 variant C region	9986	Oryctolagus cuniculus (Rabbit)	IGK_C	heldout_species	104	X00032;K01363;
+P03985	TCC2_MOUSE	T-cell receptor gamma chain C region C7.5	10090	Mus musculus (Mouse)	TRG_C	train	172	
+P03986	TRGC2_HUMAN	T cell receptor gamma constant 2	9606	Homo sapiens (Human)	TRG_C	train	189	M13231;AC006033;M15002;
+P03987	IGHG3_MOUSE	Ig gamma-3 chain C region	10090	Mus musculus (Mouse)	IGH_C	train	398	J00451;V01526;
+P03988	IGHM_RABIT	Ig mu chain C region secreted form	9986	Oryctolagus cuniculus (Rabbit)	IGH_C	heldout_species	458	K01357;
+P04210	LV1_CHICK	Ig lambda chain V-1 region	9031	Gallus gallus (Chicken)	IGL_V	heldout_species	113	M12317;
+P04211	LV743_HUMAN	Immunoglobulin lambda variable 7-43 (Ig lambda chain V region 4A)	9606	Homo sapiens (Human)	IGL_V	train	117	AC245291;
+P04212	TVB4_MOUSE	T-cell receptor beta chain V region LB2	10090	Mus musculus (Mouse)	TRB_V	train	136	X01643;
+P04213	TVB5_MOUSE	T-cell receptor beta chain V region C5	10090	Mus musculus (Mouse)	TRB_V	train	122	
+P04214	TVB6_MOUSE	T-cell receptor beta chain V region E1	10090	Mus musculus (Mouse)	TRB_V	train	136	X01642;
+P04215	HV02_HETFR	Ig heavy chain V region HC-3	7792	Heterodontus francisci (Horn shark) (Cestracion francisci)	IGH_V	heldout_species	89	X03748;
+P04221	MUCM_RABIT	Ig mu chain C region membrane-bound form	9986	Oryctolagus cuniculus (Rabbit)	IGH_C	heldout_species	479	K01357;
+P04430	KV116_HUMAN	Immunoglobulin kappa variable 1-16 (Ig kappa chain V-I region BAN)	9606	Homo sapiens (Human)	IGK_V	train	117	AC245015;
+P04432	KVD39_HUMAN	Immunoglobulin kappa variable 1D-39 (Ig kappa chain V-I region Daudi)	9606	Homo sapiens (Human)	IGK_V	train	117	X00966;AC233264;
+P04433	KV311_HUMAN	Immunoglobulin kappa variable 3-11 (Ig kappa chain V-III region VG)	9606	Homo sapiens (Human)	IGK_V	train	115	X01668;
+P04435	TVB79_HUMAN	T cell receptor beta variable 7-9	9606	Homo sapiens (Human)	TRB_V	train	115	M15564;AC244196;
+P04437	TVA29_HUMAN	T cell receptor alpha variable 29/delta variable 5	9606	Homo sapiens (Human)	TRA_V	train	119	M15565;AE000521;AC245470;
+P04940	KV6A6_MOUSE	Ig kappa chain V-VI region NQ2-17.4.1	10090	Mus musculus (Mouse)	IGK_V	train	107	K00735;
+P04941	KV6A7_MOUSE	Ig kappa chain V-VI region NQ2-48.2.2	10090	Mus musculus (Mouse)	IGK_V	train	107	K00737;
+P04943	KV6A9_MOUSE	Ig kappa chain V-VI region NQ6-8.3.1	10090	Mus musculus (Mouse)	IGK_V	train	107	K00740;
+P04944	KV6AA_MOUSE	Ig kappa chain V-VI region NQ5-78.2.6	10090	Mus musculus (Mouse)	IGK_V	train	107	K00744;
+P04945	KV6AB_MOUSE	Ig kappa chain V-VI region NQ2-6.1	10090	Mus musculus (Mouse)	IGK_V	train	108	K00746;
+P04946	KV5AM_MOUSE	Ig kappa chain V-V region NQ5-89.4	10090	Mus musculus (Mouse)	IGK_V	train	108	K00745;
+P06310	KV230_HUMAN	Immunoglobulin kappa variable 2-30 (Ig kappa chain V-II region RPMI 6410)	9606	Homo sapiens (Human)	IGK_V	train	120	AC244255;Z00020;
+P06312	KV401_HUMAN	Immunoglobulin kappa variable 4-1 (Ig kappa chain V-IV region B17) (Ig kappa chain V-IV region JI) (Ig kappa chain V-IV region Len) (Ig kappa chain V-IV region STH)	9606	Homo sapiens (Human)	IGK_V	train	121	Z00022;Z00023;X02990;AC244205;
+P06315	KV502_HUMAN	Immunoglobulin kappa variable 5-2 (Ig kappa chain V region EV15)	9606	Homo sapiens (Human)	IGK_V	train	115	AC243970;
+P06320	TVB7_MOUSE	T-cell receptor beta chain V region CTL-F3	10090	Mus musculus (Mouse)	TRB_V	train	134	
+P06321	TVB8_MOUSE	T-cell receptor beta chain V region A20.2.25	10090	Mus musculus (Mouse)	TRB_V	train	130	
+P06322	TVA1_RABIT	T-cell receptor alpha chain V region RL-5	9986	Oryctolagus cuniculus (Rabbit)	TRA_V	heldout_species	134	M12885;
+P06323	TVA3_MOUSE	T-cell receptor alpha chain V region CTL-F3	10090	Mus musculus (Mouse)	TRA_V	train	132	
+P06324	TVC3_MOUSE	T-cell receptor gamma chain V region DFL12	10090	Mus musculus (Mouse)	TRG_V	train	132	
+P06325	TVC4_MOUSE	T-cell receptor gamma chain V region 5/10-13	10090	Mus musculus (Mouse)	TRG_V	train	135	
+P06327	HVM52_MOUSE	Immunoglobulin heavy variable 1-84 (Ig heavy chain V region VH558 A1/A4)	10090	Mus musculus (Mouse)	IGH_V	train	117	M13787;
+P06328	HVM49_MOUSE	Ig heavy chain V region 1-72 (Ig heavy chain V region VH558 B4)	10090	Mus musculus (Mouse)	IGH_V	train	117	M13788;AC163348;
+P06329	HVM50_MOUSE	Ig heavy chain V region AC38 15.3	10090	Mus musculus (Mouse)	IGH_V	train	120	
+P06330	HVM51_MOUSE	Ig heavy chain V region AC38 205.12	10090	Mus musculus (Mouse)	IGH_V	train	118	
+P06331	HV434_HUMAN	Immunoglobulin heavy variable 4-34 (Ig heavy chain V-II region ARH-77)	9606	Homo sapiens (Human)	IGH_V	train	123	AC245166;
+P06333	TCB1_RABIT	T-cell receptor beta chain C region	9986	Oryctolagus cuniculus (Rabbit)	TRB_C	heldout_species	177	
+P06334	TCC3_MOUSE	T-cell receptor gamma chain C region DFL12	10090	Mus musculus (Mouse)	TRG_C	train	169	
+P06335	TCC4_MOUSE	T-cell receptor gamma chain C region 5/10-13	10090	Mus musculus (Mouse)	TRG_C	train	190	
+P06336	IGHE_MOUSE	Immunoglobulin heavy constant epsilon (Ig epsilon chain C region)	10090	Mus musculus (Mouse)	IGH_C	train	421	X01857;X01857;
+P06337	IGHM_MESAU	Ig mu chain C region	10036	Mesocricetus auratus (Golden hamster)	IGH_C	heldout_species	454	X02804;
+P0CF51	TRGC1_HUMAN	T cell receptor gamma constant 1	9606	Homo sapiens (Human)	TRG_C	train	173	M14998;M14996;M14997;AC006033;
+P0CF74	IGLC6_HUMAN	Immunoglobulin lambda constant 6 (Ig lambda-6 chain C region)	9606	Homo sapiens (Human)	IGL_C	train	106	J03011;AC245028;
+P0CG04	IGLC1_HUMAN	Immunoglobulin lambda constant 1 (Ig lambda chain C region MGC) (Ig lambda-1 chain C region)	9606	Homo sapiens (Human)	IGL_C	train	106	X51755;AC245028;J00252;
+P0DOX2	IGA2_HUMAN	Immunoglobulin alpha-2 heavy chain (Immunoglobulin alpha-2 heavy chain BUT)	9606	Homo sapiens (Human)	IGH_chain	train	455	
+P0DOX3	IGD_HUMAN	Immunoglobulin delta heavy chain (Immunoglobulin delta heavy chain WAH)	9606	Homo sapiens (Human)	IGH_chain	train	512	
+P0DOX4	IGE_HUMAN	Immunoglobulin epsilon heavy chain (Immunoglobulin epsilon heavy chain ND)	9606	Homo sapiens (Human)	IGH_chain	train	547	
+P0DOX5	IGG1_HUMAN	Immunoglobulin gamma-1 heavy chain (Immunoglobulin gamma-1 heavy chain NIE)	9606	Homo sapiens (Human)	IGH_chain	train	449	
+P0DOX6	IGM_HUMAN	Immunoglobulin mu heavy chain (Immunoglobulin mu heavy chain OU)	9606	Homo sapiens (Human)	IGH_chain	train	576	
+P0DOX7	IGK_HUMAN	Immunoglobulin kappa light chain (Immunoglobulin kappa light chain EU)	9606	Homo sapiens (Human)	IGK_chain	train	214	
+P0DOX8	IGL1_HUMAN	Immunoglobulin lambda-1 light chain (Immunoglobulin lambda-1 light chain MCG)	9606	Homo sapiens (Human)	IGL_chain	train	216	
+P0DOY2	IGLC2_HUMAN	Immunoglobulin lambda constant 2 (Ig lambda chain C region Kern) (Ig lambda chain C region NIG-64) (Ig lambda chain C region SH) (Ig lambda chain C region X) (Ig lambda-2 chain C region)	9606	Homo sapiens (Human)	IGL_C	train	106	J00253;X51754;X51755;D87023;AC245028;CH471095;CH471095;
+P0DOY3	IGLC3_HUMAN	Immunoglobulin lambda constant 3 (Ig lambda chain C region DOT) (Ig lambda chain C region NEWM) (Ig lambda-3 chain C regions)	9606	Homo sapiens (Human)	IGL_C	train	106	J00254;X51755;L38562;D87017;D87023;AC245028;
+P0DOY5	HD101_HUMAN	Immunoglobulin heavy diversity 1-1	9606	Homo sapiens (Human)	IGH_chain	train	5	AC246787;
+P0DP01	HV108_HUMAN	Immunoglobulin heavy variable 1-8	9606	Homo sapiens (Human)	IGH_V	train	117	M99637;
+P0DP02	HVC33_HUMAN	Immunoglobulin heavy variable 3-30-3	9606	Homo sapiens (Human)	IGH_V	train	117	KC713945;
+P0DP03	HVC05_HUMAN	Immunoglobulin heavy variable 3-30-5	9606	Homo sapiens (Human)	IGH_V	train	117	KC162925;
+P0DP04	HV43D_HUMAN	Immunoglobulin heavy variable 3-43D	9606	Homo sapiens (Human)	IGH_V	train	118	KC713950;
+P0DP06	HVD34_HUMAN	Immunoglobulin heavy variable 4-30-4	9606	Homo sapiens (Human)	IGH_V	train	118	Z14238;
+P0DP07	HV431_HUMAN	Immunoglobulin heavy variable 4-31	9606	Homo sapiens (Human)	IGH_V	train	118	KC162925;
+P0DP08	HVD82_HUMAN	Immunoglobulin heavy variable 4-38-2	9606	Homo sapiens (Human)	IGH_V	train	117	KC162926;
+P0DP09	KV113_HUMAN	Immunoglobulin kappa variable 1-13	9606	Homo sapiens (Human)	IGK_V	train	117	Z00006;AC245015;
+P0DPF4	TVA35_HUMAN	T cell receptor alpha variable 35	9606	Homo sapiens (Human)	TRA_V	train	110	
+P0DPF7	TVB63_HUMAN	T cell receptor beta variable 6-3	9606	Homo sapiens (Human)	TRB_V	train	114	AC234635;
+P0DPI4	TDB01_HUMAN	T cell receptor beta diversity 1	9606	Homo sapiens (Human)	TRB_chain	train	4	AC245427;
+P0DPR3	TRDD1_HUMAN	T cell receptor delta diversity 1	9606	Homo sapiens (Human)	TRD_chain	train	2	AC244502;
+P0DTU3	TRAR2_HUMAN	T cell receptor alpha chain MC.7.G5 (MC.7.G5 TRA) (TR alpha chain TRAV38-2DV8*01J31*01C*01)	9606	Homo sapiens (Human)	TRA_chain	train	275	MN782533;X02592;AE000521;AC243965;
+P0DTU4	TRBR2_HUMAN	T cell receptor beta chain MC.7.G5 (TR beta chain TRBV25-1*01J2S3*01C2*01) (MC.7.G5 TRB)	9606	Homo sapiens (Human)	TRB_chain	train	315	MN782534;M12888;CH471198;AC244472;AC239618;AC245427;
+P0DUB3	IGHA_EQUAS	Immunoglobulin heavy constant alpha (Ig alpha chain C region) (IgA constant region)	9793	Equus asinus (Donkey) (Equus africanus asinus)	IGH_C	heldout_species	346	
+P18524	HVM53_MOUSE	Ig heavy chain V region RF	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P18525	HVM54_MOUSE	Ig heavy chain V region 5-84	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P18526	HVM55_MOUSE	Ig heavy chain V region 345	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P18527	HVM56_MOUSE	Ig heavy chain V region 914	10090	Mus musculus (Mouse)	IGH_V	train	97	
+P18528	HVM57_MOUSE	Ig heavy chain V region 6.96	10090	Mus musculus (Mouse)	IGH_V	train	98	
+P18529	HVM58_MOUSE	Ig heavy chain V region 5-76	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P18530	HVM59_MOUSE	Ig heavy chain V region 7-39	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P18531	HVM60_MOUSE	Ig heavy chain V region 3-6 (Ig heavy chain V region M315)	10090	Mus musculus (Mouse)	IGH_V	train	116	
+P18532	HVM61_MOUSE	Ig heavy chain V region 1B43	10090	Mus musculus (Mouse)	IGH_V	train	116	
+P18533	HVM62_MOUSE	Immunoglobulin heavy variable 3-5 (Ig heavy chain V region 733)	10090	Mus musculus (Mouse)	IGH_V	train	117	
+P19180	HV03_CARAU	Ig heavy chain V region 3	7957	Carassius auratus (Goldfish)	IGH_V	heldout_species	117	J03616;
+P19181	HV05_CARAU	Ig heavy chain V region 5A	7957	Carassius auratus (Goldfish)	IGH_V	heldout_species	116	
+P20758	IGHA1_GORGO	Ig alpha-1 chain C region	9595	Gorilla gorilla gorilla (Western lowland gorilla)	IGH_C	heldout_species	353	X15045;
+P20759	IGHG1_RAT	Ig gamma-1 chain C region	10116	Rattus norvegicus (Rat)	IGH_C	heldout_species	326	
+P20760	IGG2A_RAT	Ig gamma-2A chain C region	10116	Rattus norvegicus (Rat)	IGH_C	heldout_species	322	M13804;
+P20761	IGG2B_RAT	Ig gamma-2B chain C region (Immunoglobulin heavy chain 1a)	10116	Rattus norvegicus (Rat)	IGH_C	heldout_species	333	
+P20762	IGG2C_RAT	Ig gamma-2C chain C region	10116	Rattus norvegicus (Rat)	IGH_C	heldout_species	329	X07189;
+P20763	LAC_CHICK	Ig lambda chain C region	9031	Gallus gallus (Chicken)	IGL_C	heldout_species	103	X04768;
+P20766	LAC1_RAT	Ig lambda-1 chain C region	10116	Rattus norvegicus (Rat)	IGL_C	heldout_species	104	M22520;
+P20767	LAC2_RAT	Ig lambda-2 chain C region	10116	Rattus norvegicus (Rat)	IGL_C	heldout_species	104	M22521;
+P20768	IGHM_SUNMU	Ig mu chain C region	9378	Suncus murinus (Asian house shrew) (Musk shrew)	IGH_C	heldout_species	457	X13920;
+P20956	HV01_XENLA	Ig heavy chain V region XIG8	8355	Xenopus laevis (African clawed frog)	IGH_V	heldout_species	136	M20484;
+P20957	HV02_XENLA	Ig heavy chain V region XIG14	8355	Xenopus laevis (African clawed frog)	IGH_V	heldout_species	135	J03632;
+P23083	HV102_HUMAN	Immunoglobulin heavy variable 1-2 (Ig heavy chain V-I region ND) (Ig heavy chain V-I region V35)	9606	Homo sapiens (Human)	IGH_V	train	117	X07448;AC246787;
+P23084	HVC1_HETFR	Ig heavy chain C region (Clone 6125)	7792	Heterodontus francisci (Horn shark) (Cestracion francisci)	IGH_C	heldout_species	370	X07783;
+P23085	HVC2_HETFR	Ig heavy chain C region (Clone 12022)	7792	Heterodontus francisci (Horn shark) (Cestracion francisci)	IGH_C	heldout_species	438	X07784;
+P23086	HVC3_HETFR	Ig heavy chain C region (Clone 6121)	7792	Heterodontus francisci (Horn shark) (Cestracion francisci)	IGH_C	heldout_species	393	X07782;
+P23087	HVCS_HETFR	Ig heavy chain C region, secreted form (Clone 3050)	7792	Heterodontus francisci (Horn shark) (Cestracion francisci)	IGH_C	heldout_species	438	X07781;
+P23088	HVCM_HETFR	Ig heavy chain C region, membrane-bound form (Clone 3050)	7792	Heterodontus francisci (Horn shark) (Cestracion francisci)	IGH_C	heldout_species	461	X07781;
+P23735	MUCM_ICTPU	Ig mu chain C region membrane-bound form	7998	Ictalurus punctatus (Channel catfish) (Silurus punctatus)	IGH_C	heldout_species	380	X52617;
+P24071	FCAR_HUMAN	Immunoglobulin alpha Fc receptor (IgA Fc receptor) (CD antigen CD89)	9606	Homo sapiens (Human)	IGH_chain	train	287	X54150;X87767;X87768;X87769;X87766;X87765;U43774;U43677;U56236;U56237;S82919;D87853;D87854;D87855;D87856;D87857;D87859;D87861;D87862;DQ075334;DQ075335;DQ075336;DQ075337;DQ075338;DQ075339;AC011501;BC027953;
+P80748	LV321_HUMAN	Immunoglobulin lambda variable 3-21 (Ig lambda chain V-III region LOI) (Ig lambda chain V-V region DEL) (Ig lambda chain V-VII region MOT)	9606	Homo sapiens (Human)	IGL_V	train	117	AC244250;
+P84750	KVM5_MOUSE	Ig kappa chain V region Mem5	10090	Mus musculus (Mouse)	IGK_V	train	121	DQ220747;
+P84751	HVM63_MOUSE	Ig heavy chain Mem5	10090	Mus musculus (Mouse)	IGH_chain	train	237	DQ220746;
+Q5M871	FCMR_RAT	Immunoglobulin mu Fc receptor (IgM FcR) (Fas apoptotic inhibitory molecule 3) (FAIM3g) (Regulator of Fas-induced apoptosis Toso)	10116	Rattus norvegicus (Rat)	IGH_chain	heldout_species	426	BC088197;
+Q99603	TRGV9_HUMAN	T cell receptor gamma variable 9	9606	Homo sapiens (Human)	TRG_V	train	122	X07205;AC006033;

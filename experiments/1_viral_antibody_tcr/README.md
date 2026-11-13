@@ -2,31 +2,19 @@
 
 Issue: [#1](https://github.com/timodonnell/bio-fishing-expeditions/issues/1)
 
-Plan date: 2026-11-12
+Status, 2026-11-13: **natural TCR beta-chain capture established from published FeLV evidence; core RefSeq/INPHARED screens complete; broader search and unresolved candidates remain open.**
 
-Status: **plan and literature preflight complete; no sequence database screen has been run.**
+The answer is yes for a naturally captured **TCR beta chain**: GenBank **X05155.1**, protein **CAA28801.1**, UniProt **P11364**, reported in 1987. The source CDS translation was verified and the sequence recovered with host-only references. This is a previously known case, not a novel discovery or a complete alpha/beta receptor. Natural antibody capture remains unresolved.
 
-The primary question is whether a naturally occurring virus, including a bacteriophage, has acquired sequence derived specifically from an antibody/immunoglobulin or T-cell receptor gene. We will also report engineered examples, distinguish gene fragments from complete chains/receptors, and assess whether a candidate is genuinely part of a viral genome.
+We searched **3,207,211 protein records** and translated **48,286 genome records** across RefSeq viruses and INPHARED phages. These totals include overlap; exact-sequence overlap is reported separately. A targeted annotation survey added 960 viral-taxonomy protein records and exposed structure-component and legacy-taxonomy pitfalls. Five annotation-only genomic leads remain unresolved.
 
-Engineered antibody and TCR phage-display precedents are already documented. Those precedents do not answer the natural-acquisition question. Likewise, a generic immunoglobulin-like domain or an antibody physically carried on a virion does not establish antibody gene acquisition. See the [literature preflight](literature_preflight.md) for the evidence and qualifications.
+- [Results and limitations](RESULTS.md)
+- [Natural FeLV TCR evidence packet](known_natural_tcr.md)
+- [Original research plan](PLAN.md)
+- [Reproduction instructions](RUNNING.md)
+- [Data-source inventory](data_sources.tsv)
+- [Download manifest](manifests/downloads.json), [run outputs](results/), and [integrity validation](results/validation.json)
+- [Frozen references](references/), [scripts](scripts/), and [software lock](requirements.lock)
+- [Historical literature preflight](literature_preflight.md), [sources](sources.tsv), and [queries](search_queries.tsv)
 
-## Materials
-
-- [Research plan](PLAN.md): definitions, search design, controls, validation, resources, and reporting criteria.
-- [Data-source inventory](data_sources.tsv): intended corpora, acquisition status, and known coverage limits. This is an inventory, not a download manifest.
-- [Literature preflight](literature_preflight.md): preliminary findings and source-access limitations.
-- [Sources](sources.tsv): primary papers and official documentation used in planning.
-- [Search queries](search_queries.tsv): selected executed discovery queries and the planned systematic searches, explicitly distinguished.
-- [Local preflight](preflight.json): observed disk, memory, CPU, and tool availability.
-
-## Milestones
-
-- [x] Define the question and competing explanations.
-- [x] Identify literature precedents and current database options.
-- [x] Specify controls, independent search routes, validation, and reporting.
-- [ ] Freeze reference sequences, database releases, software, and parameters.
-- [ ] Run and evaluate the calibration pilot.
-- [ ] Complete the broad protein and nucleotide screens, with coverage accounting.
-- [ ] Adjudicate candidates and write the final evidence-based answer.
-
-The next executable milestone is a calibrated pilot using a diverse antibody/TCR reference panel, hard negative controls, and a stratified subset of NCBI viral genomes. The experiment remains open until its sequence searches and candidate adjudication are complete.
+The full calibration gate, whole-GenBank search, MetaVR, supplemental metagenomic catalogs, and read/phylogenetic validation are unfinished. The issue remains open. No absence result here establishes that a natural antibody acquisition has never occurred.

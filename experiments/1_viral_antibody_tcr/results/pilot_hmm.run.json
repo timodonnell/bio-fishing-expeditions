@@ -1,0 +1,37 @@
+{
+  "started_utc": "2026-11-13T17:26:00.340249+00:00",
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/search.py",
+    "hmm",
+    "experiments/1_viral_antibody_tcr/data/cache/references/receptor_profiles.hmm",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/pilot.faa",
+    "experiments/1_viral_antibody_tcr/results/pilot_hmm.tsv",
+    "--cpus",
+    "4"
+  ],
+  "git_commit": "5bdd770e483b0477645fc0519228471f9558e739",
+  "script_sha256": "80c54871c418e5d79c701e9407d2118558ed0a36b5bde76abbeb88780c5f8bb8",
+  "inputs": {
+    "experiments/1_viral_antibody_tcr/data/cache/references/receptor_profiles.hmm": "e64d4c4729d58529b3cd993d6a2b79d8fac539e16e63ec03221288b9f0339893",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/pilot.faa": "0ee74ac0c90d6a4a0498b8781abe167173032f7f37582465db31fe9ede4fa7cd"
+  },
+  "method": "hmm",
+  "threads": 4,
+  "status": "complete",
+  "pyhmmer": "0.12.3",
+  "targets": 340419,
+  "profiles": 14,
+  "parameters": {
+    "E": 100,
+    "domE": 100,
+    "Z": 340419,
+    "retain_independent_domain_E": 0.01
+  },
+  "exit_status": 0,
+  "output_sha256": "2aa90be24d5375a39b378732ff27d54378397fd7114eb9470e1dcbdbc10181eb",
+  "finished_utc": "2026-11-13T17:26:02.682929+00:00",
+  "seconds": 2.3426976520568132,
+  "process_maxrss_kib": 381912,
+  "children_maxrss_kib": 50788
+}

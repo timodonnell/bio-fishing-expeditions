@@ -2,6 +2,10 @@
 
 Issue [#1](https://github.com/timodonnell/bio-fishing-expeditions/issues/1). Written 2026-11-12, before sequence screening. All numerical screening thresholds below are **pilot starting points**, not validated discovery criteria. Changes after calibration must be recorded before the broad search.
 
+## Execution update — 2026-11-13
+
+The original plan below is retained. [RESULTS.md](RESULTS.md) distinguishes executed work from pending work. A published natural FeLV TCR capture was found and validated. RefSeq and INPHARED protein/translated-DNA screens are complete as an exploratory extension. The full calibration gate is not complete; host stratification, VHH/IgNAR, engineered controls, and other deviations are explicitly recorded. MetaVR bulk access works, but its sequences have not been searched. No general negative-result sensitivity claim is made.
+
 ## 1. Define what would answer the question
 
 Primary question: is there credible evidence that a naturally occurring viral genome acquired coding sequence specifically derived from a jawed-vertebrate antibody/immunoglobulin (IG) or T-cell receptor (TR) locus?

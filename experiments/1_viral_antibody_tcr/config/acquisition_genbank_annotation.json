@@ -1,0 +1,12 @@
+[
+  {
+    "id": "entrez_viral_tcr",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=protein&term=txid10239%5BOrganism%3Aexp%5D+AND+%28%22T-cell+receptor%22%5BAll+Fields%5D+OR+%22T+cell+receptor%22%5BAll+Fields%5D%29&retmode=json&retmax=10000",
+    "path": "data/raw/genbank/viral_tcr.json"
+  },
+  {
+    "id": "entrez_viral_ig_chain",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=protein&term=txid10239%5BOrganism%3Aexp%5D+AND+%28%22immunoglobulin+heavy+chain%22%5BAll+Fields%5D+OR+%22immunoglobulin+light+chain%22%5BAll+Fields%5D+OR+%22antibody+variable%22%5BAll+Fields%5D+OR+%22single-chain+antibody%22%5BAll+Fields%5D%29&retmode=json&retmax=10000",
+    "path": "data/raw/genbank/viral_ig_chain.json"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "uniprot_P11364_json",
+    "url": "https://rest.uniprot.org/uniprotkb/P11364.json",
+    "path": "data/raw/candidates/P11364.json"
+  },
+  {
+    "id": "X05155_genbank",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=X05155&rettype=gbwithparts&retmode=text",
+    "path": "data/raw/candidates/X05155.gb"
+  },
+  {
+    "id": "felv_1992_fulltext_xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC241135/fullTextXML",
+    "path": "data/raw/candidates/PMC241135.xml"
+  },
+  {
+    "id": "felv_1987_pubmed_xml",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=3029597%2C1316466&retmode=xml",
+    "path": "data/raw/candidates/felv_papers.xml"
+  },
+  {
+    "id": "metavr_access_check",
+    "url": "https://www.meta-virome.org/",
+    "path": "data/raw/metavr/home.html"
+  }
+]

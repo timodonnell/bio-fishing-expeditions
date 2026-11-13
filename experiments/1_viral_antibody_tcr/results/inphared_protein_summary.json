@@ -1,0 +1,13 @@
+{
+  "completed_utc": "2026-11-13T17:36:25.186671+00:00",
+  "release": "14Apr2025",
+  "kind": "protein",
+  "records": 2484471,
+  "total_length": 517146495,
+  "unique_exact_sequences": 1134909,
+  "records_identical_to_RefSeq": 1204734,
+  "unique_sequences_not_in_RefSeq": 764276,
+  "overlap_rule": "SHA-256 of uppercase sequence; genome comparisons do not normalize rotations or reverse complements",
+  "source_sha256": "a707b437a6bd22ae0558d247df7e2714c7a142782c7d97a7a6ad8c8964abcffe",
+  "output_sha256": "6a8618c902e12651f83bab24a12c720becb929d04f1e2134f92983792a3566ea"
+}

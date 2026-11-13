@@ -1,0 +1,258 @@
+[
+  {
+    "protein": "DAJ54870.1",
+    "genome": "BK043519.1",
+    "genome_bp": 35124,
+    "protein_aa": 46,
+    "location": "[2376:2517](+)",
+    "translation_validated": true,
+    "qualifiers": {
+      "inference": [
+        "protein motif:PDB:1MVF_E"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "immunoglobulin heavy chain variable region addiction, camel antibody, addiction.65A"
+      ],
+      "protein_id": [
+        "DAJ54870.1"
+      ],
+      "translation": [
+        "MKKESSLSQLFKGFDYKKYWEDWNKEHPNQSKEFDWGEPVGREYKW"
+      ]
+    },
+    "genome_source": {
+      "organism": [
+        "Caudoviricetes sp."
+      ],
+      "mol_type": [
+        "genomic DNA"
+      ],
+      "isolate": [
+        "ctC3d4"
+      ],
+      "isolation_source": [
+        "Human metagenome"
+      ],
+      "db_xref": [
+        "taxon:2832643"
+      ],
+      "environmental_sample": [
+        ""
+      ],
+      "geo_loc_name": [
+        "USA"
+      ],
+      "collection_date": [
+        "2013-05-27"
+      ],
+      "metagenome_source": [
+        "Human Metagenome"
+      ],
+      "note": [
+        "genome binned from sequencing reads available in ERX234764,ERX234764; metagenomic"
+      ]
+    },
+    "genbank_sha256": "179967abebb41fef4bf3f1941c9ec97b4e27745d15523ac6cd2ac25695a81f0c",
+    "assessment": "Annotation-only unresolved; no convincing receptor-specific match; no raw-read validation"
+  },
+  {
+    "protein": "DAW92981.1",
+    "genome": "BK025828.1",
+    "genome_bp": 12981,
+    "protein_aa": 87,
+    "location": "[9919:10183](+)",
+    "translation_validated": true,
+    "qualifiers": {
+      "inference": [
+        "protein motif:PDB:1MVF_E"
+      ],
+      "codon_start": [
+        "1"
+      ],
+      "transl_table": [
+        "11"
+      ],
+      "product": [
+        "immunoglobulin heavy chain variable region addiction, camel antibody, addiction.65A"
+      ],
+      "protein_id": [
+        "DAW92981.1"
+      ],
+      "translation": [
+        "MRTNIISIGNSKGVILPTSILKELKLSLKSSVQILAENGTIVIKAAPRQGWEEAAMEMHTNGDDKLLMPDIFENENLEEWTWEDKTK"
+      ]
+    },
+    "genome_source": {
+      "organism": [
+        "Caudoviricetes sp."
+      ],
+      "mol_type": [
+        "genomic DNA"
+      ],
+      "isolate": [
+        "ct5lX6"
+      ],
+      "isolation_source": [
+        "Human metagenome"
+      ],
+      "db_xref": [
+        "taxon:2832643"
+      ],
+      "environmental_sample": [
+        ""
+      ],
+      "geo_loc_name": [
+        "USA"
+      ],
+      "collection_date": [
+        "2013-05-27"
+      ],
+      "metagenome_source": [
+        "Human Metagenome"
+      ],
+      "note": [
+        "genome binned from sequencing reads available in ERX234758,ERX234758; metagenomic"
+      ]
+    },
+    "genbank_sha256": "5f20874d86afbee333fb6032d3ae5c2affcd99cb230d570ec541808a1f368aae",
+    "assessment": "Annotation-only unresolved; no convincing receptor-specific match; no raw-read validation"
+  },
+  {
+    "protein": "DBA58143.1",
+    "genome": "BK068258.1",
+    "genome_bp": 683254,
+    "protein_aa": 460,
+    "location": "[257478:258861](-)",
+    "translation_validated": true,
+    "qualifiers": {
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "t cell receptor beta variable 6-5,M1-specific chain"
+      ],
+      "protein_id": [
+        "DBA58143.1"
+      ],
+      "translation": [
+        "MESRVQPTFRSSYPQNESSFRGKNVPLNNTSQRSRKSSTICKNGTIENPFSNSSSPDCIPTPQTFKVVNSGPGTVTFSRLSSSGAAVPSSFSSGSVDFLTTVPQNSFKTSSPQNHPKVIYYLSRLNENNFDDLEGQNGFERYPYSLSMFDCHTCQVSTNGGYNSRYGHPGYHMQLFQNGRKIADFTPNSRPIILSTVPGGILLLKIISPSSGTSPHFSLPDQISPVRPPVDNFPGEIEPGSGLPEPLVPQIPPEQPIGNGTPINGIPTGNGGNGTPINGIPTGNGGNGTPINGIPTGNGGNGTPINGIPTGNGGNGTPIGEIPVNGGNGNLPFQPVLPPTPQGQPEGVPFDQPFAQSTSTLDQNISTFDQGIRQMNEQLSAMNGSFGTSIQAFSNEVSALTEETSKRNTLWLWIAIGIGAIFVLLVIGFLVYFLMKGRKNKAVVSTASGTMVGEIVDVDT"
+      ]
+    },
+    "genome_source": {
+      "organism": [
+        "Pithovirus sp. LC8"
+      ],
+      "mol_type": [
+        "genomic DNA"
+      ],
+      "db_xref": [
+        "taxon:1805628"
+      ]
+    },
+    "genbank_sha256": "991e85ed854285439d29719b972073b34adeb717bf76496c57aff426895a5090",
+    "assessment": "Annotation-only unresolved; no convincing receptor-specific match; no raw-read validation"
+  },
+  {
+    "protein": "XOK31829.1",
+    "genome": "PQ067554.1",
+    "genome_bp": 349588,
+    "protein_aa": 114,
+    "location": "[236345:236690](-)",
+    "translation_validated": true,
+    "qualifiers": {
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "T cell receptor beta"
+      ],
+      "protein_id": [
+        "XOK31829.1"
+      ],
+      "translation": [
+        "MSRWLIITIAGIVIASAITIAVLFYLIRHNDKAEKDADALYLKQKADILNAAVQSGIGSSGSTTASAALVGSVNATGVKVNSSTSALAGVVARQKALLKTLRDKYAAEKARILS"
+      ]
+    },
+    "genome_source": {
+      "organism": [
+        "Chlorovirus insulalacus"
+      ],
+      "mol_type": [
+        "genomic DNA"
+      ],
+      "isolate": [
+        "S-NE-11"
+      ],
+      "host": [
+        "Chlorella heliozoae SAG 3.83"
+      ],
+      "db_xref": [
+        "taxon:3702702"
+      ],
+      "geo_loc_name": [
+        "USA"
+      ],
+      "collection_date": [
+        "Oct-2020"
+      ],
+      "note": [
+        "Chlorovirus sp."
+      ]
+    },
+    "genbank_sha256": "9b5a78ef30122b3c91bf356e283aa955db97bfffa777384211007d8bb90ca4d0",
+    "assessment": "Annotation-only unresolved; no convincing receptor-specific match; no raw-read validation"
+  },
+  {
+    "protein": "XYW61038.1",
+    "genome": "PV288767.1",
+    "genome_bp": 373967,
+    "protein_aa": 65,
+    "location": "[245107:245305](-)",
+    "translation_validated": true,
+    "qualifiers": {
+      "codon_start": [
+        "1"
+      ],
+      "product": [
+        "T cell receptor gamma variable 5,T cell receptor gamma constant 1"
+      ],
+      "protein_id": [
+        "XYW61038.1"
+      ],
+      "translation": [
+        "MWRLLIVILCIVLAFLFVRNRQKKNPREKTGELLEFEHVKDLYGKDILDGECMRIMRLSPENKTR"
+      ]
+    },
+    "genome_source": {
+      "organism": [
+        "Chlorovirus sp."
+      ],
+      "mol_type": [
+        "genomic DNA"
+      ],
+      "isolate": [
+        "NE-P-6-s"
+      ],
+      "host": [
+        "Micractinium conductrix strain Pbi"
+      ],
+      "db_xref": [
+        "taxon:2809302"
+      ],
+      "geo_loc_name": [
+        "USA"
+      ],
+      "collection_date": [
+        "Oct-2017"
+      ]
+    },
+    "genbank_sha256": "ca182faf53ca8cc8c0995b643f0270f8f2ff83cdbd55b25120dd4645544b3061",
+    "assessment": "Annotation-only unresolved; no convincing receptor-specific match; no raw-read validation"
+  }
+]

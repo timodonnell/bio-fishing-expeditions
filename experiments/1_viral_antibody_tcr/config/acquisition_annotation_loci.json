@@ -1,0 +1,27 @@
+[
+  {
+    "id": "candidate_locus_BK043519.1",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BK043519.1&rettype=gbwithparts&retmode=text",
+    "path": "data/raw/candidates/BK043519.1.gb"
+  },
+  {
+    "id": "candidate_locus_BK025828.1",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BK025828.1&rettype=gbwithparts&retmode=text",
+    "path": "data/raw/candidates/BK025828.1.gb"
+  },
+  {
+    "id": "candidate_locus_BK068258.1",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=BK068258.1&rettype=gbwithparts&retmode=text",
+    "path": "data/raw/candidates/BK068258.1.gb"
+  },
+  {
+    "id": "candidate_locus_PQ067554.1",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=PQ067554.1&rettype=gbwithparts&retmode=text",
+    "path": "data/raw/candidates/PQ067554.1.gb"
+  },
+  {
+    "id": "candidate_locus_PV288767.1",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=PV288767.1&rettype=gbwithparts&retmode=text",
+    "path": "data/raw/candidates/PV288767.1.gb"
+  }
+]

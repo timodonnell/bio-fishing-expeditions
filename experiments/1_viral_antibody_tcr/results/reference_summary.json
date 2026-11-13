@@ -1,0 +1,310 @@
+{
+  "completed_utc": "2026-11-13T17:17:40.483627+00:00",
+  "source_sha256": "03ea342a14315b977572ac3de54c6770ad3347e90acc0f32f211e50dfb9f44f2",
+  "references": 534,
+  "species": 17,
+  "families": {
+    "IGL_V": 41,
+    "TRG_V": 13,
+    "TRB_V": 61,
+    "IGK_V": 122,
+    "IGH_V": 127,
+    "TRG_chain": 1,
+    "TRA_V": 49,
+    "TRA_chain": 4,
+    "TRD_chain": 2,
+    "TRB_chain": 15,
+    "IGL_chain": 2,
+    "IGK_chain": 2,
+    "IGH_chain": 12,
+    "TRD_V": 3,
+    "TRB_C": 5,
+    "IGL_C": 13,
+    "TRD_C": 1,
+    "IGK_C": 9,
+    "TRA_C": 2,
+    "TRG_C": 6,
+    "IGH_C": 44
+  },
+  "splits": {
+    "train": 460,
+    "heldout_species": 74
+  },
+  "decoys": 231,
+  "domain_splits": {
+    "train": 490,
+    "heldout_species": 83
+  },
+  "profiles": [
+    {
+      "family": "IGH_C",
+      "training_sequences": 57,
+      "length": 97,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGH_C.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGH_C.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "d12626df9fd8fd7898f11a28cdcf186a3b849a5cb8fceef3cd856bfa129d8814"
+    },
+    {
+      "family": "IGH_V",
+      "training_sequences": 119,
+      "length": 98,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGH_V.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGH_V.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "8cadc63bd3a1847241441b9c762dbc4c3f131ba7073af36429ed64d82f402ea1"
+    },
+    {
+      "family": "IGK_C",
+      "training_sequences": 2,
+      "length": 98,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGK_C.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGK_C.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "17466c5b8ed915a0c988762561591d6f70edac0cbc1d8119ba24b5edd682acc2"
+    },
+    {
+      "family": "IGK_V",
+      "training_sequences": 98,
+      "length": 107,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGK_V.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGK_V.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "397486e57dabdb25ba55562a696960ff90dcef68755ac7d7c0d60cb8d6a9006d"
+    },
+    {
+      "family": "IGL_C",
+      "training_sequences": 8,
+      "length": 95,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGL_C.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGL_C.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "6fecb65abd2b9b6545e4cbc12d474239a7510b436952f91c5bb57f6886c6097e"
+    },
+    {
+      "family": "IGL_V",
+      "training_sequences": 41,
+      "length": 99,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGL_V.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/IGL_V.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "7498d6c353fd66771cbc03dffa8576150e115b90504897cc7966fe4c157bc1d6"
+    },
+    {
+      "family": "TRA_C",
+      "training_sequences": 2,
+      "length": 89,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRA_C.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRA_C.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "056d91fb102bd6592cc5cd9fc2bcf02fa14618a321e8843106b82760b98e27da"
+    },
+    {
+      "family": "TRA_V",
+      "training_sequences": 48,
+      "length": 92,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRA_V.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRA_V.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "975b63720f3280f50cb8fd150522e2b0bb3017c300040b69857f2eca6dfe2179"
+    },
+    {
+      "family": "TRB_C",
+      "training_sequences": 5,
+      "length": 110,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRB_C.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRB_C.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "e2e0437add409f465c839e141508a0790273480a70736c01688f4489ae525813"
+    },
+    {
+      "family": "TRB_V",
+      "training_sequences": 60,
+      "length": 93,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRB_V.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRB_V.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "59836b29d3b27286c74f5d40bb0db9f4f28f08828408583811e6fa02604d7051"
+    },
+    {
+      "family": "TRD_C",
+      "training_sequences": 1,
+      "length": 153,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRD_C.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRD_C.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "00d8f83f409cf6938043a2c376350420a8a1af86f8091e52411c09d88c3b1684"
+    },
+    {
+      "family": "TRD_V",
+      "training_sequences": 3,
+      "length": 94,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRD_V.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRD_V.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "7f2372fae5d60f00ced7644ec998ec46c9850f1d4f8349cf0c39394250e54722"
+    },
+    {
+      "family": "TRG_C",
+      "training_sequences": 6,
+      "length": 172,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRG_C.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRG_C.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "12223942568ddfa23638f597f18ca1be6a3ed3a9cc5dc9b4f9957702a6f693f8"
+    },
+    {
+      "family": "TRG_V",
+      "training_sequences": 13,
+      "length": 104,
+      "alignment_command": [
+        "/home/bizon/git/ANARCI/bin/muscle",
+        "-in",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRG_V.faa",
+        "-out",
+        "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/TRG_V.afa",
+        "-maxiters",
+        "2",
+        "-quiet"
+      ],
+      "alignment_sha256": "005a2cf6916a331d80099e81e7cfdcfcc8570d7fcf24fa2d77fb7030513681b4"
+    }
+  ],
+  "muscle_path": "/home/bizon/git/ANARCI/bin/muscle",
+  "muscle_sha256": "03110020de7ff7725e3d6d277e117cab69f1ae864927ab186d0f0ee14927e16c",
+  "pyhmmer": "0.12.3",
+  "limitations": [
+    "No camelid VHH or IgNAR-specific panel yet",
+    "TRD and other rare families have limited training diversity",
+    "Whole named regions used where domain bounds unavailable",
+    "Holdout near-identity filtering is performed during calibration"
+  ],
+  "outputs": {
+    "IGH_V.afa": "8cadc63bd3a1847241441b9c762dbc4c3f131ba7073af36429ed64d82f402ea1",
+    "TRB_V.faa": "be685ca17bc19185c0b1f7b413fc301f9b519778cf5a84a24e5f3d25cc3b545b",
+    "IGL_C.afa": "6fecb65abd2b9b6545e4cbc12d474239a7510b436952f91c5bb57f6886c6097e",
+    "IGL_C.faa": "1df9ec37b7ce208ec28385fbbe2d9560fda1b4e295f22e41185ebd6535dcfca6",
+    "IGK_V.afa": "397486e57dabdb25ba55562a696960ff90dcef68755ac7d7c0d60cb8d6a9006d",
+    "TRA_C.afa": "056d91fb102bd6592cc5cd9fc2bcf02fa14618a321e8843106b82760b98e27da",
+    "TRD_C.faa": "99a3ef80d75aa97c9c61715c229dc5efea32e11ca2c1024cb0e0bac9283ad005",
+    "TRG_V.faa": "3afe155125a37aa379451c3b9eb5c0151c67078acf1ac5063ccd82fbe32e0977",
+    "decoys.faa": "a628fc633a1d8feacd9d30f0bde7ebe39475e48e77e0b6efecdaf5833dbc1109",
+    "TRA_V.afa": "975b63720f3280f50cb8fd150522e2b0bb3017c300040b69857f2eca6dfe2179",
+    "decoys.json": "6ff7dd13ca33266fd4f26f7e8a54c5559338bbb543fbe40130e5180f3b8a5eaa",
+    "TRG_V.afa": "005a2cf6916a331d80099e81e7cfdcfcc8570d7fcf24fa2d77fb7030513681b4",
+    "IGH_V.faa": "9f80611b0417e7d802a2fe65c68815395ab44baa54df3718d876f06baa7c78f1",
+    "TRD_V.afa": "7f2372fae5d60f00ced7644ec998ec46c9850f1d4f8349cf0c39394250e54722",
+    "TRB_V.afa": "59836b29d3b27286c74f5d40bb0db9f4f28f08828408583811e6fa02604d7051",
+    "TRG_C.faa": "116d4b7c56f76a4d0e572ef8264bf4761725df3ca61f1e73323149970d8003f9",
+    "TRB_C.faa": "2e81a0dcdc0b390536d79fcd2864589af00c3bad8baf4b32b98ee9eeba330225",
+    "TRA_C.faa": "0989f3758d38cc78c0add31242289418f81a36d8ff89f269a01afc61127f3abe",
+    "IGL_V.afa": "7498d6c353fd66771cbc03dffa8576150e115b90504897cc7966fe4c157bc1d6",
+    "IGL_V.faa": "299c50ecee8995c623176202f989b1abbbd271c58d6e2ae618df44719dff72b2",
+    "train.faa": "707377b7f8785f6ffe9e2a839c4ce760246f4cb773c7d81e99d2d59e778c007c",
+    "heldout_species.faa": "8ba293f4f8ef302d7ae1e4da8912c768a199bb937c6b8a5b95438c12126de70e",
+    "TRG_C.afa": "12223942568ddfa23638f597f18ca1be6a3ed3a9cc5dc9b4f9957702a6f693f8",
+    "heldout_domains.faa": "60f1178f4938d5b518c679430a239b3bab5b89329b6b1de062f380ad3bfa2b61",
+    "IGK_C.faa": "c99e4140566c59e7189d710a5da6b41ca376f594d10bff779581d6dfccca2bf3",
+    "TRB_C.afa": "e2e0437add409f465c839e141508a0790273480a70736c01688f4489ae525813",
+    "domains.json": "d74fe58b6e270e248343a7dee564cac56945fdf3d4a9f6d1700fa152ebfb4473",
+    "IGK_C.afa": "17466c5b8ed915a0c988762561591d6f70edac0cbc1d8119ba24b5edd682acc2",
+    "IGK_V.faa": "f9a55cd280b6841aa9a95f5d23809092e1eee220dabed8bebf4e1cdffa166b3d",
+    "TRA_V.faa": "e04090a0739c9d35e313971ada78b15815293d9786fb7c67576bf9436bf4ab93",
+    "TRD_V.faa": "9234bd8f4653079c86e3262726bb8454eaedd3cde3d6ca40cc0572105bbe3928",
+    "TRD_C.afa": "00d8f83f409cf6938043a2c376350420a8a1af86f8091e52411c09d88c3b1684",
+    "receptor_profiles.hmm": "e64d4c4729d58529b3cd993d6a2b79d8fac539e16e63ec03221288b9f0339893",
+    "IGH_C.afa": "d12626df9fd8fd7898f11a28cdcf186a3b849a5cb8fceef3cd856bfa129d8814",
+    "IGH_C.faa": "e523bfc22c644d386a44c6bdbfced69770d1e045bfeb7ff966dbdc052b1a78db"
+  }
+}

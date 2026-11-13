@@ -1,0 +1,8 @@
+[
+  {
+    "id": "swissprot_rest_fasta",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?query=reviewed%3Atrue&format=fasta&compressed=true",
+    "path": "data/raw/references/uniprot_reviewed.fasta.gz",
+    "max_bytes": 1000000000
+  }
+]

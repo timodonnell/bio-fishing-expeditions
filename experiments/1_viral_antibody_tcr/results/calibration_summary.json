@@ -1,0 +1,149 @@
+{
+  "completed_utc": "2026-11-13T17:40:53.210522+00:00",
+  "main_threshold": {
+    "E_or_independent_domain_E": 0.001,
+    "aligned_aa": 50
+  },
+  "effective_HMM_sequences": 3207211,
+  "effective_BLAST_residues": 1000000000,
+  "HMM_rescaling": "Independent domain E-values from Z=1,000,000 multiplied by combined RefSeq+INPHARED protein record count / 1,000,000; overlapping records retained conservatively",
+  "near_identity_rule": "BLASTP >=90% identity over >=80% target span; fragments also inherit source-domain exclusion",
+  "categories": [
+    {
+      "category": "fragment30",
+      "total": 83,
+      "evaluated": 77,
+      "excluded": 6,
+      "hmm": 0,
+      "blastp": 0,
+      "union": 0
+    },
+    {
+      "category": "fragment60",
+      "total": 83,
+      "evaluated": 79,
+      "excluded": 4,
+      "hmm": 78,
+      "blastp": 74,
+      "union": 78
+    },
+    {
+      "category": "fragment90",
+      "total": 81,
+      "evaluated": 77,
+      "excluded": 4,
+      "hmm": 77,
+      "blastp": 77,
+      "union": 77
+    },
+    {
+      "category": "hard_negative",
+      "total": 231,
+      "evaluated": 231,
+      "excluded": 0,
+      "hmm": 20,
+      "blastp": 61,
+      "union": 71
+    },
+    {
+      "category": "heldout_domain",
+      "total": 83,
+      "evaluated": 79,
+      "excluded": 4,
+      "hmm": 79,
+      "blastp": 79,
+      "union": 79
+    },
+    {
+      "category": "heldout_protein",
+      "total": 74,
+      "evaluated": 72,
+      "excluded": 2,
+      "hmm": 72,
+      "blastp": 72,
+      "union": 72
+    },
+    {
+      "category": "known_natural_positive",
+      "total": 1,
+      "evaluated": 1,
+      "excluded": 0,
+      "hmm": 1,
+      "blastp": 1,
+      "union": 1
+    },
+    {
+      "category": "shuffled",
+      "total": 83,
+      "evaluated": 83,
+      "excluded": 0,
+      "hmm": 0,
+      "blastp": 0,
+      "union": 0
+    }
+  ],
+  "heldout_domains_by_family": [
+    {
+      "family": "IGH_C",
+      "evaluated": 29,
+      "hmm": 29,
+      "blastp": 29
+    },
+    {
+      "family": "IGH_V",
+      "evaluated": 16,
+      "hmm": 16,
+      "blastp": 16
+    },
+    {
+      "family": "IGK_C",
+      "evaluated": 7,
+      "hmm": 7,
+      "blastp": 7
+    },
+    {
+      "family": "IGK_V",
+      "evaluated": 19,
+      "hmm": 19,
+      "blastp": 19
+    },
+    {
+      "family": "IGL_C",
+      "evaluated": 5,
+      "hmm": 5,
+      "blastp": 5
+    },
+    {
+      "family": "IGL_V",
+      "evaluated": 1,
+      "hmm": 1,
+      "blastp": 1
+    },
+    {
+      "family": "TRA_V",
+      "evaluated": 1,
+      "hmm": 1,
+      "blastp": 1
+    },
+    {
+      "family": "TRB_C",
+      "evaluated": 1,
+      "hmm": 1,
+      "blastp": 1
+    }
+  ],
+  "interpretation": "Retrieval only. Hard-negative matches remain decoys, not discoveries. Broad negative-result sensitivity is not established.",
+  "uncompleted_controls": [
+    "verified engineered carrier genomes",
+    "camelid VHH",
+    "shark IgNAR",
+    "systematic frameshift/splice cases",
+    "divergence series",
+    "family-holdout calibration"
+  ],
+  "input_sha256": {
+    "benchmark_blastp.tsv": "8b33dec3a8d877b21c7b516070906e06feb8e3b47aa5af4f3a0483b47047fb08",
+    "benchmark_hmm_global.tsv": "afcc3d01aae0f3bdd922deba49a78c4d2d52aa57361508414e67a4436fa9451b",
+    "benchmark_blastp_global.tsv": "740723d540f41556fdce283a32666e93b488887638e21643748b7bf7a078874e"
+  }
+}

@@ -6,7 +6,7 @@ Exploratory biology experiments, with one GitHub issue and one directory per exp
 
 | Issue | Experiment | Status |
 | --- | --- | --- |
-| [#1](https://github.com/timodonnell/bio-fishing-expeditions/issues/1) | [Antibody/TCR sequence acquisition by viruses](experiments/1_viral_antibody_tcr/README.md) | Research plan and literature preflight complete; sequence screening pending |
+| [#1](https://github.com/timodonnell/bio-fishing-expeditions/issues/1) | [Antibody/TCR sequence acquisition by viruses](experiments/1_viral_antibody_tcr/README.md) | Known natural FeLV TCR capture confirmed; RefSeq/INPHARED screens complete; broad search ongoing |
 
 ## Workflow
 

@@ -1,0 +1,21 @@
+{
+  "completed_utc": "2026-11-13T17:32:42.785102+00:00",
+  "genomes": 19621,
+  "bases": 583706107,
+  "excluded_undefined": [
+    "NG_242637.1",
+    "NG_245154.1",
+    "NG_245155.1",
+    "NG_242638.1"
+  ],
+  "candidate_proteins": 59,
+  "candidate_contexts": 59,
+  "known_positive_X05155_in_genome_corpus": false,
+  "known_positive_P11364_exact_sequence_in_protein_corpus": false,
+  "seconds": 102.7215436771512,
+  "outputs": {
+    "all_genomes.fna": "1adef280c69e90c56e2f59cd647f0ea6dfd1170c1e5e8ba84f1ec4d68c6b6769",
+    "candidate_proteins.faa": "01b96238cdd37b966c9ad33bd1674f9f710855fcf891f762f7eeb736da7f9718"
+  },
+  "known_positive_exact_matches": []
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "refseq_viral_listing",
+    "url": "https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/",
+    "path": "data/raw/refseq/viral_listing.html"
+  },
+  {
+    "id": "refseq_release_number",
+    "url": "https://ftp.ncbi.nlm.nih.gov/refseq/release/RELEASE_NUMBER",
+    "path": "data/raw/refseq/RELEASE_NUMBER"
+  },
+  {
+    "id": "viral.1.protein.faa.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/viral.1.protein.faa.gz",
+    "path": "data/raw/refseq/viral.1.protein.faa.gz"
+  },
+  {
+    "id": "viral.wp_protein.1.protein.faa.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/viral.wp_protein.1.protein.faa.gz",
+    "path": "data/raw/refseq/viral.wp_protein.1.protein.faa.gz"
+  },
+  {
+    "id": "viral.1.genomic.gbff.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/viral.1.genomic.gbff.gz",
+    "path": "data/raw/refseq/viral.1.genomic.gbff.gz"
+  },
+  {
+    "id": "uniprot_reviewed_ig_tr",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?query=reviewed%3Atrue+AND+%28protein_name%3Aimmunoglobulin+OR+protein_name%3A%22T-cell+receptor%22%29&format=tsv&fields=accession%2Cid%2Cprotein_name%2Cgene_names%2Corganism_id%2Corganism_name%2Clength%2Csequence%2Cft_domain%2Cft_region%2Cxref_embl",
+    "path": "data/raw/references/uniprot_reviewed_ig_tr.tsv"
+  },
+  {
+    "id": "igblast_reference_listing",
+    "url": "https://ftp.ncbi.nih.gov/blast/executables/igblast/release/database/",
+    "path": "data/raw/references/igblast_listing.html"
+  }
+]

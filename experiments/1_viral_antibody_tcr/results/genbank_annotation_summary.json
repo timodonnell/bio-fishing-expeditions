@@ -1,0 +1,7 @@
+{
+  "records": 960,
+  "unique_accessions": 960,
+  "residues": 143797,
+  "selection": "Union of two Entrez Protein viral-taxonomy annotation queries; not a full GenBank homology screen",
+  "fasta_sha256": "d59398a00a0b1b04730a29802889347416691d12ab9c1671bda1b01301ab9d40"
+}

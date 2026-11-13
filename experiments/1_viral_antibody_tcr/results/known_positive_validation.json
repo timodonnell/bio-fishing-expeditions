@@ -1,0 +1,97 @@
+{
+  "accession": "X05155.1",
+  "genome_record_bp": 1862,
+  "protein_accession": "CAA28801.1",
+  "uniprot": "P11364",
+  "protein_aa": 321,
+  "cds_start_1based": 94,
+  "cds_end_1based_inclusive": 1059,
+  "strand": 1,
+  "translation_matches_GenBank_and_UniProt": true,
+  "genbank_sha256": "5876b16abe4109987c6f5bbc0100a9800c2472c2c396cd4e09abd0919d3f4be2",
+  "sequence_sha256": "5149f3d792db76d3eb6a34f71da145f29af1052bc7b61aa9f0b3ae19ea1448aa",
+  "features": [
+    {
+      "type": "source",
+      "location": "[0:1862](+)",
+      "notes": []
+    },
+    {
+      "type": "misc_feature",
+      "location": "[<0:86](+)",
+      "notes": [
+        "FeLV pol gene"
+      ]
+    },
+    {
+      "type": "precursor_RNA",
+      "location": "[86:1276](+)",
+      "notes": [
+        "primary transcript"
+      ]
+    },
+    {
+      "type": "CDS",
+      "location": "[93:1059](+)",
+      "notes": []
+    },
+    {
+      "type": "misc_feature",
+      "location": "[93:174](+)",
+      "notes": [
+        "leader peptide (AA-27 to -1)"
+      ]
+    },
+    {
+      "type": "V_region",
+      "location": "[174:1056](+)",
+      "notes": [
+        "mature T-cell antigen receptor beta chain (AA1-294)"
+      ]
+    },
+    {
+      "type": "V_segment",
+      "location": "[174:459](+)",
+      "notes": [
+        "V-region (AA1-95; 95 AA)"
+      ]
+    },
+    {
+      "type": "D_segment",
+      "location": "[459:477](+)",
+      "notes": [
+        "D-region (AA96-101; 6 AA)"
+      ]
+    },
+    {
+      "type": "J_segment",
+      "location": "[477:525](+)",
+      "notes": [
+        "J-region (AA102-117; 16AA)"
+      ]
+    },
+    {
+      "type": "C_region",
+      "location": "[525:1056](+)",
+      "notes": [
+        "C-region (AA118-294;177 AA)"
+      ]
+    },
+    {
+      "type": "old_sequence",
+      "location": "[566:568](+)",
+      "notes": [
+        "cg was gc in [1]"
+      ]
+    },
+    {
+      "type": "repeat_region",
+      "location": "[1822:>1862](+)",
+      "notes": [
+        "long terminal repeat"
+      ]
+    }
+  ],
+  "validated_utc": "2026-11-13T17:19:28.421204+00:00",
+  "claim_scope": "Natural TCR beta chain capture supported by original literature; partial viral nucleotide record, not a whole viral genome; no new raw-read validation"
+}

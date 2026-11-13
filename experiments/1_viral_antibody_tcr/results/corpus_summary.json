@@ -1,0 +1,29 @@
+{
+  "pilot_genomes": 10000,
+  "pilot_bases": 306564279,
+  "pilot_proteins": 340419,
+  "pilot_residues": 90464547,
+  "cds_without_translation": 1,
+  "downloaded_proteins": 722740,
+  "downloaded_residues": 175002185,
+  "available_genomes": 19625,
+  "eligible_genomes": 19621,
+  "excluded_undefined_sequences": 4,
+  "available_bases": 583708944,
+  "strata": 614,
+  "selected_strata": 614,
+  "selected_with_host_annotation": 7394,
+  "selection": "Round-robin across family/molecule/length/annotation strata; shuffle seed 20261112",
+  "host_stratification": "Not implemented: host qualifiers retained; host taxonomy not inferred",
+  "refseq_release": "237",
+  "source_sha256": "1a4c4faf3381459005196c430db1ec0d145be628aac8ca0cae98d4f7928e3ee3",
+  "completed_utc": "2026-11-13T17:24:15.968883+00:00",
+  "seconds": 203.47175975330174,
+  "outputs": {
+    "all_proteins.faa": "2d54c57b4149ded18b8627b22e95925389ceb91642785943a71dbe73e21e4dfc",
+    "pilot_proteins.tsv": "a72b857c28f48ba41457f4a2513c66f13d671718653d254aef9fe7a81adfa576",
+    "pilot.faa": "0ee74ac0c90d6a4a0498b8781abe167173032f7f37582465db31fe9ede4fa7cd",
+    "pilot.fna": "f3a312cc58b1b53ac0b1467c411bcd5463ea4d0e84a63d864d3a0bab3a3348d6",
+    "genomes.tsv": "d348f778f22970d7685507e2d474c10661bea31cb42b268249059c1b424e6c8c"
+  }
+}

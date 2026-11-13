@@ -1,0 +1,10 @@
+corpus	method	alignments_retained	targets_retained	main_queue_targets
+pilot	hmm	30	27	16
+pilot	blastp	114	38	16
+pilot	tblastn	94	19	13
+refseq_all	hmm	36	33	17
+refseq_all	blastp	90	29	14
+refseq_all	tblastn	83	18	14
+inphared	hmm	0	0	0
+inphared	blastp	1	1	0
+inphared	tblastn	0	0	0

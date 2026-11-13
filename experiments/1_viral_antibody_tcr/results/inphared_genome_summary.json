@@ -1,0 +1,13 @@
+{
+  "completed_utc": "2026-11-13T17:42:36.032610+00:00",
+  "release": "14Apr2025",
+  "kind": "genome",
+  "records": 28665,
+  "total_length": 1713788886,
+  "unique_exact_sequences": 27191,
+  "records_identical_to_RefSeq": 5691,
+  "unique_sequences_not_in_RefSeq": 21528,
+  "overlap_rule": "SHA-256 of uppercase sequence; genome comparisons do not normalize rotations or reverse complements",
+  "source_sha256": "7bdebe7ce0d63612e42bd6109b96de65e0b31bd44749fe56b7a59834a2423b82",
+  "output_sha256": "8a951c5a39d82279c73321e4a0253ea53ce9b1e5f4e4ab521bbebee9498e27ca"
+}

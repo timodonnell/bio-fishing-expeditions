@@ -16,3 +16,9 @@ S14	official_documentation	NCBI IgBLAST Documentation	https://ncbi.github.io/igb
 S15	primary_paper	CheckV assesses the quality and completeness of metagenome-assembled viral genomes	https://www.nature.com/articles/s41587-020-00774-7	Proviral boundary and host-contamination checks	2026-11-12
 S16	primary_paper	Identification of mobile genetic elements with geNomad	https://pmc.ncbi.nlm.nih.gov/articles/PMC11324519/	Independent viral-context and proviral-boundary assessment	2026-11-12
 S17	official_documentation	MGnify file server documentation	https://docs.mgnify.org/src/docs/ftp.html	Optional metagenomic rescue source; specific study selection pending	2026-11-12
+S21	primary_paper	Retroviral transduction of T-cell antigen receptor beta-chain and myc genes	https://pubmed.ncbi.nlm.nih.gov/3029597/	Natural FeLV TCR capture; abstract and associated sequence inspected; DOI 10.1038/326190a0	2026-11-13
+S22	primary_paper	Pathogenesis of feline leukemia virus T17: contrasting fates of helper, v-myc, and v-tcr proviruses in secondary tumors	https://pmc.ncbi.nlm.nih.gov/articles/PMC241135/	Natural provenance and packaging; abstract inspected; full PDF retrieval failed	2026-11-13
+S23	sequence_record	FeLV T17T-22 TCR beta locus X05155.1	https://www.ncbi.nlm.nih.gov/nuccore/X05155.1	Partial viral locus, features and translation validated	2026-11-13
+S24	sequence_record	UniProt P11364 viral TCR beta chain	https://www.uniprot.org/uniprotkb/P11364/entry	Reviewed positive benchmark excluded from training; JSON inspected	2026-11-13
+S25	official_database	NCBI RefSeq viral release directory	https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/	All listed genomic GenBank and protein FASTA files acquired	2026-11-13
+S26	official_database	MetaVR NERSC bulk mirror	https://portal.nersc.gov/cfs/m342/METAVR/	Directory, README, API schema and file sizes inspected; sequences not acquired	2026-11-13

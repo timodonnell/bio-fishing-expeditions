@@ -1,0 +1,3 @@
+# Frozen pilot references
+
+Small derived inputs from reviewed UniProt release 2026_04, retrieved 2026-11-13. See `../manifests/references.tsv`, `../results/reference_summary.json`, and `../scripts/build_references.py` for source accessions, species splits, derivation, and hashes. UniProt data are distributed under CC BY 4.0; source: https://www.uniprot.org/help/license. These files preserve the exact training, holdout, decoy, and HMM inputs used for the reported searches. P11364 is excluded from training. The profiles are exploratory receptor-retrieval models, not classifiers of natural viral acquisition.

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "swissprot_fasta",
+    "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz",
+    "path": "data/raw/references/uniprot_sprot.fasta.gz",
+    "max_bytes": 1000000000
+  },
+  {
+    "id": "swissprot_release",
+    "url": "https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/reldate.txt",
+    "path": "data/raw/references/reldate.txt"
+  }
+]

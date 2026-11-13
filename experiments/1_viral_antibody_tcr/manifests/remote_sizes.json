@@ -1,0 +1,106 @@
+{
+  "queried_utc": "2026-11-13T17:26:43.577698+00:00",
+  "requests": [
+    {
+      "url": "https://portal.nersc.gov/cfs/m342/METAVR/METAVR.faa.bgz",
+      "status": 200,
+      "headers": {
+        "Date": "Fri, 13 Nov 2026 17:26:39 GMT",
+        "Content-Length": "49996313962",
+        "Connection": "keep-alive",
+        "Last-Modified": "Wed, 26 Aug 2026 21:57:55 GMT",
+        "ETag": "\"ba403356a-659fa4fc0dec0\"",
+        "Accept-Ranges": "bytes",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15724800; includeSubDomains"
+      }
+    },
+    {
+      "url": "https://portal.nersc.gov/cfs/m342/METAVR/METAVR.fna.bgz",
+      "status": 200,
+      "headers": {
+        "Date": "Fri, 13 Nov 2026 17:26:39 GMT",
+        "Content-Length": "71552362108",
+        "Connection": "keep-alive",
+        "Last-Modified": "Wed, 26 Aug 2026 21:59:17 GMT",
+        "ETag": "\"10a8da667c-659fa54a41740\"",
+        "Accept-Ranges": "bytes",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15724800; includeSubDomains"
+      }
+    },
+    {
+      "url": "https://portal.nersc.gov/cfs/m342/METAVR/METAVR.dmnd",
+      "status": 200,
+      "headers": {
+        "Date": "Fri, 13 Nov 2026 17:26:40 GMT",
+        "Content-Length": "114983287451",
+        "Connection": "keep-alive",
+        "Last-Modified": "Thu, 23 Apr 2026 22:33:06 GMT",
+        "ETag": "\"1ac589ba9b-650283b7554c4\"",
+        "Accept-Ranges": "bytes",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Strict-Transport-Security": "max-age=15724800; includeSubDomains"
+      }
+    },
+    {
+      "url": "https://millardlab-inphared.s3.climb.ac.uk/14Apr2025_vConTACT2_proteins.faa.gz",
+      "status": 200,
+      "headers": {
+        "Content-Length": "292323006",
+        "Accept-Ranges": "bytes",
+        "Last-Modified": "Tue, 15 Apr 2025 18:59:41 GMT",
+        "x-rgw-object-type": "Normal",
+        "ETag": "\"b88fc8b40ffd2132e2fa6a5a30fa1d47-35\"",
+        "x-amz-request-id": "tx00000d333dcc296f8c0d9-006af74851-202906fa-s3-bham",
+        "Content-Type": "binary/octet-stream",
+        "Date": "Fri, 13 Nov 2026 17:26:41 GMT"
+      }
+    },
+    {
+      "url": "https://millardlab-inphared.s3.climb.ac.uk/14Apr2025_genomes_excluding_refseq.fa.gz",
+      "status": 200,
+      "headers": {
+        "Content-Length": "528785496",
+        "Accept-Ranges": "bytes",
+        "Last-Modified": "Tue, 15 Apr 2025 18:58:10 GMT",
+        "x-rgw-object-type": "Normal",
+        "ETag": "\"24d782e667d291d000c2d833f0ad5821-64\"",
+        "x-amz-request-id": "tx00000228027438d238ab2-006af74851-202906fa-s3-bham",
+        "Content-Type": "binary/octet-stream",
+        "Date": "Fri, 13 Nov 2026 17:26:41 GMT"
+      }
+    },
+    {
+      "url": "https://millardlab-inphared.s3.climb.ac.uk/14Apr2025_data_excluding_refseq.tsv.gz",
+      "status": 200,
+      "headers": {
+        "Content-Length": "1507109",
+        "Accept-Ranges": "bytes",
+        "Last-Modified": "Tue, 15 Apr 2025 18:57:47 GMT",
+        "x-rgw-object-type": "Normal",
+        "ETag": "\"0441812f701792e978498aac178194af\"",
+        "x-amz-request-id": "tx0000085ab062ea79be997-006af74852-202906fa-s3-bham",
+        "Content-Type": "text/tab-separated-values",
+        "Date": "Fri, 13 Nov 2026 17:26:42 GMT"
+      }
+    },
+    {
+      "url": "https://millardlab-inphared.s3.climb.ac.uk/14Apr2025_vConTACT2_gene_to_genome.csv.gz",
+      "status": 200,
+      "headers": {
+        "Content-Length": "5324126",
+        "Accept-Ranges": "bytes",
+        "Last-Modified": "Tue, 15 Apr 2025 18:59:33 GMT",
+        "x-rgw-object-type": "Normal",
+        "ETag": "\"b83982d685a5afad65dcd86e8fc76b61\"",
+        "x-amz-request-id": "tx0000000b77925980777b9-006af74853-2029c204-s3-bham",
+        "Content-Type": "text/csv",
+        "Date": "Fri, 13 Nov 2026 17:26:43 GMT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "started_utc": "2026-11-13T17:27:30.832249+00:00",
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/search.py",
+    "blastp",
+    "experiments/1_viral_antibody_tcr/data/cache/references/train.faa",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_proteins.faa",
+    "experiments/1_viral_antibody_tcr/results/refseq_all_blastp.tsv",
+    "--cpus",
+    "8"
+  ],
+  "git_commit": "5bdd770e483b0477645fc0519228471f9558e739",
+  "script_sha256": "80c54871c418e5d79c701e9407d2118558ed0a36b5bde76abbeb88780c5f8bb8",
+  "inputs": {
+    "experiments/1_viral_antibody_tcr/data/cache/references/train.faa": "707377b7f8785f6ffe9e2a839c4ce760246f4cb773c7d81e99d2d59e778c007c",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_proteins.faa": "2d54c57b4149ded18b8627b22e95925389ceb91642785943a71dbe73e21e4dfc"
+  },
+  "method": "blastp",
+  "threads": 8,
+  "status": "complete",
+  "search_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/blastp",
+    "-query",
+    "experiments/1_viral_antibody_tcr/data/cache/references/train.faa",
+    "-db",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/2d54c57b4149ded1_aa",
+    "-evalue",
+    "0.01",
+    "-num_threads",
+    "8",
+    "-max_target_seqs",
+    "1000000",
+    "-outfmt",
+    "6 qseqid sseqid pident length qstart qend sstart send evalue bitscore qlen slen qcovhsp",
+    "-out",
+    "experiments/1_viral_antibody_tcr/results/refseq_all_blastp.tsv",
+    "-seg",
+    "yes"
+  ],
+  "index_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/makeblastdb",
+    "-in",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_proteins.faa",
+    "-dbtype",
+    "prot",
+    "-out",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/2d54c57b4149ded1_aa"
+  ],
+  "version": "blastp: 2.12.0+\n Package: blast 2.12.0, build Jul 13 2021 09:03:00\n",
+  "binary_sha256": "2c7ce144d828a0ecfb7d0ecff95578dc683041d19a7e8c7cf6d5d9af5778deb0",
+  "columns": [
+    "qseqid",
+    "sseqid",
+    "pident",
+    "length",
+    "qstart",
+    "qend",
+    "sstart",
+    "send",
+    "evalue",
+    "bitscore",
+    "qlen",
+    "slen",
+    "qcovhsp"
+  ],
+  "exit_status": 0,
+  "output_sha256": "1191ce4aa36539be523df07231ba076729cfe7d01c34baf09a18cab6dc04610c",
+  "finished_utc": "2026-11-13T17:28:12.397657+00:00",
+  "seconds": 41.565433567389846,
+  "process_maxrss_kib": 52708,
+  "children_maxrss_kib": 223352
+}

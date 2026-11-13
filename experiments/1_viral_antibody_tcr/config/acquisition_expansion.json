@@ -1,0 +1,32 @@
+[
+  {
+    "id": "inphared_vConTACT2_proteins",
+    "url": "https://millardlab-inphared.s3.climb.ac.uk/14Apr2025_vConTACT2_proteins.faa.gz",
+    "path": "data/raw/inphared/vConTACT2_proteins.faa.gz"
+  },
+  {
+    "id": "inphared_genomes_excluding_refseq",
+    "url": "https://millardlab-inphared.s3.climb.ac.uk/14Apr2025_genomes_excluding_refseq.fa.gz",
+    "path": "data/raw/inphared/genomes_excluding_refseq.fa.gz"
+  },
+  {
+    "id": "inphared_data_excluding_refseq",
+    "url": "https://millardlab-inphared.s3.climb.ac.uk/14Apr2025_data_excluding_refseq.tsv.gz",
+    "path": "data/raw/inphared/data_excluding_refseq.tsv.gz"
+  },
+  {
+    "id": "inphared_vConTACT2_gene_to_genome",
+    "url": "https://millardlab-inphared.s3.climb.ac.uk/14Apr2025_vConTACT2_gene_to_genome.csv.gz",
+    "path": "data/raw/inphared/vConTACT2_gene_to_genome.csv.gz"
+  },
+  {
+    "id": "inphared_readme",
+    "url": "https://raw.githubusercontent.com/RyanCook94/inphared/main/README.md",
+    "path": "data/raw/inphared/README.md"
+  },
+  {
+    "id": "metavr_readme",
+    "url": "https://portal.nersc.gov/cfs/m342/METAVR/README.txt",
+    "path": "data/raw/metavr/README.txt"
+  }
+]

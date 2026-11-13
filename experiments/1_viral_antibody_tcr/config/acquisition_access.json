@@ -1,0 +1,17 @@
+[
+  {
+    "id": "felv_1992_europepmc_pdf",
+    "url": "https://europepmc.org/articles/PMC241135?pdf=render",
+    "path": "data/raw/candidates/felv_1992_europepmc.pdf"
+  },
+  {
+    "id": "metavr_api_schema",
+    "url": "https://meta-virome.org/api/openapi.json",
+    "path": "data/raw/metavr/openapi.json"
+  },
+  {
+    "id": "metavr_nersc_listing",
+    "url": "https://portal.nersc.gov/cfs/m342/METAVR/",
+    "path": "data/raw/metavr/nersc_listing.html"
+  }
+]

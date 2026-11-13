@@ -1,0 +1,26 @@
+{
+  "records": 576073,
+  "residues": 209202719,
+  "source": {
+    "id": "swissprot_rest_fasta",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?query=reviewed%3Atrue&format=fasta&compressed=true",
+    "path": "data/raw/references/uniprot_reviewed.fasta.gz",
+    "max_bytes": 1000000000,
+    "started_utc": "2026-11-13T17:33:14.975253+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://rest.uniprot.org/uniprotkb/stream?query=reviewed%3Atrue&format=fasta&compressed=true",
+    "headers": {
+      "Content-Length": null,
+      "Content-Type": "text/plain;format=fasta",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": "2026_04",
+      "X-UniProt-Release-Date": "04-November-2026"
+    },
+    "bytes": 142705976,
+    "sha256": "58df64fd087ed4a0b8bf7057f2f3d57e831e588e3ecf3c2a81c1ff1be354f622",
+    "finished_utc": "2026-11-13T17:35:56.142545+00:00"
+  },
+  "output_sha256": "a9134aede671854f8377f109840ed075dd017d597df0f5ddbe3d259b787afbdf"
+}

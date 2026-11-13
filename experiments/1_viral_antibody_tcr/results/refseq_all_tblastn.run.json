@@ -1,0 +1,73 @@
+{
+  "started_utc": "2026-11-13T17:32:46.393978+00:00",
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/search.py",
+    "tblastn",
+    "experiments/1_viral_antibody_tcr/data/cache/references/train.faa",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_genomes.fna",
+    "experiments/1_viral_antibody_tcr/results/refseq_all_tblastn.tsv",
+    "--cpus",
+    "16"
+  ],
+  "git_commit": "5bdd770e483b0477645fc0519228471f9558e739",
+  "script_sha256": "80c54871c418e5d79c701e9407d2118558ed0a36b5bde76abbeb88780c5f8bb8",
+  "inputs": {
+    "experiments/1_viral_antibody_tcr/data/cache/references/train.faa": "707377b7f8785f6ffe9e2a839c4ce760246f4cb773c7d81e99d2d59e778c007c",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_genomes.fna": "1adef280c69e90c56e2f59cd647f0ea6dfd1170c1e5e8ba84f1ec4d68c6b6769"
+  },
+  "method": "tblastn",
+  "threads": 16,
+  "status": "complete",
+  "search_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/tblastn",
+    "-query",
+    "experiments/1_viral_antibody_tcr/data/cache/references/train.faa",
+    "-db",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/1adef280c69e90c5_nt",
+    "-evalue",
+    "0.01",
+    "-num_threads",
+    "16",
+    "-max_target_seqs",
+    "1000000",
+    "-outfmt",
+    "6 qseqid sseqid pident length qstart qend sstart send evalue bitscore qlen slen qcovhsp",
+    "-out",
+    "experiments/1_viral_antibody_tcr/results/refseq_all_tblastn.tsv",
+    "-seg",
+    "yes"
+  ],
+  "index_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/makeblastdb",
+    "-in",
+    "experiments/1_viral_antibody_tcr/data/cache/refseq/all_genomes.fna",
+    "-dbtype",
+    "nucl",
+    "-out",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/1adef280c69e90c5_nt"
+  ],
+  "version": "tblastn: 2.12.0+\n Package: blast 2.12.0, build Jul 13 2021 09:03:00\n",
+  "binary_sha256": "6485e0b813b14dd2e5595639dc5ab311fb3088e8e6f6c9c019b085664e83084f",
+  "columns": [
+    "qseqid",
+    "sseqid",
+    "pident",
+    "length",
+    "qstart",
+    "qend",
+    "sstart",
+    "send",
+    "evalue",
+    "bitscore",
+    "qlen",
+    "slen",
+    "qcovhsp"
+  ],
+  "exit_status": 0,
+  "output_sha256": "23127bab9d1c3571753ef73abf0c1acd1537e8bf7bf89493a4c7947dd2947db6",
+  "finished_utc": "2026-11-13T17:33:20.990650+00:00",
+  "seconds": 34.59669499564916,
+  "process_maxrss_kib": 52868,
+  "children_maxrss_kib": 317924
+}
