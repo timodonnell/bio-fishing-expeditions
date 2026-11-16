@@ -1,0 +1,38 @@
+{
+  "request_parameters": {
+    "CMD": "Put",
+    "PROGRAM": "blastp",
+    "DATABASE": "nr",
+    "EXPECT": "1e-5",
+    "HITLIST_SIZE": "20",
+    "FILTER": "mL",
+    "WORD_SIZE": "3",
+    "tool": "bio-fishing-expeditions"
+  },
+  "query_file": "experiments/1_viral_antibody_tcr/results/metavr/lead_followup/query.faa",
+  "query_sha256": "8e9b9a3186feb3f9ab53552f36b8ce99ddc4e40ad050b348324a97e109928060",
+  "response_sha256": "9923f42de951bcc1fc9732149235d9c926f622ce3c7c33bbf799b7a7a656256e",
+  "RID": "FPRKZY1C014",
+  "RTOE": "6",
+  "status": "waiting",
+  "submitted_utc": "2026-11-16T19:50:23.437265+00:00",
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/remote_blast.py",
+    "submit",
+    "experiments/1_viral_antibody_tcr/results/metavr/lead_followup/nr",
+    "--query",
+    "experiments/1_viral_antibody_tcr/results/metavr/lead_followup/query.faa",
+    "--program",
+    "blastp"
+  ],
+  "script_sha256": "544b035a51c5abefda538e9ef717315f9d13ce99e5847906db28240390104d3d",
+  "last_polled_utc": "2026-11-16T19:57:59.264191+00:00",
+  "poll_command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/remote_blast.py",
+    "poll",
+    "experiments/1_viral_antibody_tcr/results/metavr/lead_followup/nr"
+  ],
+  "poll_script_sha256": "544b035a51c5abefda538e9ef717315f9d13ce99e5847906db28240390104d3d"
+}

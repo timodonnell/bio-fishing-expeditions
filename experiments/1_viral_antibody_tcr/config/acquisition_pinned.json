@@ -327,5 +327,19 @@
     "path": "data/raw/candidates/hg38_chr14_105500000_107000000.json",
     "expected_sha256": "e15238b95c2044ddb850a1a184754357cb0591a1707ed8c006c9a538bbf2d24c",
     "max_bytes": 3000320
+  },
+  {
+    "id": "followup_P01637",
+    "url": "https://rest.uniprot.org/uniprotkb/P01637.json",
+    "path": "data/raw/candidates/P01637.json",
+    "max_bytes": 2097152,
+    "expected_sha256": "3e0086ebc8b42eb97c281863f6eeb82de0913b49cc57707647a9a4d1b5e20fad"
+  },
+  {
+    "id": "followup_P01638",
+    "url": "https://rest.uniprot.org/uniprotkb/P01638.json",
+    "path": "data/raw/candidates/P01638.json",
+    "max_bytes": 2097152,
+    "expected_sha256": "c375029207a744f03c9b7995de3434cecb28140ac7cd017cea1f80c4d7bcede9"
   }
 ]

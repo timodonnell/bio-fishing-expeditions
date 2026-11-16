@@ -1,0 +1,13 @@
+BLASTP local alignment; coordinates refer to deposited precursor sequences.
+Candidate 21-107; P01637 23-108; 33/89 identities; 49/89 positives; 5 gap positions.
+E = 3.18e-8 against reviewed UniProt 2026_04; bit score = 55.1.
+The reference CDR3 (109-117) and framework 4 are outside this alignment.
+
+Candidate  KIVTPPQSIAALVGESVRISCES--DINESVDFVSWRPGKSESLG
+           |    | |  |  || | |||    |||         ||||    
+Mouse T1   KMTQSPSSMYASLGERVTISCKASQDINSYLTWFQQKPGKSPK--
+
+Candidate  IQLIYESNVLAEHLRSRMSMERNGGIFTLVIRSVGLDDGGTYRC
+             | |  | |     || |    |  | | | |    | | | |
+Mouse T1   -TLLYRANRLVDGVPSRFSGSGSGQDFSLTISSLEYEDMGIYYC
+

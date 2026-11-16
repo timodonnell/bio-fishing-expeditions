@@ -140,35 +140,35 @@
                    Format Request Status                   
                 </div>
 		<div class="inlineDiv resHeader">				   
-				   <a  id="frmPage"  class="WAITING" href="#" submitForm="reformat">[Formatting options] </a>                   
+				   <a  id="frmPage"  class="UNKNOWN" href="#" submitForm="reformat">[Formatting options] </a>                   
                 </div>
                 <h2 id="jtitle" >Job Title: </h2>
 								
                 <div id="content">                
-                <!--<ul id="msg" class="msg"><li class=""><p class=""></p><p class=""></p><p class=""></p></ul> -->
-                <ul id="msg" class="msg"><li class=""></li></ul>
+                <!--<ul id="msg" class="msg"><li class="error"><p class=""></p><p class=""></p><p class=""></p></ul> -->
+                <ul id="msg" class="msg"><li class="error"><p class="error">Error: Results for RID FF1AP9JS014 not found</p></li></ul>
                 <p><!--
                 QBlastInfoBegin
-	                Status=WAITING
+	                Status=UNKNOWN
                 QBlastInfoEnd
                 --></p> 
                                
                 <SCRIPT LANGUAGE="JavaScript"><!--
-                    var tm = "3000";
+                    var tm = "";
                     if (tm != "") {                    
                         setTimeout('document.forms[0].submit();',tm);
                     }
                 //--></SCRIPT>                                
-                <table id="statInfo" class="WAITING">
+                <table id="statInfo" class="UNKNOWN">
                 <tr><td>Request ID</td><td> <b>FF1AP9JS014</b></td></tr>
                 <tr class="odd"><td>Status</td><td>Searching</td></tr>
-                <tr><td>Submitted at</td><td>Fri Nov 13 16:47:02 2026</td></tr>
-                <tr class="odd"><td>Current time</td><td>Fri Nov 13 17:09:44 2026</td></tr>
-                <tr><td>Time since submission</td><td>00:22:41</td></tr>
+                <tr><td>Submitted at</td><td></td></tr>
+                <tr class="odd"><td>Current time</td><td></td></tr>
+                <tr><td>Time since submission</td><td></td></tr>
                 </table>
-                <p class="WAITING">This page will be automatically updated in <b>3</b> seconds</p>       
+                <p class="UNKNOWN">This page will be automatically updated in <b></b> seconds</p>       
                 <form action="Blast.cgi" enctype="application/x-www-form-urlencoded" method="POST" id="results">
-                <input name="FORMAT_TYPE" type="hidden" value="JSON2_S"><input name="RID" type="hidden" value="FF1AP9JS014"><input name="SEARCH_DB_STATUS" type="hidden" value="21"><input name="USER_TYPE" type="hidden" value="2"><input name="_PGR" type="hidden" value="0">                
+                <input name="FORMAT_TYPE" type="hidden" value="JSON2_S"><input name="RID" type="hidden" value="FF1AP9JS014"><input name="SEARCH_DB_STATUS" type="hidden" value="0"><input name="USER_TYPE" type="hidden" value="2"><input name="_PGR" type="hidden" value="0">                
                 <input name="_PGR" type="hidden" value="0" >
                 <input name="CMD" type="hidden" value="Get">
                

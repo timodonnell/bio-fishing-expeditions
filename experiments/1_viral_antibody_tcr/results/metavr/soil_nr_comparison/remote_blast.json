@@ -14,7 +14,7 @@
   "response_sha256": "d16a9e24394d29f1ab79d31ec0918731c85f4d2a0d17e9db18f449642b7319d5",
   "RID": "FF1AP9JS014",
   "RTOE": "24",
-  "status": "waiting",
+  "status": "unknown",
   "submitted_utc": "2026-11-13T21:47:04.787560+00:00",
   "command": [
     "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
@@ -27,7 +27,7 @@
     "blastp"
   ],
   "script_sha256": "544b035a51c5abefda538e9ef717315f9d13ce99e5847906db28240390104d3d",
-  "last_polled_utc": "2026-11-13T22:09:44.251041+00:00",
+  "last_polled_utc": "2026-11-16T19:49:26.852437+00:00",
   "poll_command": [
     "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
     "experiments/1_viral_antibody_tcr/scripts/remote_blast.py",

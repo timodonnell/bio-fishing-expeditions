@@ -1,0 +1,1260 @@
+{
+  "genome": "IMGVR_UViG_3300079393_000044",
+  "genome_length": 17620,
+  "candidate_id": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14604_15686",
+  "candidate_sequence": "MASRILRVALILTSIESAINKIVTPPQSIAALVGESVRISCESDINESVDFVSWRPGKSESLGIQLIYESNVLAEHLRSRMSMERNGGIFTLVIRSVGLDDGGTYRCRDEGGIGQRAVAQLIVIDPSVTCFHNIRAEGVIADDATNCLHEPDYLEMSCSVRYDGNVFPIVNWRHSGKAVENVVVEKLPGIVKFTAKTTVSISDEGTTFDYDVSMPGNILLGNGVAALRNATPSIRVLYMTASKITRDDPKLPCPIKTNFNLANCASTHAYTGIVRNDETLTSYALDYVCVSRCTVANKTCTVSSQVLSVKGRDDTVVVDPSPDTIKRISIALCIVASVVIVIQTIALIWFYRNRRRTRQL",
+  "best_alignment": {
+    "qseqid": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14604_15686",
+    "sseqid": "sp|P01637|KV5A5_MOUSE",
+    "pident": "37.079",
+    "length": "89",
+    "qstart": "21",
+    "qend": "107",
+    "sstart": "23",
+    "send": "108",
+    "evalue": "3.18e-08",
+    "bitscore": "55.1",
+    "qlen": "360",
+    "slen": "128",
+    "qcovhsp": "24",
+    "nident": "33",
+    "positive": "49",
+    "gaps": "5",
+    "qseq": "KIVTPPQSIAALVGESVRISCES--DINESVDFVSWRPGKSESLGIQLIYESNVLAEHLRSRMSMERNGGIFTLVIRSVGLDDGGTYRC",
+    "sseq": "KMTQSPSSMYASLGERVTISCKASQDINSYLTWFQQKPGKSPK---TLLYRANRLVDGVPSRFSGSGSGQDFSLTISSLEYEDMGIYYC"
+  },
+  "alignment_columns": [
+    {
+      "column_1based": 1,
+      "query_position": 21,
+      "reference_position": 23,
+      "query_residue": "K",
+      "reference_residue": "K",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 2,
+      "query_position": 22,
+      "reference_position": 24,
+      "query_residue": "I",
+      "reference_residue": "M",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 3,
+      "query_position": 23,
+      "reference_position": 25,
+      "query_residue": "V",
+      "reference_residue": "T",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 4,
+      "query_position": 24,
+      "reference_position": 26,
+      "query_residue": "T",
+      "reference_residue": "Q",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 5,
+      "query_position": 25,
+      "reference_position": 27,
+      "query_residue": "P",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 6,
+      "query_position": 26,
+      "reference_position": 28,
+      "query_residue": "P",
+      "reference_residue": "P",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 7,
+      "query_position": 27,
+      "reference_position": 29,
+      "query_residue": "Q",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 8,
+      "query_position": 28,
+      "reference_position": 30,
+      "query_residue": "S",
+      "reference_residue": "S",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 9,
+      "query_position": 29,
+      "reference_position": 31,
+      "query_residue": "I",
+      "reference_residue": "M",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 10,
+      "query_position": 30,
+      "reference_position": 32,
+      "query_residue": "A",
+      "reference_residue": "Y",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 11,
+      "query_position": 31,
+      "reference_position": 33,
+      "query_residue": "A",
+      "reference_residue": "A",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 12,
+      "query_position": 32,
+      "reference_position": 34,
+      "query_residue": "L",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 13,
+      "query_position": 33,
+      "reference_position": 35,
+      "query_residue": "V",
+      "reference_residue": "L",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 14,
+      "query_position": 34,
+      "reference_position": 36,
+      "query_residue": "G",
+      "reference_residue": "G",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 15,
+      "query_position": 35,
+      "reference_position": 37,
+      "query_residue": "E",
+      "reference_residue": "E",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 16,
+      "query_position": 36,
+      "reference_position": 38,
+      "query_residue": "S",
+      "reference_residue": "R",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 17,
+      "query_position": 37,
+      "reference_position": 39,
+      "query_residue": "V",
+      "reference_residue": "V",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 18,
+      "query_position": 38,
+      "reference_position": 40,
+      "query_residue": "R",
+      "reference_residue": "T",
+      "identity": false,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 19,
+      "query_position": 39,
+      "reference_position": 41,
+      "query_residue": "I",
+      "reference_residue": "I",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 20,
+      "query_position": 40,
+      "reference_position": 42,
+      "query_residue": "S",
+      "reference_residue": "S",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 21,
+      "query_position": 41,
+      "reference_position": 43,
+      "query_residue": "C",
+      "reference_residue": "C",
+      "identity": true,
+      "reference_region": "Framework-1"
+    },
+    {
+      "column_1based": 22,
+      "query_position": 42,
+      "reference_position": 44,
+      "query_residue": "E",
+      "reference_residue": "K",
+      "identity": false,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 23,
+      "query_position": 43,
+      "reference_position": 45,
+      "query_residue": "S",
+      "reference_residue": "A",
+      "identity": false,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 24,
+      "query_position": null,
+      "reference_position": 46,
+      "query_residue": "-",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 25,
+      "query_position": null,
+      "reference_position": 47,
+      "query_residue": "-",
+      "reference_residue": "Q",
+      "identity": false,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 26,
+      "query_position": 44,
+      "reference_position": 48,
+      "query_residue": "D",
+      "reference_residue": "D",
+      "identity": true,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 27,
+      "query_position": 45,
+      "reference_position": 49,
+      "query_residue": "I",
+      "reference_residue": "I",
+      "identity": true,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 28,
+      "query_position": 46,
+      "reference_position": 50,
+      "query_residue": "N",
+      "reference_residue": "N",
+      "identity": true,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 29,
+      "query_position": 47,
+      "reference_position": 51,
+      "query_residue": "E",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 30,
+      "query_position": 48,
+      "reference_position": 52,
+      "query_residue": "S",
+      "reference_residue": "Y",
+      "identity": false,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 31,
+      "query_position": 49,
+      "reference_position": 53,
+      "query_residue": "V",
+      "reference_residue": "L",
+      "identity": false,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 32,
+      "query_position": 50,
+      "reference_position": 54,
+      "query_residue": "D",
+      "reference_residue": "T",
+      "identity": false,
+      "reference_region": "Complementarity-determining-1"
+    },
+    {
+      "column_1based": 33,
+      "query_position": 51,
+      "reference_position": 55,
+      "query_residue": "F",
+      "reference_residue": "W",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 34,
+      "query_position": 52,
+      "reference_position": 56,
+      "query_residue": "V",
+      "reference_residue": "F",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 35,
+      "query_position": 53,
+      "reference_position": 57,
+      "query_residue": "S",
+      "reference_residue": "Q",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 36,
+      "query_position": 54,
+      "reference_position": 58,
+      "query_residue": "W",
+      "reference_residue": "Q",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 37,
+      "query_position": 55,
+      "reference_position": 59,
+      "query_residue": "R",
+      "reference_residue": "K",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 38,
+      "query_position": 56,
+      "reference_position": 60,
+      "query_residue": "P",
+      "reference_residue": "P",
+      "identity": true,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 39,
+      "query_position": 57,
+      "reference_position": 61,
+      "query_residue": "G",
+      "reference_residue": "G",
+      "identity": true,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 40,
+      "query_position": 58,
+      "reference_position": 62,
+      "query_residue": "K",
+      "reference_residue": "K",
+      "identity": true,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 41,
+      "query_position": 59,
+      "reference_position": 63,
+      "query_residue": "S",
+      "reference_residue": "S",
+      "identity": true,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 42,
+      "query_position": 60,
+      "reference_position": 64,
+      "query_residue": "E",
+      "reference_residue": "P",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 43,
+      "query_position": 61,
+      "reference_position": 65,
+      "query_residue": "S",
+      "reference_residue": "K",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 44,
+      "query_position": 62,
+      "reference_position": null,
+      "query_residue": "L",
+      "reference_residue": "-",
+      "identity": false,
+      "reference_region": ""
+    },
+    {
+      "column_1based": 45,
+      "query_position": 63,
+      "reference_position": null,
+      "query_residue": "G",
+      "reference_residue": "-",
+      "identity": false,
+      "reference_region": ""
+    },
+    {
+      "column_1based": 46,
+      "query_position": 64,
+      "reference_position": null,
+      "query_residue": "I",
+      "reference_residue": "-",
+      "identity": false,
+      "reference_region": ""
+    },
+    {
+      "column_1based": 47,
+      "query_position": 65,
+      "reference_position": 66,
+      "query_residue": "Q",
+      "reference_residue": "T",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 48,
+      "query_position": 66,
+      "reference_position": 67,
+      "query_residue": "L",
+      "reference_residue": "L",
+      "identity": true,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 49,
+      "query_position": 67,
+      "reference_position": 68,
+      "query_residue": "I",
+      "reference_residue": "L",
+      "identity": false,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 50,
+      "query_position": 68,
+      "reference_position": 69,
+      "query_residue": "Y",
+      "reference_residue": "Y",
+      "identity": true,
+      "reference_region": "Framework-2"
+    },
+    {
+      "column_1based": 51,
+      "query_position": 69,
+      "reference_position": 70,
+      "query_residue": "E",
+      "reference_residue": "R",
+      "identity": false,
+      "reference_region": "Complementarity-determining-2"
+    },
+    {
+      "column_1based": 52,
+      "query_position": 70,
+      "reference_position": 71,
+      "query_residue": "S",
+      "reference_residue": "A",
+      "identity": false,
+      "reference_region": "Complementarity-determining-2"
+    },
+    {
+      "column_1based": 53,
+      "query_position": 71,
+      "reference_position": 72,
+      "query_residue": "N",
+      "reference_residue": "N",
+      "identity": true,
+      "reference_region": "Complementarity-determining-2"
+    },
+    {
+      "column_1based": 54,
+      "query_position": 72,
+      "reference_position": 73,
+      "query_residue": "V",
+      "reference_residue": "R",
+      "identity": false,
+      "reference_region": "Complementarity-determining-2"
+    },
+    {
+      "column_1based": 55,
+      "query_position": 73,
+      "reference_position": 74,
+      "query_residue": "L",
+      "reference_residue": "L",
+      "identity": true,
+      "reference_region": "Complementarity-determining-2"
+    },
+    {
+      "column_1based": 56,
+      "query_position": 74,
+      "reference_position": 75,
+      "query_residue": "A",
+      "reference_residue": "V",
+      "identity": false,
+      "reference_region": "Complementarity-determining-2"
+    },
+    {
+      "column_1based": 57,
+      "query_position": 75,
+      "reference_position": 76,
+      "query_residue": "E",
+      "reference_residue": "D",
+      "identity": false,
+      "reference_region": "Complementarity-determining-2"
+    },
+    {
+      "column_1based": 58,
+      "query_position": 76,
+      "reference_position": 77,
+      "query_residue": "H",
+      "reference_residue": "G",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 59,
+      "query_position": 77,
+      "reference_position": 78,
+      "query_residue": "L",
+      "reference_residue": "V",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 60,
+      "query_position": 78,
+      "reference_position": 79,
+      "query_residue": "R",
+      "reference_residue": "P",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 61,
+      "query_position": 79,
+      "reference_position": 80,
+      "query_residue": "S",
+      "reference_residue": "S",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 62,
+      "query_position": 80,
+      "reference_position": 81,
+      "query_residue": "R",
+      "reference_residue": "R",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 63,
+      "query_position": 81,
+      "reference_position": 82,
+      "query_residue": "M",
+      "reference_residue": "F",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 64,
+      "query_position": 82,
+      "reference_position": 83,
+      "query_residue": "S",
+      "reference_residue": "S",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 65,
+      "query_position": 83,
+      "reference_position": 84,
+      "query_residue": "M",
+      "reference_residue": "G",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 66,
+      "query_position": 84,
+      "reference_position": 85,
+      "query_residue": "E",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 67,
+      "query_position": 85,
+      "reference_position": 86,
+      "query_residue": "R",
+      "reference_residue": "G",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 68,
+      "query_position": 86,
+      "reference_position": 87,
+      "query_residue": "N",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 69,
+      "query_position": 87,
+      "reference_position": 88,
+      "query_residue": "G",
+      "reference_residue": "G",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 70,
+      "query_position": 88,
+      "reference_position": 89,
+      "query_residue": "G",
+      "reference_residue": "Q",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 71,
+      "query_position": 89,
+      "reference_position": 90,
+      "query_residue": "I",
+      "reference_residue": "D",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 72,
+      "query_position": 90,
+      "reference_position": 91,
+      "query_residue": "F",
+      "reference_residue": "F",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 73,
+      "query_position": 91,
+      "reference_position": 92,
+      "query_residue": "T",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 74,
+      "query_position": 92,
+      "reference_position": 93,
+      "query_residue": "L",
+      "reference_residue": "L",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 75,
+      "query_position": 93,
+      "reference_position": 94,
+      "query_residue": "V",
+      "reference_residue": "T",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 76,
+      "query_position": 94,
+      "reference_position": 95,
+      "query_residue": "I",
+      "reference_residue": "I",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 77,
+      "query_position": 95,
+      "reference_position": 96,
+      "query_residue": "R",
+      "reference_residue": "S",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 78,
+      "query_position": 96,
+      "reference_position": 97,
+      "query_residue": "S",
+      "reference_residue": "S",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 79,
+      "query_position": 97,
+      "reference_position": 98,
+      "query_residue": "V",
+      "reference_residue": "L",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 80,
+      "query_position": 98,
+      "reference_position": 99,
+      "query_residue": "G",
+      "reference_residue": "E",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 81,
+      "query_position": 99,
+      "reference_position": 100,
+      "query_residue": "L",
+      "reference_residue": "Y",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 82,
+      "query_position": 100,
+      "reference_position": 101,
+      "query_residue": "D",
+      "reference_residue": "E",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 83,
+      "query_position": 101,
+      "reference_position": 102,
+      "query_residue": "D",
+      "reference_residue": "D",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 84,
+      "query_position": 102,
+      "reference_position": 103,
+      "query_residue": "G",
+      "reference_residue": "M",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 85,
+      "query_position": 103,
+      "reference_position": 104,
+      "query_residue": "G",
+      "reference_residue": "G",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 86,
+      "query_position": 104,
+      "reference_position": 105,
+      "query_residue": "T",
+      "reference_residue": "I",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 87,
+      "query_position": 105,
+      "reference_position": 106,
+      "query_residue": "Y",
+      "reference_residue": "Y",
+      "identity": true,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 88,
+      "query_position": 106,
+      "reference_position": 107,
+      "query_residue": "R",
+      "reference_residue": "Y",
+      "identity": false,
+      "reference_region": "Framework-3"
+    },
+    {
+      "column_1based": 89,
+      "query_position": 107,
+      "reference_position": 108,
+      "query_residue": "C",
+      "reference_residue": "C",
+      "identity": true,
+      "reference_region": "Framework-3"
+    }
+  ],
+  "reference": {
+    "accession": "P01637",
+    "name": "Ig kappa chain V-V region T1",
+    "sequence": "MRTPAQFLGILLLWFPGIKCDIKMTQSPSSMYASLGERVTISCKASQDINSYLTWFQQKPGKSPKTLLYRANRLVDGVPSRFSGSGSGQDFSLTISSLEYEDMGIYYCLQYDEFPLTFGAGTKLELKR",
+    "entry_audit": {
+      "firstPublicDate": "1986-07-21",
+      "lastAnnotationUpdateDate": "2026-11-04",
+      "lastSequenceUpdateDate": "1986-07-21",
+      "entryVersion": 133,
+      "sequenceVersion": 1
+    },
+    "gene_or_allele_in_record": null,
+    "features": [
+      {
+        "type": "Signal",
+        "location": {
+          "start": {
+            "value": 1,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 20,
+            "modifier": "EXACT"
+          }
+        },
+        "description": ""
+      },
+      {
+        "type": "Chain",
+        "location": {
+          "start": {
+            "value": 21,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 128,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "Ig kappa chain V-V region T1",
+        "featureId": "PRO_0000015192"
+      },
+      {
+        "type": "Region",
+        "location": {
+          "start": {
+            "value": 21,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 43,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "Framework-1"
+      },
+      {
+        "type": "Region",
+        "location": {
+          "start": {
+            "value": 44,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 54,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "Complementarity-determining-1"
+      },
+      {
+        "type": "Region",
+        "location": {
+          "start": {
+            "value": 55,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 69,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "Framework-2"
+      },
+      {
+        "type": "Region",
+        "location": {
+          "start": {
+            "value": 70,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 76,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "Complementarity-determining-2"
+      },
+      {
+        "type": "Region",
+        "location": {
+          "start": {
+            "value": 77,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 108,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "Framework-3"
+      },
+      {
+        "type": "Region",
+        "location": {
+          "start": {
+            "value": 109,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 117,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "Complementarity-determining-3"
+      },
+      {
+        "type": "Region",
+        "location": {
+          "start": {
+            "value": 118,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 127,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "Framework-4"
+      },
+      {
+        "type": "Disulfide bond",
+        "location": {
+          "start": {
+            "value": 43,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 108,
+            "modifier": "EXACT"
+          }
+        },
+        "description": "",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000255",
+            "source": "PROSITE-ProRule",
+            "id": "PRU00114"
+          }
+        ]
+      },
+      {
+        "type": "Non-terminal residue",
+        "location": {
+          "start": {
+            "value": 128,
+            "modifier": "EXACT"
+          },
+          "end": {
+            "value": 128,
+            "modifier": "EXACT"
+          }
+        },
+        "description": ""
+      }
+    ]
+  },
+  "profile": {
+    "name": "IGK_V",
+    "query_start": 25,
+    "query_end": 109,
+    "global_domain_E": 0.00039545778330796823
+  },
+  "neighbors": [
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_10268_10822",
+      "length": "184",
+      "locations": "[{\"start_1based\": 10271, \"end_inclusive\": 10822, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q91FG9|VF355_IIV6",
+      "evalue": "1.62e-34",
+      "bitscore": "123",
+      "description": "sp|Q91FG9|VF355_IIV6 Putative CTD phosphatase-like protein 355R OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-355R PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1071_1451",
+      "length": "126",
+      "locations": "[{\"start_1based\": 1071, \"end_inclusive\": 1448, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_10837_11280",
+      "length": "147",
+      "locations": "[{\"start_1based\": 10840, \"end_inclusive\": 11280, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_11297_11590",
+      "length": "97",
+      "locations": "[{\"start_1based\": 11300, \"end_inclusive\": 11590, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_11724_12971",
+      "length": "415",
+      "locations": "[{\"start_1based\": 11724, \"end_inclusive\": 12968, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|A9Q1D5|TOP1M_PANTR",
+      "evalue": "1.95e-04",
+      "bitscore": "47.4",
+      "description": "sp|A9Q1D5|TOP1M_PANTR DNA topoisomerase I, mitochondrial OS=Pan troglodytes OX=9598 GN=TOP1MT PE=2 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_12989_13516",
+      "length": "175",
+      "locations": "[{\"start_1based\": 12989, \"end_inclusive\": 13513, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q07817|B2CL1_HUMAN",
+      "evalue": "1.20e-05",
+      "bitscore": "47.4",
+      "description": "sp|Q07817|B2CL1_HUMAN Bcl-2-like protein 1 OS=Homo sapiens OX=9606 GN=BCL2L1 PE=1 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_13768_14124",
+      "length": "118",
+      "locations": "[{\"start_1based\": 13771, \"end_inclusive\": 14124, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14195_14554",
+      "length": "119",
+      "locations": "[{\"start_1based\": 14195, \"end_inclusive\": 14551, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q197A5|VF349_IIV3",
+      "evalue": "3.73e-20",
+      "bitscore": "82.4",
+      "description": "sp|Q197A5|VF349_IIV3 Putative transcription elongation factor S-II-like protein 055R OS=Invertebrate iridescent virus 3 OX=345201 GN=IIV3-055R PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_14604_15686",
+      "length": "360",
+      "locations": "[{\"start_1based\": 14604, \"end_inclusive\": 15683, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|P01637|KV5A5_MOUSE",
+      "evalue": "3.18e-08",
+      "bitscore": "55.1",
+      "description": "sp|P01637|KV5A5_MOUSE Ig kappa chain V-V region T1 OS=Mus musculus OX=10090 PE=4 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1528_1884",
+      "length": "118",
+      "locations": "[{\"start_1based\": 1531, \"end_inclusive\": 1884, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_154_600",
+      "length": "148",
+      "locations": "[{\"start_1based\": 157, \"end_inclusive\": 600, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|P38421|NRPB7_ARATH",
+      "evalue": "1.11e-04",
+      "bitscore": "43.5",
+      "description": "sp|P38421|NRPB7_ARATH DNA-directed RNA polymerase II subunit 7 OS=Arabidopsis thaliana OX=3702 GN=NRPB7 PE=1 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_15715_16191",
+      "length": "158",
+      "locations": "[{\"start_1based\": 15715, \"end_inclusive\": 16188, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q6GZT1|045L_FRG3G",
+      "evalue": "8.72e-09",
+      "bitscore": "54.3",
+      "description": "sp|Q6GZT1|045L_FRG3G Uncharacterized protein 045L OS=Frog virus 3 (isolate Goorha) OX=654924 GN=FV3-045L PE=4 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_16168_16908",
+      "length": "246",
+      "locations": "[{\"start_1based\": 16171, \"end_inclusive\": 16908, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_17133_17618",
+      "length": "161",
+      "locations": "[{\"start_1based\": 17136, \"end_inclusive\": 17618, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q91FN5|289L_IIV6",
+      "evalue": "2.89e-70",
+      "bitscore": "220",
+      "description": "sp|Q91FN5|289L_IIV6 Putative Bro-N domain-containing protein 289L OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-289L PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1874_2209",
+      "length": "111",
+      "locations": "[{\"start_1based\": 1877, \"end_inclusive\": 2209, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_1_240",
+      "length": "79",
+      "locations": "[{\"start_1based\": 1, \"end_inclusive\": 237, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q91G88|006L_IIV6",
+      "evalue": "0.005",
+      "bitscore": "37.0",
+      "description": "sp|Q91G88|006L_IIV6 Putative KilA-N domain-containing protein 006L OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-006L PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_2221_2619",
+      "length": "132",
+      "locations": "[{\"start_1based\": 2224, \"end_inclusive\": 2619, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q197B8|VF136_IIV3",
+      "evalue": "1.42e-12",
+      "bitscore": "63.9",
+      "description": "sp|Q197B8|VF136_IIV3 Uncharacterized protein 042R OS=Invertebrate iridescent virus 3 OX=345201 GN=IIV3-042R PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_2650_3984",
+      "length": "444",
+      "locations": "[{\"start_1based\": 2653, \"end_inclusive\": 3984, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q197C2|VF098_IIV3",
+      "evalue": "1.34e-08",
+      "bitscore": "60.5",
+      "description": "sp|Q197C2|VF098_IIV3 Uncharacterized protein 038R OS=Invertebrate iridescent virus 3 OX=345201 GN=IIV3-038R PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_3993_4151",
+      "length": "52",
+      "locations": "[{\"start_1based\": 3993, \"end_inclusive\": 4148, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_4264_4896",
+      "length": "210",
+      "locations": "[{\"start_1based\": 4264, \"end_inclusive\": 4893, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q91FN5|289L_IIV6",
+      "evalue": "4.14e-06",
+      "bitscore": "50.1",
+      "description": "sp|Q91FN5|289L_IIV6 Putative Bro-N domain-containing protein 289L OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-289L PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_5214_6548",
+      "length": "444",
+      "locations": "[{\"start_1based\": 5217, \"end_inclusive\": 6548, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_6570_7346",
+      "length": "258",
+      "locations": "[{\"start_1based\": 6573, \"end_inclusive\": 7346, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q7KW09|GCNA_DROME",
+      "evalue": "7.28e-17",
+      "bitscore": "83.2",
+      "description": "sp|Q7KW09|GCNA_DROME Germ cell nuclear acidic protein OS=Drosophila melanogaster OX=7227 GN=Gcna PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_663_1037",
+      "length": "124",
+      "locations": "[{\"start_1based\": 663, \"end_inclusive\": 1034, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_7291_7626",
+      "length": "111",
+      "locations": "[{\"start_1based\": 7294, \"end_inclusive\": 7626, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_7780_9000",
+      "length": "406",
+      "locations": "[{\"start_1based\": 7780, \"end_inclusive\": 8997, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "sp|Q197E1|VF201_IIV3",
+      "evalue": "1.08e-60",
+      "bitscore": "204",
+      "description": "sp|Q197E1|VF201_IIV3 Putative Bro-N domain-containing protein 019R OS=Invertebrate iridescent virus 3 OX=345201 GN=IIV3-019R PE=3 SV=1"
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_9041_9802",
+      "length": "253",
+      "locations": "[{\"start_1based\": 9041, \"end_inclusive\": 9799, \"strand\": 1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    },
+    {
+      "protein": "IMGVR_UViG_3300079393_000044|Ga0643767_0002625|Ga0643767_0002625_9863_10249",
+      "length": "128",
+      "locations": "[{\"start_1based\": 9866, \"end_inclusive\": 10249, \"strand\": -1, \"genetic_code\": 11, \"match\": \"exact protein; initiator Met rule allowed\"}]",
+      "best_match": "",
+      "evalue": "",
+      "bitscore": "",
+      "description": ""
+    }
+  ],
+  "query_coverage_percent": 24.166666666666668,
+  "allele_assignment": "Not established; short distant local similarity and near-tied alternative matches",
+  "novelty": "Unresolved; viral Ig-like domains have published precedents; no natural antibody/TCR capture established"
+}

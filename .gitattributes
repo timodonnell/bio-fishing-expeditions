@@ -6,3 +6,6 @@ experiments/*/results/**/*.tsv -text whitespace=-blank-at-eol
 experiments/*/results/**/*.html -text whitespace=-blank-at-eol,-blank-at-eof
 experiments/*/manifests/*.tsv -text whitespace=-blank-at-eol
 experiments/*/references/*.hmm -text whitespace=-blank-at-eol
+# Scientific figures and alignment displays retain generator bytes and padding.
+experiments/*/figures/*.svg -text whitespace=-blank-at-eol
+experiments/*/results/**/alignment.txt -text whitespace=-blank-at-eol,-blank-at-eof

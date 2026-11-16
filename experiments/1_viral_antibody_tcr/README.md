@@ -11,6 +11,7 @@ The new MetaVR profile search covers **369,319,989 protein records** associated 
 Earlier searches covered **3,207,211 protein records** by HMM/BLASTP and **48,286 genome records** by TBLASTN across RefSeq viruses and INPHARED phages. These totals include overlap; the MetaVR expansion used HMMs and did not repeat whole-corpus independent homology or translated-DNA routes. A targeted annotation survey added 960 records and five unresolved annotation-only genomic leads.
 
 - [MetaVR scale-up results and limitations](SCALE_UP_RESULTS.md)
+- [IgV-like candidate: exact antibody match, illustrated viral context, and novelty assessment](IGV_CANDIDATE.md)
 - [Earlier RefSeq/INPHARED results](RESULTS.md)
 - [Natural FeLV TCR evidence packet](known_natural_tcr.md)
 - [Original research plan](PLAN.md)

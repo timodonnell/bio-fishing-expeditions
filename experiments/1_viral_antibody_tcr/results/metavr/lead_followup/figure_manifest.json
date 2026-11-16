@@ -1,0 +1,20 @@
+{
+  "status": "complete",
+  "completed_utc": "2026-11-16T19:54:53.851031+00:00",
+  "command": [
+    "/home/bizon/anaconda3/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/plot_igv_lead.py"
+  ],
+  "python": "3.10.13 (main, Sep 11 2023, 13:44:35) [GCC 11.2.0]",
+  "matplotlib": "3.9.3",
+  "script_sha256": "d654a391ffd14f351c7407eeee503f502d2cf36a348c48cccc3fb518d6b5f9ba",
+  "input_sha256": {
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/lead_followup/figure_data.json": "e29d235cf2a81dead2294dcfe2d98f1556ba780faa90245fa3780a1b04cda1f6"
+  },
+  "outputs": {
+    "figures/igv_candidate_context.png": "1bfcf4576d826b379e3d2fade592918ec8d9f123b7a9b58873be4c1e7cb4f36a",
+    "figures/igv_candidate_context.svg": "4fde6afc07e0f693cde67f5940ba79f10ddca292e270fd6015360f2d02f428ad",
+    "figures/igv_candidate_context.pdf": "b1dc5377e07b7c5a106cf639093e8c92b6fbfcfe1a995aa2a0a0312c15cf02ae"
+  },
+  "interpretation": "Measured alignment and deposited assembly context; no allele, function, or capture inferred by the figure"
+}

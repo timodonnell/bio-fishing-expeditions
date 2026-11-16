@@ -1,5 +1,7 @@
 # MetaVR protein expansion — completed 2026-11-13
 
+Follow-up, 2026-11-16: [exact alignment, gene/allele limitations, viral-context figure, and novelty assessment](IGV_CANDIDATE.md) for the strongest viral-context IgV-like candidate. Antibody/TCR ancestry remains unproven.
+
 We searched **369,319,989 protein records** from the complete acquired MetaVR protein archive: **115.15 times** the preceding RefSeq/INPHARED protein-record total. The search retained 26 candidate records. Two match host immunoglobulin loci, 14 have competing MHC-family homology, one matches CD300, and **nine environmental IgV-like records remain unresolved**. One unresolved candidate has substantial evidence of viral genomic context, but antibody/TCR ancestry has not been established.
 
 **No new supported natural antibody or TCR acquisition was established.** The previously documented natural FeLV TCR beta-chain acquisition remains the positive answer for TCRs; see the [evidence packet](known_natural_tcr.md). Natural antibody acquisition remains an open question. This is a completed protein-profile expansion under [issue #1](https://github.com/timodonnell/bio-fishing-expeditions/issues/1), not completion of every search in the [original plan](PLAN.md).

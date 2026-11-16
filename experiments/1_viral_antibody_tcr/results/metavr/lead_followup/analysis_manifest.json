@@ -1,0 +1,58 @@
+{
+  "status": "complete",
+  "completed_utc": "2026-11-16T19:52:29.432252+00:00",
+  "command": [
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/work/venv/bin/python",
+    "experiments/1_viral_antibody_tcr/scripts/analyze_igv_lead.py"
+  ],
+  "script_sha256": "af4b01a90df7581b1c2c9cf235cdc3a999aa436e82cc4105bfc9a58399324a87",
+  "search_command": [
+    "/home/bizon/anaconda3/envs/imprint/bin/blastp",
+    "-query",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/lead_followup/query.faa",
+    "-db",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/blast/a9134aede671854f_aa",
+    "-evalue",
+    "0.01",
+    "-num_threads",
+    "4",
+    "-max_target_seqs",
+    "1000000",
+    "-seg",
+    "yes",
+    "-outfmt",
+    "6 qseqid sseqid pident length qstart qend sstart send evalue bitscore qlen slen qcovhsp nident positive gaps qseq sseq",
+    "-out",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/lead_followup/swissprot_alignments.tsv"
+  ],
+  "binary_sha256": "2c7ce144d828a0ecfb7d0ecff95578dc683041d19a7e8c7cf6d5d9af5778deb0",
+  "version": "blastp: 2.12.0+\n Package: blast 2.12.0, build Jul 13 2021 09:03:00\n",
+  "database_release": "UniProt 2026_04, 576073 reviewed proteins",
+  "input_sha256": {
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/soil_neighbors/proteins.faa": "ef7bf7be1841d5a105838520372eb14b697fa698072a5e11b0878f22958d9436",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/soil_neighbors/swissprot.tsv": "8de757f9b06935442bebfe539ef9cd7a0c619640813fffc4038817f7880ff9da",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/soil_neighbors/locations.json": "c555537184c11af73768554c557fa148a32ec6210aa0986560f27f99c9cca788",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/soil_neighbors/gene_review.tsv": "d80f210a46374bbe323eb567aa021be6481c2da156da34079fa06a7554843e52",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/raw/candidates/P01637.json": "3e0086ebc8b42eb97c281863f6eeb82de0913b49cc57707647a9a4d1b5e20fad",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/raw/candidates/P01638.json": "c375029207a744f03c9b7995de3434cecb28140ac7cd017cea1f80c4d7bcede9",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/results/metavr/hits.tsv": "847c9a526cce8668c2d04a2517a91e0e66fb5bf313510c9e7b8efd9f3963d7b6",
+    "/home/bizon/git/bio-fishing-expeditions/experiments/1_viral_antibody_tcr/data/cache/references/swissprot.faa": "a9134aede671854f8377f109840ed075dd017d597df0f5ddbe3d259b787afbdf"
+  },
+  "output_sha256": {
+    "query.faa": "8e9b9a3186feb3f9ab53552f36b8ce99ddc4e40ad050b348324a97e109928060",
+    "antibody_matches.faa": "114c0a47b47a0f492f5f843ba08b969a53854c049b2900864f6af0058213058c",
+    "swissprot_alignments.tsv": "896560907fb854dda329debb665c14f62ff51dcc21026e878be9914426a6d693",
+    "top_reviewed_matches.tsv": "2da8e41ab6efe6df25072109187bb8a440e80a3bdcc39cf86b66295e9064a4bb",
+    "alignment_columns.tsv": "2bbca77d98d507cfd8c704f1de3d24da6eaa59a815d1dd4f50e532efa1b13d8f",
+    "alignment.txt": "704ef6baccbe5b2b39ae0ef3399d1e519b771313a18495068918727d738c8532",
+    "figure_data.json": "e29d235cf2a81dead2294dcfe2d98f1556ba780faa90245fa3780a1b04cda1f6"
+  },
+  "checks": [
+    "Original BLAST score/coordinates reproduced",
+    "Aligned sequence slices match FASTA",
+    "33 identities recomputed",
+    "Current UniProt sequence equals frozen sequence",
+    "No gene/allele field in P01637",
+    "Reference CDR3 not aligned"
+  ]
+}

@@ -1027,5 +1027,47 @@
     "bytes": 1500160,
     "sha256": "e15238b95c2044ddb850a1a184754357cb0591a1707ed8c006c9a538bbf2d24c",
     "finished_utc": "2026-11-13T21:51:51.480980+00:00"
+  },
+  "followup_P01637": {
+    "id": "followup_P01637",
+    "url": "https://rest.uniprot.org/uniprotkb/P01637.json",
+    "path": "data/raw/candidates/P01637.json",
+    "max_bytes": 2097152,
+    "started_utc": "2026-11-16T19:49:57.495311+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://rest.uniprot.org/uniprotkb/P01637.json",
+    "headers": {
+      "Content-Length": null,
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": "2026_04",
+      "X-UniProt-Release-Date": "04-November-2026"
+    },
+    "bytes": 7054,
+    "sha256": "3e0086ebc8b42eb97c281863f6eeb82de0913b49cc57707647a9a4d1b5e20fad",
+    "finished_utc": "2026-11-16T19:49:58.121946+00:00"
+  },
+  "followup_P01638": {
+    "id": "followup_P01638",
+    "url": "https://rest.uniprot.org/uniprotkb/P01638.json",
+    "path": "data/raw/candidates/P01638.json",
+    "max_bytes": 2097152,
+    "started_utc": "2026-11-16T19:49:58.127486+00:00",
+    "status": "complete",
+    "http_status": 200,
+    "final_url": "https://rest.uniprot.org/uniprotkb/P01638.json",
+    "headers": {
+      "Content-Length": null,
+      "Content-Type": "application/json",
+      "Last-Modified": null,
+      "ETag": null,
+      "X-UniProt-Release": "2026_04",
+      "X-UniProt-Release-Date": "04-November-2026"
+    },
+    "bytes": 6638,
+    "sha256": "c375029207a744f03c9b7995de3434cecb28140ac7cd017cea1f80c4d7bcede9",
+    "finished_utc": "2026-11-16T19:50:03.676610+00:00"
   }
 }
